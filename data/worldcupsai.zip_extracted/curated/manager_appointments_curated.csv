@@ -1,0 +1,671 @@
+tournament_id,tournament_name,team_id,team_name,team_code,manager_id,family_name,given_name,country_name
+013eb3e7-ff79-5592-944c-ca635e888abb,2019 FIFA Women's World Cup,933a103d-d9d7-57a3-9c4a-fbc81d25a266,Argentina,ARG,014f518c-a9a3-5edb-af68-39909dc0e3e7,Borrello,Carlos,Argentina
+013eb3e7-ff79-5592-944c-ca635e888abb,2019 FIFA Women's World Cup,879c1298-9904-5b96-8f25-5e7d455ae2ec,Chile,CHL,06d3e1f0-e684-5ab2-87ed-aa065611fb62,Letelier,José,Chile
+013eb3e7-ff79-5592-944c-ca635e888abb,2019 FIFA Women's World Cup,1234d812-2e40-561b-90a3-ed4f9e66bd63,Canada,CAN,083bf929-d49d-5827-bbcc-30818bfb9d0b,Heiner-Møller,Kenneth,Denmark
+013eb3e7-ff79-5592-944c-ca635e888abb,2019 FIFA Women's World Cup,187544dc-4b46-5bf6-a079-e124899a9090,Norway,NOR,09727d93-8c8d-5f14-8310-0a909d495a04,Sjögren,Martin,Sweden
+013eb3e7-ff79-5592-944c-ca635e888abb,2019 FIFA Women's World Cup,3611e724-8c08-5f63-b63d-e1cad6af784c,Sweden,SWE,0d8f65a2-6956-59ed-9f0a-15a532e13110,Gerhardsson,Peter,Sweden
+013eb3e7-ff79-5592-944c-ca635e888abb,2019 FIFA Women's World Cup,eb88a8cc-be5e-5116-8926-ba595504709a,Cameroon,CMR,0dcc1801-2e81-5e85-a217-d8699d4bb3c2,Djeumfa,Alain,Cameroon
+013eb3e7-ff79-5592-944c-ca635e888abb,2019 FIFA Women's World Cup,d522b940-a152-5cc7-bcb3-89e28a1ce459,Netherlands,NLD,26b64e2f-4542-58bd-af23-d556e94efd30,Wiegman,Sarina,Netherlands
+013eb3e7-ff79-5592-944c-ca635e888abb,2019 FIFA Women's World Cup,83f65ffa-c76e-5ace-8c09-c87d141a3916,South Korea,KOR,389ac5aa-edd2-5afd-87dc-c4f37c7e3934,Yoon,Deok-yeo,South Korea
+013eb3e7-ff79-5592-944c-ca635e888abb,2019 FIFA Women's World Cup,498c5353-84ca-5f1c-8d71-0ae02196227c,Brazil,BRA,43fb7640-96ba-5296-9f75-cb63de39b526,Vadão,,Brazil
+013eb3e7-ff79-5592-944c-ca635e888abb,2019 FIFA Women's World Cup,13a7a10d-674d-5be2-bdfa-a0e18b0b6b04,Jamaica,JAM,68aea9cf-c23d-5637-b3bf-29454ae7e5f9,Menzies,Hue,Jamaica
+013eb3e7-ff79-5592-944c-ca635e888abb,2019 FIFA Women's World Cup,43c1aac8-fa85-5e16-ba9c-4cfdcbc975b8,England,ENG,69cbccc6-d19a-5a8d-a0eb-4ebf3d272ef5,Neville,Phil,England
+013eb3e7-ff79-5592-944c-ca635e888abb,2019 FIFA Women's World Cup,10913c23-6023-563d-94df-9b4fb66c3432,United States,USA,86ee1636-7889-52ec-9d7c-d66525834347,Ellis,Jill,United States
+013eb3e7-ff79-5592-944c-ca635e888abb,2019 FIFA Women's World Cup,11240419-821b-5fbb-bf15-4906f40e3951,New Zealand,NZL,90bff27f-6e34-5af1-b982-5ce612b94bc5,Sermanni,Tom,Scotland
+013eb3e7-ff79-5592-944c-ca635e888abb,2019 FIFA Women's World Cup,e77d250a-1cec-5627-adc4-3cf95c7c0972,South Africa,ZAF,99fa2bcf-770f-5005-9a49-a84c5bd581db,Ellis,Desiree,South Africa
+013eb3e7-ff79-5592-944c-ca635e888abb,2019 FIFA Women's World Cup,a42d3d6a-78dd-5ae6-8408-079a857a7c30,Italy,ITA,9abd5117-b8cb-5fd7-bd26-7d8750a98410,Bertolini,Milena,Italy
+013eb3e7-ff79-5592-944c-ca635e888abb,2019 FIFA Women's World Cup,98d2c177-9d33-51f5-998a-7ad3ab0973fd,Thailand,THA,acf9d23e-a6da-5e5e-a05b-d6afaa5c6750,Srathongvian,Nuengrutai,Thailand
+013eb3e7-ff79-5592-944c-ca635e888abb,2019 FIFA Women's World Cup,5b16dd9d-d19c-5484-bac2-f9e932dddd29,Spain,ESP,b426fb0c-111e-589b-8390-ab3411261987,Vilda,Jorge,Spain
+013eb3e7-ff79-5592-944c-ca635e888abb,2019 FIFA Women's World Cup,3d11f07c-c004-508d-9001-6f944119b2b0,France,FRA,cbe1dc60-c349-5683-aa84-f7340583c5c6,Diacre,Corinne,France
+013eb3e7-ff79-5592-944c-ca635e888abb,2019 FIFA Women's World Cup,93542d8e-8aca-5c07-ad21-5c493fdf083e,China,CHN,cee67325-a9df-534c-a2cf-f978f3ee7705,Jia,Xiuquan,China
+013eb3e7-ff79-5592-944c-ca635e888abb,2019 FIFA Women's World Cup,230373b7-3a16-506a-b5f6-acc37d7e801d,Japan,JPN,d898119b-d89f-519c-b88a-880f3adb8c5d,Takakura,Asako,Japan
+013eb3e7-ff79-5592-944c-ca635e888abb,2019 FIFA Women's World Cup,2d9898be-ff8f-55ef-a86e-167bdeaf3cc6,Australia,AUS,dee44523-a7d5-50d9-8076-a2d55e43f5b0,Milicic,Ante,Australia
+013eb3e7-ff79-5592-944c-ca635e888abb,2019 FIFA Women's World Cup,fc2ce361-82ed-537a-85f1-ff8f384d11b1,Scotland,SCO,e1d49aca-794e-59d6-9196-db9e4add8563,Kerr,Shelley,Scotland
+013eb3e7-ff79-5592-944c-ca635e888abb,2019 FIFA Women's World Cup,f201a6b5-a9f6-5612-947b-a6a57d2e7e18,Nigeria,NGA,f2672226-d9bd-575e-b835-6c5fe52fa638,Dennerby,Thomas,Sweden
+013eb3e7-ff79-5592-944c-ca635e888abb,2019 FIFA Women's World Cup,eff0a856-a340-5ec8-84e8-121552da2cda,Germany,DEU,ff612a40-9b1b-52be-8697-55bcde0c7626,Voss-Tecklenburg,Martina,Germany
+09a48bd3-5401-5de4-9bd5-0e907ba0fee6,2015 FIFA Women's World Cup,d522b940-a152-5cc7-bcb3-89e28a1ce459,Netherlands,NLD,0e050941-c8bf-568c-9b95-1f420a072646,Reijners,Roger,Netherlands
+09a48bd3-5401-5de4-9bd5-0e907ba0fee6,2015 FIFA Women's World Cup,43c1aac8-fa85-5e16-ba9c-4cfdcbc975b8,England,ENG,130c198b-f0b7-57f7-82b5-d7b8bc90811e,Sampson,Mark,Wales
+09a48bd3-5401-5de4-9bd5-0e907ba0fee6,2015 FIFA Women's World Cup,e31e86e8-0616-5e05-a842-dc8f67c29ca4,Ivory Coast,CIV,27ffb874-c7b4-543d-9541-a8f29e5e11de,Touré,Clémentine,Ivory Coast
+09a48bd3-5401-5de4-9bd5-0e907ba0fee6,2015 FIFA Women's World Cup,187544dc-4b46-5bf6-a079-e124899a9090,Norway,NOR,28c61488-bbe3-5cd6-9065-034c313379a0,Pellerud,Even,Norway
+09a48bd3-5401-5de4-9bd5-0e907ba0fee6,2015 FIFA Women's World Cup,11240419-821b-5fbb-bf15-4906f40e3951,New Zealand,NZL,2abaac60-63d0-575b-b01d-fef149927c64,Readings,Tony,England
+09a48bd3-5401-5de4-9bd5-0e907ba0fee6,2015 FIFA Women's World Cup,83f65ffa-c76e-5ace-8c09-c87d141a3916,South Korea,KOR,389ac5aa-edd2-5afd-87dc-c4f37c7e3934,Yoon,Deok-yeo,South Korea
+09a48bd3-5401-5de4-9bd5-0e907ba0fee6,2015 FIFA Women's World Cup,498c5353-84ca-5f1c-8d71-0ae02196227c,Brazil,BRA,43fb7640-96ba-5296-9f75-cb63de39b526,Vadão,,Brazil
+09a48bd3-5401-5de4-9bd5-0e907ba0fee6,2015 FIFA Women's World Cup,c832b30c-2750-5a24-a66f-cf9ea7c20a5c,Mexico,MEX,4f8ffb07-7d02-5e53-b5e9-f6ab7210a15e,Cuéllar,Leonardo,Mexico
+09a48bd3-5401-5de4-9bd5-0e907ba0fee6,2015 FIFA Women's World Cup,2179a8d7-c7ed-5c0c-b6a6-8e6eeef52657,Ecuador,ECU,549ad6c0-84e7-5c49-add2-8a4f86ed6b7a,Arauz,Vanessa,Ecuador
+09a48bd3-5401-5de4-9bd5-0e907ba0fee6,2015 FIFA Women's World Cup,93542d8e-8aca-5c07-ad21-5c493fdf083e,China,CHN,5aa69292-7c09-5859-8c9b-e941b07d2761,Hao,Wei,China
+09a48bd3-5401-5de4-9bd5-0e907ba0fee6,2015 FIFA Women's World Cup,5b16dd9d-d19c-5484-bac2-f9e932dddd29,Spain,ESP,6af06de1-701c-5d09-8c13-d58b5c783179,Quereda,Ignacio,Spain
+09a48bd3-5401-5de4-9bd5-0e907ba0fee6,2015 FIFA Women's World Cup,1234d812-2e40-561b-90a3-ed4f9e66bd63,Canada,CAN,7146e6e2-1892-5ef9-9d17-08a029039410,Herdman,John,England
+09a48bd3-5401-5de4-9bd5-0e907ba0fee6,2015 FIFA Women's World Cup,eff0a856-a340-5ec8-84e8-121552da2cda,Germany,DEU,790a45e4-6b66-5e33-a5ef-f2a9d6712b4a,Neid,Silvia,Germany
+09a48bd3-5401-5de4-9bd5-0e907ba0fee6,2015 FIFA Women's World Cup,3d11f07c-c004-508d-9001-6f944119b2b0,France,FRA,7c3d689c-5101-5554-bdb5-e17397cae141,Bergeroo,Philippe,France
+09a48bd3-5401-5de4-9bd5-0e907ba0fee6,2015 FIFA Women's World Cup,10913c23-6023-563d-94df-9b4fb66c3432,United States,USA,86ee1636-7889-52ec-9d7c-d66525834347,Ellis,Jill,United States
+09a48bd3-5401-5de4-9bd5-0e907ba0fee6,2015 FIFA Women's World Cup,8dd855bb-0dbb-576b-837a-ad9f8d770c86,Costa Rica,CRI,8a23cdea-0c32-5ab2-8398-08208a37321e,Valverde,Amelia,Costa Rica
+09a48bd3-5401-5de4-9bd5-0e907ba0fee6,2015 FIFA Women's World Cup,eb88a8cc-be5e-5116-8926-ba595504709a,Cameroon,CMR,942ce320-1a17-5a69-a253-b71a478d0627,Enow,Carl,Cameroon
+09a48bd3-5401-5de4-9bd5-0e907ba0fee6,2015 FIFA Women's World Cup,f201a6b5-a9f6-5612-947b-a6a57d2e7e18,Nigeria,NGA,a9d7c0b5-951e-5af0-8605-97f01ae9eea7,Okon,Edwin,Nigeria
+09a48bd3-5401-5de4-9bd5-0e907ba0fee6,2015 FIFA Women's World Cup,98d2c177-9d33-51f5-998a-7ad3ab0973fd,Thailand,THA,acf9d23e-a6da-5e5e-a05b-d6afaa5c6750,Srathongvian,Nuengrutai,Thailand
+09a48bd3-5401-5de4-9bd5-0e907ba0fee6,2015 FIFA Women's World Cup,230373b7-3a16-506a-b5f6-acc37d7e801d,Japan,JPN,d95519aa-ffcc-5187-af9b-886cc223ac7d,Sasaki,Norio,Japan
+09a48bd3-5401-5de4-9bd5-0e907ba0fee6,2015 FIFA Women's World Cup,3611e724-8c08-5f63-b63d-e1cad6af784c,Sweden,SWE,e0796bbe-e83a-5be6-ba1b-172b1fd32a43,Sundhage,Pia,Sweden
+09a48bd3-5401-5de4-9bd5-0e907ba0fee6,2015 FIFA Women's World Cup,3de13983-4604-5a8d-b39c-08d4f279a06b,Colombia,COL,e352d4e2-ced2-55f7-85c8-f2007afc0c59,Taborda,Fabián,Colombia
+09a48bd3-5401-5de4-9bd5-0e907ba0fee6,2015 FIFA Women's World Cup,2d9898be-ff8f-55ef-a86e-167bdeaf3cc6,Australia,AUS,eebda319-664f-5ec2-bcff-dacb77022ef7,Stajcic,Alen,Australia
+09a48bd3-5401-5de4-9bd5-0e907ba0fee6,2015 FIFA Women's World Cup,a260026d-34b5-5fdf-8896-fd8997f096b9,Switzerland,CHE,ff612a40-9b1b-52be-8697-55bcde0c7626,Voss-Tecklenburg,Martina,Germany
+14ac8c65-b6bd-5301-83ca-d190f210e04f,1999 FIFA Women's World Cup,eff0a856-a340-5ec8-84e8-121552da2cda,Germany,DEU,32e85f5a-8d4a-5dde-a7b1-4fc9b6a9e29e,Theune-Meyer,Tina,Germany
+14ac8c65-b6bd-5301-83ca-d190f210e04f,1999 FIFA Women's World Cup,3611e724-8c08-5f63-b63d-e1cad6af784c,Sweden,SWE,436eeffb-0300-5dec-a9d2-91b1909d5eca,Domanski-Lyfors,Marika,Sweden
+14ac8c65-b6bd-5301-83ca-d190f210e04f,1999 FIFA Women's World Cup,230373b7-3a16-506a-b5f6-acc37d7e801d,Japan,JPN,43b8505f-e151-55a0-afc3-270bb507c21f,Miyauchi,Satoshi,Japan
+14ac8c65-b6bd-5301-83ca-d190f210e04f,1999 FIFA Women's World Cup,1234d812-2e40-561b-90a3-ed4f9e66bd63,Canada,CAN,4ed72a6d-b1a2-5c82-bbc0-ede83e7c96c4,Turnbull,Neil,England
+14ac8c65-b6bd-5301-83ca-d190f210e04f,1999 FIFA Women's World Cup,c832b30c-2750-5a24-a66f-cf9ea7c20a5c,Mexico,MEX,4f8ffb07-7d02-5e53-b5e9-f6ab7210a15e,Cuéllar,Leonardo,Mexico
+14ac8c65-b6bd-5301-83ca-d190f210e04f,1999 FIFA Women's World Cup,93542d8e-8aca-5c07-ad21-5c493fdf083e,China,CHN,4fa0354e-3995-5290-ba66-969457d6ff39,Ma,Yuanan,China
+14ac8c65-b6bd-5301-83ca-d190f210e04f,1999 FIFA Women's World Cup,498c5353-84ca-5f1c-8d71-0ae02196227c,Brazil,BRA,55d6ea58-921a-5be7-a317-cd8dc52efd62,Wilsinho,,Brazil
+14ac8c65-b6bd-5301-83ca-d190f210e04f,1999 FIFA Women's World Cup,f201a6b5-a9f6-5612-947b-a6a57d2e7e18,Nigeria,NGA,650f206a-39f3-5889-a3bf-b92f59eae914,Ismaila,Mabo,Nigeria
+14ac8c65-b6bd-5301-83ca-d190f210e04f,1999 FIFA Women's World Cup,58ce2aac-d181-51c6-9f50-fc3e8643d0e1,North Korea,PRK,8a449f1d-5d41-5d6f-8695-ef4f129c4c87,Myong,Dong-chan,North Korea
+14ac8c65-b6bd-5301-83ca-d190f210e04f,1999 FIFA Women's World Cup,dfb099cc-e7ea-5e4f-b492-bdbf6e8e179b,Denmark,DNK,aa65613c-90e6-53b2-a440-b16fe66dbc50,Hvidemose,Jørgen,Denmark
+14ac8c65-b6bd-5301-83ca-d190f210e04f,1999 FIFA Women's World Cup,55f8040d-0098-5415-abdf-66098ef3bbee,Ghana,GHA,abaec7d9-213b-505e-bfc4-d73433b6e662,Afranie,Emmanual Kwasi,Ghana
+14ac8c65-b6bd-5301-83ca-d190f210e04f,1999 FIFA Women's World Cup,2d9898be-ff8f-55ef-a86e-167bdeaf3cc6,Australia,AUS,ac7b1c28-b59f-5102-b9d0-ab7c590387c6,Brown,Greg,Australia
+14ac8c65-b6bd-5301-83ca-d190f210e04f,1999 FIFA Women's World Cup,10913c23-6023-563d-94df-9b4fb66c3432,United States,USA,bcb18f3a-df9c-55b0-ab90-77c852c54370,DiCicco,Tony,United States
+14ac8c65-b6bd-5301-83ca-d190f210e04f,1999 FIFA Women's World Cup,6eb0485e-97e8-57e7-bf93-6c300f3e003a,Russia,RUS,d6451904-74df-5613-908d-a89800fbfc0a,Bystritsky,Yuri,Russia
+14ac8c65-b6bd-5301-83ca-d190f210e04f,1999 FIFA Women's World Cup,187544dc-4b46-5bf6-a079-e124899a9090,Norway,NOR,d6538004-2e31-5faa-a259-4d9bb459268f,Høgmo,Per-Mathias,Norway
+14ac8c65-b6bd-5301-83ca-d190f210e04f,1999 FIFA Women's World Cup,a42d3d6a-78dd-5ae6-8408-079a857a7c30,Italy,ITA,f9eb2b75-7215-58a8-adc3-4987e7bfcf04,Facchin,Carlo,Italy
+15f11a97-c603-53ea-be3a-d196027360e9,1930 FIFA Men's World Cup,3aa56241-3868-505a-ac6a-753aefa79cc2,Belgium,BEL,1fe88fca-e08d-5495-a8bd-f130888c0c7f,Goetinck,Hector,Belgium
+15f11a97-c603-53ea-be3a-d196027360e9,1930 FIFA Men's World Cup,db3abc88-7f89-5183-bc6d-ea6fa7c361d9,Peru,PER,25ddb99c-ffdd-5d83-ab6b-ab3e492fc5a0,Bru,Francisco,Spain
+15f11a97-c603-53ea-be3a-d196027360e9,1930 FIFA Men's World Cup,97c63301-8b06-5bfb-8909-40b555c7c9e3,Bolivia,BOL,3686b052-70fa-5fdf-be9d-4585073800a9,Saucedo,Ulises,Bolivia
+15f11a97-c603-53ea-be3a-d196027360e9,1930 FIFA Men's World Cup,879c1298-9904-5b96-8f25-5e7d455ae2ec,Chile,CHL,4497c778-c9a1-59c1-83cf-00cb3585d2ae,Orth,György,Hungary
+15f11a97-c603-53ea-be3a-d196027360e9,1930 FIFA Men's World Cup,9678d2a4-5323-5082-b115-575366fb384a,Paraguay,PRY,52f0eeb7-0972-55cb-9e2e-d5cc901762ca,Durand Laguna,José,Argentina
+15f11a97-c603-53ea-be3a-d196027360e9,1930 FIFA Men's World Cup,f8764a69-de29-59f5-8e79-715c4bf88a11,Uruguay,URY,6811e7a0-ccf9-5ee9-86c4-a2789d45fbe1,Suppici,Alberto,Uruguay
+15f11a97-c603-53ea-be3a-d196027360e9,1930 FIFA Men's World Cup,da4d79d5-3e18-54b9-916c-997fdef9a796,Romania,ROU,6fbc2802-332c-56de-85fb-6786240bd824,Rădulescu,Costel,Romania
+15f11a97-c603-53ea-be3a-d196027360e9,1930 FIFA Men's World Cup,3d11f07c-c004-508d-9001-6f944119b2b0,France,FRA,8e4c2ad5-01b9-5982-8a51-cf3556a688be,Caudron,Raoul,France
+15f11a97-c603-53ea-be3a-d196027360e9,1930 FIFA Men's World Cup,10913c23-6023-563d-94df-9b4fb66c3432,United States,USA,945490f3-d847-5ee6-9897-daaf9112d2ca,Millar,Robert,Scotland
+15f11a97-c603-53ea-be3a-d196027360e9,1930 FIFA Men's World Cup,933a103d-d9d7-57a3-9c4a-fbc81d25a266,Argentina,ARG,b43025c1-67c5-5a80-b300-8bcbf0621f83,Tramutola,Juan José,Argentina
+15f11a97-c603-53ea-be3a-d196027360e9,1930 FIFA Men's World Cup,c832b30c-2750-5a24-a66f-cf9ea7c20a5c,Mexico,MEX,bc29ce5a-93cb-5722-a1af-d9cc1eb5c773,Luque de Serrallonga,Juan,Mexico
+15f11a97-c603-53ea-be3a-d196027360e9,1930 FIFA Men's World Cup,933a103d-d9d7-57a3-9c4a-fbc81d25a266,Argentina,ARG,c2db42c4-76ea-5553-a582-e3d9a872f164,Olazar,Francisco,Argentina
+15f11a97-c603-53ea-be3a-d196027360e9,1930 FIFA Men's World Cup,498c5353-84ca-5f1c-8d71-0ae02196227c,Brazil,BRA,f6e80a84-c9ff-5dc2-a167-acaa62c4c54e,de Carvalho Rodrigues,Píndaro,Brazil
+15f11a97-c603-53ea-be3a-d196027360e9,1930 FIFA Men's World Cup,9a9be60e-89da-590c-95a8-6e5802b5deb5,Yugoslavia,YUG,fb8a8c9d-ce1c-596c-b55f-1b460fa9c25b,Simonović,Boško,Yugoslavia
+16504e44-4d0e-5f54-9f9d-c1dfa90a0f20,1966 FIFA Men's World Cup,f16b7d5c-db54-5b27-b827-e848a3035641,Hungary,HUN,118f2e23-c2af-5ed2-a6ce-854e6f0766d7,Baróti,Lajos,Hungary
+16504e44-4d0e-5f54-9f9d-c1dfa90a0f20,1966 FIFA Men's World Cup,43c1aac8-fa85-5e16-ba9c-4cfdcbc975b8,England,ENG,2747d4fe-a6a9-5194-9412-3d4ddff28326,Ramsey,Alf,England
+16504e44-4d0e-5f54-9f9d-c1dfa90a0f20,1966 FIFA Men's World Cup,5b16dd9d-d19c-5484-bac2-f9e932dddd29,Spain,ESP,31ee38ce-0096-5c44-aab3-735a8055b4a8,Villalonga,José,Spain
+16504e44-4d0e-5f54-9f9d-c1dfa90a0f20,1966 FIFA Men's World Cup,a260026d-34b5-5fdf-8896-fd8997f096b9,Switzerland,CHE,3f271f16-7532-5aeb-b1c6-bd62b204abe6,Foni,Alfredo,Italy
+16504e44-4d0e-5f54-9f9d-c1dfa90a0f20,1966 FIFA Men's World Cup,f4b41163-3c82-5e1e-af54-e7ecc8a15135,Bulgaria,BGR,588cf42f-65cc-58e9-8dbe-ec41e031c0f6,Vytlačil,Rudolf,Czechoslovakia
+16504e44-4d0e-5f54-9f9d-c1dfa90a0f20,1966 FIFA Men's World Cup,f8764a69-de29-59f5-8e79-715c4bf88a11,Uruguay,URY,69bda185-10f5-50a1-b752-0e903b0b4dc1,Viera,Ondino,Uruguay
+16504e44-4d0e-5f54-9f9d-c1dfa90a0f20,1966 FIFA Men's World Cup,6c983d26-03e1-5649-a13f-42b61e101a0e,Soviet Union,SUN,916e4287-6844-5249-9fcc-055a2559738a,Morozov,Nikolai,Soviet Union
+16504e44-4d0e-5f54-9f9d-c1dfa90a0f20,1966 FIFA Men's World Cup,13eebf0f-eb49-5e70-97f9-84f0395ceff1,Portugal,PRT,947f3750-f81a-5a4c-b5d5-773f331196df,Glória,Otto,Brazil
+16504e44-4d0e-5f54-9f9d-c1dfa90a0f20,1966 FIFA Men's World Cup,498c5353-84ca-5f1c-8d71-0ae02196227c,Brazil,BRA,975371a8-7a9a-5e9b-915d-4c5e8a75b358,Feola,Vicente,Brazil
+16504e44-4d0e-5f54-9f9d-c1dfa90a0f20,1966 FIFA Men's World Cup,933a103d-d9d7-57a3-9c4a-fbc81d25a266,Argentina,ARG,a2c624fd-3c4e-506a-b6f1-c40f92fdff3b,Lorenzo,Juan Carlos,Argentina
+16504e44-4d0e-5f54-9f9d-c1dfa90a0f20,1966 FIFA Men's World Cup,c832b30c-2750-5a24-a66f-cf9ea7c20a5c,Mexico,MEX,ad565344-0562-5f13-a6a0-a90c4be7f2d4,Tréllez,Ignacio,Mexico
+16504e44-4d0e-5f54-9f9d-c1dfa90a0f20,1966 FIFA Men's World Cup,879c1298-9904-5b96-8f25-5e7d455ae2ec,Chile,CHL,ae34c0ab-175a-5b13-ab26-6dbeaea18b17,Álamos,Luis,Chile
+16504e44-4d0e-5f54-9f9d-c1dfa90a0f20,1966 FIFA Men's World Cup,3d11f07c-c004-508d-9001-6f944119b2b0,France,FRA,b0c50ca4-114d-5f17-9da3-48aa7f5acba7,Guérin,Henri,France
+16504e44-4d0e-5f54-9f9d-c1dfa90a0f20,1966 FIFA Men's World Cup,a42d3d6a-78dd-5ae6-8408-079a857a7c30,Italy,ITA,b2c1580b-e1bb-5e47-b822-13c4d8344203,Fabbri,Edmondo,Italy
+16504e44-4d0e-5f54-9f9d-c1dfa90a0f20,1966 FIFA Men's World Cup,adbcf28f-5f27-56bd-bca0-909cf77a8ae0,West Germany,DEU,f1a40b7b-e23d-5f2a-a874-788acf47dcc5,Schön,Helmut,Germany
+16504e44-4d0e-5f54-9f9d-c1dfa90a0f20,1966 FIFA Men's World Cup,58ce2aac-d181-51c6-9f50-fc3e8643d0e1,North Korea,PRK,fd317622-5eee-5723-9acc-83569dbfb643,Myung,Rye-hyun,North Korea
+173406d4-d15a-5033-bddc-c3f91ccad965,1978 FIFA Men's World Cup,f16b7d5c-db54-5b27-b827-e848a3035641,Hungary,HUN,118f2e23-c2af-5ed2-a6ce-854e6f0766d7,Baróti,Lajos,Hungary
+173406d4-d15a-5033-bddc-c3f91ccad965,1978 FIFA Men's World Cup,db3abc88-7f89-5183-bc6d-ea6fa7c361d9,Peru,PER,19de10d7-3797-5ef3-b543-5f4dfb6ec46f,Calderón,Marcos,Peru
+173406d4-d15a-5033-bddc-c3f91ccad965,1978 FIFA Men's World Cup,3d11f07c-c004-508d-9001-6f944119b2b0,France,FRA,53c424b8-0b80-5a9a-b386-ff01683cc812,Hidalgo,Michel,France
+173406d4-d15a-5033-bddc-c3f91ccad965,1978 FIFA Men's World Cup,498c5353-84ca-5f1c-8d71-0ae02196227c,Brazil,BRA,54118a7c-f11e-5fe8-b5ef-663b2c7a1692,Coutinho,Cláudio,Brazil
+173406d4-d15a-5033-bddc-c3f91ccad965,1978 FIFA Men's World Cup,d522b940-a152-5cc7-bcb3-89e28a1ce459,Netherlands,NLD,5891bd52-6073-5ee3-8e25-b9f324b02a31,Happel,Ernst,Austria
+173406d4-d15a-5033-bddc-c3f91ccad965,1978 FIFA Men's World Cup,3611e724-8c08-5f63-b63d-e1cad6af784c,Sweden,SWE,60aa6be2-2d76-50b4-bf67-8d6c0d89a556,Ericson,Georg,Sweden
+173406d4-d15a-5033-bddc-c3f91ccad965,1978 FIFA Men's World Cup,c832b30c-2750-5a24-a66f-cf9ea7c20a5c,Mexico,MEX,7eb18326-b3e4-598a-abae-122b6d416a16,Roca,José Antonio,Mexico
+173406d4-d15a-5033-bddc-c3f91ccad965,1978 FIFA Men's World Cup,fc2ce361-82ed-537a-85f1-ff8f384d11b1,Scotland,SCO,87f9ac39-66f3-52ce-96cc-ac09dd2b47f9,MacLeod,Ally,Scotland
+173406d4-d15a-5033-bddc-c3f91ccad965,1978 FIFA Men's World Cup,f22d85b4-6cde-5f4e-8119-b3b69a2ba879,Iran,IRN,b5f66987-7e5b-5e4f-a9e3-300ad51ca9d9,Mohajerani,Heshmat,Iran
+173406d4-d15a-5033-bddc-c3f91ccad965,1978 FIFA Men's World Cup,5b16dd9d-d19c-5484-bac2-f9e932dddd29,Spain,ESP,c1ccf3a0-a967-55ba-b7d5-e0e6f71cd826,Kubala,Ladislao,Spain
+173406d4-d15a-5033-bddc-c3f91ccad965,1978 FIFA Men's World Cup,b627769a-7468-5b82-85ee-a38f3d71a3c6,Tunisia,TUN,c569f2c5-1535-5586-bf87-cbb3cc32aac8,Chetali,Abdelmajid,Tunisia
+173406d4-d15a-5033-bddc-c3f91ccad965,1978 FIFA Men's World Cup,933a103d-d9d7-57a3-9c4a-fbc81d25a266,Argentina,ARG,d45697d5-2306-518c-9d0b-7a186703cde7,Menotti,César Luis,Argentina
+173406d4-d15a-5033-bddc-c3f91ccad965,1978 FIFA Men's World Cup,fc0455f9-aa03-5b3d-9b41-41854289e993,Poland,POL,d9d3d8f8-e69e-558d-bc7d-197cac8f4540,Gmoch,Jacek,Poland
+173406d4-d15a-5033-bddc-c3f91ccad965,1978 FIFA Men's World Cup,a42d3d6a-78dd-5ae6-8408-079a857a7c30,Italy,ITA,dafcc73c-4ff9-5d86-b6dc-4ca960d763d1,Bearzot,Enzo,Italy
+173406d4-d15a-5033-bddc-c3f91ccad965,1978 FIFA Men's World Cup,adbcf28f-5f27-56bd-bca0-909cf77a8ae0,West Germany,DEU,f1a40b7b-e23d-5f2a-a874-788acf47dcc5,Schön,Helmut,Germany
+173406d4-d15a-5033-bddc-c3f91ccad965,1978 FIFA Men's World Cup,8e63ee49-fbde-5478-a093-1a6a679cc27f,Austria,AUT,f94866eb-67d5-5d59-895e-5ca8273f3dca,Senekowitsch,Helmut,Austria
+1e88b29b-3883-56c0-a9f4-0fc4447d0f51,1995 FIFA Women's World Cup,1234d812-2e40-561b-90a3-ed4f9e66bd63,Canada,CAN,0772230f-85b2-52d1-a848-97dd30c54f9b,Béliveau,Sylvie,Canada
+1e88b29b-3883-56c0-a9f4-0fc4447d0f51,1995 FIFA Women's World Cup,43c1aac8-fa85-5e16-ba9c-4cfdcbc975b8,England,ENG,0c6e6e22-22bc-5c86-93c6-7d6fdbb2315c,Copeland,Ted,England
+1e88b29b-3883-56c0-a9f4-0fc4447d0f51,1995 FIFA Women's World Cup,187544dc-4b46-5bf6-a079-e124899a9090,Norway,NOR,28c61488-bbe3-5cd6-9065-034c313379a0,Pellerud,Even,Norway
+1e88b29b-3883-56c0-a9f4-0fc4447d0f51,1995 FIFA Women's World Cup,eff0a856-a340-5ec8-84e8-121552da2cda,Germany,DEU,35d00835-7788-58c3-9cb1-5222f3278828,Bisanz,Gero,Germany
+1e88b29b-3883-56c0-a9f4-0fc4447d0f51,1995 FIFA Women's World Cup,498c5353-84ca-5f1c-8d71-0ae02196227c,Brazil,BRA,4af830cc-71f4-5c8e-9705-8d9135a0b2dd,Fonseca,Ademar,Brazil
+1e88b29b-3883-56c0-a9f4-0fc4447d0f51,1995 FIFA Women's World Cup,93542d8e-8aca-5c07-ad21-5c493fdf083e,China,CHN,4fa0354e-3995-5290-ba66-969457d6ff39,Ma,Yuanan,China
+1e88b29b-3883-56c0-a9f4-0fc4447d0f51,1995 FIFA Women's World Cup,dfb099cc-e7ea-5e4f-b492-bdbf6e8e179b,Denmark,DNK,62359e06-1f68-5ad6-9d0a-6dd4ae0a55fb,Gantzhorn,Keld,Denmark
+1e88b29b-3883-56c0-a9f4-0fc4447d0f51,1995 FIFA Women's World Cup,3611e724-8c08-5f63-b63d-e1cad6af784c,Sweden,SWE,62e746d9-f933-5b4c-a80e-64f77a1e881a,Simonsson,Bengt,Sweden
+1e88b29b-3883-56c0-a9f4-0fc4447d0f51,1995 FIFA Women's World Cup,2d9898be-ff8f-55ef-a86e-167bdeaf3cc6,Australia,AUS,90bff27f-6e34-5af1-b982-5ce612b94bc5,Sermanni,Tom,Scotland
+1e88b29b-3883-56c0-a9f4-0fc4447d0f51,1995 FIFA Women's World Cup,10913c23-6023-563d-94df-9b4fb66c3432,United States,USA,bcb18f3a-df9c-55b0-ab90-77c852c54370,DiCicco,Tony,United States
+1e88b29b-3883-56c0-a9f4-0fc4447d0f51,1995 FIFA Women's World Cup,230373b7-3a16-506a-b5f6-acc37d7e801d,Japan,JPN,eb182d03-9886-5dfe-9853-451bf2d37dd8,Suzuki,Tamotsu,Japan
+1e88b29b-3883-56c0-a9f4-0fc4447d0f51,1995 FIFA Women's World Cup,f201a6b5-a9f6-5612-947b-a6a57d2e7e18,Nigeria,NGA,eca68bb8-41a7-59ef-ad75-531624d0983f,Hamilton,Paul,Nigeria
+20ab0077-a605-5083-9dc5-cd0d38739b20,1994 FIFA Men's World Cup,f4b41163-3c82-5e1e-af54-e7ecc8a15135,Bulgaria,BGR,17fc3675-e695-5647-8b1d-bb1a521cd6df,Penev,Dimitar,Bulgaria
+20ab0077-a605-5083-9dc5-cd0d38739b20,1994 FIFA Men's World Cup,a42d3d6a-78dd-5ae6-8408-079a857a7c30,Italy,ITA,2a6a3fe2-946c-5f5e-b479-985fc12e1dd5,Sacchi,Arrigo,Italy
+20ab0077-a605-5083-9dc5-cd0d38739b20,1994 FIFA Men's World Cup,a260026d-34b5-5fdf-8896-fd8997f096b9,Switzerland,CHE,32e35bb7-14bd-5a9f-8665-ebbe7e7853c7,Hodgson,Roy,England
+20ab0077-a605-5083-9dc5-cd0d38739b20,1994 FIFA Men's World Cup,3aa56241-3868-505a-ac6a-753aefa79cc2,Belgium,BEL,3cc70535-13c3-5c28-9cf3-38e60e8425c4,Van Himst,Paul,Belgium
+20ab0077-a605-5083-9dc5-cd0d38739b20,1994 FIFA Men's World Cup,da4d79d5-3e18-54b9-916c-997fdef9a796,Romania,ROU,4a207a75-b489-556f-84d1-ee39f70c40a3,Iordănescu,Anghel,Romania
+20ab0077-a605-5083-9dc5-cd0d38739b20,1994 FIFA Men's World Cup,e39c6163-70b0-5f66-b2d7-540b785eee94,Republic of Ireland,IRL,4cf4a89f-ddb6-5fab-ae9d-9fe87012ba2c,Charlton,Jack,England
+20ab0077-a605-5083-9dc5-cd0d38739b20,1994 FIFA Men's World Cup,6eb0485e-97e8-57e7-bf93-6c300f3e003a,Russia,RUS,54b1a0e3-b91d-5c4c-9d15-70ad0ef5f710,Sadyrin,Pavel,Russia
+20ab0077-a605-5083-9dc5-cd0d38739b20,1994 FIFA Men's World Cup,3de13983-4604-5a8d-b39c-08d4f279a06b,Colombia,COL,5929fc1c-64e3-569b-bcd7-58b6102627ee,Maturana,Francisco,Colombia
+20ab0077-a605-5083-9dc5-cd0d38739b20,1994 FIFA Men's World Cup,933a103d-d9d7-57a3-9c4a-fbc81d25a266,Argentina,ARG,5afcc4e0-1132-5a67-b9ab-11bd0985abee,Basile,Alfio,Argentina
+20ab0077-a605-5083-9dc5-cd0d38739b20,1994 FIFA Men's World Cup,f201a6b5-a9f6-5612-947b-a6a57d2e7e18,Nigeria,NGA,713e7de1-201c-52d4-bd5f-8712dbac0616,Westerhof,Clemens,Netherlands
+20ab0077-a605-5083-9dc5-cd0d38739b20,1994 FIFA Men's World Cup,f23d02ab-e48a-541b-a3d5-efb12f628f6c,Greece,GRC,73eb63ca-13b2-5a2c-a108-4d5f4c6f8dfe,Panagoulias,Alketas,Greece
+20ab0077-a605-5083-9dc5-cd0d38739b20,1994 FIFA Men's World Cup,c832b30c-2750-5a24-a66f-cf9ea7c20a5c,Mexico,MEX,7634c130-b7f6-5811-a746-6da75262a425,Mejía Barón,Miguel,Mexico
+20ab0077-a605-5083-9dc5-cd0d38739b20,1994 FIFA Men's World Cup,8cca4b99-7e47-5808-9e58-9803329fa50a,Saudi Arabia,SAU,7f3df5e1-364c-514c-91f6-4c13dce23f53,Solari,Jorge,Argentina
+20ab0077-a605-5083-9dc5-cd0d38739b20,1994 FIFA Men's World Cup,eb88a8cc-be5e-5116-8926-ba595504709a,Cameroon,CMR,909817eb-379f-58e9-909f-57aa8e790ea8,Michel,Henri,France
+20ab0077-a605-5083-9dc5-cd0d38739b20,1994 FIFA Men's World Cup,97c63301-8b06-5bfb-8909-40b555c7c9e3,Bolivia,BOL,9102fe9e-47ca-59bf-ab8b-57b6e1937e2b,Azkargorta,Xabier,Spain
+20ab0077-a605-5083-9dc5-cd0d38739b20,1994 FIFA Men's World Cup,5b16dd9d-d19c-5484-bac2-f9e932dddd29,Spain,ESP,9ffbe676-0bdb-528b-8eb7-f7d35a1e8d25,Clemente,Javier,Spain
+20ab0077-a605-5083-9dc5-cd0d38739b20,1994 FIFA Men's World Cup,498c5353-84ca-5f1c-8d71-0ae02196227c,Brazil,BRA,b04380db-a075-5f4a-a525-272a2712b755,Parreira,Carlos Alberto,Brazil
+20ab0077-a605-5083-9dc5-cd0d38739b20,1994 FIFA Men's World Cup,eff0a856-a340-5ec8-84e8-121552da2cda,Germany,DEU,b124d840-c522-5215-8a65-5f82b65a5086,Vogts,Berti,Germany
+20ab0077-a605-5083-9dc5-cd0d38739b20,1994 FIFA Men's World Cup,187544dc-4b46-5bf6-a079-e124899a9090,Norway,NOR,b33e5a5e-adcb-509f-9b6c-956e77917a01,Olsen,Egil,Norway
+20ab0077-a605-5083-9dc5-cd0d38739b20,1994 FIFA Men's World Cup,d522b940-a152-5cc7-bcb3-89e28a1ce459,Netherlands,NLD,b9fc339b-23a2-5b8a-be18-9ce6269a3ff2,Advocaat,Dick,Netherlands
+20ab0077-a605-5083-9dc5-cd0d38739b20,1994 FIFA Men's World Cup,3611e724-8c08-5f63-b63d-e1cad6af784c,Sweden,SWE,ba6553df-4aad-5f95-b314-012c9da2eb3d,Svensson,Tommy,Sweden
+20ab0077-a605-5083-9dc5-cd0d38739b20,1994 FIFA Men's World Cup,83f65ffa-c76e-5ace-8c09-c87d141a3916,South Korea,KOR,c69c7517-733e-5f62-a134-6306c47f1b3b,Kim,Ho,South Korea
+20ab0077-a605-5083-9dc5-cd0d38739b20,1994 FIFA Men's World Cup,265f639f-c7d5-5ca2-b708-b0995f6c2b89,Morocco,MAR,d39c438e-b8f3-5a44-b74d-8d897fa5a0a4,Blinda,Abdellah,Morocco
+20ab0077-a605-5083-9dc5-cd0d38739b20,1994 FIFA Men's World Cup,10913c23-6023-563d-94df-9b4fb66c3432,United States,USA,e91d374b-3f6b-5a35-a611-4c171f4302a1,Milutinović,Bora,Yugoslavia
+2670ca56-9aab-5ab6-95fe-055da95f80ff,2018 FIFA Men's World Cup,230373b7-3a16-506a-b5f6-acc37d7e801d,Japan,JPN,1fa244e3-2f48-544f-96b7-9fab8deb304c,Nishino,Akira,Japan
+2670ca56-9aab-5ab6-95fe-055da95f80ff,2018 FIFA Men's World Cup,933a103d-d9d7-57a3-9c4a-fbc81d25a266,Argentina,ARG,271c39fd-671d-53c0-8226-e22221823168,Sampaoli,Jorge,Argentina
+2670ca56-9aab-5ab6-95fe-055da95f80ff,2018 FIFA Men's World Cup,835977dc-ae64-5928-9bd2-421d65fcb745,Panama,PAN,2c5d38bd-a725-5a84-a4b5-d149aac1c691,Gómez,Hernán Darío,Colombia
+2670ca56-9aab-5ab6-95fe-055da95f80ff,2018 FIFA Men's World Cup,3de13983-4604-5a8d-b39c-08d4f279a06b,Colombia,COL,3545c44c-12f7-5af2-8225-81a31910a1a6,Pékerman,José,Argentina
+2670ca56-9aab-5ab6-95fe-055da95f80ff,2018 FIFA Men's World Cup,3611e724-8c08-5f63-b63d-e1cad6af784c,Sweden,SWE,373a7761-27ea-5c9c-ab2e-533bb00a3042,Andersson,Janne,Sweden
+2670ca56-9aab-5ab6-95fe-055da95f80ff,2018 FIFA Men's World Cup,f8764a69-de29-59f5-8e79-715c4bf88a11,Uruguay,URY,3979d791-dc59-53e5-a27d-0efa10327543,Tabárez,Óscar,Uruguay
+2670ca56-9aab-5ab6-95fe-055da95f80ff,2018 FIFA Men's World Cup,8fcb57c5-f39b-5302-9aed-c645120d5a91,Serbia,SRB,3fbe3807-05df-5cd9-9802-45b0866a88f6,Krstajić,Mladen,Serbia
+2670ca56-9aab-5ab6-95fe-055da95f80ff,2018 FIFA Men's World Cup,8dd855bb-0dbb-576b-837a-ad9f8d770c86,Costa Rica,CRI,42b2c61b-537d-5c4b-abef-7331a0830ab9,Ramírez,Óscar,Costa Rica
+2670ca56-9aab-5ab6-95fe-055da95f80ff,2018 FIFA Men's World Cup,fdb9a8af-2b8d-518b-b0ab-a0118cd58de2,Senegal,SEN,44dce09d-d7c2-5b17-830f-b0717c161910,Cissé,Aliou,Senegal
+2670ca56-9aab-5ab6-95fe-055da95f80ff,2018 FIFA Men's World Cup,e31095c5-b215-5b1b-b69e-e0c3be13dcd7,Iceland,ISL,452b0ba4-a21c-51d1-b43a-b839263c1b14,Hallgrímsson,Heimir,Iceland
+2670ca56-9aab-5ab6-95fe-055da95f80ff,2018 FIFA Men's World Cup,b627769a-7468-5b82-85ee-a38f3d71a3c6,Tunisia,TUN,51c71e02-7c6f-5bbc-b39c-44596f677e39,Maâloul,Nabil,Tunisia
+2670ca56-9aab-5ab6-95fe-055da95f80ff,2018 FIFA Men's World Cup,83f65ffa-c76e-5ace-8c09-c87d141a3916,South Korea,KOR,52fbc054-38a0-52d0-b8ab-7d7cbfebbd22,Shin,Tae-yong,South Korea
+2670ca56-9aab-5ab6-95fe-055da95f80ff,2018 FIFA Men's World Cup,fc0455f9-aa03-5b3d-9b41-41854289e993,Poland,POL,54da6272-b1b4-5d5d-a7c6-0e41bb2afbb4,Nawałka,Adam,Poland
+2670ca56-9aab-5ab6-95fe-055da95f80ff,2018 FIFA Men's World Cup,265f639f-c7d5-5ca2-b708-b0995f6c2b89,Morocco,MAR,5b5a4f33-48e9-5870-8d9c-352678243818,Renard,Hervé,France
+2670ca56-9aab-5ab6-95fe-055da95f80ff,2018 FIFA Men's World Cup,0db8bc49-3546-517c-af2c-7abd04ae2214,Croatia,HRV,6702c4b6-7288-5780-8eec-6a1413b56d9f,Dalić,Zlatko,Croatia
+2670ca56-9aab-5ab6-95fe-055da95f80ff,2018 FIFA Men's World Cup,d499d28a-dd42-5133-8e29-23835731f4ea,Egypt,EGY,6abf1767-1f97-5388-8c48-cae3c990c17b,Cúper,Héctor,Argentina
+2670ca56-9aab-5ab6-95fe-055da95f80ff,2018 FIFA Men's World Cup,a260026d-34b5-5fdf-8896-fd8997f096b9,Switzerland,CHE,744c7203-01a4-57ec-8d9c-bfab181a9ca9,Petković,Vladimir,Switzerland
+2670ca56-9aab-5ab6-95fe-055da95f80ff,2018 FIFA Men's World Cup,f22d85b4-6cde-5f4e-8119-b3b69a2ba879,Iran,IRN,94108b44-88be-5e27-ac13-dd549b6ec70d,Queiroz,Carlos,Portugal
+2670ca56-9aab-5ab6-95fe-055da95f80ff,2018 FIFA Men's World Cup,3aa56241-3868-505a-ac6a-753aefa79cc2,Belgium,BEL,a1541473-4388-50bc-9a41-4a1e7de4fe75,Martínez,Roberto,Spain
+2670ca56-9aab-5ab6-95fe-055da95f80ff,2018 FIFA Men's World Cup,db3abc88-7f89-5183-bc6d-ea6fa7c361d9,Peru,PER,a161b99c-7edb-5948-89e9-aac9e3710dfe,Gareca,Ricardo,Argentina
+2670ca56-9aab-5ab6-95fe-055da95f80ff,2018 FIFA Men's World Cup,3d11f07c-c004-508d-9001-6f944119b2b0,France,FRA,aec9de42-ea25-5224-b04b-167d21a55ab8,Deschamps,Didier,France
+2670ca56-9aab-5ab6-95fe-055da95f80ff,2018 FIFA Men's World Cup,6eb0485e-97e8-57e7-bf93-6c300f3e003a,Russia,RUS,ba6f283c-01d4-5d71-a46a-b29b74ca4d47,Cherchesov,Stanislav,Russia
+2670ca56-9aab-5ab6-95fe-055da95f80ff,2018 FIFA Men's World Cup,13eebf0f-eb49-5e70-97f9-84f0395ceff1,Portugal,PRT,c3d6645a-a87c-5c22-b380-03b193f92781,Santos,Fernando,Portugal
+2670ca56-9aab-5ab6-95fe-055da95f80ff,2018 FIFA Men's World Cup,f201a6b5-a9f6-5612-947b-a6a57d2e7e18,Nigeria,NGA,ce4eceef-70ed-5b46-bf34-d895cdb7d814,Rohr,Gernot,Germany
+2670ca56-9aab-5ab6-95fe-055da95f80ff,2018 FIFA Men's World Cup,8cca4b99-7e47-5808-9e58-9803329fa50a,Saudi Arabia,SAU,d06e4188-60ba-5135-8005-fe325fb3c202,Pizzi,Juan Antonio,Spain
+2670ca56-9aab-5ab6-95fe-055da95f80ff,2018 FIFA Men's World Cup,43c1aac8-fa85-5e16-ba9c-4cfdcbc975b8,England,ENG,d46f4e7a-bb39-5483-99ff-6d18536df6d5,Southgate,Gareth,England
+2670ca56-9aab-5ab6-95fe-055da95f80ff,2018 FIFA Men's World Cup,498c5353-84ca-5f1c-8d71-0ae02196227c,Brazil,BRA,dcf63a98-89cf-54ff-a224-48858ac5127c,Tite,,Brazil
+2670ca56-9aab-5ab6-95fe-055da95f80ff,2018 FIFA Men's World Cup,dfb099cc-e7ea-5e4f-b492-bdbf6e8e179b,Denmark,DNK,e397ac4b-642d-57c5-86b9-1e53d92c5f7c,Hareide,Åge,Norway
+2670ca56-9aab-5ab6-95fe-055da95f80ff,2018 FIFA Men's World Cup,5b16dd9d-d19c-5484-bac2-f9e932dddd29,Spain,ESP,e742f70c-5b4f-52a7-b005-1fb4b67bff9e,Hierro,Fernando,Spain
+2670ca56-9aab-5ab6-95fe-055da95f80ff,2018 FIFA Men's World Cup,c832b30c-2750-5a24-a66f-cf9ea7c20a5c,Mexico,MEX,f8d97333-ee97-5021-897a-e113a86be610,Osorio,Juan Carlos,Colombia
+2670ca56-9aab-5ab6-95fe-055da95f80ff,2018 FIFA Men's World Cup,2d9898be-ff8f-55ef-a86e-167bdeaf3cc6,Australia,AUS,f97b4ee3-6be3-51b8-8a32-2c07f6d3a34f,van Marwijk,Bert,Netherlands
+2670ca56-9aab-5ab6-95fe-055da95f80ff,2018 FIFA Men's World Cup,eff0a856-a340-5ec8-84e8-121552da2cda,Germany,DEU,f98b62f6-6a0f-5bec-b6fd-b3a9919242e1,Löw,Joachim,Germany
+27c90506-c75e-5fba-813d-68c0722b56bf,1938 FIFA Men's World Cup,f16b7d5c-db54-5b27-b827-e848a3035641,Hungary,HUN,10a662a9-00c1-5d61-87d5-699df53f7ae8,Dietz,Károly,Hungary
+27c90506-c75e-5fba-813d-68c0722b56bf,1938 FIFA Men's World Cup,c027d703-e533-524d-a335-2ea948d015fd,Cuba,CUB,25f09222-293f-5545-8981-a54b245f1f73,Tapia,José,Cuba
+27c90506-c75e-5fba-813d-68c0722b56bf,1938 FIFA Men's World Cup,a42d3d6a-78dd-5ae6-8408-079a857a7c30,Italy,ITA,293f8e86-aef2-5fb9-bc13-e89b03c21c8f,Pozzo,Vittorio,Italy
+27c90506-c75e-5fba-813d-68c0722b56bf,1938 FIFA Men's World Cup,fc0455f9-aa03-5b3d-9b41-41854289e993,Poland,POL,4f628d0f-6e4c-5240-8a45-5cf21d371510,Kałuża,Józef,Poland
+27c90506-c75e-5fba-813d-68c0722b56bf,1938 FIFA Men's World Cup,c42176e0-0fb9-52e6-8d90-65b7655925a0,Dutch East Indies,IDN,662d43ec-5b42-5299-b76b-20f362a6d827,Mastenbroek,Johan,Netherlands
+27c90506-c75e-5fba-813d-68c0722b56bf,1938 FIFA Men's World Cup,da4d79d5-3e18-54b9-916c-997fdef9a796,Romania,ROU,6fbc2802-332c-56de-85fb-6786240bd824,Rădulescu,Costel,Romania
+27c90506-c75e-5fba-813d-68c0722b56bf,1938 FIFA Men's World Cup,498c5353-84ca-5f1c-8d71-0ae02196227c,Brazil,BRA,7ca3e521-ca0d-517c-9a2e-9f5ed55e9ceb,Pimenta,Adhemar,Brazil
+27c90506-c75e-5fba-813d-68c0722b56bf,1938 FIFA Men's World Cup,3aa56241-3868-505a-ac6a-753aefa79cc2,Belgium,BEL,931233fc-2866-53cb-b28f-9c7fde94d0ac,Butler,Jack,England
+27c90506-c75e-5fba-813d-68c0722b56bf,1938 FIFA Men's World Cup,da4d79d5-3e18-54b9-916c-997fdef9a796,Romania,ROU,9aa7b4d8-77d0-5ad5-ac2d-466a3d46ac9f,Săvulescu,Alexandru,Romania
+27c90506-c75e-5fba-813d-68c0722b56bf,1938 FIFA Men's World Cup,d522b940-a152-5cc7-bcb3-89e28a1ce459,Netherlands,NLD,a5ac037e-bb4d-5e55-b690-126984717698,Glendenning,Bob,England
+27c90506-c75e-5fba-813d-68c0722b56bf,1938 FIFA Men's World Cup,eff0a856-a340-5ec8-84e8-121552da2cda,Germany,DEU,a92866d6-7b41-5603-b196-fe389ffe2428,Herberger,Sepp,Germany
+27c90506-c75e-5fba-813d-68c0722b56bf,1938 FIFA Men's World Cup,187544dc-4b46-5bf6-a079-e124899a9090,Norway,NOR,ad5ffe94-db44-5e51-893c-0f8ef86402b4,Halvorsen,Asbjørn,Norway
+27c90506-c75e-5fba-813d-68c0722b56bf,1938 FIFA Men's World Cup,cf23603f-09d6-52e6-9c7e-fb8db4554297,Czechoslovakia,CSK,cd6be7b1-9e43-524a-af3f-b3d34d0bf673,Meissner,Josef,Czechoslovakia
+27c90506-c75e-5fba-813d-68c0722b56bf,1938 FIFA Men's World Cup,3d11f07c-c004-508d-9001-6f944119b2b0,France,FRA,d1b41d28-3741-5985-a416-33f647534ab9,Barreau,Gaston,France
+27c90506-c75e-5fba-813d-68c0722b56bf,1938 FIFA Men's World Cup,3611e724-8c08-5f63-b63d-e1cad6af784c,Sweden,SWE,eaa18627-2fc6-558f-8cb6-e77658f1013b,Nagy,József,Hungary
+27c90506-c75e-5fba-813d-68c0722b56bf,1938 FIFA Men's World Cup,f16b7d5c-db54-5b27-b827-e848a3035641,Hungary,HUN,fc5a6879-09c1-5954-946d-f600d83595fa,Schaffer,Alfréd,Hungary
+27c90506-c75e-5fba-813d-68c0722b56bf,1938 FIFA Men's World Cup,a260026d-34b5-5fdf-8896-fd8997f096b9,Switzerland,CHE,fe236aac-31b0-5cf4-a218-017b4d3c3864,Rappan,Karl,Austria
+28d9ffd2-6063-5c73-aed8-40f06aeb44db,1990 FIFA Men's World Cup,eb88a8cc-be5e-5116-8926-ba595504709a,Cameroon,CMR,1d24b08b-c7c2-5a1b-a9a7-c03537d6f8ca,Nepomnyashchy,Valery,Soviet Union
+28d9ffd2-6063-5c73-aed8-40f06aeb44db,1990 FIFA Men's World Cup,a42d3d6a-78dd-5ae6-8408-079a857a7c30,Italy,ITA,33ab4363-0739-540a-a8bf-5af1d586b88d,Vicini,Azeglio,Italy
+28d9ffd2-6063-5c73-aed8-40f06aeb44db,1990 FIFA Men's World Cup,f8764a69-de29-59f5-8e79-715c4bf88a11,Uruguay,URY,3979d791-dc59-53e5-a27d-0efa10327543,Tabárez,Óscar,Uruguay
+28d9ffd2-6063-5c73-aed8-40f06aeb44db,1990 FIFA Men's World Cup,fc2ce361-82ed-537a-85f1-ff8f384d11b1,Scotland,SCO,4968d830-af55-5e6b-90b1-3856346d7e8c,Roxburgh,Andy,Scotland
+28d9ffd2-6063-5c73-aed8-40f06aeb44db,1990 FIFA Men's World Cup,e39c6163-70b0-5f66-b2d7-540b785eee94,Republic of Ireland,IRL,4cf4a89f-ddb6-5fab-ae9d-9fe87012ba2c,Charlton,Jack,England
+28d9ffd2-6063-5c73-aed8-40f06aeb44db,1990 FIFA Men's World Cup,5b16dd9d-d19c-5484-bac2-f9e932dddd29,Spain,ESP,534f7051-ff51-5fd4-a9bd-6f3be09c3e28,Suárez,Luis,Spain
+28d9ffd2-6063-5c73-aed8-40f06aeb44db,1990 FIFA Men's World Cup,3de13983-4604-5a8d-b39c-08d4f279a06b,Colombia,COL,5929fc1c-64e3-569b-bcd7-58b6102627ee,Maturana,Francisco,Colombia
+28d9ffd2-6063-5c73-aed8-40f06aeb44db,1990 FIFA Men's World Cup,933a103d-d9d7-57a3-9c4a-fbc81d25a266,Argentina,ARG,5d7e511d-372a-5c7f-af80-833ac35bac4c,Bilardo,Carlos,Argentina
+28d9ffd2-6063-5c73-aed8-40f06aeb44db,1990 FIFA Men's World Cup,cf23603f-09d6-52e6-9c7e-fb8db4554297,Czechoslovakia,CSK,62a62362-6b55-5a4f-b037-d2bdf9781b71,Vengloš,Jozef,Czechoslovakia
+28d9ffd2-6063-5c73-aed8-40f06aeb44db,1990 FIFA Men's World Cup,83f65ffa-c76e-5ace-8c09-c87d141a3916,South Korea,KOR,6bffb4db-0693-52e8-93a3-47d1d142f009,Lee,Hoe-taik,South Korea
+28d9ffd2-6063-5c73-aed8-40f06aeb44db,1990 FIFA Men's World Cup,d499d28a-dd42-5133-8e29-23835731f4ea,Egypt,EGY,80415fb6-c05f-59ea-aa65-fe08c556fc6f,Al-Gohari,Mahmoud,Egypt
+28d9ffd2-6063-5c73-aed8-40f06aeb44db,1990 FIFA Men's World Cup,10913c23-6023-563d-94df-9b4fb66c3432,United States,USA,810905d3-62db-5d41-873c-f58c65d37fd8,Gansler,Bob,United States
+28d9ffd2-6063-5c73-aed8-40f06aeb44db,1990 FIFA Men's World Cup,43c1aac8-fa85-5e16-ba9c-4cfdcbc975b8,England,ENG,8bc2acc7-02ee-545a-8fb2-ccac0d316850,Robson,Bobby,England
+28d9ffd2-6063-5c73-aed8-40f06aeb44db,1990 FIFA Men's World Cup,9a9be60e-89da-590c-95a8-6e5802b5deb5,Yugoslavia,YUG,984d004d-1817-5a16-a86b-eebe7844f4b9,Osim,Ivica,Yugoslavia
+28d9ffd2-6063-5c73-aed8-40f06aeb44db,1990 FIFA Men's World Cup,6c983d26-03e1-5649-a13f-42b61e101a0e,Soviet Union,SUN,a028419b-100d-5f51-a0b9-f3fefbf260b0,Lobanovskyi,Valeriy,Soviet Union
+28d9ffd2-6063-5c73-aed8-40f06aeb44db,1990 FIFA Men's World Cup,3aa56241-3868-505a-ac6a-753aefa79cc2,Belgium,BEL,aeb7b186-b324-5314-a73b-de4acb845d33,Thys,Guy,Belgium
+28d9ffd2-6063-5c73-aed8-40f06aeb44db,1990 FIFA Men's World Cup,af3186ce-dc7a-5681-abe7-c1b30465f9ed,United Arab Emirates,ARE,b04380db-a075-5f4a-a525-272a2712b755,Parreira,Carlos Alberto,Brazil
+28d9ffd2-6063-5c73-aed8-40f06aeb44db,1990 FIFA Men's World Cup,8e63ee49-fbde-5478-a093-1a6a679cc27f,Austria,AUT,bc4840be-e993-5f4b-8a89-49463a765e2c,Hickersberger,Josef,Austria
+28d9ffd2-6063-5c73-aed8-40f06aeb44db,1990 FIFA Men's World Cup,da4d79d5-3e18-54b9-916c-997fdef9a796,Romania,ROU,c643283b-9406-571d-b96b-05c0b9d2cac6,Jenei,Emerich,Romania
+28d9ffd2-6063-5c73-aed8-40f06aeb44db,1990 FIFA Men's World Cup,adbcf28f-5f27-56bd-bca0-909cf77a8ae0,West Germany,DEU,d51fce80-157f-5307-a21d-b3b74e010072,Beckenbauer,Franz,Germany
+28d9ffd2-6063-5c73-aed8-40f06aeb44db,1990 FIFA Men's World Cup,d522b940-a152-5cc7-bcb3-89e28a1ce459,Netherlands,NLD,da712882-6a90-55c1-ae3e-b9c367dd64dd,Beenhakker,Leo,Netherlands
+28d9ffd2-6063-5c73-aed8-40f06aeb44db,1990 FIFA Men's World Cup,3611e724-8c08-5f63-b63d-e1cad6af784c,Sweden,SWE,de31e913-47fd-5034-aabf-5774188cd03c,Nordin,Olle,Sweden
+28d9ffd2-6063-5c73-aed8-40f06aeb44db,1990 FIFA Men's World Cup,498c5353-84ca-5f1c-8d71-0ae02196227c,Brazil,BRA,e69218d4-eb44-5cda-9b1c-3f0fb687b5fc,Lazaroni,Sebastião,Brazil
+28d9ffd2-6063-5c73-aed8-40f06aeb44db,1990 FIFA Men's World Cup,8dd855bb-0dbb-576b-837a-ad9f8d770c86,Costa Rica,CRI,e91d374b-3f6b-5a35-a611-4c171f4302a1,Milutinović,Bora,Yugoslavia
+3ceb381b-9f6e-54ff-b80d-d1bade27a3b5,2003 FIFA Women's World Cup,933a103d-d9d7-57a3-9c4a-fbc81d25a266,Argentina,ARG,014f518c-a9a3-5edb-af68-39909dc0e3e7,Borrello,Carlos,Argentina
+3ceb381b-9f6e-54ff-b80d-d1bade27a3b5,2003 FIFA Women's World Cup,3d11f07c-c004-508d-9001-6f944119b2b0,France,FRA,05153941-e9bb-5d1f-921e-379ab1a8880e,Loisel,Élisabeth,France
+3ceb381b-9f6e-54ff-b80d-d1bade27a3b5,2003 FIFA Women's World Cup,f201a6b5-a9f6-5612-947b-a6a57d2e7e18,Nigeria,NGA,195134e4-e4d0-5c2c-91a3-692cc2db62f8,Okpodu,Samuel,Nigeria
+3ceb381b-9f6e-54ff-b80d-d1bade27a3b5,2003 FIFA Women's World Cup,83f65ffa-c76e-5ace-8c09-c87d141a3916,South Korea,KOR,1dabb682-878a-587f-9c29-6326a02baa58,An,Jong-goan,South Korea
+3ceb381b-9f6e-54ff-b80d-d1bade27a3b5,2003 FIFA Women's World Cup,230373b7-3a16-506a-b5f6-acc37d7e801d,Japan,JPN,289c7b07-7254-514e-a891-ee1f47a6671f,Ueda,Eiji,Japan
+3ceb381b-9f6e-54ff-b80d-d1bade27a3b5,2003 FIFA Women's World Cup,1234d812-2e40-561b-90a3-ed4f9e66bd63,Canada,CAN,28c61488-bbe3-5cd6-9065-034c313379a0,Pellerud,Even,Norway
+3ceb381b-9f6e-54ff-b80d-d1bade27a3b5,2003 FIFA Women's World Cup,eff0a856-a340-5ec8-84e8-121552da2cda,Germany,DEU,32e85f5a-8d4a-5dde-a7b1-4fc9b6a9e29e,Theune-Meyer,Tina,Germany
+3ceb381b-9f6e-54ff-b80d-d1bade27a3b5,2003 FIFA Women's World Cup,58ce2aac-d181-51c6-9f50-fc3e8643d0e1,North Korea,PRK,3fb32125-0a4e-51a3-8e8a-0c91727e94d2,Ri,Song-gun,North Korea
+3ceb381b-9f6e-54ff-b80d-d1bade27a3b5,2003 FIFA Women's World Cup,3611e724-8c08-5f63-b63d-e1cad6af784c,Sweden,SWE,436eeffb-0300-5dec-a9d2-91b1909d5eca,Domanski-Lyfors,Marika,Sweden
+3ceb381b-9f6e-54ff-b80d-d1bade27a3b5,2003 FIFA Women's World Cup,187544dc-4b46-5bf6-a079-e124899a9090,Norway,NOR,491935c1-201b-5a35-9ecf-c3d6d65e3e94,Steen,Åge,Norway
+3ceb381b-9f6e-54ff-b80d-d1bade27a3b5,2003 FIFA Women's World Cup,498c5353-84ca-5f1c-8d71-0ae02196227c,Brazil,BRA,5fcc5a39-26b1-5f78-94f1-c8acc57d222d,Gonçalves,Paulo,Brazil
+3ceb381b-9f6e-54ff-b80d-d1bade27a3b5,2003 FIFA Women's World Cup,2d9898be-ff8f-55ef-a86e-167bdeaf3cc6,Australia,AUS,716fad10-9b06-5c5e-8d7b-5ee17aa19b2c,Santrac,Adrian,Australia
+3ceb381b-9f6e-54ff-b80d-d1bade27a3b5,2003 FIFA Women's World Cup,55f8040d-0098-5415-abdf-66098ef3bbee,Ghana,GHA,77ce90fb-c197-5a96-8745-39a7c0b556da,Aryee,Oko,Ghana
+3ceb381b-9f6e-54ff-b80d-d1bade27a3b5,2003 FIFA Women's World Cup,10913c23-6023-563d-94df-9b4fb66c3432,United States,USA,816ed4ff-2246-57ca-ae75-286847c8e8ff,Heinrichs,April,United States
+3ceb381b-9f6e-54ff-b80d-d1bade27a3b5,2003 FIFA Women's World Cup,93542d8e-8aca-5c07-ad21-5c493fdf083e,China,CHN,830c6907-eb83-544d-951b-ba496761cbf0,Ma,Liangxing,China
+3ceb381b-9f6e-54ff-b80d-d1bade27a3b5,2003 FIFA Women's World Cup,6eb0485e-97e8-57e7-bf93-6c300f3e003a,Russia,RUS,d6451904-74df-5613-908d-a89800fbfc0a,Bystritsky,Yuri,Russia
+49e2bb03-96ed-5dd7-8325-fadb64dd39cb,2011 FIFA Women's World Cup,3de13983-4604-5a8d-b39c-08d4f279a06b,Colombia,COL,0f05b56e-59c5-5700-80eb-5bfd8ec66710,Rozo,Ricardo,Colombia
+49e2bb03-96ed-5dd7-8325-fadb64dd39cb,2011 FIFA Women's World Cup,58ce2aac-d181-51c6-9f50-fc3e8643d0e1,North Korea,PRK,1c05e619-83dc-5ecf-a5f2-a6238d901d45,Kim,Kwang-min,North Korea
+49e2bb03-96ed-5dd7-8325-fadb64dd39cb,2011 FIFA Women's World Cup,f201a6b5-a9f6-5612-947b-a6a57d2e7e18,Nigeria,NGA,2a6238ef-736d-5deb-8d9f-4158b7b1032b,Uche,Ngozi Eucharia,Nigeria
+49e2bb03-96ed-5dd7-8325-fadb64dd39cb,2011 FIFA Women's World Cup,43c1aac8-fa85-5e16-ba9c-4cfdcbc975b8,England,ENG,4f25278b-943a-53a0-9f0d-fe62e06d9ca4,Powell,Hope,England
+49e2bb03-96ed-5dd7-8325-fadb64dd39cb,2011 FIFA Women's World Cup,c832b30c-2750-5a24-a66f-cf9ea7c20a5c,Mexico,MEX,4f8ffb07-7d02-5e53-b5e9-f6ab7210a15e,Cuéllar,Leonardo,Mexico
+49e2bb03-96ed-5dd7-8325-fadb64dd39cb,2011 FIFA Women's World Cup,3d11f07c-c004-508d-9001-6f944119b2b0,France,FRA,533ee5d4-c266-5a82-96f8-a2b972a75852,Bini,Bruno,France
+49e2bb03-96ed-5dd7-8325-fadb64dd39cb,2011 FIFA Women's World Cup,187544dc-4b46-5bf6-a079-e124899a9090,Norway,NOR,70f5380d-7908-58e2-99fe-83712aac5984,Landsem,Eli,Norway
+49e2bb03-96ed-5dd7-8325-fadb64dd39cb,2011 FIFA Women's World Cup,11240419-821b-5fbb-bf15-4906f40e3951,New Zealand,NZL,7146e6e2-1892-5ef9-9d17-08a029039410,Herdman,John,England
+49e2bb03-96ed-5dd7-8325-fadb64dd39cb,2011 FIFA Women's World Cup,eff0a856-a340-5ec8-84e8-121552da2cda,Germany,DEU,790a45e4-6b66-5e33-a5ef-f2a9d6712b4a,Neid,Silvia,Germany
+49e2bb03-96ed-5dd7-8325-fadb64dd39cb,2011 FIFA Women's World Cup,2d9898be-ff8f-55ef-a86e-167bdeaf3cc6,Australia,AUS,90bff27f-6e34-5af1-b982-5ce612b94bc5,Sermanni,Tom,Scotland
+49e2bb03-96ed-5dd7-8325-fadb64dd39cb,2011 FIFA Women's World Cup,498c5353-84ca-5f1c-8d71-0ae02196227c,Brazil,BRA,ae4fd738-532d-5fa0-a0f3-46c5ea728d8b,lima,Kleiton,Brazil
+49e2bb03-96ed-5dd7-8325-fadb64dd39cb,2011 FIFA Women's World Cup,1234d812-2e40-561b-90a3-ed4f9e66bd63,Canada,CAN,b2ea5d1f-f943-55e7-802d-29bea80eb524,Morace,Carolina,Italy
+49e2bb03-96ed-5dd7-8325-fadb64dd39cb,2011 FIFA Women's World Cup,54c72963-7aa5-5bd8-be03-81066850ff78,Equatorial Guinea,GNQ,c9dbe2b0-b499-537c-ac46-85713d880163,Frigério,Marcello,Italy
+49e2bb03-96ed-5dd7-8325-fadb64dd39cb,2011 FIFA Women's World Cup,230373b7-3a16-506a-b5f6-acc37d7e801d,Japan,JPN,d95519aa-ffcc-5187-af9b-886cc223ac7d,Sasaki,Norio,Japan
+49e2bb03-96ed-5dd7-8325-fadb64dd39cb,2011 FIFA Women's World Cup,10913c23-6023-563d-94df-9b4fb66c3432,United States,USA,e0796bbe-e83a-5be6-ba1b-172b1fd32a43,Sundhage,Pia,Sweden
+49e2bb03-96ed-5dd7-8325-fadb64dd39cb,2011 FIFA Women's World Cup,3611e724-8c08-5f63-b63d-e1cad6af784c,Sweden,SWE,f2672226-d9bd-575e-b835-6c5fe52fa638,Dennerby,Thomas,Sweden
+4ee70224-a2a3-585b-8bab-8ef5e9464c04,2014 FIFA Men's World Cup,2179a8d7-c7ed-5c0c-b6a6-8e6eeef52657,Ecuador,ECU,01974c5a-762e-5631-9445-f1e7b595296b,Rueda,Reinaldo,Colombia
+4ee70224-a2a3-585b-8bab-8ef5e9464c04,2014 FIFA Men's World Cup,1e34dbe6-26e7-5736-947c-cb6c9428e165,Algeria,DZA,0f840a5e-d918-5c4b-88e3-f2aff4c77583,Halilhodžić,Vahid,Bosnia and Herzegovina
+4ee70224-a2a3-585b-8bab-8ef5e9464c04,2014 FIFA Men's World Cup,879c1298-9904-5b96-8f25-5e7d455ae2ec,Chile,CHL,271c39fd-671d-53c0-8226-e22221823168,Sampaoli,Jorge,Argentina
+4ee70224-a2a3-585b-8bab-8ef5e9464c04,2014 FIFA Men's World Cup,10913c23-6023-563d-94df-9b4fb66c3432,United States,USA,285823c5-aa93-5360-8b55-a3b2bb4a68fa,Klinsmann,Jürgen,Germany
+4ee70224-a2a3-585b-8bab-8ef5e9464c04,2014 FIFA Men's World Cup,a260026d-34b5-5fdf-8896-fd8997f096b9,Switzerland,CHE,287f65b3-5068-5419-948c-8eaa0e059ee5,Hitzfeld,Ottmar,Germany
+4ee70224-a2a3-585b-8bab-8ef5e9464c04,2014 FIFA Men's World Cup,5b16dd9d-d19c-5484-bac2-f9e932dddd29,Spain,ESP,2d42ae8e-36da-539b-8a17-8a5ddc18a8d0,del Bosque,Vicente,Spain
+4ee70224-a2a3-585b-8bab-8ef5e9464c04,2014 FIFA Men's World Cup,13eebf0f-eb49-5e70-97f9-84f0395ceff1,Portugal,PRT,319dc177-1acb-5f27-a0e7-886c0f437e81,Bento,Paulo,Portugal
+4ee70224-a2a3-585b-8bab-8ef5e9464c04,2014 FIFA Men's World Cup,43c1aac8-fa85-5e16-ba9c-4cfdcbc975b8,England,ENG,32e35bb7-14bd-5a9f-8665-ebbe7e7853c7,Hodgson,Roy,England
+4ee70224-a2a3-585b-8bab-8ef5e9464c04,2014 FIFA Men's World Cup,3de13983-4604-5a8d-b39c-08d4f279a06b,Colombia,COL,3545c44c-12f7-5af2-8225-81a31910a1a6,Pékerman,José,Argentina
+4ee70224-a2a3-585b-8bab-8ef5e9464c04,2014 FIFA Men's World Cup,f8764a69-de29-59f5-8e79-715c4bf88a11,Uruguay,URY,3979d791-dc59-53e5-a27d-0efa10327543,Tabárez,Óscar,Uruguay
+4ee70224-a2a3-585b-8bab-8ef5e9464c04,2014 FIFA Men's World Cup,a42d3d6a-78dd-5ae6-8408-079a857a7c30,Italy,ITA,55805db8-4f86-5516-a562-43e9c28ef32f,Prandelli,Cesare,Italy
+4ee70224-a2a3-585b-8bab-8ef5e9464c04,2014 FIFA Men's World Cup,8dd855bb-0dbb-576b-837a-ad9f8d770c86,Costa Rica,CRI,6318d957-6317-51bf-b5b4-e39e37eafc49,Pinto,Jorge Luis,Colombia
+4ee70224-a2a3-585b-8bab-8ef5e9464c04,2014 FIFA Men's World Cup,eb88a8cc-be5e-5116-8926-ba595504709a,Cameroon,CMR,6a5a1c0b-6fee-57a1-b8ba-450c0fe82db0,Finke,Volker,Germany
+4ee70224-a2a3-585b-8bab-8ef5e9464c04,2014 FIFA Men's World Cup,c832b30c-2750-5a24-a66f-cf9ea7c20a5c,Mexico,MEX,7804bfde-91b9-5a30-bba2-95237ffd495f,Herrera,Miguel,Mexico
+4ee70224-a2a3-585b-8bab-8ef5e9464c04,2014 FIFA Men's World Cup,230373b7-3a16-506a-b5f6-acc37d7e801d,Japan,JPN,80eb38c2-7878-5d2c-9ee3-405dbb1cc1de,Zaccheroni,Alberto,Italy
+4ee70224-a2a3-585b-8bab-8ef5e9464c04,2014 FIFA Men's World Cup,0128c8d4-c488-5312-9fca-94d8f504a7a7,Bosnia and Herzegovina,BIH,89e5ca9d-7ac1-5ee2-9653-b458a2f3f8dc,Sušić,Safet,Bosnia and Herzegovina
+4ee70224-a2a3-585b-8bab-8ef5e9464c04,2014 FIFA Men's World Cup,3aa56241-3868-505a-ac6a-753aefa79cc2,Belgium,BEL,8a91e949-a72f-5a54-b0e8-60a1ed3dfb5a,Wilmots,Marc,Belgium
+4ee70224-a2a3-585b-8bab-8ef5e9464c04,2014 FIFA Men's World Cup,2d9898be-ff8f-55ef-a86e-167bdeaf3cc6,Australia,AUS,90432bda-2cf0-5e67-83be-c51807e0b565,Postecoglou,Ange,Australia
+4ee70224-a2a3-585b-8bab-8ef5e9464c04,2014 FIFA Men's World Cup,f22d85b4-6cde-5f4e-8119-b3b69a2ba879,Iran,IRN,94108b44-88be-5e27-ac13-dd549b6ec70d,Queiroz,Carlos,Portugal
+4ee70224-a2a3-585b-8bab-8ef5e9464c04,2014 FIFA Men's World Cup,933a103d-d9d7-57a3-9c4a-fbc81d25a266,Argentina,ARG,a42d56f4-b9e7-59e0-86cc-90e54654aa75,Sabella,Alejandro,Argentina
+4ee70224-a2a3-585b-8bab-8ef5e9464c04,2014 FIFA Men's World Cup,f201a6b5-a9f6-5612-947b-a6a57d2e7e18,Nigeria,NGA,ab076250-ad4d-5c94-8f88-6f5b4452b624,Keshi,Stephen,Nigeria
+4ee70224-a2a3-585b-8bab-8ef5e9464c04,2014 FIFA Men's World Cup,0db8bc49-3546-517c-af2c-7abd04ae2214,Croatia,HRV,ab145b6a-884f-5e52-a0a6-ef8dae2c8e8d,Kovač,Niko,Croatia
+4ee70224-a2a3-585b-8bab-8ef5e9464c04,2014 FIFA Men's World Cup,3d11f07c-c004-508d-9001-6f944119b2b0,France,FRA,aec9de42-ea25-5224-b04b-167d21a55ab8,Deschamps,Didier,France
+4ee70224-a2a3-585b-8bab-8ef5e9464c04,2014 FIFA Men's World Cup,55f8040d-0098-5415-abdf-66098ef3bbee,Ghana,GHA,c0f16c8e-8ce7-561c-b270-0b61b1b478b1,Appiah,James Kwesi,Ghana
+4ee70224-a2a3-585b-8bab-8ef5e9464c04,2014 FIFA Men's World Cup,f23d02ab-e48a-541b-a3d5-efb12f628f6c,Greece,GRC,c3d6645a-a87c-5c22-b380-03b193f92781,Santos,Fernando,Portugal
+4ee70224-a2a3-585b-8bab-8ef5e9464c04,2014 FIFA Men's World Cup,d522b940-a152-5cc7-bcb3-89e28a1ce459,Netherlands,NLD,caa09e8a-db1e-5e2c-a4b3-6fde7f127057,van Gaal,Louis,Netherlands
+4ee70224-a2a3-585b-8bab-8ef5e9464c04,2014 FIFA Men's World Cup,6eb0485e-97e8-57e7-bf93-6c300f3e003a,Russia,RUS,d037c793-c54e-517c-b94d-ff76e9878d08,Capello,Fabio,Italy
+4ee70224-a2a3-585b-8bab-8ef5e9464c04,2014 FIFA Men's World Cup,498c5353-84ca-5f1c-8d71-0ae02196227c,Brazil,BRA,d86bec98-11ea-5f35-a5cc-68479d885367,Scolari,Luiz Felipe,Brazil
+4ee70224-a2a3-585b-8bab-8ef5e9464c04,2014 FIFA Men's World Cup,e31e86e8-0616-5e05-a842-dc8f67c29ca4,Ivory Coast,CIV,dc32efc8-9348-5001-9574-1979aad6037b,Lamouchi,Sabri,France
+4ee70224-a2a3-585b-8bab-8ef5e9464c04,2014 FIFA Men's World Cup,9b432d9b-a19d-5672-901e-2884a641784b,Honduras,HND,e4ed9f13-0059-5d17-afa4-bd19eca9a345,Suárez,Luis Fernando,Colombia
+4ee70224-a2a3-585b-8bab-8ef5e9464c04,2014 FIFA Men's World Cup,83f65ffa-c76e-5ace-8c09-c87d141a3916,South Korea,KOR,efd82aaf-d4bc-5d8b-95c6-d4d5f5405666,Hong,Myung-bo,South Korea
+4ee70224-a2a3-585b-8bab-8ef5e9464c04,2014 FIFA Men's World Cup,eff0a856-a340-5ec8-84e8-121552da2cda,Germany,DEU,f98b62f6-6a0f-5bec-b6fd-b3a9919242e1,Löw,Joachim,Germany
+5628ea07-73ab-57ad-99be-84c20dc96cc0,1954 FIFA Men's World Cup,9a9be60e-89da-590c-95a8-6e5802b5deb5,Yugoslavia,YUG,0d0df328-9a18-5c7c-8a7e-b0f0d86b8ccd,Tirnanić,Aleksandar,Yugoslavia
+5628ea07-73ab-57ad-99be-84c20dc96cc0,1954 FIFA Men's World Cup,f16b7d5c-db54-5b27-b827-e848a3035641,Hungary,HUN,0d3fc18e-e465-571e-94a7-e369da12d4ee,Sebes,Gusztáv,Hungary
+5628ea07-73ab-57ad-99be-84c20dc96cc0,1954 FIFA Men's World Cup,fc2ce361-82ed-537a-85f1-ff8f384d11b1,Scotland,SCO,34c6850a-dff0-5c83-a984-9daeb486c6a9,Beattie,Andy,Scotland
+5628ea07-73ab-57ad-99be-84c20dc96cc0,1954 FIFA Men's World Cup,3d11f07c-c004-508d-9001-6f944119b2b0,France,FRA,4d00933d-ff79-5e10-ae4f-661147d406b4,Pibarot,Pierre,France
+5628ea07-73ab-57ad-99be-84c20dc96cc0,1954 FIFA Men's World Cup,cf23603f-09d6-52e6-9c7e-fb8db4554297,Czechoslovakia,CSK,55f1fea2-c830-5ea2-94f1-ae203f3cdc6d,Borhy,Karol,Czechoslovakia
+5628ea07-73ab-57ad-99be-84c20dc96cc0,1954 FIFA Men's World Cup,43c1aac8-fa85-5e16-ba9c-4cfdcbc975b8,England,ENG,605710b9-5847-5e36-9606-d4b8e47edb9e,Winterbottom,Walter,England
+5628ea07-73ab-57ad-99be-84c20dc96cc0,1954 FIFA Men's World Cup,3aa56241-3868-505a-ac6a-753aefa79cc2,Belgium,BEL,6266847f-e020-539e-b042-88fe1b4bd918,Livingstone,Doug,Scotland
+5628ea07-73ab-57ad-99be-84c20dc96cc0,1954 FIFA Men's World Cup,c832b30c-2750-5a24-a66f-cf9ea7c20a5c,Mexico,MEX,7bffcb86-25c9-5541-82b4-b990aa81e364,López Herranz,Antonio,Spain
+5628ea07-73ab-57ad-99be-84c20dc96cc0,1954 FIFA Men's World Cup,498c5353-84ca-5f1c-8d71-0ae02196227c,Brazil,BRA,9da56bd3-1de6-57eb-9384-790adc271511,Moreira,Zezé,Brazil
+5628ea07-73ab-57ad-99be-84c20dc96cc0,1954 FIFA Men's World Cup,d1c45d05-d0bd-55b8-b370-dfa64d998bcc,Turkey,TUR,a53f5267-e920-5c84-af33-d6704a7236e9,Puppo,Sandro,Italy
+5628ea07-73ab-57ad-99be-84c20dc96cc0,1954 FIFA Men's World Cup,8e63ee49-fbde-5478-a093-1a6a679cc27f,Austria,AUT,a7b09a15-5d08-546b-9320-9851d194b97e,Nausch,Walter,Austria
+5628ea07-73ab-57ad-99be-84c20dc96cc0,1954 FIFA Men's World Cup,adbcf28f-5f27-56bd-bca0-909cf77a8ae0,West Germany,DEU,a92866d6-7b41-5603-b196-fe389ffe2428,Herberger,Sepp,Germany
+5628ea07-73ab-57ad-99be-84c20dc96cc0,1954 FIFA Men's World Cup,83f65ffa-c76e-5ace-8c09-c87d141a3916,South Korea,KOR,b355d917-2d60-5b83-959c-343b241013d2,Kim,Yong-sik,South Korea
+5628ea07-73ab-57ad-99be-84c20dc96cc0,1954 FIFA Men's World Cup,a42d3d6a-78dd-5ae6-8408-079a857a7c30,Italy,ITA,f7a0c47c-91f8-5422-85b9-17caddae5b59,Czeizler,Lajos,Hungary
+5628ea07-73ab-57ad-99be-84c20dc96cc0,1954 FIFA Men's World Cup,f8764a69-de29-59f5-8e79-715c4bf88a11,Uruguay,URY,f84426ce-28fd-5535-8ecb-f0c7ae1688c6,López,Juan,Uruguay
+5628ea07-73ab-57ad-99be-84c20dc96cc0,1954 FIFA Men's World Cup,a260026d-34b5-5fdf-8896-fd8997f096b9,Switzerland,CHE,fe236aac-31b0-5cf4-a218-017b4d3c3864,Rappan,Karl,Austria
+5d9da256-e241-508e-85a7-5a17c07f186a,1950 FIFA Men's World Cup,498c5353-84ca-5f1c-8d71-0ae02196227c,Brazil,BRA,18125071-7df6-5c3d-8f55-b9272deac3cd,Costa,Flávio,Brazil
+5d9da256-e241-508e-85a7-5a17c07f186a,1950 FIFA Men's World Cup,97c63301-8b06-5bfb-8909-40b555c7c9e3,Bolivia,BOL,1905d4ae-684c-5eab-a6fa-1e901af50c1a,Pretto,Mario,Italy
+5d9da256-e241-508e-85a7-5a17c07f186a,1950 FIFA Men's World Cup,9678d2a4-5323-5082-b115-575366fb384a,Paraguay,PRY,2cc02914-8e3e-5afc-a5c6-2b54959030a0,Fleitas Solich,Manuel,Paraguay
+5d9da256-e241-508e-85a7-5a17c07f186a,1950 FIFA Men's World Cup,5b16dd9d-d19c-5484-bac2-f9e932dddd29,Spain,ESP,389651c0-9971-5823-bfbc-de3220fa3371,Eizaguirre,Guillermo,Spain
+5d9da256-e241-508e-85a7-5a17c07f186a,1950 FIFA Men's World Cup,879c1298-9904-5b96-8f25-5e7d455ae2ec,Chile,CHL,551c3460-1417-5f46-be99-604f782e529f,Buccicardi,Alberto,Chile
+5d9da256-e241-508e-85a7-5a17c07f186a,1950 FIFA Men's World Cup,10913c23-6023-563d-94df-9b4fb66c3432,United States,USA,55e75b22-48ed-5b3b-9ad6-7b564e207d22,Jeffrey,William,United States
+5d9da256-e241-508e-85a7-5a17c07f186a,1950 FIFA Men's World Cup,43c1aac8-fa85-5e16-ba9c-4cfdcbc975b8,England,ENG,605710b9-5847-5e36-9606-d4b8e47edb9e,Winterbottom,Walter,England
+5d9da256-e241-508e-85a7-5a17c07f186a,1950 FIFA Men's World Cup,c832b30c-2750-5a24-a66f-cf9ea7c20a5c,Mexico,MEX,8fc2867b-a2a1-5e72-a4b0-f6481b0d84a7,Vial,Octavio,Mexico
+5d9da256-e241-508e-85a7-5a17c07f186a,1950 FIFA Men's World Cup,9a9be60e-89da-590c-95a8-6e5802b5deb5,Yugoslavia,YUG,a25c4863-65dc-5ffe-a8a5-b1e30a779e3e,Arsenijević,Milorad,Yugoslavia
+5d9da256-e241-508e-85a7-5a17c07f186a,1950 FIFA Men's World Cup,a42d3d6a-78dd-5ae6-8408-079a857a7c30,Italy,ITA,d0fe5967-7685-5b5a-9f32-620ddf6ec27f,Novo,Ferruccio,Italy
+5d9da256-e241-508e-85a7-5a17c07f186a,1950 FIFA Men's World Cup,a260026d-34b5-5fdf-8896-fd8997f096b9,Switzerland,CHE,d5262aab-7dd1-506a-b10f-5a9d9b9cef56,Andreoli,Franco,Switzerland
+5d9da256-e241-508e-85a7-5a17c07f186a,1950 FIFA Men's World Cup,3611e724-8c08-5f63-b63d-e1cad6af784c,Sweden,SWE,d57faa21-f30b-5242-b4d7-6231be4cd63c,Raynor,George,England
+5d9da256-e241-508e-85a7-5a17c07f186a,1950 FIFA Men's World Cup,f8764a69-de29-59f5-8e79-715c4bf88a11,Uruguay,URY,f84426ce-28fd-5535-8ecb-f0c7ae1688c6,López,Juan,Uruguay
+6be60fed-dffa-5aa5-89a6-374b2bcb8c92,1958 FIFA Men's World Cup,9a9be60e-89da-590c-95a8-6e5802b5deb5,Yugoslavia,YUG,0d0df328-9a18-5c7c-8a7e-b0f0d86b8ccd,Tirnanić,Aleksandar,Yugoslavia
+6be60fed-dffa-5aa5-89a6-374b2bcb8c92,1958 FIFA Men's World Cup,fc2ce361-82ed-537a-85f1-ff8f384d11b1,Scotland,SCO,1138e2c3-b372-51d9-afa9-51e2ef7f27c4,Busby,Matt,Scotland
+6be60fed-dffa-5aa5-89a6-374b2bcb8c92,1958 FIFA Men's World Cup,f16b7d5c-db54-5b27-b827-e848a3035641,Hungary,HUN,118f2e23-c2af-5ed2-a6ce-854e6f0766d7,Baróti,Lajos,Hungary
+6be60fed-dffa-5aa5-89a6-374b2bcb8c92,1958 FIFA Men's World Cup,9678d2a4-5323-5082-b115-575366fb384a,Paraguay,PRY,26d48436-e785-5149-bb8b-b519c65cbff7,González,Aurelio,Paraguay
+6be60fed-dffa-5aa5-89a6-374b2bcb8c92,1958 FIFA Men's World Cup,6c983d26-03e1-5649-a13f-42b61e101a0e,Soviet Union,SUN,32941971-7569-5a1b-b1a2-46971f9050e6,Kachalin,Gavriil,Soviet Union
+6be60fed-dffa-5aa5-89a6-374b2bcb8c92,1958 FIFA Men's World Cup,43c1aac8-fa85-5e16-ba9c-4cfdcbc975b8,England,ENG,605710b9-5847-5e36-9606-d4b8e47edb9e,Winterbottom,Walter,England
+6be60fed-dffa-5aa5-89a6-374b2bcb8c92,1958 FIFA Men's World Cup,fc2ce361-82ed-537a-85f1-ff8f384d11b1,Scotland,SCO,67af513d-fbf0-54be-a5a4-3e26957b813f,Walker,Dawson,Scotland
+6be60fed-dffa-5aa5-89a6-374b2bcb8c92,1958 FIFA Men's World Cup,c832b30c-2750-5a24-a66f-cf9ea7c20a5c,Mexico,MEX,7bffcb86-25c9-5541-82b4-b990aa81e364,López Herranz,Antonio,Spain
+6be60fed-dffa-5aa5-89a6-374b2bcb8c92,1958 FIFA Men's World Cup,cf23603f-09d6-52e6-9c7e-fb8db4554297,Czechoslovakia,CSK,8d091470-1b2c-567e-8f6c-7319839b2eb9,Kolský,Karel,Czechoslovakia
+6be60fed-dffa-5aa5-89a6-374b2bcb8c92,1958 FIFA Men's World Cup,933a103d-d9d7-57a3-9c4a-fbc81d25a266,Argentina,ARG,970b9d91-c067-5292-8965-2ef9851388cd,Stábile,Guillermo,Argentina
+6be60fed-dffa-5aa5-89a6-374b2bcb8c92,1958 FIFA Men's World Cup,498c5353-84ca-5f1c-8d71-0ae02196227c,Brazil,BRA,975371a8-7a9a-5e9b-915d-4c5e8a75b358,Feola,Vicente,Brazil
+6be60fed-dffa-5aa5-89a6-374b2bcb8c92,1958 FIFA Men's World Cup,adbcf28f-5f27-56bd-bca0-909cf77a8ae0,West Germany,DEU,a92866d6-7b41-5603-b196-fe389ffe2428,Herberger,Sepp,Germany
+6be60fed-dffa-5aa5-89a6-374b2bcb8c92,1958 FIFA Men's World Cup,172bbcf1-8dd9-50ac-ba34-b51c641a833e,Wales,WAL,be79bcaa-c107-5177-8c08-924fd56eafdf,Murphy,Jimmy,Wales
+6be60fed-dffa-5aa5-89a6-374b2bcb8c92,1958 FIFA Men's World Cup,3611e724-8c08-5f63-b63d-e1cad6af784c,Sweden,SWE,d57faa21-f30b-5242-b4d7-6231be4cd63c,Raynor,George,England
+6be60fed-dffa-5aa5-89a6-374b2bcb8c92,1958 FIFA Men's World Cup,8e63ee49-fbde-5478-a093-1a6a679cc27f,Austria,AUT,e0038ced-3b83-5b58-ad0d-9da4319117db,Argauer,Karl,Austria
+6be60fed-dffa-5aa5-89a6-374b2bcb8c92,1958 FIFA Men's World Cup,3d11f07c-c004-508d-9001-6f944119b2b0,France,FRA,e9ec5af5-5786-5c28-b0a2-462fcb95c949,Batteux,Albert,France
+6be60fed-dffa-5aa5-89a6-374b2bcb8c92,1958 FIFA Men's World Cup,641e565c-2f15-5697-b9f0-a09f9dcf1d99,Northern Ireland,NIR,fc9b2bf7-def1-5b16-941e-1536e8360aea,Doherty,Peter,Northern Ireland
+717bed6b-0e65-5efa-8010-ab689ff32abe,1970 FIFA Men's World Cup,43c1aac8-fa85-5e16-ba9c-4cfdcbc975b8,England,ENG,2747d4fe-a6a9-5194-9412-3d4ddff28326,Ramsey,Alf,England
+717bed6b-0e65-5efa-8010-ab689ff32abe,1970 FIFA Men's World Cup,6c983d26-03e1-5649-a13f-42b61e101a0e,Soviet Union,SUN,32941971-7569-5a1b-b1a2-46971f9050e6,Kachalin,Gavriil,Soviet Union
+717bed6b-0e65-5efa-8010-ab689ff32abe,1970 FIFA Men's World Cup,a42d3d6a-78dd-5ae6-8408-079a857a7c30,Italy,ITA,34737d50-1787-5ac8-9b5d-11bb877c47db,Valcareggi,Ferruccio,Italy
+717bed6b-0e65-5efa-8010-ab689ff32abe,1970 FIFA Men's World Cup,3aa56241-3868-505a-ac6a-753aefa79cc2,Belgium,BEL,5cd9d04f-7312-51db-8c96-4353ef1eaf5f,Goethals,Raymond,Belgium
+717bed6b-0e65-5efa-8010-ab689ff32abe,1970 FIFA Men's World Cup,c832b30c-2750-5a24-a66f-cf9ea7c20a5c,Mexico,MEX,61a28d87-41e9-5d23-a462-3f007d69a6aa,Cárdenas,Raúl,Mexico
+717bed6b-0e65-5efa-8010-ab689ff32abe,1970 FIFA Men's World Cup,db3abc88-7f89-5183-bc6d-ea6fa7c361d9,Peru,PER,6b28db26-fff1-552a-99b3-f2c23885f112,Didi,,Brazil
+717bed6b-0e65-5efa-8010-ab689ff32abe,1970 FIFA Men's World Cup,3611e724-8c08-5f63-b63d-e1cad6af784c,Sweden,SWE,9f7d2fef-563c-5963-ac2d-07aa8f0f8900,Bergmark,Orvar,Sweden
+717bed6b-0e65-5efa-8010-ab689ff32abe,1970 FIFA Men's World Cup,f8764a69-de29-59f5-8e79-715c4bf88a11,Uruguay,URY,abfa4c2e-d85d-5c97-81ab-517939fb5030,Hohberg,Juan,Uruguay
+717bed6b-0e65-5efa-8010-ab689ff32abe,1970 FIFA Men's World Cup,cf23603f-09d6-52e6-9c7e-fb8db4554297,Czechoslovakia,CSK,b4d142f4-d7e3-522e-baf5-a7086ed0112b,Marko,Jozef,Czechoslovakia
+717bed6b-0e65-5efa-8010-ab689ff32abe,1970 FIFA Men's World Cup,93a0c160-8db6-5c28-9415-210f2e278ab8,Israel,ISR,b6ce9d4c-5881-50b1-9323-121873b793cc,Scheffer,Emmanuel,Israel
+717bed6b-0e65-5efa-8010-ab689ff32abe,1970 FIFA Men's World Cup,da4d79d5-3e18-54b9-916c-997fdef9a796,Romania,ROU,bfd4a0f0-1207-5f7b-94cd-8ba2691364df,Niculescu,Angelo,Romania
+717bed6b-0e65-5efa-8010-ab689ff32abe,1970 FIFA Men's World Cup,498c5353-84ca-5f1c-8d71-0ae02196227c,Brazil,BRA,c30d0220-1310-54a9-a3e9-7a7b76d957bd,Zagallo,Mário,Brazil
+717bed6b-0e65-5efa-8010-ab689ff32abe,1970 FIFA Men's World Cup,f4b41163-3c82-5e1e-af54-e7ecc8a15135,Bulgaria,BGR,c8284c86-a9ff-58e0-ae4a-258916be54b1,Bozhkov,Stefan,Bulgaria
+717bed6b-0e65-5efa-8010-ab689ff32abe,1970 FIFA Men's World Cup,265f639f-c7d5-5ca2-b708-b0995f6c2b89,Morocco,MAR,e7062617-fa41-5d56-8bbb-9983411fbc25,Vidinić,Blagoje,Yugoslavia
+717bed6b-0e65-5efa-8010-ab689ff32abe,1970 FIFA Men's World Cup,535a7e23-4bf9-5e96-ac76-48241d246817,El Salvador,SLV,eaf6b3a1-4436-5f29-9403-44a2ff7ec22b,Carrasco,Hernán,Chile
+717bed6b-0e65-5efa-8010-ab689ff32abe,1970 FIFA Men's World Cup,adbcf28f-5f27-56bd-bca0-909cf77a8ae0,West Germany,DEU,f1a40b7b-e23d-5f2a-a874-788acf47dcc5,Schön,Helmut,Germany
+860dc5fb-c8ff-502e-ad19-c34195b265e0,1974 FIFA Men's World Cup,f4b41163-3c82-5e1e-af54-e7ecc8a15135,Bulgaria,BGR,096f2455-0e00-5c0e-a924-fd8370ce9119,Mladenov,Hristo,Bulgaria
+860dc5fb-c8ff-502e-ad19-c34195b265e0,1974 FIFA Men's World Cup,a42d3d6a-78dd-5ae6-8408-079a857a7c30,Italy,ITA,34737d50-1787-5ac8-9b5d-11bb877c47db,Valcareggi,Ferruccio,Italy
+860dc5fb-c8ff-502e-ad19-c34195b265e0,1974 FIFA Men's World Cup,d522b940-a152-5cc7-bcb3-89e28a1ce459,Netherlands,NLD,38bae740-45b6-5b61-ad98-ea58a3b5847b,Michels,Rinus,Netherlands
+860dc5fb-c8ff-502e-ad19-c34195b265e0,1974 FIFA Men's World Cup,3611e724-8c08-5f63-b63d-e1cad6af784c,Sweden,SWE,60aa6be2-2d76-50b4-bf67-8d6c0d89a556,Ericson,Georg,Sweden
+860dc5fb-c8ff-502e-ad19-c34195b265e0,1974 FIFA Men's World Cup,fc2ce361-82ed-537a-85f1-ff8f384d11b1,Scotland,SCO,6ec27fad-f4a1-56a7-a6ab-c54cd8b8639a,Ormond,Willie,Scotland
+860dc5fb-c8ff-502e-ad19-c34195b265e0,1974 FIFA Men's World Cup,7092805b-51a6-5344-845b-489df45277c1,East Germany,DDR,6f0350ce-8b21-5dc3-a8a1-d5f3453777e3,Buschner,Georg,East Germany
+860dc5fb-c8ff-502e-ad19-c34195b265e0,1974 FIFA Men's World Cup,933a103d-d9d7-57a3-9c4a-fbc81d25a266,Argentina,ARG,7f78e1d2-20ed-50ea-8c6e-709935bfa9ed,Cap,Vladislao,Argentina
+860dc5fb-c8ff-502e-ad19-c34195b265e0,1974 FIFA Men's World Cup,2d9898be-ff8f-55ef-a86e-167bdeaf3cc6,Australia,AUS,9d43d6c5-3476-5c10-a897-4b8c3689c1cf,Rasic,Rale,Yugoslavia
+860dc5fb-c8ff-502e-ad19-c34195b265e0,1974 FIFA Men's World Cup,fc0455f9-aa03-5b3d-9b41-41854289e993,Poland,POL,a8cfbfc4-294b-5494-8534-80ff88970010,Górski,Kazimierz,Poland
+860dc5fb-c8ff-502e-ad19-c34195b265e0,1974 FIFA Men's World Cup,879c1298-9904-5b96-8f25-5e7d455ae2ec,Chile,CHL,ae34c0ab-175a-5b13-ab26-6dbeaea18b17,Álamos,Luis,Chile
+860dc5fb-c8ff-502e-ad19-c34195b265e0,1974 FIFA Men's World Cup,498c5353-84ca-5f1c-8d71-0ae02196227c,Brazil,BRA,c30d0220-1310-54a9-a3e9-7a7b76d957bd,Zagallo,Mário,Brazil
+860dc5fb-c8ff-502e-ad19-c34195b265e0,1974 FIFA Men's World Cup,f8764a69-de29-59f5-8e79-715c4bf88a11,Uruguay,URY,e3078a9b-c496-5e2f-a09f-f7b574c1b1e4,Porta,Roberto,Uruguay
+860dc5fb-c8ff-502e-ad19-c34195b265e0,1974 FIFA Men's World Cup,d54fde2a-25fe-5c19-820f-93843678e1a3,Zaire,COD,e7062617-fa41-5d56-8bbb-9983411fbc25,Vidinić,Blagoje,Yugoslavia
+860dc5fb-c8ff-502e-ad19-c34195b265e0,1974 FIFA Men's World Cup,9a9be60e-89da-590c-95a8-6e5802b5deb5,Yugoslavia,YUG,f010d939-9ae0-5eed-a442-749221d06b86,Miljanić,Miljan,Yugoslavia
+860dc5fb-c8ff-502e-ad19-c34195b265e0,1974 FIFA Men's World Cup,adbcf28f-5f27-56bd-bca0-909cf77a8ae0,West Germany,DEU,f1a40b7b-e23d-5f2a-a874-788acf47dcc5,Schön,Helmut,Germany
+860dc5fb-c8ff-502e-ad19-c34195b265e0,1974 FIFA Men's World Cup,3a57ba00-89d9-50ec-b7f0-c37c9920a2fa,Haiti,HTI,fc1d3c70-0ada-5c24-a8c9-0dfc1eedd416,Tassy,Antoine,Haiti
+8e0540a9-ab5d-5e7f-8ed2-417e3e1568a9,1986 FIFA Men's World Cup,fc2ce361-82ed-537a-85f1-ff8f384d11b1,Scotland,SCO,0cebd0ad-3650-5fc4-b94a-bcdfa3b0a7c0,Ferguson,Alex,Scotland
+8e0540a9-ab5d-5e7f-8ed2-417e3e1568a9,1986 FIFA Men's World Cup,f8764a69-de29-59f5-8e79-715c4bf88a11,Uruguay,URY,1f1fe107-4cdd-5c91-b91f-c9468dfceda0,Borrás,Omar,Uruguay
+8e0540a9-ab5d-5e7f-8ed2-417e3e1568a9,1986 FIFA Men's World Cup,1e34dbe6-26e7-5736-947c-cb6c9428e165,Algeria,DZA,24aa60de-af61-54ad-a1e9-5364e9a0884f,Saâdane,Rabah,Algeria
+8e0540a9-ab5d-5e7f-8ed2-417e3e1568a9,1986 FIFA Men's World Cup,265f639f-c7d5-5ca2-b708-b0995f6c2b89,Morocco,MAR,42f9728d-d3de-5000-a15d-d5f583d8c02c,Faria,José,Brazil
+8e0540a9-ab5d-5e7f-8ed2-417e3e1568a9,1986 FIFA Men's World Cup,83f65ffa-c76e-5ace-8c09-c87d141a3916,South Korea,KOR,5336c0b7-6aaa-507f-aef8-fadaa527e1ad,Kim,Jung-nam,South Korea
+8e0540a9-ab5d-5e7f-8ed2-417e3e1568a9,1986 FIFA Men's World Cup,933a103d-d9d7-57a3-9c4a-fbc81d25a266,Argentina,ARG,5d7e511d-372a-5c7f-af80-833ac35bac4c,Bilardo,Carlos,Argentina
+8e0540a9-ab5d-5e7f-8ed2-417e3e1568a9,1986 FIFA Men's World Cup,1234d812-2e40-561b-90a3-ed4f9e66bd63,Canada,CAN,6a1a7848-f92d-5467-a361-d3b904c9c371,Waiters,Tony,England
+8e0540a9-ab5d-5e7f-8ed2-417e3e1568a9,1986 FIFA Men's World Cup,498c5353-84ca-5f1c-8d71-0ae02196227c,Brazil,BRA,778531ac-47db-5e68-9506-687b1de826d6,Santana,Telê,Brazil
+8e0540a9-ab5d-5e7f-8ed2-417e3e1568a9,1986 FIFA Men's World Cup,0483a910-5880-55a5-abb2-5da0215a7d70,Iraq,IRQ,77a0d418-92ce-5802-8578-b5a8fe5c9f22,de Macedo,Evaristo,Brazil
+8e0540a9-ab5d-5e7f-8ed2-417e3e1568a9,1986 FIFA Men's World Cup,641e565c-2f15-5697-b9f0-a09f9dcf1d99,Northern Ireland,NIR,7c3d0faa-d238-51e3-b77c-f652c5ea64c7,Bingham,Billy,Northern Ireland
+8e0540a9-ab5d-5e7f-8ed2-417e3e1568a9,1986 FIFA Men's World Cup,9678d2a4-5323-5082-b115-575366fb384a,Paraguay,PRY,7cb6ae9c-cef2-5deb-b793-fcca4abd7d6c,Ré,Cayetano,Paraguay
+8e0540a9-ab5d-5e7f-8ed2-417e3e1568a9,1986 FIFA Men's World Cup,43c1aac8-fa85-5e16-ba9c-4cfdcbc975b8,England,ENG,8bc2acc7-02ee-545a-8fb2-ccac0d316850,Robson,Bobby,England
+8e0540a9-ab5d-5e7f-8ed2-417e3e1568a9,1986 FIFA Men's World Cup,3d11f07c-c004-508d-9001-6f944119b2b0,France,FRA,909817eb-379f-58e9-909f-57aa8e790ea8,Michel,Henri,France
+8e0540a9-ab5d-5e7f-8ed2-417e3e1568a9,1986 FIFA Men's World Cup,fc0455f9-aa03-5b3d-9b41-41854289e993,Poland,POL,96795c42-0ca5-5638-9ae1-c76ad8299460,Piechniczek,Antoni,Poland
+8e0540a9-ab5d-5e7f-8ed2-417e3e1568a9,1986 FIFA Men's World Cup,3aa56241-3868-505a-ac6a-753aefa79cc2,Belgium,BEL,aeb7b186-b324-5314-a73b-de4acb845d33,Thys,Guy,Belgium
+8e0540a9-ab5d-5e7f-8ed2-417e3e1568a9,1986 FIFA Men's World Cup,5b16dd9d-d19c-5484-bac2-f9e932dddd29,Spain,ESP,b4a4b9b0-33f4-5e4c-a6d4-f6707c138589,Muñoz,Miguel,Spain
+8e0540a9-ab5d-5e7f-8ed2-417e3e1568a9,1986 FIFA Men's World Cup,f4b41163-3c82-5e1e-af54-e7ecc8a15135,Bulgaria,BGR,c0dfa36f-f718-5147-b4ee-fb3e6f2ad0aa,Vutsov,Ivan,Bulgaria
+8e0540a9-ab5d-5e7f-8ed2-417e3e1568a9,1986 FIFA Men's World Cup,dfb099cc-e7ea-5e4f-b492-bdbf6e8e179b,Denmark,DNK,c915b8fc-461e-5ab8-852d-0140af6d39bb,Piontek,Sepp,Germany
+8e0540a9-ab5d-5e7f-8ed2-417e3e1568a9,1986 FIFA Men's World Cup,13eebf0f-eb49-5e70-97f9-84f0395ceff1,Portugal,PRT,cadb19d8-b696-535e-bf69-db479e599dca,Torres,José,Portugal
+8e0540a9-ab5d-5e7f-8ed2-417e3e1568a9,1986 FIFA Men's World Cup,f16b7d5c-db54-5b27-b827-e848a3035641,Hungary,HUN,cf06e278-4bf9-5da8-b691-d04e736588cb,Mezey,György,Hungary
+8e0540a9-ab5d-5e7f-8ed2-417e3e1568a9,1986 FIFA Men's World Cup,adbcf28f-5f27-56bd-bca0-909cf77a8ae0,West Germany,DEU,d51fce80-157f-5307-a21d-b3b74e010072,Beckenbauer,Franz,Germany
+8e0540a9-ab5d-5e7f-8ed2-417e3e1568a9,1986 FIFA Men's World Cup,a42d3d6a-78dd-5ae6-8408-079a857a7c30,Italy,ITA,dafcc73c-4ff9-5d86-b6dc-4ca960d763d1,Bearzot,Enzo,Italy
+8e0540a9-ab5d-5e7f-8ed2-417e3e1568a9,1986 FIFA Men's World Cup,6c983d26-03e1-5649-a13f-42b61e101a0e,Soviet Union,SUN,e3d1f6dd-0f59-549a-add3-f5b2cc993fd2,Lobanovsky,Valeri,Soviet Union
+8e0540a9-ab5d-5e7f-8ed2-417e3e1568a9,1986 FIFA Men's World Cup,c832b30c-2750-5a24-a66f-cf9ea7c20a5c,Mexico,MEX,e91d374b-3f6b-5a35-a611-4c171f4302a1,Milutinović,Bora,Yugoslavia
+97242af1-4f11-5b96-b5f1-026e51f4a3c5,2023 FIFA Women's World Cup,3de13983-4604-5a8d-b39c-08d4f279a06b,Colombia,COL,04560f11-3599-5d14-9484-f474b232852f,Abadía,Nelson,Colombia
+97242af1-4f11-5b96-b5f1-026e51f4a3c5,2023 FIFA Women's World Cup,a260026d-34b5-5fdf-8896-fd8997f096b9,Switzerland,CHE,0ab50b62-b0da-5cf6-bdc7-5daec51259d7,Grings,Inka,Germany
+97242af1-4f11-5b96-b5f1-026e51f4a3c5,2023 FIFA Women's World Cup,3611e724-8c08-5f63-b63d-e1cad6af784c,Sweden,SWE,0d8f65a2-6956-59ed-9f0a-15a532e13110,Gerhardsson,Peter,Sweden
+97242af1-4f11-5b96-b5f1-026e51f4a3c5,2023 FIFA Women's World Cup,835977dc-ae64-5928-9bd2-421d65fcb745,Panama,PAN,0fba9dce-265c-57e7-b7e0-4a8f8e7269cd,Quintana,Ignacio,Mexico
+97242af1-4f11-5b96-b5f1-026e51f4a3c5,2023 FIFA Women's World Cup,230373b7-3a16-506a-b5f6-acc37d7e801d,Japan,JPN,22029df4-4a66-526a-ac45-152bc8570dfd,Ikeda,Futoshi,Japan
+97242af1-4f11-5b96-b5f1-026e51f4a3c5,2023 FIFA Women's World Cup,3de13983-4604-5a8d-b39c-08d4f279a06b,Colombia,COL,220b1dc8-0090-508c-9ea7-31a8c85dfad3,Marsiglia,Ángelo,Colombia
+97242af1-4f11-5b96-b5f1-026e51f4a3c5,2023 FIFA Women's World Cup,43c1aac8-fa85-5e16-ba9c-4cfdcbc975b8,England,ENG,26b64e2f-4542-58bd-af23-d556e94efd30,Wiegman,Sarina,Netherlands
+97242af1-4f11-5b96-b5f1-026e51f4a3c5,2023 FIFA Women's World Cup,dfb099cc-e7ea-5e4f-b492-bdbf6e8e179b,Denmark,DNK,36677270-74f8-5b3a-8070-e08edc93b81d,Søndergaard,Lars,Denmark
+97242af1-4f11-5b96-b5f1-026e51f4a3c5,2023 FIFA Women's World Cup,10913c23-6023-563d-94df-9b4fb66c3432,United States,USA,3855ce72-20ae-5297-84b8-5d6a2deab51f,Andonovski,Vlatko,North Macedonia
+97242af1-4f11-5b96-b5f1-026e51f4a3c5,2023 FIFA Women's World Cup,f201a6b5-a9f6-5612-947b-a6a57d2e7e18,Nigeria,NGA,49b079c5-bf55-563a-8e69-63f3a0881eaa,Waldrum,Randy,United States
+97242af1-4f11-5b96-b5f1-026e51f4a3c5,2023 FIFA Women's World Cup,3d11f07c-c004-508d-9001-6f944119b2b0,France,FRA,5b5a4f33-48e9-5870-8d9c-352678243818,Renard,Hervé,France
+97242af1-4f11-5b96-b5f1-026e51f4a3c5,2023 FIFA Women's World Cup,83f65ffa-c76e-5ace-8c09-c87d141a3916,South Korea,KOR,6c410987-945a-5efd-a67e-a852173416d2,Bell,Colin,England
+97242af1-4f11-5b96-b5f1-026e51f4a3c5,2023 FIFA Women's World Cup,933a103d-d9d7-57a3-9c4a-fbc81d25a266,Argentina,ARG,6f8db8aa-eb31-5044-ade7-fe1ac545dd61,Portanova,Germán,Argentina
+97242af1-4f11-5b96-b5f1-026e51f4a3c5,2023 FIFA Women's World Cup,3a57ba00-89d9-50ec-b7f0-c37c9920a2fa,Haiti,HTI,782b29ec-0a33-5113-9fcd-4f7bc885c0f5,Delépine,Nicolas,France
+97242af1-4f11-5b96-b5f1-026e51f4a3c5,2023 FIFA Women's World Cup,8dd855bb-0dbb-576b-837a-ad9f8d770c86,Costa Rica,CRI,8a23cdea-0c32-5ab2-8398-08208a37321e,Valverde,Amelia,Costa Rica
+97242af1-4f11-5b96-b5f1-026e51f4a3c5,2023 FIFA Women's World Cup,265f639f-c7d5-5ca2-b708-b0995f6c2b89,Morocco,MAR,92e7d581-daa7-5e73-bfb3-620342c81407,Pedros,Reynald,France
+97242af1-4f11-5b96-b5f1-026e51f4a3c5,2023 FIFA Women's World Cup,e39c6163-70b0-5f66-b2d7-540b785eee94,Republic of Ireland,IRL,938f0a38-fa19-5da0-8ad0-55bd84d3d265,Pauw,Vera,Netherlands
+97242af1-4f11-5b96-b5f1-026e51f4a3c5,2023 FIFA Women's World Cup,e77d250a-1cec-5627-adc4-3cf95c7c0972,South Africa,ZAF,99fa2bcf-770f-5005-9a49-a84c5bd581db,Ellis,Desiree,South Africa
+97242af1-4f11-5b96-b5f1-026e51f4a3c5,2023 FIFA Women's World Cup,a42d3d6a-78dd-5ae6-8408-079a857a7c30,Italy,ITA,9abd5117-b8cb-5fd7-bd26-7d8750a98410,Bertolini,Milena,Italy
+97242af1-4f11-5b96-b5f1-026e51f4a3c5,2023 FIFA Women's World Cup,2d9898be-ff8f-55ef-a86e-167bdeaf3cc6,Australia,AUS,a48f6007-18c0-5207-a101-904abcbedf36,Gustavsson,Tony,Sweden
+97242af1-4f11-5b96-b5f1-026e51f4a3c5,2023 FIFA Women's World Cup,187544dc-4b46-5bf6-a079-e124899a9090,Norway,NOR,a7efbae7-6fba-54e2-8791-f53d84ce353e,Riise,Hege,Norway
+97242af1-4f11-5b96-b5f1-026e51f4a3c5,2023 FIFA Women's World Cup,13a7a10d-674d-5be2-bdfa-a0e18b0b6b04,Jamaica,JAM,af2e9aee-9a1d-540e-a846-9368dcc84ad9,Donaldson,Lorne,Jamaica
+97242af1-4f11-5b96-b5f1-026e51f4a3c5,2023 FIFA Women's World Cup,5b16dd9d-d19c-5484-bac2-f9e932dddd29,Spain,ESP,b426fb0c-111e-589b-8390-ab3411261987,Vilda,Jorge,Spain
+97242af1-4f11-5b96-b5f1-026e51f4a3c5,2023 FIFA Women's World Cup,d522b940-a152-5cc7-bcb3-89e28a1ce459,Netherlands,NLD,c50e3ba7-4716-5ae0-9d24-5acd005c463b,Jonker,Andries,Netherlands
+97242af1-4f11-5b96-b5f1-026e51f4a3c5,2023 FIFA Women's World Cup,11240419-821b-5fbb-bf15-4906f40e3951,New Zealand,NZL,cab3e3c4-18e8-5698-b88d-e35ecadb20a4,Klimková,Jitka,Czech Republic
+97242af1-4f11-5b96-b5f1-026e51f4a3c5,2023 FIFA Women's World Cup,93542d8e-8aca-5c07-ad21-5c493fdf083e,China,CHN,ceb130e7-46f3-5ac8-ad67-a44693d928cb,Qingxia,Shui,China
+97242af1-4f11-5b96-b5f1-026e51f4a3c5,2023 FIFA Women's World Cup,3c6a11b7-f75d-55d5-9b7b-fe69a4f46ece,Zambia,ZMB,d2b8c786-cbab-5d44-b963-e9e4c51d47a2,Mwape,Bruce,Zambia
+97242af1-4f11-5b96-b5f1-026e51f4a3c5,2023 FIFA Women's World Cup,13eebf0f-eb49-5e70-97f9-84f0395ceff1,Portugal,PRT,dbdbf73a-ede7-5f82-ac2e-41ba75811407,Neto,Francisco,Portugal
+97242af1-4f11-5b96-b5f1-026e51f4a3c5,2023 FIFA Women's World Cup,498c5353-84ca-5f1c-8d71-0ae02196227c,Brazil,BRA,e0796bbe-e83a-5be6-ba1b-172b1fd32a43,Sundhage,Pia,Sweden
+97242af1-4f11-5b96-b5f1-026e51f4a3c5,2023 FIFA Women's World Cup,88af50ff-bf54-5c7f-a5e6-cbc7968ad7ad,Philippines,PHL,eebda319-664f-5ec2-bcff-dacb77022ef7,Stajcic,Alen,Australia
+97242af1-4f11-5b96-b5f1-026e51f4a3c5,2023 FIFA Women's World Cup,1234d812-2e40-561b-90a3-ed4f9e66bd63,Canada,CAN,fcc15c0f-8082-572e-98fb-f3bb19292703,Priestman,Bev,England
+97242af1-4f11-5b96-b5f1-026e51f4a3c5,2023 FIFA Women's World Cup,858b02ea-33d2-5241-9fda-d431df455f31,Vietnam,VNM,fdc8b48d-1248-500f-9616-8c5dda8543e1,Mai,Đức Chung,Vietnam
+97242af1-4f11-5b96-b5f1-026e51f4a3c5,2023 FIFA Women's World Cup,eff0a856-a340-5ec8-84e8-121552da2cda,Germany,DEU,ff612a40-9b1b-52be-8697-55bcde0c7626,Voss-Tecklenburg,Martina,Germany
+980713b4-f72a-5fb3-a406-6de227728b1d,1982 FIFA Men's World Cup,535a7e23-4bf9-5e96-ac76-48241d246817,El Salvador,SLV,1d6f941e-9ba9-56eb-a1fa-f0ca9abfb821,Rodríguez,Mauricio,El Salvador
+980713b4-f72a-5fb3-a406-6de227728b1d,1982 FIFA Men's World Cup,8e63ee49-fbde-5478-a093-1a6a679cc27f,Austria,AUT,223a684e-19f0-58a8-9ab1-1b8485c1bd82,Schmidt,Georg,Austria
+980713b4-f72a-5fb3-a406-6de227728b1d,1982 FIFA Men's World Cup,eb88a8cc-be5e-5116-8926-ba595504709a,Cameroon,CMR,2b3f8209-8fd8-551b-8419-56f38f315ec5,Vincent,Jean,France
+980713b4-f72a-5fb3-a406-6de227728b1d,1982 FIFA Men's World Cup,db3abc88-7f89-5183-bc6d-ea6fa7c361d9,Peru,PER,440afa8e-9805-5410-b7df-53166e187d68,Tim,,Brazil
+980713b4-f72a-5fb3-a406-6de227728b1d,1982 FIFA Men's World Cup,fc2ce361-82ed-537a-85f1-ff8f384d11b1,Scotland,SCO,518b165d-8644-5d7e-a32f-892fe1da8e1d,Stein,Jock,Scotland
+980713b4-f72a-5fb3-a406-6de227728b1d,1982 FIFA Men's World Cup,3d11f07c-c004-508d-9001-6f944119b2b0,France,FRA,53c424b8-0b80-5a9a-b386-ff01683cc812,Hidalgo,Michel,France
+980713b4-f72a-5fb3-a406-6de227728b1d,1982 FIFA Men's World Cup,cf23603f-09d6-52e6-9c7e-fb8db4554297,Czechoslovakia,CSK,62a62362-6b55-5a4f-b037-d2bdf9781b71,Vengloš,Jozef,Czechoslovakia
+980713b4-f72a-5fb3-a406-6de227728b1d,1982 FIFA Men's World Cup,43c1aac8-fa85-5e16-ba9c-4cfdcbc975b8,England,ENG,68c7381f-7125-5797-93ca-24ff3b82e291,Greenwood,Ron,England
+980713b4-f72a-5fb3-a406-6de227728b1d,1982 FIFA Men's World Cup,879c1298-9904-5b96-8f25-5e7d455ae2ec,Chile,CHL,690b4c9a-3a4b-5438-a904-deacda3499bd,Santibáñez,Luis,Chile
+980713b4-f72a-5fb3-a406-6de227728b1d,1982 FIFA Men's World Cup,6c983d26-03e1-5649-a13f-42b61e101a0e,Soviet Union,SUN,6e69dadc-74cd-5152-9590-9fd6f861dab6,Beskov,Konstantin,Soviet Union
+980713b4-f72a-5fb3-a406-6de227728b1d,1982 FIFA Men's World Cup,498c5353-84ca-5f1c-8d71-0ae02196227c,Brazil,BRA,778531ac-47db-5e68-9506-687b1de826d6,Santana,Telê,Brazil
+980713b4-f72a-5fb3-a406-6de227728b1d,1982 FIFA Men's World Cup,641e565c-2f15-5697-b9f0-a09f9dcf1d99,Northern Ireland,NIR,7c3d0faa-d238-51e3-b77c-f652c5ea64c7,Bingham,Billy,Northern Ireland
+980713b4-f72a-5fb3-a406-6de227728b1d,1982 FIFA Men's World Cup,9b432d9b-a19d-5672-901e-2884a641784b,Honduras,HND,93362ac4-5210-5b8b-84d5-caf14555f590,de la Paz Herrera,José,Honduras
+980713b4-f72a-5fb3-a406-6de227728b1d,1982 FIFA Men's World Cup,fc0455f9-aa03-5b3d-9b41-41854289e993,Poland,POL,96795c42-0ca5-5638-9ae1-c76ad8299460,Piechniczek,Antoni,Poland
+980713b4-f72a-5fb3-a406-6de227728b1d,1982 FIFA Men's World Cup,adbcf28f-5f27-56bd-bca0-909cf77a8ae0,West Germany,DEU,9c60d86c-cc5c-5724-89bd-981c7ad58e2a,Derwall,Jupp,Germany
+980713b4-f72a-5fb3-a406-6de227728b1d,1982 FIFA Men's World Cup,3aa56241-3868-505a-ac6a-753aefa79cc2,Belgium,BEL,aeb7b186-b324-5314-a73b-de4acb845d33,Thys,Guy,Belgium
+980713b4-f72a-5fb3-a406-6de227728b1d,1982 FIFA Men's World Cup,5b16dd9d-d19c-5484-bac2-f9e932dddd29,Spain,ESP,afff0efe-41be-56fd-a20c-3968d90069dd,Santamaría,José,Uruguay
+980713b4-f72a-5fb3-a406-6de227728b1d,1982 FIFA Men's World Cup,b106b715-3121-50e4-a0a0-1166ddede37e,Kuwait,KWT,b04380db-a075-5f4a-a525-272a2712b755,Parreira,Carlos Alberto,Brazil
+980713b4-f72a-5fb3-a406-6de227728b1d,1982 FIFA Men's World Cup,8e63ee49-fbde-5478-a093-1a6a679cc27f,Austria,AUT,bcc1566a-b7c6-569e-883e-3093d66dfe73,Latzke,Felix,Austria
+980713b4-f72a-5fb3-a406-6de227728b1d,1982 FIFA Men's World Cup,933a103d-d9d7-57a3-9c4a-fbc81d25a266,Argentina,ARG,d45697d5-2306-518c-9d0b-7a186703cde7,Menotti,César Luis,Argentina
+980713b4-f72a-5fb3-a406-6de227728b1d,1982 FIFA Men's World Cup,a42d3d6a-78dd-5ae6-8408-079a857a7c30,Italy,ITA,dafcc73c-4ff9-5d86-b6dc-4ca960d763d1,Bearzot,Enzo,Italy
+980713b4-f72a-5fb3-a406-6de227728b1d,1982 FIFA Men's World Cup,1e34dbe6-26e7-5736-947c-cb6c9428e165,Algeria,DZA,e982dc4f-6038-53d8-9f61-d5af78542fb5,Khalef,Mahieddine,Algeria
+980713b4-f72a-5fb3-a406-6de227728b1d,1982 FIFA Men's World Cup,11240419-821b-5fbb-bf15-4906f40e3951,New Zealand,NZL,eccd781a-68d3-5e95-984d-f90aad2778dd,Adshead,John,England
+980713b4-f72a-5fb3-a406-6de227728b1d,1982 FIFA Men's World Cup,9a9be60e-89da-590c-95a8-6e5802b5deb5,Yugoslavia,YUG,f010d939-9ae0-5eed-a442-749221d06b86,Miljanić,Miljan,Yugoslavia
+980713b4-f72a-5fb3-a406-6de227728b1d,1982 FIFA Men's World Cup,f16b7d5c-db54-5b27-b827-e848a3035641,Hungary,HUN,f7545cdf-7623-54c1-895a-d35a09dbf378,Mészöly,Kálmán,Hungary
+980713b4-f72a-5fb3-a406-6de227728b1d,1982 FIFA Men's World Cup,1e34dbe6-26e7-5736-947c-cb6c9428e165,Algeria,DZA,ff29449d-6fe8-5026-819c-2f03842f40ba,Mekhloufi,Rachid,Algeria
+989bb40b-e4d2-554d-b25d-51c776e801e2,2022 FIFA Men's World Cup,eff0a856-a340-5ec8-84e8-121552da2cda,Germany,DEU,0b43ed87-8472-554f-86c3-051bc0d3fea2,Flick,Hansi,Germany
+989bb40b-e4d2-554d-b25d-51c776e801e2,2022 FIFA Men's World Cup,172bbcf1-8dd9-50ac-ba34-b51c641a833e,Wales,WAL,19d35c0c-4736-544e-937a-0ed142d0a68b,Page,Rob,Wales
+989bb40b-e4d2-554d-b25d-51c776e801e2,2022 FIFA Men's World Cup,a260026d-34b5-5fdf-8896-fd8997f096b9,Switzerland,CHE,238143d3-89b9-5544-8291-b8517c629d96,Yakin,Murat,Switzerland
+989bb40b-e4d2-554d-b25d-51c776e801e2,2022 FIFA Men's World Cup,2d9898be-ff8f-55ef-a86e-167bdeaf3cc6,Australia,AUS,2b521c7f-0d81-5822-8ad5-66a1f33e49c8,Arnold,Graham,Australia
+989bb40b-e4d2-554d-b25d-51c776e801e2,2022 FIFA Men's World Cup,83f65ffa-c76e-5ace-8c09-c87d141a3916,South Korea,KOR,319dc177-1acb-5f27-a0e7-886c0f437e81,Bento,Paulo,Portugal
+989bb40b-e4d2-554d-b25d-51c776e801e2,2022 FIFA Men's World Cup,fdb9a8af-2b8d-518b-b0ab-a0118cd58de2,Senegal,SEN,44dce09d-d7c2-5b17-830f-b0717c161910,Cissé,Aliou,Senegal
+989bb40b-e4d2-554d-b25d-51c776e801e2,2022 FIFA Men's World Cup,2179a8d7-c7ed-5c0c-b6a6-8e6eeef52657,Ecuador,ECU,491f44c6-8831-5f13-be9a-f70151fe52aa,Alfaro,Gustavo,Argentina
+989bb40b-e4d2-554d-b25d-51c776e801e2,2022 FIFA Men's World Cup,265f639f-c7d5-5ca2-b708-b0995f6c2b89,Morocco,MAR,4ebc8c22-b267-5b1d-be0b-4735894d8581,Regragui,Walid,Morocco
+989bb40b-e4d2-554d-b25d-51c776e801e2,2022 FIFA Men's World Cup,230373b7-3a16-506a-b5f6-acc37d7e801d,Japan,JPN,56dad4e6-7822-5d1e-a7bf-a0745a6ed465,Moriyasu,Hajime,Japan
+989bb40b-e4d2-554d-b25d-51c776e801e2,2022 FIFA Men's World Cup,8cca4b99-7e47-5808-9e58-9803329fa50a,Saudi Arabia,SAU,5b5a4f33-48e9-5870-8d9c-352678243818,Renard,Hervé,France
+989bb40b-e4d2-554d-b25d-51c776e801e2,2022 FIFA Men's World Cup,0db8bc49-3546-517c-af2c-7abd04ae2214,Croatia,HRV,6702c4b6-7288-5780-8eec-6a1413b56d9f,Dalić,Zlatko,Croatia
+989bb40b-e4d2-554d-b25d-51c776e801e2,2022 FIFA Men's World Cup,5b16dd9d-d19c-5484-bac2-f9e932dddd29,Spain,ESP,692b24d4-fdd4-500e-84f1-193559d4aa40,Enrique,Luis,Spain
+989bb40b-e4d2-554d-b25d-51c776e801e2,2022 FIFA Men's World Cup,f8764a69-de29-59f5-8e79-715c4bf88a11,Uruguay,URY,6b6c0f76-62b2-55c2-869c-14c838c83ed5,Alonso,Diego,Uruguay
+989bb40b-e4d2-554d-b25d-51c776e801e2,2022 FIFA Men's World Cup,1234d812-2e40-561b-90a3-ed4f9e66bd63,Canada,CAN,7146e6e2-1892-5ef9-9d17-08a029039410,Herdman,John,England
+989bb40b-e4d2-554d-b25d-51c776e801e2,2022 FIFA Men's World Cup,42c04ec6-0345-52bc-8d8a-5d51bd89ad16,Qatar,QAT,73bb31bd-b6b3-586b-bcfd-5d28994b6e9b,Sánchez,Félix,Spain
+989bb40b-e4d2-554d-b25d-51c776e801e2,2022 FIFA Men's World Cup,f22d85b4-6cde-5f4e-8119-b3b69a2ba879,Iran,IRN,94108b44-88be-5e27-ac13-dd549b6ec70d,Queiroz,Carlos,Portugal
+989bb40b-e4d2-554d-b25d-51c776e801e2,2022 FIFA Men's World Cup,8fcb57c5-f39b-5302-9aed-c645120d5a91,Serbia,SRB,a0f04cd4-244b-5e43-b33c-c632f68801ec,Stojković,Dragan,Serbia
+989bb40b-e4d2-554d-b25d-51c776e801e2,2022 FIFA Men's World Cup,3aa56241-3868-505a-ac6a-753aefa79cc2,Belgium,BEL,a1541473-4388-50bc-9a41-4a1e7de4fe75,Martínez,Roberto,Spain
+989bb40b-e4d2-554d-b25d-51c776e801e2,2022 FIFA Men's World Cup,eb88a8cc-be5e-5116-8926-ba595504709a,Cameroon,CMR,ad54c240-e6e3-5ec6-96f1-437c1d7b7317,Song,Rigobert,Cameroon
+989bb40b-e4d2-554d-b25d-51c776e801e2,2022 FIFA Men's World Cup,10913c23-6023-563d-94df-9b4fb66c3432,United States,USA,aea485db-c5da-58c8-9f3b-9e01130d17cc,Berhalter,Gregg,United States
+989bb40b-e4d2-554d-b25d-51c776e801e2,2022 FIFA Men's World Cup,3d11f07c-c004-508d-9001-6f944119b2b0,France,FRA,aec9de42-ea25-5224-b04b-167d21a55ab8,Deschamps,Didier,France
+989bb40b-e4d2-554d-b25d-51c776e801e2,2022 FIFA Men's World Cup,933a103d-d9d7-57a3-9c4a-fbc81d25a266,Argentina,ARG,b3ec3dd9-244e-5895-9890-5b14bd03731c,Scaloni,Lionel,Argentina
+989bb40b-e4d2-554d-b25d-51c776e801e2,2022 FIFA Men's World Cup,b627769a-7468-5b82-85ee-a38f3d71a3c6,Tunisia,TUN,c0fd8abb-a08e-5c68-826b-675f307f13c7,Kadri,Jalel,Tunisia
+989bb40b-e4d2-554d-b25d-51c776e801e2,2022 FIFA Men's World Cup,13eebf0f-eb49-5e70-97f9-84f0395ceff1,Portugal,PRT,c3d6645a-a87c-5c22-b380-03b193f92781,Santos,Fernando,Portugal
+989bb40b-e4d2-554d-b25d-51c776e801e2,2022 FIFA Men's World Cup,c832b30c-2750-5a24-a66f-cf9ea7c20a5c,Mexico,MEX,c9ba05f6-3f7e-5611-9d31-afb7cf8df613,Martino,Gerardo,Argentina
+989bb40b-e4d2-554d-b25d-51c776e801e2,2022 FIFA Men's World Cup,d522b940-a152-5cc7-bcb3-89e28a1ce459,Netherlands,NLD,caa09e8a-db1e-5e2c-a4b3-6fde7f127057,van Gaal,Louis,Netherlands
+989bb40b-e4d2-554d-b25d-51c776e801e2,2022 FIFA Men's World Cup,43c1aac8-fa85-5e16-ba9c-4cfdcbc975b8,England,ENG,d46f4e7a-bb39-5483-99ff-6d18536df6d5,Southgate,Gareth,England
+989bb40b-e4d2-554d-b25d-51c776e801e2,2022 FIFA Men's World Cup,498c5353-84ca-5f1c-8d71-0ae02196227c,Brazil,BRA,dcf63a98-89cf-54ff-a224-48858ac5127c,Tite,,Brazil
+989bb40b-e4d2-554d-b25d-51c776e801e2,2022 FIFA Men's World Cup,8dd855bb-0dbb-576b-837a-ad9f8d770c86,Costa Rica,CRI,e4ed9f13-0059-5d17-afa4-bd19eca9a345,Suárez,Luis Fernando,Colombia
+989bb40b-e4d2-554d-b25d-51c776e801e2,2022 FIFA Men's World Cup,dfb099cc-e7ea-5e4f-b492-bdbf6e8e179b,Denmark,DNK,f6a66dc7-8844-5019-8df0-c28bce63391a,Hjulmand,Kasper,Denmark
+989bb40b-e4d2-554d-b25d-51c776e801e2,2022 FIFA Men's World Cup,fc0455f9-aa03-5b3d-9b41-41854289e993,Poland,POL,fa4adae5-065a-5f61-ad80-f03fd5e4aea1,Michniewicz,Czesław,Poland
+989bb40b-e4d2-554d-b25d-51c776e801e2,2022 FIFA Men's World Cup,55f8040d-0098-5415-abdf-66098ef3bbee,Ghana,GHA,fde1c7a5-b3de-530f-a0f9-45bce0adf688,Addo,Otto,Ghana
+a3355eb2-b9f4-5e9c-92d3-dc9cb37177b6,2010 FIFA Men's World Cup,9b432d9b-a19d-5672-901e-2884a641784b,Honduras,HND,01974c5a-762e-5631-9445-f1e7b595296b,Rueda,Reinaldo,Colombia
+a3355eb2-b9f4-5e9c-92d3-dc9cb37177b6,2010 FIFA Men's World Cup,c832b30c-2750-5a24-a66f-cf9ea7c20a5c,Mexico,MEX,0836c1d6-109a-5427-858a-62547bd5d05b,Aguirre,Javier,Mexico
+a3355eb2-b9f4-5e9c-92d3-dc9cb37177b6,2010 FIFA Men's World Cup,f23d02ab-e48a-541b-a3d5-efb12f628f6c,Greece,GRC,2174c0b3-8797-5561-966c-018de629c921,Rehhagel,Otto,Germany
+a3355eb2-b9f4-5e9c-92d3-dc9cb37177b6,2010 FIFA Men's World Cup,1e34dbe6-26e7-5736-947c-cb6c9428e165,Algeria,DZA,24aa60de-af61-54ad-a1e9-5364e9a0884f,Saâdane,Rabah,Algeria
+a3355eb2-b9f4-5e9c-92d3-dc9cb37177b6,2010 FIFA Men's World Cup,a260026d-34b5-5fdf-8896-fd8997f096b9,Switzerland,CHE,287f65b3-5068-5419-948c-8eaa0e059ee5,Hitzfeld,Ottmar,Germany
+a3355eb2-b9f4-5e9c-92d3-dc9cb37177b6,2010 FIFA Men's World Cup,5b16dd9d-d19c-5484-bac2-f9e932dddd29,Spain,ESP,2d42ae8e-36da-539b-8a17-8a5ddc18a8d0,del Bosque,Vicente,Spain
+a3355eb2-b9f4-5e9c-92d3-dc9cb37177b6,2010 FIFA Men's World Cup,879c1298-9904-5b96-8f25-5e7d455ae2ec,Chile,CHL,37c5d3e8-85e6-5f0a-9fb1-db323aadf715,Bielsa,Marcelo,Argentina
+a3355eb2-b9f4-5e9c-92d3-dc9cb37177b6,2010 FIFA Men's World Cup,55f8040d-0098-5415-abdf-66098ef3bbee,Ghana,GHA,3874c347-c569-5d3e-b40e-9fe6c2029c5f,Rajevac,Milovan,Serbia
+a3355eb2-b9f4-5e9c-92d3-dc9cb37177b6,2010 FIFA Men's World Cup,f8764a69-de29-59f5-8e79-715c4bf88a11,Uruguay,URY,3979d791-dc59-53e5-a27d-0efa10327543,Tabárez,Óscar,Uruguay
+a3355eb2-b9f4-5e9c-92d3-dc9cb37177b6,2010 FIFA Men's World Cup,498c5353-84ca-5f1c-8d71-0ae02196227c,Brazil,BRA,3bf4535b-0596-5a00-be62-ea74d27881a7,Dunga,,Brazil
+a3355eb2-b9f4-5e9c-92d3-dc9cb37177b6,2010 FIFA Men's World Cup,9c7ec48d-3d9a-501e-b202-7f5c4fc96909,Slovenia,SVN,529b178d-686f-542c-9431-9f774d961d31,Kek,Matjaž,Slovenia
+a3355eb2-b9f4-5e9c-92d3-dc9cb37177b6,2010 FIFA Men's World Cup,dfb099cc-e7ea-5e4f-b492-bdbf6e8e179b,Denmark,DNK,636220c3-7f73-5671-9b3c-f0618f521a05,Olsen,Morten,Denmark
+a3355eb2-b9f4-5e9c-92d3-dc9cb37177b6,2010 FIFA Men's World Cup,933a103d-d9d7-57a3-9c4a-fbc81d25a266,Argentina,ARG,74a0d6d0-37a3-5e63-bed1-61a65d96bfbf,Maradona,Diego,Argentina
+a3355eb2-b9f4-5e9c-92d3-dc9cb37177b6,2010 FIFA Men's World Cup,2d9898be-ff8f-55ef-a86e-167bdeaf3cc6,Australia,AUS,756c7a3e-067b-51e2-aa7a-aafb0338dbed,Verbeek,Pim,Netherlands
+a3355eb2-b9f4-5e9c-92d3-dc9cb37177b6,2010 FIFA Men's World Cup,8fcb57c5-f39b-5302-9aed-c645120d5a91,Serbia,SRB,7ec7ac8a-c1fe-5291-9675-3a63c2046f96,Antić,Radomir,Serbia
+a3355eb2-b9f4-5e9c-92d3-dc9cb37177b6,2010 FIFA Men's World Cup,a42d3d6a-78dd-5ae6-8408-079a857a7c30,Italy,ITA,8a6edd2b-060d-5e52-b929-8e4dfb52570e,Lippi,Marcello,Italy
+a3355eb2-b9f4-5e9c-92d3-dc9cb37177b6,2010 FIFA Men's World Cup,10913c23-6023-563d-94df-9b4fb66c3432,United States,USA,8be83ae5-03e5-50dc-b73e-feb156a412d4,Bradley,Bob,United States
+a3355eb2-b9f4-5e9c-92d3-dc9cb37177b6,2010 FIFA Men's World Cup,13eebf0f-eb49-5e70-97f9-84f0395ceff1,Portugal,PRT,94108b44-88be-5e27-ac13-dd549b6ec70d,Queiroz,Carlos,Portugal
+a3355eb2-b9f4-5e9c-92d3-dc9cb37177b6,2010 FIFA Men's World Cup,f201a6b5-a9f6-5612-947b-a6a57d2e7e18,Nigeria,NGA,963823e2-10d7-5a36-b7ba-6f6502b854ea,Lagerbäck,Lars,Sweden
+a3355eb2-b9f4-5e9c-92d3-dc9cb37177b6,2010 FIFA Men's World Cup,83f65ffa-c76e-5ace-8c09-c87d141a3916,South Korea,KOR,a5931887-fcd5-5592-af00-6cccca2ca079,Huh,Jung-moo,South Korea
+a3355eb2-b9f4-5e9c-92d3-dc9cb37177b6,2010 FIFA Men's World Cup,e31e86e8-0616-5e05-a842-dc8f67c29ca4,Ivory Coast,CIV,a6b50cae-568b-54ab-bdc5-4e247e4fe0a0,Eriksson,Sven-Göran,Sweden
+a3355eb2-b9f4-5e9c-92d3-dc9cb37177b6,2010 FIFA Men's World Cup,2eeac718-4c7f-5065-aedd-5250910b0c78,Slovakia,SVK,a8038c8b-f6ab-5055-9935-6e463e0307e6,Weiss,Vladimír,Slovakia
+a3355eb2-b9f4-5e9c-92d3-dc9cb37177b6,2010 FIFA Men's World Cup,58ce2aac-d181-51c6-9f50-fc3e8643d0e1,North Korea,PRK,af737cb6-409b-574d-84f2-58b2a42d882c,Kim,Jong-hun,North Korea
+a3355eb2-b9f4-5e9c-92d3-dc9cb37177b6,2010 FIFA Men's World Cup,e77d250a-1cec-5627-adc4-3cf95c7c0972,South Africa,ZAF,b04380db-a075-5f4a-a525-272a2712b755,Parreira,Carlos Alberto,Brazil
+a3355eb2-b9f4-5e9c-92d3-dc9cb37177b6,2010 FIFA Men's World Cup,eb88a8cc-be5e-5116-8926-ba595504709a,Cameroon,CMR,b2eb9463-fadf-574f-b538-fa1516b778da,Le Guen,Paul,France
+a3355eb2-b9f4-5e9c-92d3-dc9cb37177b6,2010 FIFA Men's World Cup,230373b7-3a16-506a-b5f6-acc37d7e801d,Japan,JPN,b47b314f-7b73-56dd-9e91-b5b50f9867e2,Okada,Takeshi,Japan
+a3355eb2-b9f4-5e9c-92d3-dc9cb37177b6,2010 FIFA Men's World Cup,9678d2a4-5323-5082-b115-575366fb384a,Paraguay,PRY,c9ba05f6-3f7e-5611-9d31-afb7cf8df613,Martino,Gerardo,Argentina
+a3355eb2-b9f4-5e9c-92d3-dc9cb37177b6,2010 FIFA Men's World Cup,43c1aac8-fa85-5e16-ba9c-4cfdcbc975b8,England,ENG,d037c793-c54e-517c-b94d-ff76e9878d08,Capello,Fabio,Italy
+a3355eb2-b9f4-5e9c-92d3-dc9cb37177b6,2010 FIFA Men's World Cup,11240419-821b-5fbb-bf15-4906f40e3951,New Zealand,NZL,d4f928bc-6004-5cfd-942e-1eb503e558af,Herbert,Ricki,New Zealand
+a3355eb2-b9f4-5e9c-92d3-dc9cb37177b6,2010 FIFA Men's World Cup,3d11f07c-c004-508d-9001-6f944119b2b0,France,FRA,df8a9770-8528-527b-acec-eb6fa1a7c6b7,Domenech,Raymond,France
+a3355eb2-b9f4-5e9c-92d3-dc9cb37177b6,2010 FIFA Men's World Cup,d522b940-a152-5cc7-bcb3-89e28a1ce459,Netherlands,NLD,f97b4ee3-6be3-51b8-8a32-2c07f6d3a34f,van Marwijk,Bert,Netherlands
+a3355eb2-b9f4-5e9c-92d3-dc9cb37177b6,2010 FIFA Men's World Cup,eff0a856-a340-5ec8-84e8-121552da2cda,Germany,DEU,f98b62f6-6a0f-5bec-b6fd-b3a9919242e1,Löw,Joachim,Germany
+c18a4889-5b51-5337-bc1a-a0731c1d97eb,2002 FIFA Men's World Cup,b627769a-7468-5b82-85ee-a38f3d71a3c6,Tunisia,TUN,04af5575-0969-50a9-a728-f18496413551,Souayah,Ammar,Tunisia
+c18a4889-5b51-5337-bc1a-a0731c1d97eb,2002 FIFA Men's World Cup,c832b30c-2750-5a24-a66f-cf9ea7c20a5c,Mexico,MEX,0836c1d6-109a-5427-858a-62547bd5d05b,Aguirre,Javier,Mexico
+c18a4889-5b51-5337-bc1a-a0731c1d97eb,2002 FIFA Men's World Cup,8cca4b99-7e47-5808-9e58-9803329fa50a,Saudi Arabia,SAU,0d8a7e80-f0ab-5143-b5f4-84dfefa110b6,Al-Johar,Nasser,Saudi Arabia
+c18a4889-5b51-5337-bc1a-a0731c1d97eb,2002 FIFA Men's World Cup,3aa56241-3868-505a-ac6a-753aefa79cc2,Belgium,BEL,124dffaa-7b98-55bc-907b-e2dd35175dac,Waseige,Robert,Belgium
+c18a4889-5b51-5337-bc1a-a0731c1d97eb,2002 FIFA Men's World Cup,a42d3d6a-78dd-5ae6-8408-079a857a7c30,Italy,ITA,1be3d28b-ed12-55ca-91c6-01a6eb59a08b,Trapattoni,Giovanni,Italy
+c18a4889-5b51-5337-bc1a-a0731c1d97eb,2002 FIFA Men's World Cup,f201a6b5-a9f6-5612-947b-a6a57d2e7e18,Nigeria,NGA,1fbfef4c-58d4-54dd-bacc-33e58fbb430d,Onigbinde,Festus,Nigeria
+c18a4889-5b51-5337-bc1a-a0731c1d97eb,2002 FIFA Men's World Cup,2179a8d7-c7ed-5c0c-b6a6-8e6eeef52657,Ecuador,ECU,2c5d38bd-a725-5a84-a4b5-d149aac1c691,Gómez,Hernán Darío,Colombia
+c18a4889-5b51-5337-bc1a-a0731c1d97eb,2002 FIFA Men's World Cup,3d11f07c-c004-508d-9001-6f944119b2b0,France,FRA,2fbb3aff-e3fe-5f45-bd4d-58f6a64bb1ac,Lemerre,Roger,France
+c18a4889-5b51-5337-bc1a-a0731c1d97eb,2002 FIFA Men's World Cup,933a103d-d9d7-57a3-9c4a-fbc81d25a266,Argentina,ARG,37c5d3e8-85e6-5f0a-9fb1-db323aadf715,Bielsa,Marcelo,Argentina
+c18a4889-5b51-5337-bc1a-a0731c1d97eb,2002 FIFA Men's World Cup,eff0a856-a340-5ec8-84e8-121552da2cda,Germany,DEU,516e2eb1-7d1d-544f-b5c6-e6c81b8e6212,Völler,Rudi,Germany
+c18a4889-5b51-5337-bc1a-a0731c1d97eb,2002 FIFA Men's World Cup,0db8bc49-3546-517c-af2c-7abd04ae2214,Croatia,HRV,5e08ef8e-135f-5ba2-8859-7e32d10883b2,Jozić,Mirko,Croatia
+c18a4889-5b51-5337-bc1a-a0731c1d97eb,2002 FIFA Men's World Cup,e39c6163-70b0-5f66-b2d7-540b785eee94,Republic of Ireland,IRL,5faaf601-5780-53b4-b061-c76b618b1e13,McCarthy,Mick,Republic of Ireland
+c18a4889-5b51-5337-bc1a-a0731c1d97eb,2002 FIFA Men's World Cup,dfb099cc-e7ea-5e4f-b492-bdbf6e8e179b,Denmark,DNK,636220c3-7f73-5671-9b3c-f0618f521a05,Olsen,Morten,Denmark
+c18a4889-5b51-5337-bc1a-a0731c1d97eb,2002 FIFA Men's World Cup,e77d250a-1cec-5627-adc4-3cf95c7c0972,South Africa,ZAF,65ff65ef-7ad7-5fc4-8115-410043131653,Sono,Jomo,South Africa
+c18a4889-5b51-5337-bc1a-a0731c1d97eb,2002 FIFA Men's World Cup,d1c45d05-d0bd-55b8-b370-dfa64d998bcc,Turkey,TUR,6e1d75de-a996-5935-802c-20eca1679dd8,Güneş,Şenol,Turkey
+c18a4889-5b51-5337-bc1a-a0731c1d97eb,2002 FIFA Men's World Cup,eb88a8cc-be5e-5116-8926-ba595504709a,Cameroon,CMR,7ad7c197-dafe-5f69-959d-cbd92c05c952,Schäfer,Winfried,Germany
+c18a4889-5b51-5337-bc1a-a0731c1d97eb,2002 FIFA Men's World Cup,fc0455f9-aa03-5b3d-9b41-41854289e993,Poland,POL,7cf12eae-d973-547a-85ff-2a0ab83b52ee,Engel,Jerzy,Poland
+c18a4889-5b51-5337-bc1a-a0731c1d97eb,2002 FIFA Men's World Cup,13eebf0f-eb49-5e70-97f9-84f0395ceff1,Portugal,PRT,832ffb6b-a9c5-58bf-9af0-b9a714b51101,Oliveira,António,Portugal
+c18a4889-5b51-5337-bc1a-a0731c1d97eb,2002 FIFA Men's World Cup,f8764a69-de29-59f5-8e79-715c4bf88a11,Uruguay,URY,86be89f8-0673-5240-b7b2-5d9e3e0afe2a,Púa,Víctor,Uruguay
+c18a4889-5b51-5337-bc1a-a0731c1d97eb,2002 FIFA Men's World Cup,3611e724-8c08-5f63-b63d-e1cad6af784c,Sweden,SWE,963823e2-10d7-5a36-b7ba-6f6502b854ea,Lagerbäck,Lars,Sweden
+c18a4889-5b51-5337-bc1a-a0731c1d97eb,2002 FIFA Men's World Cup,230373b7-3a16-506a-b5f6-acc37d7e801d,Japan,JPN,9ee233f5-25c8-520d-8a6c-0e4a90a60b7d,Troussier,Philippe,France
+c18a4889-5b51-5337-bc1a-a0731c1d97eb,2002 FIFA Men's World Cup,9c7ec48d-3d9a-501e-b202-7f5c4fc96909,Slovenia,SVN,a34b4a11-411f-5032-b7e6-9215c32a1b0d,Katanec,Srečko,Slovenia
+c18a4889-5b51-5337-bc1a-a0731c1d97eb,2002 FIFA Men's World Cup,43c1aac8-fa85-5e16-ba9c-4cfdcbc975b8,England,ENG,a6b50cae-568b-54ab-bdc5-4e247e4fe0a0,Eriksson,Sven-Göran,Sweden
+c18a4889-5b51-5337-bc1a-a0731c1d97eb,2002 FIFA Men's World Cup,8dd855bb-0dbb-576b-837a-ad9f8d770c86,Costa Rica,CRI,bb858c97-5b43-5f85-972b-d6501fe33680,Guimarães,Alexandre,Costa Rica
+c18a4889-5b51-5337-bc1a-a0731c1d97eb,2002 FIFA Men's World Cup,5b16dd9d-d19c-5484-bac2-f9e932dddd29,Spain,ESP,d591c946-fa4b-5593-8591-23155b226739,Camacho,José Antonio,Spain
+c18a4889-5b51-5337-bc1a-a0731c1d97eb,2002 FIFA Men's World Cup,9678d2a4-5323-5082-b115-575366fb384a,Paraguay,PRY,d7810d84-f4a8-5d49-bb3c-0be218504ce1,Maldini,Cesare,Italy
+c18a4889-5b51-5337-bc1a-a0731c1d97eb,2002 FIFA Men's World Cup,83f65ffa-c76e-5ace-8c09-c87d141a3916,South Korea,KOR,d7eb83fa-ed22-5dcd-b2e9-bc80cff5d33d,Hiddink,Guus,Netherlands
+c18a4889-5b51-5337-bc1a-a0731c1d97eb,2002 FIFA Men's World Cup,498c5353-84ca-5f1c-8d71-0ae02196227c,Brazil,BRA,d86bec98-11ea-5f35-a5cc-68479d885367,Scolari,Luiz Felipe,Brazil
+c18a4889-5b51-5337-bc1a-a0731c1d97eb,2002 FIFA Men's World Cup,6eb0485e-97e8-57e7-bf93-6c300f3e003a,Russia,RUS,d94329b8-3aa0-51f2-8a26-ec9fb288d9ad,Romantsev,Oleg,Russia
+c18a4889-5b51-5337-bc1a-a0731c1d97eb,2002 FIFA Men's World Cup,93542d8e-8aca-5c07-ad21-5c493fdf083e,China,CHN,e91d374b-3f6b-5a35-a611-4c171f4302a1,Milutinović,Bora,Yugoslavia
+c18a4889-5b51-5337-bc1a-a0731c1d97eb,2002 FIFA Men's World Cup,fdb9a8af-2b8d-518b-b0ab-a0118cd58de2,Senegal,SEN,ed433bf2-813b-53d4-a4ef-8e871fb28593,Metsu,Bruno,France
+c18a4889-5b51-5337-bc1a-a0731c1d97eb,2002 FIFA Men's World Cup,10913c23-6023-563d-94df-9b4fb66c3432,United States,USA,fd32447f-3791-5341-846e-037a1b189045,Arena,Bruce,United States
+c18a4889-5b51-5337-bc1a-a0731c1d97eb,2002 FIFA Men's World Cup,3611e724-8c08-5f63-b63d-e1cad6af784c,Sweden,SWE,fde33a44-8cb1-526b-8974-a5053ef6ffe0,Söderberg,Tommy,Sweden
+cb194f04-c36a-5525-a51a-2219d44c0be3,1991 FIFA Women's World Cup,11240419-821b-5fbb-bf15-4906f40e3951,New Zealand,NZL,06de8c40-1ffe-5de8-bd21-fe012cd3eef1,Boardman,Dave,England
+cb194f04-c36a-5525-a51a-2219d44c0be3,1991 FIFA Women's World Cup,187544dc-4b46-5bf6-a079-e124899a9090,Norway,NOR,28c61488-bbe3-5cd6-9065-034c313379a0,Pellerud,Even,Norway
+cb194f04-c36a-5525-a51a-2219d44c0be3,1991 FIFA Women's World Cup,10913c23-6023-563d-94df-9b4fb66c3432,United States,USA,2b630891-4579-511f-a56c-8d43528a9637,Dorrance,Anson,United States
+cb194f04-c36a-5525-a51a-2219d44c0be3,1991 FIFA Women's World Cup,eff0a856-a340-5ec8-84e8-121552da2cda,Germany,DEU,35d00835-7788-58c3-9cb1-5222f3278828,Bisanz,Gero,Germany
+cb194f04-c36a-5525-a51a-2219d44c0be3,1991 FIFA Women's World Cup,dfb099cc-e7ea-5e4f-b492-bdbf6e8e179b,Denmark,DNK,62359e06-1f68-5ad6-9d0a-6dd4ae0a55fb,Gantzhorn,Keld,Denmark
+cb194f04-c36a-5525-a51a-2219d44c0be3,1991 FIFA Women's World Cup,3611e724-8c08-5f63-b63d-e1cad6af784c,Sweden,SWE,68e296c2-2c10-56b5-9197-c4c260db946c,Paijkull,Gunilla,Sweden
+cb194f04-c36a-5525-a51a-2219d44c0be3,1991 FIFA Women's World Cup,a42d3d6a-78dd-5ae6-8408-079a857a7c30,Italy,ITA,931a92a1-71df-55f3-ae71-842ca7b6fd8b,Guenza,Sergio,Italy
+cb194f04-c36a-5525-a51a-2219d44c0be3,1991 FIFA Women's World Cup,498c5353-84ca-5f1c-8d71-0ae02196227c,Brazil,BRA,94f5cc8d-a2a5-5036-9e35-6c99755196bc,Pires,Fernando,Brazil
+cb194f04-c36a-5525-a51a-2219d44c0be3,1991 FIFA Women's World Cup,bb4bcbfb-67ac-5582-b11f-3e60fa83af7f,Chinese Taipei,TWN,a9328b2b-aead-5d83-ab60-65cd07cb714c,Chong,Tsu-pin,Chinese Taipei
+cb194f04-c36a-5525-a51a-2219d44c0be3,1991 FIFA Women's World Cup,230373b7-3a16-506a-b5f6-acc37d7e801d,Japan,JPN,eb182d03-9886-5dfe-9853-451bf2d37dd8,Suzuki,Tamotsu,Japan
+cb194f04-c36a-5525-a51a-2219d44c0be3,1991 FIFA Women's World Cup,93542d8e-8aca-5c07-ad21-5c493fdf083e,China,CHN,eb9af0b2-1a58-5e8a-971e-54ab1b6b740f,Shang,Ruihua,China
+cb194f04-c36a-5525-a51a-2219d44c0be3,1991 FIFA Women's World Cup,f201a6b5-a9f6-5612-947b-a6a57d2e7e18,Nigeria,NGA,f419087b-be40-5063-99f2-76ca6a49cbe0,Bonfrère,Jo,Netherlands
+d52279b1-f4bd-5228-862f-a0a23d6cd16d,2006 FIFA Men's World Cup,153c6112-4054-5bec-b238-3f80b76f05c6,Angola,AGO,17d5d475-32ac-5f40-9778-5c5dad23266d,Gonçalves,Oliveira,Angola
+d52279b1-f4bd-5228-862f-a0a23d6cd16d,2006 FIFA Men's World Cup,5b16dd9d-d19c-5484-bac2-f9e932dddd29,Spain,ESP,24db05f5-1be8-566c-a944-fb74ba4e921e,Aragonés,Luis,Spain
+d52279b1-f4bd-5228-862f-a0a23d6cd16d,2006 FIFA Men's World Cup,eff0a856-a340-5ec8-84e8-121552da2cda,Germany,DEU,285823c5-aa93-5360-8b55-a3b2bb4a68fa,Klinsmann,Jürgen,Germany
+d52279b1-f4bd-5228-862f-a0a23d6cd16d,2006 FIFA Men's World Cup,27b5664b-2e3e-52cd-a1df-0f1e60869c68,Ukraine,UKR,2a6ba90e-0906-52ab-8023-f92ab7e55d81,Blokhin,Oleg,Ukraine
+d52279b1-f4bd-5228-862f-a0a23d6cd16d,2006 FIFA Men's World Cup,ed749800-82e2-5bb8-a684-8bdf061d889d,Serbia and Montenegro,SCG,2f280660-6e69-5d0e-a56b-972443bed89b,Petković,Ilija,Serbia and Montenegro
+d52279b1-f4bd-5228-862f-a0a23d6cd16d,2006 FIFA Men's World Cup,b627769a-7468-5b82-85ee-a38f3d71a3c6,Tunisia,TUN,2fbb3aff-e3fe-5f45-bd4d-58f6a64bb1ac,Lemerre,Roger,France
+d52279b1-f4bd-5228-862f-a0a23d6cd16d,2006 FIFA Men's World Cup,933a103d-d9d7-57a3-9c4a-fbc81d25a266,Argentina,ARG,3545c44c-12f7-5af2-8225-81a31910a1a6,Pékerman,José,Argentina
+d52279b1-f4bd-5228-862f-a0a23d6cd16d,2006 FIFA Men's World Cup,230373b7-3a16-506a-b5f6-acc37d7e801d,Japan,JPN,3da61af8-2070-553d-84fd-a107581c78fd,Zico,,Brazil
+d52279b1-f4bd-5228-862f-a0a23d6cd16d,2006 FIFA Men's World Cup,fc0455f9-aa03-5b3d-9b41-41854289e993,Poland,POL,4e681995-8155-5921-a87a-ccb82e3fffd6,Janas,Paweł,Poland
+d52279b1-f4bd-5228-862f-a0a23d6cd16d,2006 FIFA Men's World Cup,9678d2a4-5323-5082-b115-575366fb384a,Paraguay,PRY,5637e48d-a1cd-5cc7-9224-bff714a87d6f,Ruiz,Aníbal,Uruguay
+d52279b1-f4bd-5228-862f-a0a23d6cd16d,2006 FIFA Men's World Cup,55f8040d-0098-5415-abdf-66098ef3bbee,Ghana,GHA,6d988f83-183c-56a4-a413-fa3db2658944,Dujković,Ratomir,Serbia
+d52279b1-f4bd-5228-862f-a0a23d6cd16d,2006 FIFA Men's World Cup,ad708552-b621-5809-9ae6-02de989608b3,Czech Republic,CZE,76378782-6e9d-53ce-90c7-e2f9f1105722,Brückner,Karel,Czech Republic
+d52279b1-f4bd-5228-862f-a0a23d6cd16d,2006 FIFA Men's World Cup,a42d3d6a-78dd-5ae6-8408-079a857a7c30,Italy,ITA,8a6edd2b-060d-5e52-b929-8e4dfb52570e,Lippi,Marcello,Italy
+d52279b1-f4bd-5228-862f-a0a23d6cd16d,2006 FIFA Men's World Cup,c832b30c-2750-5a24-a66f-cf9ea7c20a5c,Mexico,MEX,8bcc2e7f-0e38-5598-ae09-c23bbed4e13a,La Volpe,Ricardo,Argentina
+d52279b1-f4bd-5228-862f-a0a23d6cd16d,2006 FIFA Men's World Cup,d522b940-a152-5cc7-bcb3-89e28a1ce459,Netherlands,NLD,8e02c515-2542-5f77-b345-df21f589ad01,van Basten,Marco,Netherlands
+d52279b1-f4bd-5228-862f-a0a23d6cd16d,2006 FIFA Men's World Cup,e31e86e8-0616-5e05-a842-dc8f67c29ca4,Ivory Coast,CIV,909817eb-379f-58e9-909f-57aa8e790ea8,Michel,Henri,France
+d52279b1-f4bd-5228-862f-a0a23d6cd16d,2006 FIFA Men's World Cup,8cca4b99-7e47-5808-9e58-9803329fa50a,Saudi Arabia,SAU,9286dd62-0297-5a54-b2cc-84848d4780bb,Paquetá,Marcos,Brazil
+d52279b1-f4bd-5228-862f-a0a23d6cd16d,2006 FIFA Men's World Cup,3611e724-8c08-5f63-b63d-e1cad6af784c,Sweden,SWE,963823e2-10d7-5a36-b7ba-6f6502b854ea,Lagerbäck,Lars,Sweden
+d52279b1-f4bd-5228-862f-a0a23d6cd16d,2006 FIFA Men's World Cup,43c1aac8-fa85-5e16-ba9c-4cfdcbc975b8,England,ENG,a6b50cae-568b-54ab-bdc5-4e247e4fe0a0,Eriksson,Sven-Göran,Sweden
+d52279b1-f4bd-5228-862f-a0a23d6cd16d,2006 FIFA Men's World Cup,498c5353-84ca-5f1c-8d71-0ae02196227c,Brazil,BRA,b04380db-a075-5f4a-a525-272a2712b755,Parreira,Carlos Alberto,Brazil
+d52279b1-f4bd-5228-862f-a0a23d6cd16d,2006 FIFA Men's World Cup,f22d85b4-6cde-5f4e-8119-b3b69a2ba879,Iran,IRN,b17d328a-02e2-548f-86e4-25da374dda21,Ivanković,Branko,Croatia
+d52279b1-f4bd-5228-862f-a0a23d6cd16d,2006 FIFA Men's World Cup,0db8bc49-3546-517c-af2c-7abd04ae2214,Croatia,HRV,b558d668-25c2-594d-942f-49b2e0b85b4f,Kranjčar,Zlatko,Croatia
+d52279b1-f4bd-5228-862f-a0a23d6cd16d,2006 FIFA Men's World Cup,83f65ffa-c76e-5ace-8c09-c87d141a3916,South Korea,KOR,b9fc339b-23a2-5b8a-be18-9ce6269a3ff2,Advocaat,Dick,Netherlands
+d52279b1-f4bd-5228-862f-a0a23d6cd16d,2006 FIFA Men's World Cup,8dd855bb-0dbb-576b-837a-ad9f8d770c86,Costa Rica,CRI,bb858c97-5b43-5f85-972b-d6501fe33680,Guimarães,Alexandre,Costa Rica
+d52279b1-f4bd-5228-862f-a0a23d6cd16d,2006 FIFA Men's World Cup,1f887746-2115-54a3-a7da-7b8a619f858e,Togo,TGO,c57ac68e-f5eb-55d7-ae2f-7a57493fcd87,Pfister,Otto,Germany
+d52279b1-f4bd-5228-862f-a0a23d6cd16d,2006 FIFA Men's World Cup,2d9898be-ff8f-55ef-a86e-167bdeaf3cc6,Australia,AUS,d7eb83fa-ed22-5dcd-b2e9-bc80cff5d33d,Hiddink,Guus,Netherlands
+d52279b1-f4bd-5228-862f-a0a23d6cd16d,2006 FIFA Men's World Cup,13eebf0f-eb49-5e70-97f9-84f0395ceff1,Portugal,PRT,d86bec98-11ea-5f35-a5cc-68479d885367,Scolari,Luiz Felipe,Brazil
+d52279b1-f4bd-5228-862f-a0a23d6cd16d,2006 FIFA Men's World Cup,017c48cb-b97e-5de7-b7cd-7df9586d9d34,Trinidad and Tobago,TTO,da712882-6a90-55c1-ae3e-b9c367dd64dd,Beenhakker,Leo,Netherlands
+d52279b1-f4bd-5228-862f-a0a23d6cd16d,2006 FIFA Men's World Cup,3d11f07c-c004-508d-9001-6f944119b2b0,France,FRA,df8a9770-8528-527b-acec-eb6fa1a7c6b7,Domenech,Raymond,France
+d52279b1-f4bd-5228-862f-a0a23d6cd16d,2006 FIFA Men's World Cup,a260026d-34b5-5fdf-8896-fd8997f096b9,Switzerland,CHE,e2e2281d-46b9-50a8-82b4-695297b93b72,Kuhn,Köbi,Switzerland
+d52279b1-f4bd-5228-862f-a0a23d6cd16d,2006 FIFA Men's World Cup,2179a8d7-c7ed-5c0c-b6a6-8e6eeef52657,Ecuador,ECU,e4ed9f13-0059-5d17-afa4-bd19eca9a345,Suárez,Luis Fernando,Colombia
+d52279b1-f4bd-5228-862f-a0a23d6cd16d,2006 FIFA Men's World Cup,10913c23-6023-563d-94df-9b4fb66c3432,United States,USA,fd32447f-3791-5341-846e-037a1b189045,Arena,Bruce,United States
+eae9dec6-fcb0-5343-8f9b-c07e3895e50a,2007 FIFA Women's World Cup,933a103d-d9d7-57a3-9c4a-fbc81d25a266,Argentina,ARG,014f518c-a9a3-5edb-af68-39909dc0e3e7,Borrello,Carlos,Argentina
+eae9dec6-fcb0-5343-8f9b-c07e3895e50a,2007 FIFA Women's World Cup,498c5353-84ca-5f1c-8d71-0ae02196227c,Brazil,BRA,0283f9cd-4a12-5f26-b65c-12ce74575fdc,Barcellos,Jorge,Brazil
+eae9dec6-fcb0-5343-8f9b-c07e3895e50a,2007 FIFA Women's World Cup,dfb099cc-e7ea-5e4f-b492-bdbf6e8e179b,Denmark,DNK,083bf929-d49d-5827-bbcc-30818bfb9d0b,Heiner-Møller,Kenneth,Denmark
+eae9dec6-fcb0-5343-8f9b-c07e3895e50a,2007 FIFA Women's World Cup,58ce2aac-d181-51c6-9f50-fc3e8643d0e1,North Korea,PRK,1c05e619-83dc-5ecf-a5f2-a6238d901d45,Kim,Kwang-min,North Korea
+eae9dec6-fcb0-5343-8f9b-c07e3895e50a,2007 FIFA Women's World Cup,1234d812-2e40-561b-90a3-ed4f9e66bd63,Canada,CAN,28c61488-bbe3-5cd6-9065-034c313379a0,Pellerud,Even,Norway
+eae9dec6-fcb0-5343-8f9b-c07e3895e50a,2007 FIFA Women's World Cup,93542d8e-8aca-5c07-ad21-5c493fdf083e,China,CHN,436eeffb-0300-5dec-a9d2-91b1909d5eca,Domanski-Lyfors,Marika,Sweden
+eae9dec6-fcb0-5343-8f9b-c07e3895e50a,2007 FIFA Women's World Cup,43c1aac8-fa85-5e16-ba9c-4cfdcbc975b8,England,ENG,4f25278b-943a-53a0-9f0d-fe62e06d9ca4,Powell,Hope,England
+eae9dec6-fcb0-5343-8f9b-c07e3895e50a,2007 FIFA Women's World Cup,10913c23-6023-563d-94df-9b4fb66c3432,United States,USA,5e03e986-84c6-5f17-90de-0c37d1e093f4,Ryan,Greg,United States
+eae9dec6-fcb0-5343-8f9b-c07e3895e50a,2007 FIFA Women's World Cup,11240419-821b-5fbb-bf15-4906f40e3951,New Zealand,NZL,7146e6e2-1892-5ef9-9d17-08a029039410,Herdman,John,England
+eae9dec6-fcb0-5343-8f9b-c07e3895e50a,2007 FIFA Women's World Cup,eff0a856-a340-5ec8-84e8-121552da2cda,Germany,DEU,790a45e4-6b66-5e33-a5ef-f2a9d6712b4a,Neid,Silvia,Germany
+eae9dec6-fcb0-5343-8f9b-c07e3895e50a,2007 FIFA Women's World Cup,55f8040d-0098-5415-abdf-66098ef3bbee,Ghana,GHA,7d9292b5-b0eb-5ba4-9806-c8d6196891c7,Paha,Isaac,Ghana
+eae9dec6-fcb0-5343-8f9b-c07e3895e50a,2007 FIFA Women's World Cup,2d9898be-ff8f-55ef-a86e-167bdeaf3cc6,Australia,AUS,90bff27f-6e34-5af1-b982-5ce612b94bc5,Sermanni,Tom,Scotland
+eae9dec6-fcb0-5343-8f9b-c07e3895e50a,2007 FIFA Women's World Cup,187544dc-4b46-5bf6-a079-e124899a9090,Norway,NOR,a2d307a5-8929-5fdd-a8cd-be5841673c28,Berntsen,Bjarne,Norway
+eae9dec6-fcb0-5343-8f9b-c07e3895e50a,2007 FIFA Women's World Cup,f201a6b5-a9f6-5612-947b-a6a57d2e7e18,Nigeria,NGA,ce6cd861-cc55-5bd2-86e2-d3fdae09bd16,Effiom,Ntiero,Nigeria
+eae9dec6-fcb0-5343-8f9b-c07e3895e50a,2007 FIFA Women's World Cup,230373b7-3a16-506a-b5f6-acc37d7e801d,Japan,JPN,d9f9ff3e-273c-56eb-8b47-0ae78e4308cc,Ohashi,Hiroshi,Japan
+eae9dec6-fcb0-5343-8f9b-c07e3895e50a,2007 FIFA Women's World Cup,3611e724-8c08-5f63-b63d-e1cad6af784c,Sweden,SWE,f2672226-d9bd-575e-b835-6c5fe52fa638,Dennerby,Thomas,Sweden
+f8183740-0c58-50c1-98eb-1bb1e1148304,1934 FIFA Men's World Cup,3aa56241-3868-505a-ac6a-753aefa79cc2,Belgium,BEL,1fe88fca-e08d-5495-a8bd-f130888c0c7f,Goetinck,Hector,Belgium
+f8183740-0c58-50c1-98eb-1bb1e1148304,1934 FIFA Men's World Cup,933a103d-d9d7-57a3-9c4a-fbc81d25a266,Argentina,ARG,2494f6d4-488a-5e06-abbe-a8dd4b2a0ef1,Pascucci,Felipe,Italy
+f8183740-0c58-50c1-98eb-1bb1e1148304,1934 FIFA Men's World Cup,a42d3d6a-78dd-5ae6-8408-079a857a7c30,Italy,ITA,293f8e86-aef2-5fb9-bc13-e89b03c21c8f,Pozzo,Vittorio,Italy
+f8183740-0c58-50c1-98eb-1bb1e1148304,1934 FIFA Men's World Cup,d499d28a-dd42-5133-8e29-23835731f4ea,Egypt,EGY,397be7f7-e677-502e-83f6-f2a19acb5cb0,McCrae,James,Scotland
+f8183740-0c58-50c1-98eb-1bb1e1148304,1934 FIFA Men's World Cup,498c5353-84ca-5f1c-8d71-0ae02196227c,Brazil,BRA,4990c5aa-8d18-5e73-8bc6-caf40a06aa1d,Vinhaes,Luiz,Brazil
+f8183740-0c58-50c1-98eb-1bb1e1148304,1934 FIFA Men's World Cup,cf23603f-09d6-52e6-9c7e-fb8db4554297,Czechoslovakia,CSK,60ec72b0-68ab-55d0-b91c-86e8427a23b8,Petrů,Karel,Czechoslovakia
+f8183740-0c58-50c1-98eb-1bb1e1148304,1934 FIFA Men's World Cup,da4d79d5-3e18-54b9-916c-997fdef9a796,Romania,ROU,6fbc2802-332c-56de-85fb-6786240bd824,Rădulescu,Costel,Romania
+f8183740-0c58-50c1-98eb-1bb1e1148304,1934 FIFA Men's World Cup,da4d79d5-3e18-54b9-916c-997fdef9a796,Romania,ROU,81283f21-d98b-5ecd-8255-62d4c0d498e4,Uridil,Josef,Romania
+f8183740-0c58-50c1-98eb-1bb1e1148304,1934 FIFA Men's World Cup,d522b940-a152-5cc7-bcb3-89e28a1ce459,Netherlands,NLD,a5ac037e-bb4d-5e55-b690-126984717698,Glendenning,Bob,England
+f8183740-0c58-50c1-98eb-1bb1e1148304,1934 FIFA Men's World Cup,8e63ee49-fbde-5478-a093-1a6a679cc27f,Austria,AUT,a5c4646f-686e-56ba-af35-5f3335097349,Meisl,Hugo,Austria
+f8183740-0c58-50c1-98eb-1bb1e1148304,1934 FIFA Men's World Cup,eff0a856-a340-5ec8-84e8-121552da2cda,Germany,DEU,a7aded35-40b7-57cf-9e3a-d981ef455e39,Nerz,Otto,Germany
+f8183740-0c58-50c1-98eb-1bb1e1148304,1934 FIFA Men's World Cup,5b16dd9d-d19c-5484-bac2-f9e932dddd29,Spain,ESP,c4df3501-9f7b-5c8e-88e8-628ec068dce8,García,Amadeo,Spain
+f8183740-0c58-50c1-98eb-1bb1e1148304,1934 FIFA Men's World Cup,3611e724-8c08-5f63-b63d-e1cad6af784c,Sweden,SWE,dd1b3119-ee31-53ac-a72f-26eaaa4db397,Pettersson,John,Sweden
+f8183740-0c58-50c1-98eb-1bb1e1148304,1934 FIFA Men's World Cup,10913c23-6023-563d-94df-9b4fb66c3432,United States,USA,ed249772-58ab-5b2e-98d8-17ac2386c84f,Gould,David,United States
+f8183740-0c58-50c1-98eb-1bb1e1148304,1934 FIFA Men's World Cup,a260026d-34b5-5fdf-8896-fd8997f096b9,Switzerland,CHE,f5356c83-788c-5219-9fbe-0532078d73ce,Müller,Heinrich,Switzerland
+f8183740-0c58-50c1-98eb-1bb1e1148304,1934 FIFA Men's World Cup,3d11f07c-c004-508d-9001-6f944119b2b0,France,FRA,f6222c97-8dff-56c4-9290-163413a99222,Kimpton,George,England
+f8183740-0c58-50c1-98eb-1bb1e1148304,1934 FIFA Men's World Cup,f16b7d5c-db54-5b27-b827-e848a3035641,Hungary,HUN,fefa06b8-6fc7-562d-ab78-0afd46001ec3,Nádas,Ödön,Hungary
+f97aa139-2102-5d5d-adbe-eb5f91a07de6,1962 FIFA Men's World Cup,879c1298-9904-5b96-8f25-5e7d455ae2ec,Chile,CHL,0b95df36-f765-5a40-b5a4-418451bcd0cd,Riera,Fernando,Chile
+f97aa139-2102-5d5d-adbe-eb5f91a07de6,1962 FIFA Men's World Cup,f16b7d5c-db54-5b27-b827-e848a3035641,Hungary,HUN,118f2e23-c2af-5ed2-a6ce-854e6f0766d7,Baróti,Lajos,Hungary
+f97aa139-2102-5d5d-adbe-eb5f91a07de6,1962 FIFA Men's World Cup,6c983d26-03e1-5649-a13f-42b61e101a0e,Soviet Union,SUN,32941971-7569-5a1b-b1a2-46971f9050e6,Kachalin,Gavriil,Soviet Union
+f97aa139-2102-5d5d-adbe-eb5f91a07de6,1962 FIFA Men's World Cup,a42d3d6a-78dd-5ae6-8408-079a857a7c30,Italy,ITA,329e9f90-63c8-52da-8043-e986b1b91ace,Ferrari,Giovanni,Italy
+f97aa139-2102-5d5d-adbe-eb5f91a07de6,1962 FIFA Men's World Cup,3de13983-4604-5a8d-b39c-08d4f279a06b,Colombia,COL,56a37648-ce81-5e11-843e-ab40766b29cb,Pedernera,Adolfo,Argentina
+f97aa139-2102-5d5d-adbe-eb5f91a07de6,1962 FIFA Men's World Cup,cf23603f-09d6-52e6-9c7e-fb8db4554297,Czechoslovakia,CSK,588cf42f-65cc-58e9-8dbe-ec41e031c0f6,Vytlačil,Rudolf,Czechoslovakia
+f97aa139-2102-5d5d-adbe-eb5f91a07de6,1962 FIFA Men's World Cup,498c5353-84ca-5f1c-8d71-0ae02196227c,Brazil,BRA,5e9f9a91-26ff-564c-9040-a62c99e4c4b4,Moreira,Aymoré,Brazil
+f97aa139-2102-5d5d-adbe-eb5f91a07de6,1962 FIFA Men's World Cup,43c1aac8-fa85-5e16-ba9c-4cfdcbc975b8,England,ENG,605710b9-5847-5e36-9606-d4b8e47edb9e,Winterbottom,Walter,England
+f97aa139-2102-5d5d-adbe-eb5f91a07de6,1962 FIFA Men's World Cup,f4b41163-3c82-5e1e-af54-e7ecc8a15135,Bulgaria,BGR,62cc5097-425f-51bd-9f1d-9038b344d1c8,Pachedzhiev,Georgi,Bulgaria
+f97aa139-2102-5d5d-adbe-eb5f91a07de6,1962 FIFA Men's World Cup,5b16dd9d-d19c-5484-bac2-f9e932dddd29,Spain,ESP,682b6268-c1b3-534a-99c2-68d02256bb77,Herrera,Helenio,Argentina
+f97aa139-2102-5d5d-adbe-eb5f91a07de6,1962 FIFA Men's World Cup,a42d3d6a-78dd-5ae6-8408-079a857a7c30,Italy,ITA,80edb52e-5ebf-5067-94e7-8428678976b8,Mazza,Paolo,Italy
+f97aa139-2102-5d5d-adbe-eb5f91a07de6,1962 FIFA Men's World Cup,933a103d-d9d7-57a3-9c4a-fbc81d25a266,Argentina,ARG,a2c624fd-3c4e-506a-b6f1-c40f92fdff3b,Lorenzo,Juan Carlos,Argentina
+f97aa139-2102-5d5d-adbe-eb5f91a07de6,1962 FIFA Men's World Cup,9a9be60e-89da-590c-95a8-6e5802b5deb5,Yugoslavia,YUG,a922a003-5146-5c7a-949e-c5260c31d029,Mihajlović,Prvoslav,Yugoslavia
+f97aa139-2102-5d5d-adbe-eb5f91a07de6,1962 FIFA Men's World Cup,adbcf28f-5f27-56bd-bca0-909cf77a8ae0,West Germany,DEU,a92866d6-7b41-5603-b196-fe389ffe2428,Herberger,Sepp,Germany
+f97aa139-2102-5d5d-adbe-eb5f91a07de6,1962 FIFA Men's World Cup,c832b30c-2750-5a24-a66f-cf9ea7c20a5c,Mexico,MEX,ad565344-0562-5f13-a6a0-a90c4be7f2d4,Tréllez,Ignacio,Mexico
+f97aa139-2102-5d5d-adbe-eb5f91a07de6,1962 FIFA Men's World Cup,9a9be60e-89da-590c-95a8-6e5802b5deb5,Yugoslavia,YUG,d214f0f6-4119-54da-83a5-830684d09c50,Lovrić,Ljubomir,Yugoslavia
+f97aa139-2102-5d5d-adbe-eb5f91a07de6,1962 FIFA Men's World Cup,f8764a69-de29-59f5-8e79-715c4bf88a11,Uruguay,URY,fd5fd01c-211c-536c-9849-9b267fae7954,Corazzo,Juan Carlos,Uruguay
+f97aa139-2102-5d5d-adbe-eb5f91a07de6,1962 FIFA Men's World Cup,a260026d-34b5-5fdf-8896-fd8997f096b9,Switzerland,CHE,fe236aac-31b0-5cf4-a218-017b4d3c3864,Rappan,Karl,Austria
+fbe31e5e-d2a1-50dd-a5ca-93784ee9f889,1998 FIFA Men's World Cup,83f65ffa-c76e-5ace-8c09-c87d141a3916,South Korea,KOR,08ef4bdf-7c25-55e4-8948-442f99759311,Cha,Bum-kun,South Korea
+fbe31e5e-d2a1-50dd-a5ca-93784ee9f889,1998 FIFA Men's World Cup,8e63ee49-fbde-5478-a093-1a6a679cc27f,Austria,AUT,18a7d84a-70d7-5fcc-a31b-6b07f5d7f30a,Prohaska,Herbert,Austria
+fbe31e5e-d2a1-50dd-a5ca-93784ee9f889,1998 FIFA Men's World Cup,b627769a-7468-5b82-85ee-a38f3d71a3c6,Tunisia,TUN,1cd15187-7ada-578d-9cca-c68a4d20f9ba,Selmi,Ali,Poland
+fbe31e5e-d2a1-50dd-a5ca-93784ee9f889,1998 FIFA Men's World Cup,9678d2a4-5323-5082-b115-575366fb384a,Paraguay,PRY,1e2e2c5c-333b-54a2-a620-769b027d15d7,Carpegiani,Paulo César,Brazil
+fbe31e5e-d2a1-50dd-a5ca-93784ee9f889,1998 FIFA Men's World Cup,3de13983-4604-5a8d-b39c-08d4f279a06b,Colombia,COL,2c5d38bd-a725-5a84-a4b5-d149aac1c691,Gómez,Hernán Darío,Colombia
+fbe31e5e-d2a1-50dd-a5ca-93784ee9f889,1998 FIFA Men's World Cup,8cca4b99-7e47-5808-9e58-9803329fa50a,Saudi Arabia,SAU,2e775780-e3fe-5653-8a0a-28d547631c1c,Al-Kharashy,Mohammed,Brazil
+fbe31e5e-d2a1-50dd-a5ca-93784ee9f889,1998 FIFA Men's World Cup,b627769a-7468-5b82-85ee-a38f3d71a3c6,Tunisia,TUN,3bab7591-41d7-5b77-b41a-be832f46a9df,Kasperczak,Henryk,Poland
+fbe31e5e-d2a1-50dd-a5ca-93784ee9f889,1998 FIFA Men's World Cup,0db8bc49-3546-517c-af2c-7abd04ae2214,Croatia,HRV,3eaf2605-1f9e-5fc9-bec2-17edac9d64cf,Blažević,Miroslav,Croatia
+fbe31e5e-d2a1-50dd-a5ca-93784ee9f889,1998 FIFA Men's World Cup,fc2ce361-82ed-537a-85f1-ff8f384d11b1,Scotland,SCO,41876c0e-098c-5e99-b3b2-f8071d908eeb,Brown,Craig,Scotland
+fbe31e5e-d2a1-50dd-a5ca-93784ee9f889,1998 FIFA Men's World Cup,9a9be60e-89da-590c-95a8-6e5802b5deb5,Yugoslavia,YUG,45f2ba5d-1758-529c-819d-c71d64397000,Santrač,Slobodan,Yugoslavia
+fbe31e5e-d2a1-50dd-a5ca-93784ee9f889,1998 FIFA Men's World Cup,c832b30c-2750-5a24-a66f-cf9ea7c20a5c,Mexico,MEX,461f37a3-e2b6-55e2-bedc-bfb1cfae19b4,Lapuente,Manuel,Mexico
+fbe31e5e-d2a1-50dd-a5ca-93784ee9f889,1998 FIFA Men's World Cup,f22d85b4-6cde-5f4e-8119-b3b69a2ba879,Iran,IRN,466208d3-b4e5-552a-8d7c-4206e1e3e89a,Talebi,Jalal,Iran
+fbe31e5e-d2a1-50dd-a5ca-93784ee9f889,1998 FIFA Men's World Cup,da4d79d5-3e18-54b9-916c-997fdef9a796,Romania,ROU,4a207a75-b489-556f-84d1-ee39f70c40a3,Iordănescu,Anghel,Romania
+fbe31e5e-d2a1-50dd-a5ca-93784ee9f889,1998 FIFA Men's World Cup,933a103d-d9d7-57a3-9c4a-fbc81d25a266,Argentina,ARG,4d0397d4-ad90-5ed5-b682-c68b43899dec,Passarella,Daniel,Argentina
+fbe31e5e-d2a1-50dd-a5ca-93784ee9f889,1998 FIFA Men's World Cup,879c1298-9904-5b96-8f25-5e7d455ae2ec,Chile,CHL,51719293-9222-57f1-af99-0d311f02e2b9,Acosta,Nelson,Uruguay
+fbe31e5e-d2a1-50dd-a5ca-93784ee9f889,1998 FIFA Men's World Cup,43c1aac8-fa85-5e16-ba9c-4cfdcbc975b8,England,ENG,7faeb642-ef5b-5047-adc4-24c39b70486b,Hoddle,Glenn,England
+fbe31e5e-d2a1-50dd-a5ca-93784ee9f889,1998 FIFA Men's World Cup,265f639f-c7d5-5ca2-b708-b0995f6c2b89,Morocco,MAR,909817eb-379f-58e9-909f-57aa8e790ea8,Michel,Henri,France
+fbe31e5e-d2a1-50dd-a5ca-93784ee9f889,1998 FIFA Men's World Cup,e77d250a-1cec-5627-adc4-3cf95c7c0972,South Africa,ZAF,9ee233f5-25c8-520d-8a6c-0e4a90a60b7d,Troussier,Philippe,France
+fbe31e5e-d2a1-50dd-a5ca-93784ee9f889,1998 FIFA Men's World Cup,5b16dd9d-d19c-5484-bac2-f9e932dddd29,Spain,ESP,9ffbe676-0bdb-528b-8eb7-f7d35a1e8d25,Clemente,Javier,Spain
+fbe31e5e-d2a1-50dd-a5ca-93784ee9f889,1998 FIFA Men's World Cup,eb88a8cc-be5e-5116-8926-ba595504709a,Cameroon,CMR,a405d5c2-f493-5287-a3bd-8050664aad7b,Le Roy,Claude,France
+fbe31e5e-d2a1-50dd-a5ca-93784ee9f889,1998 FIFA Men's World Cup,10913c23-6023-563d-94df-9b4fb66c3432,United States,USA,aa08b503-2fb4-5f6a-a8e6-489d983a3774,Sampson,Steve,United States
+fbe31e5e-d2a1-50dd-a5ca-93784ee9f889,1998 FIFA Men's World Cup,8cca4b99-7e47-5808-9e58-9803329fa50a,Saudi Arabia,SAU,b04380db-a075-5f4a-a525-272a2712b755,Parreira,Carlos Alberto,Brazil
+fbe31e5e-d2a1-50dd-a5ca-93784ee9f889,1998 FIFA Men's World Cup,eff0a856-a340-5ec8-84e8-121552da2cda,Germany,DEU,b124d840-c522-5215-8a65-5f82b65a5086,Vogts,Berti,Germany
+fbe31e5e-d2a1-50dd-a5ca-93784ee9f889,1998 FIFA Men's World Cup,187544dc-4b46-5bf6-a079-e124899a9090,Norway,NOR,b33e5a5e-adcb-509f-9b6c-956e77917a01,Olsen,Egil,Norway
+fbe31e5e-d2a1-50dd-a5ca-93784ee9f889,1998 FIFA Men's World Cup,230373b7-3a16-506a-b5f6-acc37d7e801d,Japan,JPN,b47b314f-7b73-56dd-9e91-b5b50f9867e2,Okada,Takeshi,Japan
+fbe31e5e-d2a1-50dd-a5ca-93784ee9f889,1998 FIFA Men's World Cup,498c5353-84ca-5f1c-8d71-0ae02196227c,Brazil,BRA,c30d0220-1310-54a9-a3e9-7a7b76d957bd,Zagallo,Mário,Brazil
+fbe31e5e-d2a1-50dd-a5ca-93784ee9f889,1998 FIFA Men's World Cup,3aa56241-3868-505a-ac6a-753aefa79cc2,Belgium,BEL,c91d508e-ceac-5906-9c75-52714170e484,Leekens,Georges,Belgium
+fbe31e5e-d2a1-50dd-a5ca-93784ee9f889,1998 FIFA Men's World Cup,f4b41163-3c82-5e1e-af54-e7ecc8a15135,Bulgaria,BGR,cb6d658e-f107-5968-b70a-51d4f14852a3,Bonev,Hristo,Bulgaria
+fbe31e5e-d2a1-50dd-a5ca-93784ee9f889,1998 FIFA Men's World Cup,a42d3d6a-78dd-5ae6-8408-079a857a7c30,Italy,ITA,d7810d84-f4a8-5d49-bb3c-0be218504ce1,Maldini,Cesare,Italy
+fbe31e5e-d2a1-50dd-a5ca-93784ee9f889,1998 FIFA Men's World Cup,d522b940-a152-5cc7-bcb3-89e28a1ce459,Netherlands,NLD,d7eb83fa-ed22-5dcd-b2e9-bc80cff5d33d,Hiddink,Guus,Netherlands
+fbe31e5e-d2a1-50dd-a5ca-93784ee9f889,1998 FIFA Men's World Cup,3d11f07c-c004-508d-9001-6f944119b2b0,France,FRA,dcd44fb9-0ea1-53b7-96d2-8a118fe47c1e,Jacquet,Aimé,France
+fbe31e5e-d2a1-50dd-a5ca-93784ee9f889,1998 FIFA Men's World Cup,dfb099cc-e7ea-5e4f-b492-bdbf6e8e179b,Denmark,DNK,e24acaf1-2037-599d-aae6-c17ae109e856,Johansson,Bo,Sweden
+fbe31e5e-d2a1-50dd-a5ca-93784ee9f889,1998 FIFA Men's World Cup,f201a6b5-a9f6-5612-947b-a6a57d2e7e18,Nigeria,NGA,e91d374b-3f6b-5a35-a611-4c171f4302a1,Milutinović,Bora,Yugoslavia
+fbe31e5e-d2a1-50dd-a5ca-93784ee9f889,1998 FIFA Men's World Cup,13a7a10d-674d-5be2-bdfa-a0e18b0b6b04,Jamaica,JAM,ff3d0987-8c14-5d25-9845-601155ead331,Simões,Renê,Brazil

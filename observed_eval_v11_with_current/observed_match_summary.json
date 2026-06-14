@@ -1,0 +1,117 @@
+{
+  "n_matches": 8,
+  "result_accuracy": 0.5,
+  "mean_result_log_loss": 1.104100013076782,
+  "mean_result_brier": 0.6848889962510918,
+  "mean_result_rps": 0.21203913237033292,
+  "mean_goal_mae": 0.8120287682802084,
+  "mean_goal_rmse": 1.0191957886142697,
+  "mean_goal_difference_abs_error": 1.2961934990775335,
+  "mean_exact_score_log_loss": 2.6486393909249757,
+  "mean_actual_result_probability": 0.35724631283014663,
+  "mean_exact_score_probability": 0.08330778704938993,
+  "exact_score_accuracy": 0.375,
+  "top_2_result_accuracy": 0.875,
+  "model_type": "ensemble",
+  "model_file": "v11_wcq_results_model.py",
+  "uniform_baseline_log_loss": 1.0986122886681098,
+  "uniform_baseline_brier": 0.6666666666666666,
+  "log_loss_skill_vs_uniform": -0.004995142021690935,
+  "brier_skill_vs_uniform": -0.02733349437663768,
+  "bootstrap_samples": 5000,
+  "bootstrap_confidence_level": 0.95,
+  "bootstrap_confidence_intervals": {
+    "result_accuracy": {
+      "lower": 0.125,
+      "upper": 0.875,
+      "confidence": 0.95
+    },
+    "mean_result_log_loss": {
+      "lower": 0.8386844857360771,
+      "upper": 1.3662097474523562,
+      "confidence": 0.95
+    },
+    "mean_result_brier": {
+      "lower": 0.48442419701939127,
+      "upper": 0.8853323583089586,
+      "confidence": 0.95
+    },
+    "mean_result_rps": {
+      "lower": 0.15924384145130588,
+      "upper": 0.2727323254910211,
+      "confidence": 0.95
+    },
+    "mean_goal_mae": {
+      "lower": 0.5691032590844914,
+      "upper": 1.1259138562823217,
+      "confidence": 0.95
+    },
+    "mean_goal_rmse": {
+      "lower": 0.6683437738886799,
+      "upper": 1.3837422134537256,
+      "confidence": 0.95
+    },
+    "mean_goal_difference_abs_error": {
+      "lower": 0.6519726689931369,
+      "upper": 2.0818274846501392,
+      "confidence": 0.95
+    },
+    "mean_exact_score_log_loss": {
+      "lower": 2.2930782127969764,
+      "upper": 3.206335775886381,
+      "confidence": 0.95
+    }
+  },
+  "box_event_metrics": {
+    "shots": {
+      "n_team_observations": 16,
+      "mae": 6.082351971896726,
+      "rmse": 7.141995063866369,
+      "bias": 0.7548718131665665,
+      "correlation": 0.16294216190498512
+    },
+    "shots_on_target": {
+      "n_team_observations": 16,
+      "mae": 1.8434083527540068,
+      "rmse": 2.203842522001039,
+      "bias": 0.6753527971984512,
+      "correlation": 0.3819208336322612
+    },
+    "possession": {
+      "n_team_observations": 16,
+      "mae": 8.376046943644015,
+      "rmse": 9.556063900728521,
+      "bias": 0.0,
+      "correlation": 0.7392523797080289
+    },
+    "fouls": {
+      "n_team_observations": 16,
+      "mae": 4.249775436318091,
+      "rmse": 5.156038573608387,
+      "bias": 2.249775436318091,
+      "correlation": 0.35806647256448054
+    },
+    "yellow_cards": {
+      "n_team_observations": 16,
+      "mae": 1.075635173915003,
+      "rmse": 1.2926845666381361,
+      "bias": 0.20310414232431329,
+      "correlation": 0.2670881507755157
+    },
+    "red_cards": {
+      "n_team_observations": 16,
+      "mae": 0.40794521723110216,
+      "rmse": 0.8950397539490056,
+      "bias": -0.2983047827688979,
+      "correlation": 0.19915089849126194
+    }
+  },
+  "box_event_mae": {
+    "shots": 6.082351971896726,
+    "shots_on_target": 1.8434083527540068,
+    "possession": 8.376046943644015,
+    "fouls": 4.249775436318091,
+    "yellow_cards": 1.075635173915003,
+    "red_cards": 0.40794521723110216
+  }
+}

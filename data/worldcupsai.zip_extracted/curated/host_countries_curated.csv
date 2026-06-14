@@ -1,0 +1,34 @@
+tournament_id,tournament_name,team_id,team_name,team_code,progress
+013eb3e7-ff79-5592-944c-ca635e888abb,2019 FIFA Women's World Cup,3d11f07c-c004-508d-9001-6f944119b2b0,France,FRA,quarter-finals
+09a48bd3-5401-5de4-9bd5-0e907ba0fee6,2015 FIFA Women's World Cup,1234d812-2e40-561b-90a3-ed4f9e66bd63,Canada,CAN,quarter-finals
+14ac8c65-b6bd-5301-83ca-d190f210e04f,1999 FIFA Women's World Cup,10913c23-6023-563d-94df-9b4fb66c3432,United States,USA,final
+15f11a97-c603-53ea-be3a-d196027360e9,1930 FIFA Men's World Cup,f8764a69-de29-59f5-8e79-715c4bf88a11,Uruguay,URY,final
+16504e44-4d0e-5f54-9f9d-c1dfa90a0f20,1966 FIFA Men's World Cup,43c1aac8-fa85-5e16-ba9c-4cfdcbc975b8,England,ENG,final
+173406d4-d15a-5033-bddc-c3f91ccad965,1978 FIFA Men's World Cup,933a103d-d9d7-57a3-9c4a-fbc81d25a266,Argentina,ARG,final
+1e88b29b-3883-56c0-a9f4-0fc4447d0f51,1995 FIFA Women's World Cup,3611e724-8c08-5f63-b63d-e1cad6af784c,Sweden,SWE,quarter-finals
+20ab0077-a605-5083-9dc5-cd0d38739b20,1994 FIFA Men's World Cup,10913c23-6023-563d-94df-9b4fb66c3432,United States,USA,round of 16
+2670ca56-9aab-5ab6-95fe-055da95f80ff,2018 FIFA Men's World Cup,6eb0485e-97e8-57e7-bf93-6c300f3e003a,Russia,RUS,quarter-finals
+27c90506-c75e-5fba-813d-68c0722b56bf,1938 FIFA Men's World Cup,3d11f07c-c004-508d-9001-6f944119b2b0,France,FRA,quarter-finals
+28d9ffd2-6063-5c73-aed8-40f06aeb44db,1990 FIFA Men's World Cup,a42d3d6a-78dd-5ae6-8408-079a857a7c30,Italy,ITA,semi-finals
+3ceb381b-9f6e-54ff-b80d-d1bade27a3b5,2003 FIFA Women's World Cup,10913c23-6023-563d-94df-9b4fb66c3432,United States,USA,semi-finals
+49e2bb03-96ed-5dd7-8325-fadb64dd39cb,2011 FIFA Women's World Cup,eff0a856-a340-5ec8-84e8-121552da2cda,Germany,DEU,quarter-finals
+4ee70224-a2a3-585b-8bab-8ef5e9464c04,2014 FIFA Men's World Cup,498c5353-84ca-5f1c-8d71-0ae02196227c,Brazil,BRA,semi-finals
+5628ea07-73ab-57ad-99be-84c20dc96cc0,1954 FIFA Men's World Cup,a260026d-34b5-5fdf-8896-fd8997f096b9,Switzerland,CHE,quarter-finals
+5d9da256-e241-508e-85a7-5a17c07f186a,1950 FIFA Men's World Cup,498c5353-84ca-5f1c-8d71-0ae02196227c,Brazil,BRA,final
+6be60fed-dffa-5aa5-89a6-374b2bcb8c92,1958 FIFA Men's World Cup,3611e724-8c08-5f63-b63d-e1cad6af784c,Sweden,SWE,final
+717bed6b-0e65-5efa-8010-ab689ff32abe,1970 FIFA Men's World Cup,c832b30c-2750-5a24-a66f-cf9ea7c20a5c,Mexico,MEX,quarter-finals
+860dc5fb-c8ff-502e-ad19-c34195b265e0,1974 FIFA Men's World Cup,adbcf28f-5f27-56bd-bca0-909cf77a8ae0,West Germany,DEU,final
+8e0540a9-ab5d-5e7f-8ed2-417e3e1568a9,1986 FIFA Men's World Cup,c832b30c-2750-5a24-a66f-cf9ea7c20a5c,Mexico,MEX,quarter-finals
+97242af1-4f11-5b96-b5f1-026e51f4a3c5,2023 FIFA Women's World Cup,11240419-821b-5fbb-bf15-4906f40e3951,New Zealand,NZL,group stage
+97242af1-4f11-5b96-b5f1-026e51f4a3c5,2023 FIFA Women's World Cup,2d9898be-ff8f-55ef-a86e-167bdeaf3cc6,Australia,AUS,semi-finals
+980713b4-f72a-5fb3-a406-6de227728b1d,1982 FIFA Men's World Cup,5b16dd9d-d19c-5484-bac2-f9e932dddd29,Spain,ESP,second group stage
+989bb40b-e4d2-554d-b25d-51c776e801e2,2022 FIFA Men's World Cup,42c04ec6-0345-52bc-8d8a-5d51bd89ad16,Qatar,QAT,group stage
+a3355eb2-b9f4-5e9c-92d3-dc9cb37177b6,2010 FIFA Men's World Cup,e77d250a-1cec-5627-adc4-3cf95c7c0972,South Africa,ZAF,group stage
+c18a4889-5b51-5337-bc1a-a0731c1d97eb,2002 FIFA Men's World Cup,230373b7-3a16-506a-b5f6-acc37d7e801d,Japan,JPN,round of 16
+c18a4889-5b51-5337-bc1a-a0731c1d97eb,2002 FIFA Men's World Cup,83f65ffa-c76e-5ace-8c09-c87d141a3916,South Korea,KOR,semi-finals
+cb194f04-c36a-5525-a51a-2219d44c0be3,1991 FIFA Women's World Cup,93542d8e-8aca-5c07-ad21-5c493fdf083e,China,CHN,quarter-finals
+d52279b1-f4bd-5228-862f-a0a23d6cd16d,2006 FIFA Men's World Cup,eff0a856-a340-5ec8-84e8-121552da2cda,Germany,DEU,semi-finals
+eae9dec6-fcb0-5343-8f9b-c07e3895e50a,2007 FIFA Women's World Cup,93542d8e-8aca-5c07-ad21-5c493fdf083e,China,CHN,quarter-finals
+f8183740-0c58-50c1-98eb-1bb1e1148304,1934 FIFA Men's World Cup,a42d3d6a-78dd-5ae6-8408-079a857a7c30,Italy,ITA,final
+f97aa139-2102-5d5d-adbe-eb5f91a07de6,1962 FIFA Men's World Cup,879c1298-9904-5b96-8f25-5e7d455ae2ec,Chile,CHL,semi-finals
+fbe31e5e-d2a1-50dd-a5ca-93784ee9f889,1998 FIFA Men's World Cup,3d11f07c-c004-508d-9001-6f944119b2b0,France,FRA,final

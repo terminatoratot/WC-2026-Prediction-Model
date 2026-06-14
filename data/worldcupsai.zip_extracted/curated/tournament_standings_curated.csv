@@ -1,0 +1,125 @@
+tournament_id,tournament_name,position,team_id,team_name,team_code
+013eb3e7-ff79-5592-944c-ca635e888abb,2019 FIFA Women's World Cup,1,10913c23-6023-563d-94df-9b4fb66c3432,United States,USA
+013eb3e7-ff79-5592-944c-ca635e888abb,2019 FIFA Women's World Cup,2,d522b940-a152-5cc7-bcb3-89e28a1ce459,Netherlands,NLD
+013eb3e7-ff79-5592-944c-ca635e888abb,2019 FIFA Women's World Cup,3,3611e724-8c08-5f63-b63d-e1cad6af784c,Sweden,SWE
+013eb3e7-ff79-5592-944c-ca635e888abb,2019 FIFA Women's World Cup,4,43c1aac8-fa85-5e16-ba9c-4cfdcbc975b8,England,ENG
+09a48bd3-5401-5de4-9bd5-0e907ba0fee6,2015 FIFA Women's World Cup,1,10913c23-6023-563d-94df-9b4fb66c3432,United States,USA
+09a48bd3-5401-5de4-9bd5-0e907ba0fee6,2015 FIFA Women's World Cup,2,230373b7-3a16-506a-b5f6-acc37d7e801d,Japan,JPN
+09a48bd3-5401-5de4-9bd5-0e907ba0fee6,2015 FIFA Women's World Cup,3,43c1aac8-fa85-5e16-ba9c-4cfdcbc975b8,England,ENG
+09a48bd3-5401-5de4-9bd5-0e907ba0fee6,2015 FIFA Women's World Cup,4,eff0a856-a340-5ec8-84e8-121552da2cda,Germany,DEU
+14ac8c65-b6bd-5301-83ca-d190f210e04f,1999 FIFA Women's World Cup,1,10913c23-6023-563d-94df-9b4fb66c3432,United States,USA
+14ac8c65-b6bd-5301-83ca-d190f210e04f,1999 FIFA Women's World Cup,2,93542d8e-8aca-5c07-ad21-5c493fdf083e,China,CHN
+14ac8c65-b6bd-5301-83ca-d190f210e04f,1999 FIFA Women's World Cup,3,498c5353-84ca-5f1c-8d71-0ae02196227c,Brazil,BRA
+14ac8c65-b6bd-5301-83ca-d190f210e04f,1999 FIFA Women's World Cup,4,187544dc-4b46-5bf6-a079-e124899a9090,Norway,NOR
+15f11a97-c603-53ea-be3a-d196027360e9,1930 FIFA Men's World Cup,1,f8764a69-de29-59f5-8e79-715c4bf88a11,Uruguay,URY
+15f11a97-c603-53ea-be3a-d196027360e9,1930 FIFA Men's World Cup,2,933a103d-d9d7-57a3-9c4a-fbc81d25a266,Argentina,ARG
+15f11a97-c603-53ea-be3a-d196027360e9,1930 FIFA Men's World Cup,3,10913c23-6023-563d-94df-9b4fb66c3432,United States,USA
+15f11a97-c603-53ea-be3a-d196027360e9,1930 FIFA Men's World Cup,4,9a9be60e-89da-590c-95a8-6e5802b5deb5,Yugoslavia,YUG
+16504e44-4d0e-5f54-9f9d-c1dfa90a0f20,1966 FIFA Men's World Cup,1,43c1aac8-fa85-5e16-ba9c-4cfdcbc975b8,England,ENG
+16504e44-4d0e-5f54-9f9d-c1dfa90a0f20,1966 FIFA Men's World Cup,2,adbcf28f-5f27-56bd-bca0-909cf77a8ae0,West Germany,DEU
+16504e44-4d0e-5f54-9f9d-c1dfa90a0f20,1966 FIFA Men's World Cup,3,13eebf0f-eb49-5e70-97f9-84f0395ceff1,Portugal,PRT
+16504e44-4d0e-5f54-9f9d-c1dfa90a0f20,1966 FIFA Men's World Cup,4,6c983d26-03e1-5649-a13f-42b61e101a0e,Soviet Union,SUN
+173406d4-d15a-5033-bddc-c3f91ccad965,1978 FIFA Men's World Cup,1,933a103d-d9d7-57a3-9c4a-fbc81d25a266,Argentina,ARG
+173406d4-d15a-5033-bddc-c3f91ccad965,1978 FIFA Men's World Cup,2,d522b940-a152-5cc7-bcb3-89e28a1ce459,Netherlands,NLD
+173406d4-d15a-5033-bddc-c3f91ccad965,1978 FIFA Men's World Cup,3,498c5353-84ca-5f1c-8d71-0ae02196227c,Brazil,BRA
+173406d4-d15a-5033-bddc-c3f91ccad965,1978 FIFA Men's World Cup,4,a42d3d6a-78dd-5ae6-8408-079a857a7c30,Italy,ITA
+1e88b29b-3883-56c0-a9f4-0fc4447d0f51,1995 FIFA Women's World Cup,1,187544dc-4b46-5bf6-a079-e124899a9090,Norway,NOR
+1e88b29b-3883-56c0-a9f4-0fc4447d0f51,1995 FIFA Women's World Cup,2,eff0a856-a340-5ec8-84e8-121552da2cda,Germany,DEU
+1e88b29b-3883-56c0-a9f4-0fc4447d0f51,1995 FIFA Women's World Cup,3,10913c23-6023-563d-94df-9b4fb66c3432,United States,USA
+1e88b29b-3883-56c0-a9f4-0fc4447d0f51,1995 FIFA Women's World Cup,4,93542d8e-8aca-5c07-ad21-5c493fdf083e,China,CHN
+20ab0077-a605-5083-9dc5-cd0d38739b20,1994 FIFA Men's World Cup,1,498c5353-84ca-5f1c-8d71-0ae02196227c,Brazil,BRA
+20ab0077-a605-5083-9dc5-cd0d38739b20,1994 FIFA Men's World Cup,2,a42d3d6a-78dd-5ae6-8408-079a857a7c30,Italy,ITA
+20ab0077-a605-5083-9dc5-cd0d38739b20,1994 FIFA Men's World Cup,3,3611e724-8c08-5f63-b63d-e1cad6af784c,Sweden,SWE
+20ab0077-a605-5083-9dc5-cd0d38739b20,1994 FIFA Men's World Cup,4,f4b41163-3c82-5e1e-af54-e7ecc8a15135,Bulgaria,BGR
+2670ca56-9aab-5ab6-95fe-055da95f80ff,2018 FIFA Men's World Cup,1,3d11f07c-c004-508d-9001-6f944119b2b0,France,FRA
+2670ca56-9aab-5ab6-95fe-055da95f80ff,2018 FIFA Men's World Cup,2,0db8bc49-3546-517c-af2c-7abd04ae2214,Croatia,HRV
+2670ca56-9aab-5ab6-95fe-055da95f80ff,2018 FIFA Men's World Cup,3,3aa56241-3868-505a-ac6a-753aefa79cc2,Belgium,BEL
+2670ca56-9aab-5ab6-95fe-055da95f80ff,2018 FIFA Men's World Cup,4,43c1aac8-fa85-5e16-ba9c-4cfdcbc975b8,England,ENG
+27c90506-c75e-5fba-813d-68c0722b56bf,1938 FIFA Men's World Cup,1,a42d3d6a-78dd-5ae6-8408-079a857a7c30,Italy,ITA
+27c90506-c75e-5fba-813d-68c0722b56bf,1938 FIFA Men's World Cup,2,f16b7d5c-db54-5b27-b827-e848a3035641,Hungary,HUN
+27c90506-c75e-5fba-813d-68c0722b56bf,1938 FIFA Men's World Cup,3,498c5353-84ca-5f1c-8d71-0ae02196227c,Brazil,BRA
+27c90506-c75e-5fba-813d-68c0722b56bf,1938 FIFA Men's World Cup,4,3611e724-8c08-5f63-b63d-e1cad6af784c,Sweden,SWE
+28d9ffd2-6063-5c73-aed8-40f06aeb44db,1990 FIFA Men's World Cup,1,adbcf28f-5f27-56bd-bca0-909cf77a8ae0,West Germany,DEU
+28d9ffd2-6063-5c73-aed8-40f06aeb44db,1990 FIFA Men's World Cup,2,933a103d-d9d7-57a3-9c4a-fbc81d25a266,Argentina,ARG
+28d9ffd2-6063-5c73-aed8-40f06aeb44db,1990 FIFA Men's World Cup,3,a42d3d6a-78dd-5ae6-8408-079a857a7c30,Italy,ITA
+28d9ffd2-6063-5c73-aed8-40f06aeb44db,1990 FIFA Men's World Cup,4,43c1aac8-fa85-5e16-ba9c-4cfdcbc975b8,England,ENG
+3ceb381b-9f6e-54ff-b80d-d1bade27a3b5,2003 FIFA Women's World Cup,1,eff0a856-a340-5ec8-84e8-121552da2cda,Germany,DEU
+3ceb381b-9f6e-54ff-b80d-d1bade27a3b5,2003 FIFA Women's World Cup,2,3611e724-8c08-5f63-b63d-e1cad6af784c,Sweden,SWE
+3ceb381b-9f6e-54ff-b80d-d1bade27a3b5,2003 FIFA Women's World Cup,3,10913c23-6023-563d-94df-9b4fb66c3432,United States,USA
+3ceb381b-9f6e-54ff-b80d-d1bade27a3b5,2003 FIFA Women's World Cup,4,1234d812-2e40-561b-90a3-ed4f9e66bd63,Canada,CAN
+49e2bb03-96ed-5dd7-8325-fadb64dd39cb,2011 FIFA Women's World Cup,1,230373b7-3a16-506a-b5f6-acc37d7e801d,Japan,JPN
+49e2bb03-96ed-5dd7-8325-fadb64dd39cb,2011 FIFA Women's World Cup,2,10913c23-6023-563d-94df-9b4fb66c3432,United States,USA
+49e2bb03-96ed-5dd7-8325-fadb64dd39cb,2011 FIFA Women's World Cup,3,3611e724-8c08-5f63-b63d-e1cad6af784c,Sweden,SWE
+49e2bb03-96ed-5dd7-8325-fadb64dd39cb,2011 FIFA Women's World Cup,4,3d11f07c-c004-508d-9001-6f944119b2b0,France,FRA
+4ee70224-a2a3-585b-8bab-8ef5e9464c04,2014 FIFA Men's World Cup,1,eff0a856-a340-5ec8-84e8-121552da2cda,Germany,DEU
+4ee70224-a2a3-585b-8bab-8ef5e9464c04,2014 FIFA Men's World Cup,2,933a103d-d9d7-57a3-9c4a-fbc81d25a266,Argentina,ARG
+4ee70224-a2a3-585b-8bab-8ef5e9464c04,2014 FIFA Men's World Cup,3,d522b940-a152-5cc7-bcb3-89e28a1ce459,Netherlands,NLD
+4ee70224-a2a3-585b-8bab-8ef5e9464c04,2014 FIFA Men's World Cup,4,498c5353-84ca-5f1c-8d71-0ae02196227c,Brazil,BRA
+5628ea07-73ab-57ad-99be-84c20dc96cc0,1954 FIFA Men's World Cup,1,adbcf28f-5f27-56bd-bca0-909cf77a8ae0,West Germany,DEU
+5628ea07-73ab-57ad-99be-84c20dc96cc0,1954 FIFA Men's World Cup,2,f16b7d5c-db54-5b27-b827-e848a3035641,Hungary,HUN
+5628ea07-73ab-57ad-99be-84c20dc96cc0,1954 FIFA Men's World Cup,3,8e63ee49-fbde-5478-a093-1a6a679cc27f,Austria,AUT
+5628ea07-73ab-57ad-99be-84c20dc96cc0,1954 FIFA Men's World Cup,4,f8764a69-de29-59f5-8e79-715c4bf88a11,Uruguay,URY
+5d9da256-e241-508e-85a7-5a17c07f186a,1950 FIFA Men's World Cup,1,f8764a69-de29-59f5-8e79-715c4bf88a11,Uruguay,URY
+5d9da256-e241-508e-85a7-5a17c07f186a,1950 FIFA Men's World Cup,2,498c5353-84ca-5f1c-8d71-0ae02196227c,Brazil,BRA
+5d9da256-e241-508e-85a7-5a17c07f186a,1950 FIFA Men's World Cup,3,3611e724-8c08-5f63-b63d-e1cad6af784c,Sweden,SWE
+5d9da256-e241-508e-85a7-5a17c07f186a,1950 FIFA Men's World Cup,4,5b16dd9d-d19c-5484-bac2-f9e932dddd29,Spain,ESP
+6be60fed-dffa-5aa5-89a6-374b2bcb8c92,1958 FIFA Men's World Cup,1,498c5353-84ca-5f1c-8d71-0ae02196227c,Brazil,BRA
+6be60fed-dffa-5aa5-89a6-374b2bcb8c92,1958 FIFA Men's World Cup,2,3611e724-8c08-5f63-b63d-e1cad6af784c,Sweden,SWE
+6be60fed-dffa-5aa5-89a6-374b2bcb8c92,1958 FIFA Men's World Cup,3,3d11f07c-c004-508d-9001-6f944119b2b0,France,FRA
+6be60fed-dffa-5aa5-89a6-374b2bcb8c92,1958 FIFA Men's World Cup,4,adbcf28f-5f27-56bd-bca0-909cf77a8ae0,West Germany,DEU
+717bed6b-0e65-5efa-8010-ab689ff32abe,1970 FIFA Men's World Cup,1,498c5353-84ca-5f1c-8d71-0ae02196227c,Brazil,BRA
+717bed6b-0e65-5efa-8010-ab689ff32abe,1970 FIFA Men's World Cup,2,a42d3d6a-78dd-5ae6-8408-079a857a7c30,Italy,ITA
+717bed6b-0e65-5efa-8010-ab689ff32abe,1970 FIFA Men's World Cup,3,adbcf28f-5f27-56bd-bca0-909cf77a8ae0,West Germany,DEU
+717bed6b-0e65-5efa-8010-ab689ff32abe,1970 FIFA Men's World Cup,4,f8764a69-de29-59f5-8e79-715c4bf88a11,Uruguay,URY
+860dc5fb-c8ff-502e-ad19-c34195b265e0,1974 FIFA Men's World Cup,1,adbcf28f-5f27-56bd-bca0-909cf77a8ae0,West Germany,DEU
+860dc5fb-c8ff-502e-ad19-c34195b265e0,1974 FIFA Men's World Cup,2,d522b940-a152-5cc7-bcb3-89e28a1ce459,Netherlands,NLD
+860dc5fb-c8ff-502e-ad19-c34195b265e0,1974 FIFA Men's World Cup,3,fc0455f9-aa03-5b3d-9b41-41854289e993,Poland,POL
+860dc5fb-c8ff-502e-ad19-c34195b265e0,1974 FIFA Men's World Cup,4,498c5353-84ca-5f1c-8d71-0ae02196227c,Brazil,BRA
+8e0540a9-ab5d-5e7f-8ed2-417e3e1568a9,1986 FIFA Men's World Cup,1,933a103d-d9d7-57a3-9c4a-fbc81d25a266,Argentina,ARG
+8e0540a9-ab5d-5e7f-8ed2-417e3e1568a9,1986 FIFA Men's World Cup,2,adbcf28f-5f27-56bd-bca0-909cf77a8ae0,West Germany,DEU
+8e0540a9-ab5d-5e7f-8ed2-417e3e1568a9,1986 FIFA Men's World Cup,3,3d11f07c-c004-508d-9001-6f944119b2b0,France,FRA
+8e0540a9-ab5d-5e7f-8ed2-417e3e1568a9,1986 FIFA Men's World Cup,4,3aa56241-3868-505a-ac6a-753aefa79cc2,Belgium,BEL
+97242af1-4f11-5b96-b5f1-026e51f4a3c5,2023 FIFA Women's World Cup,1,5b16dd9d-d19c-5484-bac2-f9e932dddd29,Spain,ESP
+97242af1-4f11-5b96-b5f1-026e51f4a3c5,2023 FIFA Women's World Cup,2,43c1aac8-fa85-5e16-ba9c-4cfdcbc975b8,England,ENG
+97242af1-4f11-5b96-b5f1-026e51f4a3c5,2023 FIFA Women's World Cup,3,3611e724-8c08-5f63-b63d-e1cad6af784c,Sweden,SWE
+97242af1-4f11-5b96-b5f1-026e51f4a3c5,2023 FIFA Women's World Cup,4,2d9898be-ff8f-55ef-a86e-167bdeaf3cc6,Australia,AUS
+980713b4-f72a-5fb3-a406-6de227728b1d,1982 FIFA Men's World Cup,1,a42d3d6a-78dd-5ae6-8408-079a857a7c30,Italy,ITA
+980713b4-f72a-5fb3-a406-6de227728b1d,1982 FIFA Men's World Cup,2,adbcf28f-5f27-56bd-bca0-909cf77a8ae0,West Germany,DEU
+980713b4-f72a-5fb3-a406-6de227728b1d,1982 FIFA Men's World Cup,3,fc0455f9-aa03-5b3d-9b41-41854289e993,Poland,POL
+980713b4-f72a-5fb3-a406-6de227728b1d,1982 FIFA Men's World Cup,4,3d11f07c-c004-508d-9001-6f944119b2b0,France,FRA
+989bb40b-e4d2-554d-b25d-51c776e801e2,2022 FIFA Men's World Cup,1,933a103d-d9d7-57a3-9c4a-fbc81d25a266,Argentina,ARG
+989bb40b-e4d2-554d-b25d-51c776e801e2,2022 FIFA Men's World Cup,2,3d11f07c-c004-508d-9001-6f944119b2b0,France,FRA
+989bb40b-e4d2-554d-b25d-51c776e801e2,2022 FIFA Men's World Cup,3,0db8bc49-3546-517c-af2c-7abd04ae2214,Croatia,HRV
+989bb40b-e4d2-554d-b25d-51c776e801e2,2022 FIFA Men's World Cup,4,265f639f-c7d5-5ca2-b708-b0995f6c2b89,Morocco,MAR
+a3355eb2-b9f4-5e9c-92d3-dc9cb37177b6,2010 FIFA Men's World Cup,1,5b16dd9d-d19c-5484-bac2-f9e932dddd29,Spain,ESP
+a3355eb2-b9f4-5e9c-92d3-dc9cb37177b6,2010 FIFA Men's World Cup,2,d522b940-a152-5cc7-bcb3-89e28a1ce459,Netherlands,NLD
+a3355eb2-b9f4-5e9c-92d3-dc9cb37177b6,2010 FIFA Men's World Cup,3,eff0a856-a340-5ec8-84e8-121552da2cda,Germany,DEU
+a3355eb2-b9f4-5e9c-92d3-dc9cb37177b6,2010 FIFA Men's World Cup,4,f8764a69-de29-59f5-8e79-715c4bf88a11,Uruguay,URY
+c18a4889-5b51-5337-bc1a-a0731c1d97eb,2002 FIFA Men's World Cup,1,498c5353-84ca-5f1c-8d71-0ae02196227c,Brazil,BRA
+c18a4889-5b51-5337-bc1a-a0731c1d97eb,2002 FIFA Men's World Cup,2,eff0a856-a340-5ec8-84e8-121552da2cda,Germany,DEU
+c18a4889-5b51-5337-bc1a-a0731c1d97eb,2002 FIFA Men's World Cup,3,d1c45d05-d0bd-55b8-b370-dfa64d998bcc,Turkey,TUR
+c18a4889-5b51-5337-bc1a-a0731c1d97eb,2002 FIFA Men's World Cup,4,83f65ffa-c76e-5ace-8c09-c87d141a3916,South Korea,KOR
+cb194f04-c36a-5525-a51a-2219d44c0be3,1991 FIFA Women's World Cup,1,10913c23-6023-563d-94df-9b4fb66c3432,United States,USA
+cb194f04-c36a-5525-a51a-2219d44c0be3,1991 FIFA Women's World Cup,2,187544dc-4b46-5bf6-a079-e124899a9090,Norway,NOR
+cb194f04-c36a-5525-a51a-2219d44c0be3,1991 FIFA Women's World Cup,3,3611e724-8c08-5f63-b63d-e1cad6af784c,Sweden,SWE
+cb194f04-c36a-5525-a51a-2219d44c0be3,1991 FIFA Women's World Cup,4,eff0a856-a340-5ec8-84e8-121552da2cda,Germany,DEU
+d52279b1-f4bd-5228-862f-a0a23d6cd16d,2006 FIFA Men's World Cup,1,a42d3d6a-78dd-5ae6-8408-079a857a7c30,Italy,ITA
+d52279b1-f4bd-5228-862f-a0a23d6cd16d,2006 FIFA Men's World Cup,2,3d11f07c-c004-508d-9001-6f944119b2b0,France,FRA
+d52279b1-f4bd-5228-862f-a0a23d6cd16d,2006 FIFA Men's World Cup,3,eff0a856-a340-5ec8-84e8-121552da2cda,Germany,DEU
+d52279b1-f4bd-5228-862f-a0a23d6cd16d,2006 FIFA Men's World Cup,4,13eebf0f-eb49-5e70-97f9-84f0395ceff1,Portugal,PRT
+eae9dec6-fcb0-5343-8f9b-c07e3895e50a,2007 FIFA Women's World Cup,1,eff0a856-a340-5ec8-84e8-121552da2cda,Germany,DEU
+eae9dec6-fcb0-5343-8f9b-c07e3895e50a,2007 FIFA Women's World Cup,2,498c5353-84ca-5f1c-8d71-0ae02196227c,Brazil,BRA
+eae9dec6-fcb0-5343-8f9b-c07e3895e50a,2007 FIFA Women's World Cup,3,10913c23-6023-563d-94df-9b4fb66c3432,United States,USA
+eae9dec6-fcb0-5343-8f9b-c07e3895e50a,2007 FIFA Women's World Cup,4,187544dc-4b46-5bf6-a079-e124899a9090,Norway,NOR
+f8183740-0c58-50c1-98eb-1bb1e1148304,1934 FIFA Men's World Cup,1,a42d3d6a-78dd-5ae6-8408-079a857a7c30,Italy,ITA
+f8183740-0c58-50c1-98eb-1bb1e1148304,1934 FIFA Men's World Cup,2,cf23603f-09d6-52e6-9c7e-fb8db4554297,Czechoslovakia,CSK
+f8183740-0c58-50c1-98eb-1bb1e1148304,1934 FIFA Men's World Cup,3,eff0a856-a340-5ec8-84e8-121552da2cda,Germany,DEU
+f8183740-0c58-50c1-98eb-1bb1e1148304,1934 FIFA Men's World Cup,4,8e63ee49-fbde-5478-a093-1a6a679cc27f,Austria,AUT
+f97aa139-2102-5d5d-adbe-eb5f91a07de6,1962 FIFA Men's World Cup,1,498c5353-84ca-5f1c-8d71-0ae02196227c,Brazil,BRA
+f97aa139-2102-5d5d-adbe-eb5f91a07de6,1962 FIFA Men's World Cup,2,cf23603f-09d6-52e6-9c7e-fb8db4554297,Czechoslovakia,CSK
+f97aa139-2102-5d5d-adbe-eb5f91a07de6,1962 FIFA Men's World Cup,3,879c1298-9904-5b96-8f25-5e7d455ae2ec,Chile,CHL
+f97aa139-2102-5d5d-adbe-eb5f91a07de6,1962 FIFA Men's World Cup,4,9a9be60e-89da-590c-95a8-6e5802b5deb5,Yugoslavia,YUG
+fbe31e5e-d2a1-50dd-a5ca-93784ee9f889,1998 FIFA Men's World Cup,1,3d11f07c-c004-508d-9001-6f944119b2b0,France,FRA
+fbe31e5e-d2a1-50dd-a5ca-93784ee9f889,1998 FIFA Men's World Cup,2,498c5353-84ca-5f1c-8d71-0ae02196227c,Brazil,BRA
+fbe31e5e-d2a1-50dd-a5ca-93784ee9f889,1998 FIFA Men's World Cup,3,0db8bc49-3546-517c-af2c-7abd04ae2214,Croatia,HRV
+fbe31e5e-d2a1-50dd-a5ca-93784ee9f889,1998 FIFA Men's World Cup,4,d522b940-a152-5cc7-bcb3-89e28a1ce459,Netherlands,NLD

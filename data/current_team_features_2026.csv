@@ -1,0 +1,212 @@
+team,fifa_rank_pre_tournament,fifa_points_pre_tournament,matches_last_4y,goals_scored_last_4y,goals_received_last_4y,wins_last_4y,draws_last_4y,losses_last_4y,world_cup_participations_before,world_cup_titles_before,data_as_of,ranking_source,recent_form_source,world_cup_history_source
+Argentina,1,1877.27,49,111,22,39,5,5,18,3,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Spain,2,1874.71,48,122,40,33,11,4,16,1,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+France,3,1870.7,49,107,45,32,8,9,16,2,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+England,4,1828.02,49,102,35,31,9,9,16,1,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Portugal,5,1767.85,48,122,40,33,7,8,8,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Brazil,6,1765.34,44,82,46,22,11,11,22,5,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Morocco,7,1755.62,61,121,24,44,13,4,6,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Netherlands,8,1753.57,48,110,49,28,11,9,11,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Belgium,9,1742.24,45,92,38,24,11,10,14,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Germany,10,1735.77,47,101,59,26,9,12,20,4,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Croatia,11,1714.87,47,84,45,26,12,9,6,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Italy,12,1704.73,43,79,53,25,7,11,18,4,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Mexico,13,1700.98,67,101,63,34,17,16,17,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Colombia,14,1698.35,45,87,39,27,11,7,6,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+United States,15,1688.53,62,113,72,29,13,20,11,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Senegal,16,1684.07,54,103,39,34,13,7,3,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Uruguay,17,1673.07,44,58,33,18,17,9,14,2,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Japan,18,1661.58,49,128,35,33,8,8,7,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Switzerland,19,1640.92,46,85,55,20,17,9,12,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+IR Iran,20,1619.58,46,95,39,30,9,7,6,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Denmark,21,1619.47,43,73,42,21,12,10,6,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Korea Republic,22,1612.55,53,103,51,30,14,9,11,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Australia,23,1605.61,44,77,34,26,7,11,6,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Ecuador,24,1598.52,45,48,27,19,19,7,4,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Austria,25,1597.4,41,86,35,26,7,8,7,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Nigeria,26,1585.02,51,83,50,25,17,9,6,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Turkey,27,1579.47,44,81,59,26,7,11,2,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Algeria,28,1571.03,54,114,38,37,12,5,4,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Egypt,29,1562.37,51,86,40,29,15,7,3,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Norway,30,1557.44,38,91,41,21,8,9,3,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Canada,31,1551.5,51,71,54,21,18,12,2,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Ukraine,32,1549.29,41,61,57,18,10,13,1,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Côte d'Ivoire,33,1540.87,48,91,34,31,8,9,3,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Panama,34,1539.16,60,96,75,29,15,16,1,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Russia,35,1529.6,28,64,15,17,9,2,11,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Poland,36,1526.18,45,63,58,20,9,16,9,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Scotland,37,1518.77,42,69,57,19,7,16,8,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Wales,38,1516.95,40,56,51,13,14,13,2,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Sweden,39,1509.79,41,80,61,21,6,14,12,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Hungary,40,1506.39,42,60,52,20,11,11,9,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Serbia,41,1502.13,43,60,56,18,10,15,4,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Paraguay,42,1488.05,39,36,40,14,10,15,8,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Czechia,43,1484.82,42,81,50,21,11,10,1,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Cameroon,44,1481.24,44,56,40,17,15,12,8,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Tunisia,45,1476.41,53,71,42,26,15,12,6,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Congo DR,46,1474.43,0,0,0,0,0,0,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Slovakia,47,1473.66,42,60,47,20,9,13,1,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Greece,48,1473.19,38,64,38,18,7,13,3,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Venezuela,49,1469.18,40,48,47,15,11,14,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Qatar,50,1459.45,59,83,83,23,15,21,1,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Uzbekistan,51,1458.73,47,72,35,25,15,7,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Chile,52,1458.2,41,50,50,13,11,17,9,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Peru,53,1457.69,40,29,46,10,11,19,5,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Costa Rica,54,1456.03,54,91,81,21,15,18,6,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Romania,55,1455.89,43,73,44,20,12,11,7,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Mali,56,1455.59,40,61,25,20,13,7,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Iraq,57,1446.28,53,72,50,28,12,13,1,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Republic of Ireland,58,1441.1,40,48,50,15,9,16,3,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Slovenia,59,1441.09,43,55,42,19,16,8,2,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Saudi Arabia,60,1423.88,68,75,69,26,18,24,6,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+South Africa,61,1414.88,57,82,47,26,23,8,3,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Burkina Faso,62,1406.99,49,76,52,24,11,14,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Bosnia and Herzegovina,63,1395.19,37,45,63,11,9,17,1,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Jordan,64,1387.74,55,93,72,25,12,18,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Honduras,65,1378.97,47,62,57,19,11,17,3,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Albania,66,1376.03,42,46,40,16,9,17,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Cabo Verde,67,1371.11,0,0,0,0,0,0,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+United Arab Emirates,68,1370.47,48,69,52,20,13,15,1,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+North Macedonia,69,1369.16,39,42,57,12,12,15,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Northern Ireland,70,1365.3,36,42,46,14,5,17,3,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Jamaica,71,1357.84,58,78,64,25,15,18,1,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Georgia,72,1355.26,40,72,58,17,8,15,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Ghana,73,1346.88,43,55,55,15,11,17,4,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Iceland,74,1342.77,45,62,72,13,9,23,1,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Finland,75,1341.92,41,50,65,13,6,22,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Israel,76,1333.9,35,53,61,14,6,15,1,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Bolivia,77,1326.0,44,33,84,11,4,29,3,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Kosovo,78,1319.12,37,58,42,17,10,10,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Oman,79,1306.9,55,59,54,23,15,17,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Montenegro,80,1301.98,39,45,62,14,5,20,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Guinea,81,1295.6,38,54,40,16,8,14,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Curaçao,82,1294.77,36,63,48,13,10,13,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Syria,83,1283.05,43,54,52,15,9,19,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Haiti,84,1277.67,35,82,39,18,8,9,1,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+New Zealand,85,1275.58,36,63,41,13,6,17,2,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Gabon,86,1272.51,33,52,50,15,5,13,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Bulgaria,87,1271.68,38,41,60,9,13,16,7,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Angola,88,1265.58,47,54,38,17,20,10,1,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Uganda,89,1264.09,34,34,43,14,4,16,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Zambia,90,1255.82,40,50,55,16,8,16,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+China PR,91,1254.81,0,0,0,0,0,0,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Bahrain,92,1254.41,51,55,72,18,9,24,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Benin,93,1252.17,36,35,51,10,10,16,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Thailand,94,1250.8,57,108,70,28,14,15,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Palestine,95,1243.71,37,33,42,8,14,15,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Belarus,96,1242.88,38,40,59,11,12,15,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Guatemala,97,1238.74,54,66,78,18,13,23,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Luxembourg,98,1232.82,37,28,60,8,10,19,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Vietnam,99,1225.68,45,78,51,25,5,15,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+El Salvador,100,1225.34,46,38,62,10,15,21,2,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Tajikistan,101,1224.19,37,50,38,14,13,10,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Trinidad and Tobago,102,1219.59,50,70,86,16,15,19,1,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Mozambique,103,1218.62,43,50,64,14,11,18,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Madagascar,104,1202.69,35,47,49,13,8,14,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Equatorial Guinea,105,1195.2,39,40,47,12,12,15,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Kyrgyz Republic,106,1192.16,0,0,0,0,0,0,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Armenia,107,1189.63,38,40,86,6,8,24,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Comoros,108,1187.91,48,54,62,16,11,21,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Kenya,109,1185.08,31,38,41,9,11,11,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Libya,110,1182.08,32,39,31,13,12,7,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Kazakhstan,111,1180.78,39,41,67,13,4,22,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Tanzania,112,1180.27,39,29,39,10,10,19,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Mauritania,113,1176.68,39,28,43,10,11,18,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Niger,114,1175.33,34,39,46,9,7,18,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Lebanon,115,1172.22,35,43,35,12,9,14,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+The Gambia,116,1159.64,0,0,0,0,0,0,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Sudan,117,1157.22,36,22,38,9,12,15,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Indonesia,118,1157.14,52,84,72,22,11,19,1,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Togo,119,1152.76,29,34,36,8,11,10,1,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+DPR Korea,120,1151.05,0,0,0,0,0,0,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Namibia,121,1148.84,35,26,40,8,12,15,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Sierra Leone,122,1147.56,29,32,47,8,8,13,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Faroe Islands,123,1136.59,38,33,51,10,8,20,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Cyprus,124,1133.25,38,43,81,10,6,22,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Suriname,125,1132.43,30,43,31,11,10,9,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Azerbaijan,126,1132.0,37,41,72,11,6,20,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Estonia,127,1130.64,42,40,77,10,9,23,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Rwanda,128,1126.62,28,20,26,8,9,11,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Malawi,129,1122.05,35,33,38,10,11,14,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Zimbabwe,130,1119.78,26,23,31,5,10,11,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Nicaragua,131,1114.63,39,49,54,13,7,19,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Guinea-Bissau,132,1108.38,31,22,44,6,8,17,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Kuwait,133,1106.47,48,57,70,14,15,19,1,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Congo,134,1105.96,18,16,39,2,5,11,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Philippines,135,1100.95,38,56,63,13,7,18,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Malaysia,136,1086.22,45,88,50,25,11,9,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Latvia,137,1085.66,37,26,61,5,11,21,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+India,138,1084.93,36,30,41,7,13,16,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Central African Republic,139,1080.82,25,34,47,8,3,14,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Liberia,140,1080.44,30,30,46,7,8,15,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Turkmenistan,141,1078.65,20,21,31,5,4,11,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Burundi,142,1078.01,25,24,47,6,4,15,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Ethiopia,143,1077.52,27,24,38,7,7,13,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Dominican Republic,144,1076.5,35,75,48,15,8,12,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Yemen,145,1065.24,23,39,33,7,6,10,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Lesotho,146,1064.29,36,26,51,9,8,19,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Botswana,147,1063.63,38,32,50,13,6,19,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Singapore,148,1057.95,42,64,75,16,10,16,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Lithuania,149,1056.85,39,27,57,5,12,22,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Guyana,150,1049.32,31,62,50,16,3,12,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+New Caledonia,151,1036.95,18,40,16,10,2,6,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+St. Kitts and Nevis,152,1036.33,0,0,0,0,0,0,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Solomon Islands,153,1031.89,30,48,51,12,3,15,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Puerto Rico,154,1024.3,29,61,46,13,5,11,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Fiji,155,1024.17,31,52,51,11,7,13,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Hong Kong,156,1024.16,47,68,64,16,10,21,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Tahiti,157,1019.04,17,33,19,10,2,5,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Myanmar,158,1010.91,37,40,89,8,9,20,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Moldova,159,1008.24,38,38,76,10,10,18,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Vanuatu,160,1002.53,26,33,54,9,3,14,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Malta,161,992.79,35,27,65,9,6,20,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Antigua and Barbuda,162,986.58,21,15,53,2,4,15,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Grenada,163,981.82,32,43,66,9,7,16,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Cuba,164,981.42,34,36,61,10,8,16,1,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Eswatini,165,979.01,32,24,47,4,11,17,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+St. Lucia,166,976.71,0,0,0,0,0,0,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Bermuda,167,975.05,30,46,72,10,4,16,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Papua New Guinea,168,974.9,25,33,47,9,7,9,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+South Sudan,169,970.94,25,15,46,3,7,15,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+St. Vincent / Grenadines,170,968.27,0,0,0,0,0,0,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Afghanistan,171,968.07,23,14,40,4,7,12,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Andorra,172,946.43,40,15,65,3,8,29,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Maldives,173,943.92,24,22,39,7,2,15,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Chinese Taipei,174,923.78,0,0,0,0,0,0,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Cambodia,175,922.32,30,43,48,8,7,15,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Montserrat,176,916.75,18,15,38,5,1,12,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Nepal,177,914.54,31,22,53,8,7,16,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Mauritius,178,911.49,28,20,39,6,5,17,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Barbados,179,909.89,26,43,65,6,5,15,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Belize,180,907.0,27,35,47,10,3,14,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Bangladesh,181,902.93,35,32,53,11,9,15,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Dominica,182,897.69,21,23,44,5,5,11,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Chad,183,896.85,23,13,40,2,6,15,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Eritrea,184,887.06,0,0,0,0,0,0,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Laos,185,885.03,23,20,59,2,5,16,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Cook Islands,186,877.53,9,5,31,2,0,7,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Sri Lanka,187,876.86,22,15,26,6,6,10,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Samoa,188,876.41,14,26,33,6,0,8,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Aruba,189,875.61,22,35,42,8,3,11,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Mongolia,190,874.47,14,8,32,3,0,11,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+American Samoa,191,871.61,7,4,44,0,0,7,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Bhutan,192,870.81,19,10,46,3,2,14,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Macau,193,858.03,12,3,31,0,1,11,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Brunei,194,857.73,26,21,78,8,1,17,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+São Tomé and Príncipe,195,855.44,16,8,38,1,3,12,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Djibouti,196,853.58,16,12,39,2,3,11,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Cayman Islands,197,850.06,21,21,47,6,3,12,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Pakistan,198,840.28,24,11,53,4,3,17,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Somalia,199,839.17,16,7,31,1,3,12,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Tonga,200,835.64,8,12,23,2,0,6,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Timor-Leste,201,831.0,18,14,51,4,1,13,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Gibraltar,202,820.26,37,26,94,7,5,25,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Guam,203,819.54,10,14,28,2,1,7,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Seychelles,204,804.16,21,6,71,1,1,19,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Turks and Caicos Islands,205,803.98,15,15,25,5,4,6,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Liechtenstein,206,797.7,38,9,97,2,4,32,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Bahamas,207,786.82,19,21,72,1,3,15,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+US Virgin Islands,208,779.76,0,0,0,0,0,0,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+British Virgin Islands,209,777.41,23,27,39,5,6,12,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+Anguilla,210,760.25,21,12,63,3,2,16,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip
+San Marino,211,721.2,38,17,103,2,5,31,0,0,2026-06-14,football_rankings.csv,results.csv,worldcupsai.zip

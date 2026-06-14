@@ -1,0 +1,499 @@
+manager_id,family_name,given_name,male,female,country_name,wikipedia_link_manager
+04560f11-3599-5d14-9484-f474b232852f,Abadía,Nelson,TRUE,FALSE,Colombia,https://en.wikipedia.org/wiki/Nelson_Abad%C3%ADa
+51719293-9222-57f1-af99-0d311f02e2b9,Acosta,Nelson,TRUE,FALSE,Uruguay,https://en.wikipedia.org/wiki/Nelson_Acosta
+fde1c7a5-b3de-530f-a0f9-45bce0adf688,Addo,Otto,TRUE,FALSE,Ghana,https://en.wikipedia.org/wiki/Otto_Addo
+eccd781a-68d3-5e95-984d-f90aad2778dd,Adshead,John,TRUE,FALSE,England,https://en.wikipedia.org/wiki/John_Adshead
+b9fc339b-23a2-5b8a-be18-9ce6269a3ff2,Advocaat,Dick,TRUE,FALSE,Netherlands,https://en.wikipedia.org/wiki/Dick_Advocaat
+abaec7d9-213b-505e-bfc4-d73433b6e662,Afranie,Emmanual Kwasi,TRUE,FALSE,Ghana,https://en.wikipedia.org/wiki/Emmanuel_Kwasi_Afranie
+0836c1d6-109a-5427-858a-62547bd5d05b,Aguirre,Javier,TRUE,FALSE,Mexico,https://en.wikipedia.org/wiki/Javier_Aguirre
+80415fb6-c05f-59ea-aa65-fe08c556fc6f,Al-Gohari,Mahmoud,TRUE,FALSE,Egypt,https://en.wikipedia.org/wiki/Mahmoud_Al-Gohari
+0d8a7e80-f0ab-5143-b5f4-84dfefa110b6,Al-Johar,Nasser,TRUE,FALSE,Saudi Arabia,https://en.wikipedia.org/wiki/Nasser_Al-Johar
+2e775780-e3fe-5653-8a0a-28d547631c1c,Al-Kharashy,Mohammed,TRUE,FALSE,Brazil,https://en.wikipedia.org/wiki/Mohammed_Al-Kharashy
+491f44c6-8831-5f13-be9a-f70151fe52aa,Alfaro,Gustavo,TRUE,FALSE,Argentina,https://en.wikipedia.org/wiki/Gustavo_Alfaro
+6b6c0f76-62b2-55c2-869c-14c838c83ed5,Alonso,Diego,TRUE,FALSE,Uruguay,https://en.wikipedia.org/wiki/Diego_Alonso
+1dabb682-878a-587f-9c29-6326a02baa58,An,Jong-goan,TRUE,FALSE,South Korea,https://en.wikipedia.org/wiki/An_Jong-goan
+373a7761-27ea-5c9c-ab2e-533bb00a3042,Andersson,Janne,TRUE,FALSE,Sweden,https://en.wikipedia.org/wiki/Janne_Andersson
+3855ce72-20ae-5297-84b8-5d6a2deab51f,Andonovski,Vlatko,TRUE,FALSE,North Macedonia,https://en.wikipedia.org/wiki/Vlatko_Andonovski
+d5262aab-7dd1-506a-b10f-5a9d9b9cef56,Andreoli,Franco,TRUE,FALSE,Switzerland,https://en.wikipedia.org/wiki/Franco_Andreoli
+7ec7ac8a-c1fe-5291-9675-3a63c2046f96,Antić,Radomir,TRUE,FALSE,Serbia,https://en.wikipedia.org/wiki/Radomir_Anti%C4%87
+c0f16c8e-8ce7-561c-b270-0b61b1b478b1,Appiah,James Kwesi,TRUE,FALSE,Ghana,https://en.wikipedia.org/wiki/James_Kwesi_Appiah
+24db05f5-1be8-566c-a944-fb74ba4e921e,Aragonés,Luis,TRUE,FALSE,Spain,https://en.wikipedia.org/wiki/Luis_Aragon%C3%A9s
+549ad6c0-84e7-5c49-add2-8a4f86ed6b7a,Arauz,Vanessa,FALSE,TRUE,Ecuador,https://en.wikipedia.org/wiki/Vanessa_Arauz
+fd32447f-3791-5341-846e-037a1b189045,Arena,Bruce,TRUE,FALSE,United States,https://en.wikipedia.org/wiki/Bruce_Arena
+e0038ced-3b83-5b58-ad0d-9da4319117db,Argauer,Karl,TRUE,FALSE,Austria,https://en.wikipedia.org/wiki/Karl_Argauer
+2b521c7f-0d81-5822-8ad5-66a1f33e49c8,Arnold,Graham,TRUE,FALSE,Australia,https://en.wikipedia.org/wiki/Graham_Arnold
+a25c4863-65dc-5ffe-a8a5-b1e30a779e3e,Arsenijević,Milorad,TRUE,FALSE,Yugoslavia,https://en.wikipedia.org/wiki/Milorad_Arsenijevi%C4%87
+77ce90fb-c197-5a96-8745-39a7c0b556da,Aryee,Oko,TRUE,FALSE,Ghana,https://en.wikipedia.org/wiki/Oko_Aryee
+9102fe9e-47ca-59bf-ab8b-57b6e1937e2b,Azkargorta,Xabier,TRUE,FALSE,Spain,https://en.wikipedia.org/wiki/Xabier_Azkargorta
+0283f9cd-4a12-5f26-b65c-12ce74575fdc,Barcellos,Jorge,TRUE,FALSE,Brazil,https://en.wikipedia.org/wiki/Jorge_Barcellos
+d1b41d28-3741-5985-a416-33f647534ab9,Barreau,Gaston,TRUE,FALSE,France,https://en.wikipedia.org/wiki/Gaston_Barreau
+118f2e23-c2af-5ed2-a6ce-854e6f0766d7,Baróti,Lajos,TRUE,FALSE,Hungary,https://en.wikipedia.org/wiki/Lajos_Bar%C3%B3ti
+5afcc4e0-1132-5a67-b9ab-11bd0985abee,Basile,Alfio,TRUE,FALSE,Argentina,https://en.wikipedia.org/wiki/Alfio_Basile
+e9ec5af5-5786-5c28-b0a2-462fcb95c949,Batteux,Albert,TRUE,FALSE,France,https://en.wikipedia.org/wiki/Albert_Batteux
+dafcc73c-4ff9-5d86-b6dc-4ca960d763d1,Bearzot,Enzo,TRUE,FALSE,Italy,https://en.wikipedia.org/wiki/Enzo_Bearzot
+34c6850a-dff0-5c83-a984-9daeb486c6a9,Beattie,Andy,TRUE,FALSE,Scotland,https://en.wikipedia.org/wiki/Andy_Beattie
+d51fce80-157f-5307-a21d-b3b74e010072,Beckenbauer,Franz,TRUE,FALSE,Germany,https://en.wikipedia.org/wiki/Franz_Beckenbauer
+da712882-6a90-55c1-ae3e-b9c367dd64dd,Beenhakker,Leo,TRUE,FALSE,Netherlands,https://en.wikipedia.org/wiki/Leo_Beenhakker
+6c410987-945a-5efd-a67e-a852173416d2,Bell,Colin,TRUE,FALSE,England,"https://en.wikipedia.org/wiki/Colin_Bell_(footballer,_born_1961)"
+319dc177-1acb-5f27-a0e7-886c0f437e81,Bento,Paulo,TRUE,FALSE,Portugal,https://en.wikipedia.org/wiki/Paulo_Bento
+7c3d689c-5101-5554-bdb5-e17397cae141,Bergeroo,Philippe,TRUE,FALSE,France,https://en.wikipedia.org/wiki/Philippe_Bergeroo
+9f7d2fef-563c-5963-ac2d-07aa8f0f8900,Bergmark,Orvar,TRUE,FALSE,Sweden,https://en.wikipedia.org/wiki/Orvar_Bergmark
+aea485db-c5da-58c8-9f3b-9e01130d17cc,Berhalter,Gregg,TRUE,FALSE,United States,https://en.wikipedia.org/wiki/Gregg_Berhalter
+a2d307a5-8929-5fdd-a8cd-be5841673c28,Berntsen,Bjarne,TRUE,FALSE,Norway,https://en.wikipedia.org/wiki/Bjarne_Berntsen
+9abd5117-b8cb-5fd7-bd26-7d8750a98410,Bertolini,Milena,FALSE,TRUE,Italy,https://en.wikipedia.org/wiki/Milena_Bertolini
+6e69dadc-74cd-5152-9590-9fd6f861dab6,Beskov,Konstantin,TRUE,FALSE,Soviet Union,https://en.wikipedia.org/wiki/Konstantin_Beskov
+37c5d3e8-85e6-5f0a-9fb1-db323aadf715,Bielsa,Marcelo,TRUE,FALSE,Argentina,https://en.wikipedia.org/wiki/Marcelo_Bielsa
+5d7e511d-372a-5c7f-af80-833ac35bac4c,Bilardo,Carlos,TRUE,FALSE,Argentina,https://en.wikipedia.org/wiki/Carlos_Bilardo
+7c3d0faa-d238-51e3-b77c-f652c5ea64c7,Bingham,Billy,TRUE,FALSE,Northern Ireland,https://en.wikipedia.org/wiki/Billy_Bingham
+533ee5d4-c266-5a82-96f8-a2b972a75852,Bini,Bruno,TRUE,FALSE,France,https://en.wikipedia.org/wiki/Bruno_Bini
+35d00835-7788-58c3-9cb1-5222f3278828,Bisanz,Gero,TRUE,FALSE,Germany,https://en.wikipedia.org/wiki/Gero_Bisanz
+3eaf2605-1f9e-5fc9-bec2-17edac9d64cf,Blažević,Miroslav,TRUE,FALSE,Croatia,https://en.wikipedia.org/wiki/Miroslav_Bla%C5%BEevi%C4%87
+d39c438e-b8f3-5a44-b74d-8d897fa5a0a4,Blinda,Abdellah,TRUE,FALSE,Morocco,https://en.wikipedia.org/wiki/Abdellah_Blinda
+2a6ba90e-0906-52ab-8023-f92ab7e55d81,Blokhin,Oleg,TRUE,FALSE,Ukraine,https://en.wikipedia.org/wiki/Oleg_Blokhin
+06de8c40-1ffe-5de8-bd21-fe012cd3eef1,Boardman,Dave,TRUE,FALSE,England,https://en.wikipedia.org/wiki/Dave_Boardman
+cb6d658e-f107-5968-b70a-51d4f14852a3,Bonev,Hristo,TRUE,FALSE,Bulgaria,https://en.wikipedia.org/wiki/Hristo_Bonev
+f419087b-be40-5063-99f2-76ca6a49cbe0,Bonfrère,Jo,TRUE,FALSE,Netherlands,https://en.wikipedia.org/wiki/Jo_Bonfr%C3%A8re
+55f1fea2-c830-5ea2-94f1-ae203f3cdc6d,Borhy,Karol,TRUE,FALSE,Czechoslovakia,https://en.wikipedia.org/wiki/Karol_Borhy
+014f518c-a9a3-5edb-af68-39909dc0e3e7,Borrello,Carlos,TRUE,FALSE,Argentina,https://en.wikipedia.org/wiki/Carlos_Borrello
+1f1fe107-4cdd-5c91-b91f-c9468dfceda0,Borrás,Omar,TRUE,FALSE,Uruguay,https://en.wikipedia.org/wiki/Omar_Borr%C3%A1s
+c8284c86-a9ff-58e0-ae4a-258916be54b1,Bozhkov,Stefan,TRUE,FALSE,Bulgaria,https://en.wikipedia.org/wiki/Stefan_Bozhkov
+8be83ae5-03e5-50dc-b73e-feb156a412d4,Bradley,Bob,TRUE,FALSE,United States,https://en.wikipedia.org/wiki/Bob_Bradley
+41876c0e-098c-5e99-b3b2-f8071d908eeb,Brown,Craig,TRUE,FALSE,Scotland,https://en.wikipedia.org/wiki/Craig_Brown_(footballer_born_1940)
+ac7b1c28-b59f-5102-b9d0-ab7c590387c6,Brown,Greg,TRUE,FALSE,Australia,"https://en.wikipedia.org/wiki/Greg_Brown_(footballer,_born_1962)"
+25ddb99c-ffdd-5d83-ab6b-ab3e492fc5a0,Bru,Francisco,TRUE,FALSE,Spain,https://en.wikipedia.org/wiki/Francisco_Bru
+76378782-6e9d-53ce-90c7-e2f9f1105722,Brückner,Karel,TRUE,FALSE,Czech Republic,https://en.wikipedia.org/wiki/Karel_Br%C3%BCckner
+551c3460-1417-5f46-be99-604f782e529f,Buccicardi,Alberto,TRUE,FALSE,Chile,https://en.wikipedia.org/wiki/Alberto_Buccicardi
+1138e2c3-b372-51d9-afa9-51e2ef7f27c4,Busby,Matt,TRUE,FALSE,Scotland,https://en.wikipedia.org/wiki/Matt_Busby
+6f0350ce-8b21-5dc3-a8a1-d5f3453777e3,Buschner,Georg,TRUE,FALSE,East Germany,https://en.wikipedia.org/wiki/Georg_Buschner
+931233fc-2866-53cb-b28f-9c7fde94d0ac,Butler,Jack,TRUE,FALSE,England,"https://en.wikipedia.org/wiki/Jack_Butler_(footballer,_born_1894)"
+d6451904-74df-5613-908d-a89800fbfc0a,Bystritsky,Yuri,TRUE,FALSE,Russia,https://en.wikipedia.org/wiki/Yuri_Bystritsky
+0772230f-85b2-52d1-a848-97dd30c54f9b,Béliveau,Sylvie,FALSE,TRUE,Canada,https://en.wikipedia.org/wiki/Sylvie_B%C3%A9liveau
+19de10d7-3797-5ef3-b543-5f4dfb6ec46f,Calderón,Marcos,TRUE,FALSE,Peru,https://en.wikipedia.org/wiki/Marcos_Calder%C3%B3n
+d591c946-fa4b-5593-8591-23155b226739,Camacho,José Antonio,TRUE,FALSE,Spain,https://en.wikipedia.org/wiki/Jos%C3%A9_Antonio_Camacho
+7f78e1d2-20ed-50ea-8c6e-709935bfa9ed,Cap,Vladislao,TRUE,FALSE,Argentina,https://en.wikipedia.org/wiki/Vladislao_Cap
+d037c793-c54e-517c-b94d-ff76e9878d08,Capello,Fabio,TRUE,FALSE,Italy,https://en.wikipedia.org/wiki/Fabio_Capello
+1e2e2c5c-333b-54a2-a620-769b027d15d7,Carpegiani,Paulo César,TRUE,FALSE,Brazil,https://en.wikipedia.org/wiki/Paulo_C%C3%A9sar_Carpegiani
+eaf6b3a1-4436-5f29-9403-44a2ff7ec22b,Carrasco,Hernán,TRUE,FALSE,Chile,https://en.wikipedia.org/wiki/Hern%C3%A1n_Carrasco
+8e4c2ad5-01b9-5982-8a51-cf3556a688be,Caudron,Raoul,TRUE,FALSE,France,https://en.wikipedia.org/wiki/Raoul_Caudron
+08ef4bdf-7c25-55e4-8948-442f99759311,Cha,Bum-kun,TRUE,FALSE,South Korea,https://en.wikipedia.org/wiki/Cha_Bum-kun
+4cf4a89f-ddb6-5fab-ae9d-9fe87012ba2c,Charlton,Jack,TRUE,FALSE,England,https://en.wikipedia.org/wiki/Jack_Charlton
+ba6f283c-01d4-5d71-a46a-b29b74ca4d47,Cherchesov,Stanislav,TRUE,FALSE,Russia,https://en.wikipedia.org/wiki/Stanislav_Cherchesov
+c569f2c5-1535-5586-bf87-cbb3cc32aac8,Chetali,Abdelmajid,TRUE,FALSE,Tunisia,https://en.wikipedia.org/wiki/Abdelmajid_Chetali
+a9328b2b-aead-5d83-ab60-65cd07cb714c,Chong,Tsu-pin,FALSE,TRUE,Chinese Taipei,https://en.wikipedia.org/wiki/Chong_Tsu-pin
+44dce09d-d7c2-5b17-830f-b0717c161910,Cissé,Aliou,TRUE,FALSE,Senegal,https://en.wikipedia.org/wiki/Aliou_Ciss%C3%A9
+9ffbe676-0bdb-528b-8eb7-f7d35a1e8d25,Clemente,Javier,TRUE,FALSE,Spain,https://en.wikipedia.org/wiki/Javier_Clemente
+0c6e6e22-22bc-5c86-93c6-7d6fdbb2315c,Copeland,Ted,TRUE,FALSE,England,https://en.wikipedia.org/wiki/Ted_Copeland
+fd5fd01c-211c-536c-9849-9b267fae7954,Corazzo,Juan Carlos,TRUE,FALSE,Uruguay,https://en.wikipedia.org/wiki/Juan_Carlos_Corazzo
+18125071-7df6-5c3d-8f55-b9272deac3cd,Costa,Flávio,TRUE,FALSE,Brazil,https://en.wikipedia.org/wiki/Fl%C3%A1vio_Costa
+54118a7c-f11e-5fe8-b5ef-663b2c7a1692,Coutinho,Cláudio,TRUE,FALSE,Brazil,https://en.wikipedia.org/wiki/Cl%C3%A1udio_Coutinho
+4f8ffb07-7d02-5e53-b5e9-f6ab7210a15e,Cuéllar,Leonardo,TRUE,FALSE,Mexico,https://en.wikipedia.org/wiki/Leonardo_Cu%C3%A9llar
+f7a0c47c-91f8-5422-85b9-17caddae5b59,Czeizler,Lajos,TRUE,FALSE,Hungary,https://en.wikipedia.org/wiki/Lajos_Czeizler
+61a28d87-41e9-5d23-a462-3f007d69a6aa,Cárdenas,Raúl,TRUE,FALSE,Mexico,https://en.wikipedia.org/wiki/Ra%C3%BAl_C%C3%A1rdenas
+6abf1767-1f97-5388-8c48-cae3c990c17b,Cúper,Héctor,TRUE,FALSE,Argentina,https://en.wikipedia.org/wiki/H%C3%A9ctor_C%C3%BAper
+6702c4b6-7288-5780-8eec-6a1413b56d9f,Dalić,Zlatko,TRUE,FALSE,Croatia,https://en.wikipedia.org/wiki/Zlatko_Dali%C4%87
+782b29ec-0a33-5113-9fcd-4f7bc885c0f5,Delépine,Nicolas,TRUE,FALSE,France,https://en.wikipedia.org/wiki/Nicolas_Del%C3%A9pine
+f2672226-d9bd-575e-b835-6c5fe52fa638,Dennerby,Thomas,TRUE,FALSE,Sweden,https://en.wikipedia.org/wiki/Thomas_Dennerby
+9c60d86c-cc5c-5724-89bd-981c7ad58e2a,Derwall,Jupp,TRUE,FALSE,Germany,https://en.wikipedia.org/wiki/Jupp_Derwall
+aec9de42-ea25-5224-b04b-167d21a55ab8,Deschamps,Didier,TRUE,FALSE,France,https://en.wikipedia.org/wiki/Didier_Deschamps
+bcb18f3a-df9c-55b0-ab90-77c852c54370,DiCicco,Tony,TRUE,FALSE,United States,https://en.wikipedia.org/wiki/Tony_DiCicco
+cbe1dc60-c349-5683-aa84-f7340583c5c6,Diacre,Corinne,FALSE,TRUE,France,https://en.wikipedia.org/wiki/Corinne_Diacre
+6b28db26-fff1-552a-99b3-f2c23885f112,Didi,,TRUE,FALSE,Brazil,"https://en.wikipedia.org/wiki/Didi_(footballer,_born_1928)"
+10a662a9-00c1-5d61-87d5-699df53f7ae8,Dietz,Károly,TRUE,FALSE,Hungary,https://en.wikipedia.org/wiki/K%C3%A1roly_Dietz
+0dcc1801-2e81-5e85-a217-d8699d4bb3c2,Djeumfa,Alain,TRUE,FALSE,Cameroon,https://en.wikipedia.org/wiki/Alain_Djeumfa
+fc9b2bf7-def1-5b16-941e-1536e8360aea,Doherty,Peter,TRUE,FALSE,Northern Ireland,https://en.wikipedia.org/wiki/Peter_Doherty_(footballer)
+436eeffb-0300-5dec-a9d2-91b1909d5eca,Domanski-Lyfors,Marika,FALSE,TRUE,Sweden,https://en.wikipedia.org/wiki/Marika_Domanski-Lyfors
+df8a9770-8528-527b-acec-eb6fa1a7c6b7,Domenech,Raymond,TRUE,FALSE,France,https://en.wikipedia.org/wiki/Raymond_Domenech
+af2e9aee-9a1d-540e-a846-9368dcc84ad9,Donaldson,Lorne,TRUE,FALSE,Jamaica,https://en.wikipedia.org/wiki/Lorne_Donaldson
+2b630891-4579-511f-a56c-8d43528a9637,Dorrance,Anson,TRUE,FALSE,United States,https://en.wikipedia.org/wiki/Anson_Dorrance
+6d988f83-183c-56a4-a413-fa3db2658944,Dujković,Ratomir,TRUE,FALSE,Serbia,https://en.wikipedia.org/wiki/Ratomir_Dujkovi%C4%87
+3bf4535b-0596-5a00-be62-ea74d27881a7,Dunga,,TRUE,FALSE,Brazil,https://en.wikipedia.org/wiki/Dunga
+52f0eeb7-0972-55cb-9e2e-d5cc901762ca,Durand Laguna,José,TRUE,FALSE,Argentina,https://en.wikipedia.org/wiki/Jos%C3%A9_Durand_Laguna
+ce6cd861-cc55-5bd2-86e2-d3fdae09bd16,Effiom,Ntiero,TRUE,FALSE,Nigeria,https://en.wikipedia.org/wiki/Ntiero_Effiom
+389651c0-9971-5823-bfbc-de3220fa3371,Eizaguirre,Guillermo,TRUE,FALSE,Spain,https://en.wikipedia.org/wiki/Guillermo_Eizaguirre
+99fa2bcf-770f-5005-9a49-a84c5bd581db,Ellis,Desiree,FALSE,TRUE,South Africa,https://en.wikipedia.org/wiki/Desiree_Ellis
+86ee1636-7889-52ec-9d7c-d66525834347,Ellis,Jill,FALSE,TRUE,United States,https://en.wikipedia.org/wiki/Jill_Ellis
+7cf12eae-d973-547a-85ff-2a0ab83b52ee,Engel,Jerzy,TRUE,FALSE,Poland,https://en.wikipedia.org/wiki/Jerzy_Engel
+942ce320-1a17-5a69-a253-b71a478d0627,Enow,Carl,TRUE,FALSE,Cameroon,https://en.wikipedia.org/wiki/Carl_Enow
+692b24d4-fdd4-500e-84f1-193559d4aa40,Enrique,Luis,TRUE,FALSE,Spain,https://en.wikipedia.org/wiki/Luis_Enrique
+60aa6be2-2d76-50b4-bf67-8d6c0d89a556,Ericson,Georg,TRUE,FALSE,Sweden,https://en.wikipedia.org/wiki/Georg_Ericson
+a6b50cae-568b-54ab-bdc5-4e247e4fe0a0,Eriksson,Sven-Göran,TRUE,FALSE,Sweden,https://en.wikipedia.org/wiki/Sven-G%C3%B6ran_Eriksson
+b2c1580b-e1bb-5e47-b822-13c4d8344203,Fabbri,Edmondo,TRUE,FALSE,Italy,https://en.wikipedia.org/wiki/Edmondo_Fabbri
+f9eb2b75-7215-58a8-adc3-4987e7bfcf04,Facchin,Carlo,TRUE,FALSE,Italy,https://en.wikipedia.org/wiki/Carlo_Facchin
+42f9728d-d3de-5000-a15d-d5f583d8c02c,Faria,José,TRUE,FALSE,Brazil,https://en.wikipedia.org/wiki/Jos%C3%A9_Faria
+975371a8-7a9a-5e9b-915d-4c5e8a75b358,Feola,Vicente,TRUE,FALSE,Brazil,https://en.wikipedia.org/wiki/Vicente_Feola
+0cebd0ad-3650-5fc4-b94a-bcdfa3b0a7c0,Ferguson,Alex,TRUE,FALSE,Scotland,https://en.wikipedia.org/wiki/Alex_Ferguson
+329e9f90-63c8-52da-8043-e986b1b91ace,Ferrari,Giovanni,TRUE,FALSE,Italy,https://en.wikipedia.org/wiki/Giovanni_Ferrari
+6a5a1c0b-6fee-57a1-b8ba-450c0fe82db0,Finke,Volker,TRUE,FALSE,Germany,https://en.wikipedia.org/wiki/Volker_Finke
+2cc02914-8e3e-5afc-a5c6-2b54959030a0,Fleitas Solich,Manuel,TRUE,FALSE,Paraguay,https://en.wikipedia.org/wiki/Manuel_Fleitas_Solich
+0b43ed87-8472-554f-86c3-051bc0d3fea2,Flick,Hansi,TRUE,FALSE,Germany,https://en.wikipedia.org/wiki/Hansi_Flick
+3f271f16-7532-5aeb-b1c6-bd62b204abe6,Foni,Alfredo,TRUE,FALSE,Italy,https://en.wikipedia.org/wiki/Alfredo_Foni
+4af830cc-71f4-5c8e-9705-8d9135a0b2dd,Fonseca,Ademar,TRUE,FALSE,Brazil,https://en.wikipedia.org/wiki/Ademar_Fonseca
+c9dbe2b0-b499-537c-ac46-85713d880163,Frigério,Marcello,TRUE,FALSE,Italy,https://en.wikipedia.org/wiki/Marcello_Frig%C3%A9rio
+810905d3-62db-5d41-873c-f58c65d37fd8,Gansler,Bob,TRUE,FALSE,United States,https://en.wikipedia.org/wiki/Bob_Gansler
+62359e06-1f68-5ad6-9d0a-6dd4ae0a55fb,Gantzhorn,Keld,TRUE,FALSE,Denmark,https://en.wikipedia.org/wiki/Keld_Gantzhorn
+c4df3501-9f7b-5c8e-88e8-628ec068dce8,García,Amadeo,TRUE,FALSE,Spain,https://en.wikipedia.org/wiki/Amadeo_Garc%C3%ADa
+a161b99c-7edb-5948-89e9-aac9e3710dfe,Gareca,Ricardo,TRUE,FALSE,Argentina,https://en.wikipedia.org/wiki/Ricardo_Gareca
+0d8f65a2-6956-59ed-9f0a-15a532e13110,Gerhardsson,Peter,TRUE,FALSE,Sweden,https://en.wikipedia.org/wiki/Peter_Gerhardsson
+a5ac037e-bb4d-5e55-b690-126984717698,Glendenning,Bob,TRUE,FALSE,England,https://en.wikipedia.org/wiki/Bob_Glendenning
+947f3750-f81a-5a4c-b5d5-773f331196df,Glória,Otto,TRUE,FALSE,Brazil,https://en.wikipedia.org/wiki/Otto_Gl%C3%B3ria
+d9d3d8f8-e69e-558d-bc7d-197cac8f4540,Gmoch,Jacek,TRUE,FALSE,Poland,https://en.wikipedia.org/wiki/Jacek_Gmoch
+5cd9d04f-7312-51db-8c96-4353ef1eaf5f,Goethals,Raymond,TRUE,FALSE,Belgium,https://en.wikipedia.org/wiki/Raymond_Goethals
+1fe88fca-e08d-5495-a8bd-f130888c0c7f,Goetinck,Hector,TRUE,FALSE,Belgium,https://en.wikipedia.org/wiki/Hector_Goetinck
+26d48436-e785-5149-bb8b-b519c65cbff7,González,Aurelio,TRUE,FALSE,Paraguay,https://en.wikipedia.org/wiki/Aurelio_Gonz%C3%A1lez_(footballer)
+17d5d475-32ac-5f40-9778-5c5dad23266d,Gonçalves,Oliveira,TRUE,FALSE,Angola,https://en.wikipedia.org/wiki/Oliveira_Gon%C3%A7alves
+5fcc5a39-26b1-5f78-94f1-c8acc57d222d,Gonçalves,Paulo,TRUE,FALSE,Brazil,https://en.wikipedia.org/wiki/Paulo_Gon%C3%A7alves_(football_manager)
+ed249772-58ab-5b2e-98d8-17ac2386c84f,Gould,David,TRUE,FALSE,United States,https://en.wikipedia.org/wiki/David_Gould
+68c7381f-7125-5797-93ca-24ff3b82e291,Greenwood,Ron,TRUE,FALSE,England,https://en.wikipedia.org/wiki/Ron_Greenwood
+0ab50b62-b0da-5cf6-bdc7-5daec51259d7,Grings,Inka,FALSE,TRUE,Germany,https://en.wikipedia.org/wiki/Inka_Grings
+931a92a1-71df-55f3-ae71-842ca7b6fd8b,Guenza,Sergio,TRUE,FALSE,Italy,https://en.wikipedia.org/wiki/Sergio_Guenza
+bb858c97-5b43-5f85-972b-d6501fe33680,Guimarães,Alexandre,TRUE,FALSE,Costa Rica,https://en.wikipedia.org/wiki/Alexandre_Guimar%C3%A3es
+a48f6007-18c0-5207-a101-904abcbedf36,Gustavsson,Tony,TRUE,FALSE,Sweden,https://en.wikipedia.org/wiki/Tony_Gustavsson
+b0c50ca4-114d-5f17-9da3-48aa7f5acba7,Guérin,Henri,TRUE,FALSE,France,https://en.wikipedia.org/wiki/Henri_Gu%C3%A9rin_(footballer)
+2c5d38bd-a725-5a84-a4b5-d149aac1c691,Gómez,Hernán Darío,TRUE,FALSE,Colombia,https://en.wikipedia.org/wiki/Hern%C3%A1n_Dar%C3%ADo_G%C3%B3mez
+a8cfbfc4-294b-5494-8534-80ff88970010,Górski,Kazimierz,TRUE,FALSE,Poland,https://en.wikipedia.org/wiki/Kazimierz_G%C3%B3rski
+6e1d75de-a996-5935-802c-20eca1679dd8,Güneş,Şenol,TRUE,FALSE,Turkey,https://en.wikipedia.org/wiki/%C5%9Eenol_G%C3%BCne%C5%9F
+0f840a5e-d918-5c4b-88e3-f2aff4c77583,Halilhodžić,Vahid,TRUE,FALSE,Bosnia and Herzegovina,https://en.wikipedia.org/wiki/Vahid_Halilhod%C5%BEi%C4%87
+452b0ba4-a21c-51d1-b43a-b839263c1b14,Hallgrímsson,Heimir,TRUE,FALSE,Iceland,https://en.wikipedia.org/wiki/Heimir_Hallgr%C3%ADmsson
+ad5ffe94-db44-5e51-893c-0f8ef86402b4,Halvorsen,Asbjørn,TRUE,FALSE,Norway,https://en.wikipedia.org/wiki/Asbj%C3%B8rn_Halvorsen
+eca68bb8-41a7-59ef-ad75-531624d0983f,Hamilton,Paul,TRUE,FALSE,Nigeria,"https://en.wikipedia.org/wiki/Paul_Hamilton_(footballer,_born_1941)"
+5aa69292-7c09-5859-8c9b-e941b07d2761,Hao,Wei,TRUE,FALSE,China,https://en.wikipedia.org/wiki/Hao_Wei
+5891bd52-6073-5ee3-8e25-b9f324b02a31,Happel,Ernst,TRUE,FALSE,Austria,https://en.wikipedia.org/wiki/Ernst_Happel
+e397ac4b-642d-57c5-86b9-1e53d92c5f7c,Hareide,Åge,TRUE,FALSE,Norway,https://en.wikipedia.org/wiki/%C3%85ge_Hareide
+083bf929-d49d-5827-bbcc-30818bfb9d0b,Heiner-Møller,Kenneth,TRUE,FALSE,Denmark,https://en.wikipedia.org/wiki/Kenneth_Heiner-M%C3%B8ller
+816ed4ff-2246-57ca-ae75-286847c8e8ff,Heinrichs,April,FALSE,TRUE,United States,https://en.wikipedia.org/wiki/April_Heinrichs
+a92866d6-7b41-5603-b196-fe389ffe2428,Herberger,Sepp,TRUE,FALSE,Germany,https://en.wikipedia.org/wiki/Sepp_Herberger
+d4f928bc-6004-5cfd-942e-1eb503e558af,Herbert,Ricki,TRUE,FALSE,New Zealand,https://en.wikipedia.org/wiki/Ricki_Herbert
+7146e6e2-1892-5ef9-9d17-08a029039410,Herdman,John,TRUE,FALSE,England,https://en.wikipedia.org/wiki/John_Herdman
+682b6268-c1b3-534a-99c2-68d02256bb77,Herrera,Helenio,TRUE,FALSE,Argentina,https://en.wikipedia.org/wiki/Helenio_Herrera
+7804bfde-91b9-5a30-bba2-95237ffd495f,Herrera,Miguel,TRUE,FALSE,Mexico,https://en.wikipedia.org/wiki/Miguel_Herrera
+bc4840be-e993-5f4b-8a89-49463a765e2c,Hickersberger,Josef,TRUE,FALSE,Austria,https://en.wikipedia.org/wiki/Josef_Hickersberger
+53c424b8-0b80-5a9a-b386-ff01683cc812,Hidalgo,Michel,TRUE,FALSE,France,https://en.wikipedia.org/wiki/Michel_Hidalgo
+d7eb83fa-ed22-5dcd-b2e9-bc80cff5d33d,Hiddink,Guus,TRUE,FALSE,Netherlands,https://en.wikipedia.org/wiki/Guus_Hiddink
+e742f70c-5b4f-52a7-b005-1fb4b67bff9e,Hierro,Fernando,TRUE,FALSE,Spain,https://en.wikipedia.org/wiki/Fernando_Hierro
+287f65b3-5068-5419-948c-8eaa0e059ee5,Hitzfeld,Ottmar,TRUE,FALSE,Germany,https://en.wikipedia.org/wiki/Ottmar_Hitzfeld
+f6a66dc7-8844-5019-8df0-c28bce63391a,Hjulmand,Kasper,TRUE,FALSE,Denmark,https://en.wikipedia.org/wiki/Kasper_Hjulmand
+7faeb642-ef5b-5047-adc4-24c39b70486b,Hoddle,Glenn,TRUE,FALSE,England,https://en.wikipedia.org/wiki/Glenn_Hoddle
+32e35bb7-14bd-5a9f-8665-ebbe7e7853c7,Hodgson,Roy,TRUE,FALSE,England,https://en.wikipedia.org/wiki/Roy_Hodgson
+abfa4c2e-d85d-5c97-81ab-517939fb5030,Hohberg,Juan,TRUE,FALSE,Uruguay,https://en.wikipedia.org/wiki/Juan_Hohberg
+efd82aaf-d4bc-5d8b-95c6-d4d5f5405666,Hong,Myung-bo,TRUE,FALSE,South Korea,https://en.wikipedia.org/wiki/Hong_Myung-bo
+a5931887-fcd5-5592-af00-6cccca2ca079,Huh,Jung-moo,TRUE,FALSE,South Korea,https://en.wikipedia.org/wiki/Huh_Jung-moo
+aa65613c-90e6-53b2-a440-b16fe66dbc50,Hvidemose,Jørgen,TRUE,FALSE,Denmark,https://en.wikipedia.org/wiki/J%C3%B8rgen_Hvidemose
+d6538004-2e31-5faa-a259-4d9bb459268f,Høgmo,Per-Mathias,TRUE,FALSE,Norway,https://en.wikipedia.org/wiki/Per-Mathias_H%C3%B8gmo
+22029df4-4a66-526a-ac45-152bc8570dfd,Ikeda,Futoshi,TRUE,FALSE,Japan,https://en.wikipedia.org/wiki/Futoshi_Ikeda
+4a207a75-b489-556f-84d1-ee39f70c40a3,Iordănescu,Anghel,TRUE,FALSE,Romania,https://en.wikipedia.org/wiki/Anghel_Iord%C4%83nescu
+650f206a-39f3-5889-a3bf-b92f59eae914,Ismaila,Mabo,TRUE,FALSE,Nigeria,https://en.wikipedia.org/wiki/Mabo_Ismaila
+b17d328a-02e2-548f-86e4-25da374dda21,Ivanković,Branko,TRUE,FALSE,Croatia,https://en.wikipedia.org/wiki/Branko_Ivankovi%C4%87
+dcd44fb9-0ea1-53b7-96d2-8a118fe47c1e,Jacquet,Aimé,TRUE,FALSE,France,https://en.wikipedia.org/wiki/Aim%C3%A9_Jacquet
+4e681995-8155-5921-a87a-ccb82e3fffd6,Janas,Paweł,TRUE,FALSE,Poland,https://en.wikipedia.org/wiki/Pawe%C5%82_Janas
+55e75b22-48ed-5b3b-9ad6-7b564e207d22,Jeffrey,William,TRUE,FALSE,United States,https://en.wikipedia.org/wiki/William_Jeffrey_(American_soccer)
+c643283b-9406-571d-b96b-05c0b9d2cac6,Jenei,Emerich,TRUE,FALSE,Romania,https://en.wikipedia.org/wiki/Emerich_Jenei
+cee67325-a9df-534c-a2cf-f978f3ee7705,Jia,Xiuquan,TRUE,FALSE,China,https://en.wikipedia.org/wiki/Jia_Xiuquan
+e24acaf1-2037-599d-aae6-c17ae109e856,Johansson,Bo,TRUE,FALSE,Sweden,https://en.wikipedia.org/wiki/Bo_Johansson
+c50e3ba7-4716-5ae0-9d24-5acd005c463b,Jonker,Andries,TRUE,FALSE,Netherlands,https://en.wikipedia.org/wiki/Andries_Jonker
+5e08ef8e-135f-5ba2-8859-7e32d10883b2,Jozić,Mirko,TRUE,FALSE,Croatia,https://en.wikipedia.org/wiki/Mirko_Jozi%C4%87
+32941971-7569-5a1b-b1a2-46971f9050e6,Kachalin,Gavriil,TRUE,FALSE,Soviet Union,https://en.wikipedia.org/wiki/Gavriil_Kachalin
+c0fd8abb-a08e-5c68-826b-675f307f13c7,Kadri,Jalel,TRUE,FALSE,Tunisia,https://en.wikipedia.org/wiki/Jalel_Kadri
+3bab7591-41d7-5b77-b41a-be832f46a9df,Kasperczak,Henryk,TRUE,FALSE,Poland,https://en.wikipedia.org/wiki/Henryk_Kasperczak
+a34b4a11-411f-5032-b7e6-9215c32a1b0d,Katanec,Srečko,TRUE,FALSE,Slovenia,https://en.wikipedia.org/wiki/Sre%C4%8Dko_Katanec
+4f628d0f-6e4c-5240-8a45-5cf21d371510,Kałuża,Józef,TRUE,FALSE,Poland,https://en.wikipedia.org/wiki/J%C3%B3zef_Ka%C5%82u%C5%BCa
+529b178d-686f-542c-9431-9f774d961d31,Kek,Matjaž,TRUE,FALSE,Slovenia,https://en.wikipedia.org/wiki/Matja%C5%BE_Kek
+e1d49aca-794e-59d6-9196-db9e4add8563,Kerr,Shelley,FALSE,TRUE,Scotland,https://en.wikipedia.org/wiki/Shelley_Kerr
+ab076250-ad4d-5c94-8f88-6f5b4452b624,Keshi,Stephen,TRUE,FALSE,Nigeria,https://en.wikipedia.org/wiki/Stephen_Keshi
+e982dc4f-6038-53d8-9f61-d5af78542fb5,Khalef,Mahieddine,TRUE,FALSE,Algeria,https://en.wikipedia.org/wiki/Mahieddine_Khalef
+c69c7517-733e-5f62-a134-6306c47f1b3b,Kim,Ho,TRUE,FALSE,South Korea,https://en.wikipedia.org/wiki/Kim_Ho
+af737cb6-409b-574d-84f2-58b2a42d882c,Kim,Jong-hun,TRUE,FALSE,North Korea,"https://en.wikipedia.org/wiki/Kim_Jong-hun_(footballer,_born_1956)"
+5336c0b7-6aaa-507f-aef8-fadaa527e1ad,Kim,Jung-nam,TRUE,FALSE,South Korea,https://en.wikipedia.org/wiki/Kim_Jung-nam
+1c05e619-83dc-5ecf-a5f2-a6238d901d45,Kim,Kwang-min,TRUE,FALSE,North Korea,"https://en.wikipedia.org/wiki/Kim_Kwang-min_(footballer,_born_1962)"
+b355d917-2d60-5b83-959c-343b241013d2,Kim,Yong-sik,TRUE,FALSE,South Korea,https://en.wikipedia.org/wiki/Kim_Yong-sik
+f6222c97-8dff-56c4-9290-163413a99222,Kimpton,George,TRUE,FALSE,England,https://en.wikipedia.org/wiki/Sid_Kimpton
+cab3e3c4-18e8-5698-b88d-e35ecadb20a4,Klimková,Jitka,FALSE,TRUE,Czech Republic,https://en.wikipedia.org/wiki/Jitka_Klimkov%C3%A1
+285823c5-aa93-5360-8b55-a3b2bb4a68fa,Klinsmann,Jürgen,TRUE,FALSE,Germany,https://en.wikipedia.org/wiki/J%C3%BCrgen_Klinsmann
+8d091470-1b2c-567e-8f6c-7319839b2eb9,Kolský,Karel,TRUE,FALSE,Czechoslovakia,https://en.wikipedia.org/wiki/Karel_Kolsk%C3%BD
+ab145b6a-884f-5e52-a0a6-ef8dae2c8e8d,Kovač,Niko,TRUE,FALSE,Croatia,https://en.wikipedia.org/wiki/Niko_Kova%C4%8D
+b558d668-25c2-594d-942f-49b2e0b85b4f,Kranjčar,Zlatko,TRUE,FALSE,Croatia,https://en.wikipedia.org/wiki/Zlatko_Kranj%C4%8Dar
+3fbe3807-05df-5cd9-9802-45b0866a88f6,Krstajić,Mladen,TRUE,FALSE,Serbia,https://en.wikipedia.org/wiki/Mladen_Krstaji%C4%87
+c1ccf3a0-a967-55ba-b7d5-e0e6f71cd826,Kubala,Ladislao,TRUE,FALSE,Spain,https://en.wikipedia.org/wiki/Ladislao_Kubala
+e2e2281d-46b9-50a8-82b4-695297b93b72,Kuhn,Köbi,TRUE,FALSE,Switzerland,https://en.wikipedia.org/wiki/K%C3%B6bi_Kuhn
+8bcc2e7f-0e38-5598-ae09-c23bbed4e13a,La Volpe,Ricardo,TRUE,FALSE,Argentina,https://en.wikipedia.org/wiki/Ricardo_La_Volpe
+963823e2-10d7-5a36-b7ba-6f6502b854ea,Lagerbäck,Lars,TRUE,FALSE,Sweden,https://en.wikipedia.org/wiki/Lars_Lagerb%C3%A4ck
+dc32efc8-9348-5001-9574-1979aad6037b,Lamouchi,Sabri,TRUE,FALSE,France,https://en.wikipedia.org/wiki/Sabri_Lamouchi
+70f5380d-7908-58e2-99fe-83712aac5984,Landsem,Eli,FALSE,TRUE,Norway,https://en.wikipedia.org/wiki/Eli_Landsem
+461f37a3-e2b6-55e2-bedc-bfb1cfae19b4,Lapuente,Manuel,TRUE,FALSE,Mexico,https://en.wikipedia.org/wiki/Manuel_Lapuente
+bcc1566a-b7c6-569e-883e-3093d66dfe73,Latzke,Felix,TRUE,FALSE,Austria,https://en.wikipedia.org/wiki/Felix_Latzke
+e69218d4-eb44-5cda-9b1c-3f0fb687b5fc,Lazaroni,Sebastião,TRUE,FALSE,Brazil,https://en.wikipedia.org/wiki/Sebasti%C3%A3o_Lazaroni
+b2eb9463-fadf-574f-b538-fa1516b778da,Le Guen,Paul,TRUE,FALSE,France,https://en.wikipedia.org/wiki/Paul_Le_Guen
+a405d5c2-f493-5287-a3bd-8050664aad7b,Le Roy,Claude,TRUE,FALSE,France,https://en.wikipedia.org/wiki/Claude_Le_Roy
+6bffb4db-0693-52e8-93a3-47d1d142f009,Lee,Hoe-taik,TRUE,FALSE,South Korea,https://en.wikipedia.org/wiki/Lee_Hoe-taik
+c91d508e-ceac-5906-9c75-52714170e484,Leekens,Georges,TRUE,FALSE,Belgium,https://en.wikipedia.org/wiki/Georges_Leekens
+2fbb3aff-e3fe-5f45-bd4d-58f6a64bb1ac,Lemerre,Roger,TRUE,FALSE,France,https://en.wikipedia.org/wiki/Roger_Lemerre
+06d3e1f0-e684-5ab2-87ed-aa065611fb62,Letelier,José,TRUE,FALSE,Chile,https://en.wikipedia.org/wiki/Jos%C3%A9_Letelier
+8a6edd2b-060d-5e52-b929-8e4dfb52570e,Lippi,Marcello,TRUE,FALSE,Italy,https://en.wikipedia.org/wiki/Marcello_Lippi
+6266847f-e020-539e-b042-88fe1b4bd918,Livingstone,Doug,TRUE,FALSE,Scotland,https://en.wikipedia.org/wiki/Doug_Livingstone
+e3d1f6dd-0f59-549a-add3-f5b2cc993fd2,Lobanovsky,Valeri,TRUE,FALSE,Soviet Union,https://en.wikipedia.org/wiki/Valeri_Lobanovsky
+a028419b-100d-5f51-a0b9-f3fefbf260b0,Lobanovskyi,Valeriy,TRUE,FALSE,Soviet Union,https://en.wikipedia.org/wiki/Valeriy_Lobanovskyi
+05153941-e9bb-5d1f-921e-379ab1a8880e,Loisel,Élisabeth,FALSE,TRUE,France,https://en.wikipedia.org/wiki/%C3%89lisabeth_Loisel
+a2c624fd-3c4e-506a-b6f1-c40f92fdff3b,Lorenzo,Juan Carlos,TRUE,FALSE,Argentina,https://en.wikipedia.org/wiki/Juan_Carlos_Lorenzo
+d214f0f6-4119-54da-83a5-830684d09c50,Lovrić,Ljubomir,TRUE,FALSE,Yugoslavia,https://en.wikipedia.org/wiki/Ljubomir_Lovri%C4%87
+bc29ce5a-93cb-5722-a1af-d9cc1eb5c773,Luque de Serrallonga,Juan,TRUE,FALSE,Mexico,https://en.wikipedia.org/wiki/Juan_Luque_de_Serrallonga
+f84426ce-28fd-5535-8ecb-f0c7ae1688c6,López,Juan,TRUE,FALSE,Uruguay,https://en.wikipedia.org/wiki/Juan_L%C3%B3pez_Fontana
+7bffcb86-25c9-5541-82b4-b990aa81e364,López Herranz,Antonio,TRUE,FALSE,Spain,https://en.wikipedia.org/wiki/Antonio_L%C3%B3pez_Herranz
+f98b62f6-6a0f-5bec-b6fd-b3a9919242e1,Löw,Joachim,TRUE,FALSE,Germany,https://en.wikipedia.org/wiki/Joachim_L%C3%B6w
+830c6907-eb83-544d-951b-ba496761cbf0,Ma,Liangxing,TRUE,FALSE,China,https://en.wikipedia.org/wiki/Ma_Liangxing
+4fa0354e-3995-5290-ba66-969457d6ff39,Ma,Yuanan,TRUE,FALSE,China,https://en.wikipedia.org/wiki/Ma_Yuanan
+87f9ac39-66f3-52ce-96cc-ac09dd2b47f9,MacLeod,Ally,TRUE,FALSE,Scotland,https://en.wikipedia.org/wiki/Ally_MacLeod
+fdc8b48d-1248-500f-9616-8c5dda8543e1,Mai,Đức Chung,TRUE,FALSE,Vietnam,https://en.wikipedia.org/wiki/Mai_%C4%90%E1%BB%A9c_Chung
+d7810d84-f4a8-5d49-bb3c-0be218504ce1,Maldini,Cesare,TRUE,FALSE,Italy,https://en.wikipedia.org/wiki/Cesare_Maldini
+74a0d6d0-37a3-5e63-bed1-61a65d96bfbf,Maradona,Diego,TRUE,FALSE,Argentina,https://en.wikipedia.org/wiki/Diego_Maradona
+b4d142f4-d7e3-522e-baf5-a7086ed0112b,Marko,Jozef,TRUE,FALSE,Czechoslovakia,https://en.wikipedia.org/wiki/Jozef_Marko
+220b1dc8-0090-508c-9ea7-31a8c85dfad3,Marsiglia,Ángelo,TRUE,FALSE,Colombia,https://en.wikipedia.org/wiki/%C3%81ngelo_Marsiglia
+c9ba05f6-3f7e-5611-9d31-afb7cf8df613,Martino,Gerardo,TRUE,FALSE,Argentina,https://en.wikipedia.org/wiki/Gerardo_Martino
+a1541473-4388-50bc-9a41-4a1e7de4fe75,Martínez,Roberto,TRUE,FALSE,Spain,https://en.wikipedia.org/wiki/Roberto_Mart%C3%ADnez
+662d43ec-5b42-5299-b76b-20f362a6d827,Mastenbroek,Johan,TRUE,FALSE,Netherlands,https://en.wikipedia.org/wiki/Johannes_Christoffel_Jan_Mastenbroek
+5929fc1c-64e3-569b-bcd7-58b6102627ee,Maturana,Francisco,TRUE,FALSE,Colombia,https://en.wikipedia.org/wiki/Francisco_Maturana
+80edb52e-5ebf-5067-94e7-8428678976b8,Mazza,Paolo,TRUE,FALSE,Italy,https://en.wikipedia.org/wiki/Paolo_Mazza
+51c71e02-7c6f-5bbc-b39c-44596f677e39,Maâloul,Nabil,TRUE,FALSE,Tunisia,https://en.wikipedia.org/wiki/Nabil_Ma%C3%A2loul
+5faaf601-5780-53b4-b061-c76b618b1e13,McCarthy,Mick,TRUE,FALSE,Republic of Ireland,https://en.wikipedia.org/wiki/Mick_McCarthy
+397be7f7-e677-502e-83f6-f2a19acb5cb0,McCrae,James,TRUE,FALSE,Scotland,https://en.wikipedia.org/wiki/James_McCrae_(footballer)
+a5c4646f-686e-56ba-af35-5f3335097349,Meisl,Hugo,TRUE,FALSE,Austria,https://en.wikipedia.org/wiki/Hugo_Meisl
+cd6be7b1-9e43-524a-af3f-b3d34d0bf673,Meissner,Josef,TRUE,FALSE,Czechoslovakia,https://en.wikipedia.org/wiki/Josef_Meissner
+7634c130-b7f6-5811-a746-6da75262a425,Mejía Barón,Miguel,TRUE,FALSE,Mexico,https://en.wikipedia.org/wiki/Miguel_Mej%C3%ADa_Bar%C3%B3n
+ff29449d-6fe8-5026-819c-2f03842f40ba,Mekhloufi,Rachid,TRUE,FALSE,Algeria,https://en.wikipedia.org/wiki/Rachid_Mekhloufi
+d45697d5-2306-518c-9d0b-7a186703cde7,Menotti,César Luis,TRUE,FALSE,Argentina,https://en.wikipedia.org/wiki/C%C3%A9sar_Luis_Menotti
+68aea9cf-c23d-5637-b3bf-29454ae7e5f9,Menzies,Hue,TRUE,FALSE,Jamaica,https://en.wikipedia.org/wiki/Hue_Menzies
+ed433bf2-813b-53d4-a4ef-8e871fb28593,Metsu,Bruno,TRUE,FALSE,France,https://en.wikipedia.org/wiki/Bruno_Metsu
+cf06e278-4bf9-5da8-b691-d04e736588cb,Mezey,György,TRUE,FALSE,Hungary,https://en.wikipedia.org/wiki/Gy%C3%B6rgy_Mezey
+909817eb-379f-58e9-909f-57aa8e790ea8,Michel,Henri,TRUE,FALSE,France,https://en.wikipedia.org/wiki/Henri_Michel
+38bae740-45b6-5b61-ad98-ea58a3b5847b,Michels,Rinus,TRUE,FALSE,Netherlands,https://en.wikipedia.org/wiki/Rinus_Michels
+fa4adae5-065a-5f61-ad80-f03fd5e4aea1,Michniewicz,Czesław,TRUE,FALSE,Poland,https://en.wikipedia.org/wiki/Czes%C5%82aw_Michniewicz
+a922a003-5146-5c7a-949e-c5260c31d029,Mihajlović,Prvoslav,TRUE,FALSE,Yugoslavia,https://en.wikipedia.org/wiki/Prvoslav_Mihajlovi%C4%87
+dee44523-a7d5-50d9-8076-a2d55e43f5b0,Milicic,Ante,TRUE,FALSE,Australia,https://en.wikipedia.org/wiki/Ante_Milicic
+f010d939-9ae0-5eed-a442-749221d06b86,Miljanić,Miljan,TRUE,FALSE,Yugoslavia,https://en.wikipedia.org/wiki/Miljan_Miljani%C4%87
+945490f3-d847-5ee6-9897-daaf9112d2ca,Millar,Robert,TRUE,FALSE,Scotland,https://en.wikipedia.org/wiki/Robert_Millar_(soccer)
+e91d374b-3f6b-5a35-a611-4c171f4302a1,Milutinović,Bora,TRUE,FALSE,Yugoslavia,https://en.wikipedia.org/wiki/Bora_Milutinovi%C4%87
+43b8505f-e151-55a0-afc3-270bb507c21f,Miyauchi,Satoshi,TRUE,FALSE,Japan,https://en.wikipedia.org/wiki/Satoshi_Miyauchi
+096f2455-0e00-5c0e-a924-fd8370ce9119,Mladenov,Hristo,TRUE,FALSE,Bulgaria,https://en.wikipedia.org/wiki/Hristo_Mladenov
+b5f66987-7e5b-5e4f-a9e3-300ad51ca9d9,Mohajerani,Heshmat,TRUE,FALSE,Iran,https://en.wikipedia.org/wiki/Heshmat_Mohajerani
+b2ea5d1f-f943-55e7-802d-29bea80eb524,Morace,Carolina,FALSE,TRUE,Italy,https://en.wikipedia.org/wiki/Carolina_Morace
+5e9f9a91-26ff-564c-9040-a62c99e4c4b4,Moreira,Aymoré,TRUE,FALSE,Brazil,https://en.wikipedia.org/wiki/Aymor%C3%A9_Moreira
+9da56bd3-1de6-57eb-9384-790adc271511,Moreira,Zezé,TRUE,FALSE,Brazil,https://en.wikipedia.org/wiki/Zez%C3%A9_Moreira
+56dad4e6-7822-5d1e-a7bf-a0745a6ed465,Moriyasu,Hajime,TRUE,FALSE,Japan,https://en.wikipedia.org/wiki/Hajime_Moriyasu
+916e4287-6844-5249-9fcc-055a2559738a,Morozov,Nikolai,TRUE,FALSE,Soviet Union,https://en.wikipedia.org/wiki/Nikolai_Petrovich_Morozov
+be79bcaa-c107-5177-8c08-924fd56eafdf,Murphy,Jimmy,TRUE,FALSE,Wales,https://en.wikipedia.org/wiki/Jimmy_Murphy_(footballer)
+b4a4b9b0-33f4-5e4c-a6d4-f6707c138589,Muñoz,Miguel,TRUE,FALSE,Spain,https://en.wikipedia.org/wiki/Miguel_Mu%C3%B1oz
+d2b8c786-cbab-5d44-b963-e9e4c51d47a2,Mwape,Bruce,TRUE,FALSE,Zambia,https://en.wikipedia.org/wiki/Bruce_Mwape
+8a449f1d-5d41-5d6f-8695-ef4f129c4c87,Myong,Dong-chan,TRUE,FALSE,North Korea,https://en.wikipedia.org/wiki/Myong_Dong-chan
+fd317622-5eee-5723-9acc-83569dbfb643,Myung,Rye-hyun,TRUE,FALSE,North Korea,https://en.wikipedia.org/wiki/Myung_Rye-hyun
+f7545cdf-7623-54c1-895a-d35a09dbf378,Mészöly,Kálmán,TRUE,FALSE,Hungary,https://en.wikipedia.org/wiki/K%C3%A1lm%C3%A1n_M%C3%A9sz%C3%B6ly
+f5356c83-788c-5219-9fbe-0532078d73ce,Müller,Heinrich,TRUE,FALSE,Switzerland,"https://en.wikipedia.org/wiki/Heinrich_M%C3%BCller_(footballer,_born_1888)"
+eaa18627-2fc6-558f-8cb6-e77658f1013b,Nagy,József,TRUE,FALSE,Hungary,"https://en.wikipedia.org/wiki/J%C3%B3zsef_Nagy_(footballer,_born_1892)"
+a7b09a15-5d08-546b-9320-9851d194b97e,Nausch,Walter,TRUE,FALSE,Austria,https://en.wikipedia.org/wiki/Walter_Nausch
+54da6272-b1b4-5d5d-a7c6-0e41bb2afbb4,Nawałka,Adam,TRUE,FALSE,Poland,https://en.wikipedia.org/wiki/Adam_Nawa%C5%82ka
+790a45e4-6b66-5e33-a5ef-f2a9d6712b4a,Neid,Silvia,FALSE,TRUE,Germany,https://en.wikipedia.org/wiki/Silvia_Neid
+1d24b08b-c7c2-5a1b-a9a7-c03537d6f8ca,Nepomnyashchy,Valery,TRUE,FALSE,Soviet Union,https://en.wikipedia.org/wiki/Valery_Nepomnyashchy
+a7aded35-40b7-57cf-9e3a-d981ef455e39,Nerz,Otto,TRUE,FALSE,Germany,https://en.wikipedia.org/wiki/Otto_Nerz
+dbdbf73a-ede7-5f82-ac2e-41ba75811407,Neto,Francisco,TRUE,FALSE,Portugal,https://en.wikipedia.org/wiki/Francisco_Neto
+69cbccc6-d19a-5a8d-a0eb-4ebf3d272ef5,Neville,Phil,TRUE,FALSE,England,https://en.wikipedia.org/wiki/Phil_Neville
+bfd4a0f0-1207-5f7b-94cd-8ba2691364df,Niculescu,Angelo,TRUE,FALSE,Romania,https://en.wikipedia.org/wiki/Angelo_Niculescu
+1fa244e3-2f48-544f-96b7-9fab8deb304c,Nishino,Akira,TRUE,FALSE,Japan,https://en.wikipedia.org/wiki/Akira_Nishino_(footballer)
+de31e913-47fd-5034-aabf-5774188cd03c,Nordin,Olle,TRUE,FALSE,Sweden,https://en.wikipedia.org/wiki/Olle_Nordin
+d0fe5967-7685-5b5a-9f32-620ddf6ec27f,Novo,Ferruccio,TRUE,FALSE,Italy,https://en.wikipedia.org/wiki/Ferruccio_Novo
+fefa06b8-6fc7-562d-ab78-0afd46001ec3,Nádas,Ödön,TRUE,FALSE,Hungary,https://en.wikipedia.org/wiki/%C3%96d%C3%B6n_N%C3%A1das
+d9f9ff3e-273c-56eb-8b47-0ae78e4308cc,Ohashi,Hiroshi,TRUE,FALSE,Japan,https://en.wikipedia.org/wiki/Hiroshi_Ohashi
+b47b314f-7b73-56dd-9e91-b5b50f9867e2,Okada,Takeshi,TRUE,FALSE,Japan,https://en.wikipedia.org/wiki/Takeshi_Okada
+a9d7c0b5-951e-5af0-8605-97f01ae9eea7,Okon,Edwin,TRUE,FALSE,Nigeria,https://en.wikipedia.org/wiki/Edwin_Okon
+195134e4-e4d0-5c2c-91a3-692cc2db62f8,Okpodu,Samuel,TRUE,FALSE,Nigeria,https://en.wikipedia.org/wiki/Samuel_Okpodu
+c2db42c4-76ea-5553-a582-e3d9a872f164,Olazar,Francisco,TRUE,FALSE,Argentina,https://en.wikipedia.org/wiki/Francisco_Olazar
+832ffb6b-a9c5-58bf-9af0-b9a714b51101,Oliveira,António,TRUE,FALSE,Portugal,"https://en.wikipedia.org/wiki/Ant%C3%B3nio_Oliveira_(footballer,_born_1952)"
+b33e5a5e-adcb-509f-9b6c-956e77917a01,Olsen,Egil,TRUE,FALSE,Norway,https://en.wikipedia.org/wiki/Egil_Olsen
+636220c3-7f73-5671-9b3c-f0618f521a05,Olsen,Morten,TRUE,FALSE,Denmark,https://en.wikipedia.org/wiki/Morten_Olsen
+1fbfef4c-58d4-54dd-bacc-33e58fbb430d,Onigbinde,Festus,TRUE,FALSE,Nigeria,https://en.wikipedia.org/wiki/Festus_Onigbinde
+6ec27fad-f4a1-56a7-a6ab-c54cd8b8639a,Ormond,Willie,TRUE,FALSE,Scotland,https://en.wikipedia.org/wiki/Willie_Ormond
+4497c778-c9a1-59c1-83cf-00cb3585d2ae,Orth,György,TRUE,FALSE,Hungary,https://en.wikipedia.org/wiki/Gy%C3%B6rgy_Orth
+984d004d-1817-5a16-a86b-eebe7844f4b9,Osim,Ivica,TRUE,FALSE,Yugoslavia,https://en.wikipedia.org/wiki/Ivica_Osim
+f8d97333-ee97-5021-897a-e113a86be610,Osorio,Juan Carlos,TRUE,FALSE,Colombia,https://en.wikipedia.org/wiki/Juan_Carlos_Osorio
+62cc5097-425f-51bd-9f1d-9038b344d1c8,Pachedzhiev,Georgi,TRUE,FALSE,Bulgaria,https://en.wikipedia.org/wiki/Georgi_Pachedzhiev
+19d35c0c-4736-544e-937a-0ed142d0a68b,Page,Rob,TRUE,FALSE,Wales,https://en.wikipedia.org/wiki/Rob_Page
+7d9292b5-b0eb-5ba4-9806-c8d6196891c7,Paha,Isaac,TRUE,FALSE,Ghana,https://en.wikipedia.org/wiki/Isaac_Paha
+68e296c2-2c10-56b5-9197-c4c260db946c,Paijkull,Gunilla,FALSE,TRUE,Sweden,https://en.wikipedia.org/wiki/Gunilla_Paijkull
+73eb63ca-13b2-5a2c-a108-4d5f4c6f8dfe,Panagoulias,Alketas,TRUE,FALSE,Greece,https://en.wikipedia.org/wiki/Alketas_Panagoulias
+9286dd62-0297-5a54-b2cc-84848d4780bb,Paquetá,Marcos,TRUE,FALSE,Brazil,https://en.wikipedia.org/wiki/Marcos_Paquet%C3%A1
+b04380db-a075-5f4a-a525-272a2712b755,Parreira,Carlos Alberto,TRUE,FALSE,Brazil,https://en.wikipedia.org/wiki/Carlos_Alberto_Parreira
+2494f6d4-488a-5e06-abbe-a8dd4b2a0ef1,Pascucci,Felipe,TRUE,FALSE,Italy,https://en.wikipedia.org/wiki/Felipe_Pascucci
+4d0397d4-ad90-5ed5-b682-c68b43899dec,Passarella,Daniel,TRUE,FALSE,Argentina,https://en.wikipedia.org/wiki/Daniel_Passarella
+938f0a38-fa19-5da0-8ad0-55bd84d3d265,Pauw,Vera,FALSE,TRUE,Netherlands,https://en.wikipedia.org/wiki/Vera_Pauw
+56a37648-ce81-5e11-843e-ab40766b29cb,Pedernera,Adolfo,TRUE,FALSE,Argentina,https://en.wikipedia.org/wiki/Adolfo_Pedernera
+92e7d581-daa7-5e73-bfb3-620342c81407,Pedros,Reynald,TRUE,FALSE,France,https://en.wikipedia.org/wiki/Reynald_Pedros
+28c61488-bbe3-5cd6-9065-034c313379a0,Pellerud,Even,TRUE,FALSE,Norway,https://en.wikipedia.org/wiki/Even_Pellerud
+17fc3675-e695-5647-8b1d-bb1a521cd6df,Penev,Dimitar,TRUE,FALSE,Bulgaria,https://en.wikipedia.org/wiki/Dimitar_Penev
+2f280660-6e69-5d0e-a56b-972443bed89b,Petković,Ilija,TRUE,FALSE,Serbia and Montenegro,https://en.wikipedia.org/wiki/Ilija_Petkovi%C4%87
+744c7203-01a4-57ec-8d9c-bfab181a9ca9,Petković,Vladimir,TRUE,FALSE,Switzerland,https://en.wikipedia.org/wiki/Vladimir_Petkovi%C4%87
+60ec72b0-68ab-55d0-b91c-86e8427a23b8,Petrů,Karel,TRUE,FALSE,Czechoslovakia,https://en.wikipedia.org/wiki/Karel_Petr%C5%AF
+dd1b3119-ee31-53ac-a72f-26eaaa4db397,Pettersson,John,TRUE,FALSE,Sweden,https://en.wikipedia.org/wiki/John_Pettersson_(football_manager)
+c57ac68e-f5eb-55d7-ae2f-7a57493fcd87,Pfister,Otto,TRUE,FALSE,Germany,https://en.wikipedia.org/wiki/Otto_Pfister
+4d00933d-ff79-5e10-ae4f-661147d406b4,Pibarot,Pierre,TRUE,FALSE,France,https://en.wikipedia.org/wiki/Pierre_Pibarot
+96795c42-0ca5-5638-9ae1-c76ad8299460,Piechniczek,Antoni,TRUE,FALSE,Poland,https://en.wikipedia.org/wiki/Antoni_Piechniczek
+7ca3e521-ca0d-517c-9a2e-9f5ed55e9ceb,Pimenta,Adhemar,TRUE,FALSE,Brazil,https://en.wikipedia.org/wiki/Adhemar_Pimenta
+6318d957-6317-51bf-b5b4-e39e37eafc49,Pinto,Jorge Luis,TRUE,FALSE,Colombia,https://en.wikipedia.org/wiki/Jorge_Luis_Pinto
+c915b8fc-461e-5ab8-852d-0140af6d39bb,Piontek,Sepp,TRUE,FALSE,Germany,https://en.wikipedia.org/wiki/Sepp_Piontek
+94f5cc8d-a2a5-5036-9e35-6c99755196bc,Pires,Fernando,TRUE,FALSE,Brazil,"https://en.wikipedia.org/wiki/Fernando_Pires_(footballer,_born_1951)"
+d06e4188-60ba-5135-8005-fe325fb3c202,Pizzi,Juan Antonio,TRUE,FALSE,Spain,https://en.wikipedia.org/wiki/Juan_Antonio_Pizzi
+e3078a9b-c496-5e2f-a09f-f7b574c1b1e4,Porta,Roberto,TRUE,FALSE,Uruguay,https://en.wikipedia.org/wiki/Roberto_Porta
+6f8db8aa-eb31-5044-ade7-fe1ac545dd61,Portanova,Germán,TRUE,FALSE,Argentina,https://en.wikipedia.org/wiki/Germ%C3%A1n_Portanova
+90432bda-2cf0-5e67-83be-c51807e0b565,Postecoglou,Ange,TRUE,FALSE,Australia,https://en.wikipedia.org/wiki/Ange_Postecoglou
+4f25278b-943a-53a0-9f0d-fe62e06d9ca4,Powell,Hope,FALSE,TRUE,England,https://en.wikipedia.org/wiki/Hope_Powell
+293f8e86-aef2-5fb9-bc13-e89b03c21c8f,Pozzo,Vittorio,TRUE,FALSE,Italy,https://en.wikipedia.org/wiki/Vittorio_Pozzo
+55805db8-4f86-5516-a562-43e9c28ef32f,Prandelli,Cesare,TRUE,FALSE,Italy,https://en.wikipedia.org/wiki/Cesare_Prandelli
+1905d4ae-684c-5eab-a6fa-1e901af50c1a,Pretto,Mario,TRUE,FALSE,Italy,https://en.wikipedia.org/wiki/Mario_Pretto
+fcc15c0f-8082-572e-98fb-f3bb19292703,Priestman,Bev,FALSE,TRUE,England,https://en.wikipedia.org/wiki/Bev_Priestman
+18a7d84a-70d7-5fcc-a31b-6b07f5d7f30a,Prohaska,Herbert,TRUE,FALSE,Austria,https://en.wikipedia.org/wiki/Herbert_Prohaska
+a53f5267-e920-5c84-af33-d6704a7236e9,Puppo,Sandro,TRUE,FALSE,Italy,https://en.wikipedia.org/wiki/Sandro_Puppo
+3545c44c-12f7-5af2-8225-81a31910a1a6,Pékerman,José,TRUE,FALSE,Argentina,https://en.wikipedia.org/wiki/Jos%C3%A9_P%C3%A9kerman
+86be89f8-0673-5240-b7b2-5d9e3e0afe2a,Púa,Víctor,TRUE,FALSE,Uruguay,https://en.wikipedia.org/wiki/V%C3%ADctor_P%C3%BAa
+ceb130e7-46f3-5ac8-ad67-a44693d928cb,Qingxia,Shui,FALSE,TRUE,China,https://en.wikipedia.org/wiki/Shui_Qingxia
+94108b44-88be-5e27-ac13-dd549b6ec70d,Queiroz,Carlos,TRUE,FALSE,Portugal,https://en.wikipedia.org/wiki/Carlos_Queiroz
+6af06de1-701c-5d09-8c13-d58b5c783179,Quereda,Ignacio,TRUE,FALSE,Spain,https://en.wikipedia.org/wiki/Ignacio_Quereda
+0fba9dce-265c-57e7-b7e0-4a8f8e7269cd,Quintana,Ignacio,TRUE,FALSE,Mexico,https://en.wikipedia.org/wiki/Ignacio_Quintana
+3874c347-c569-5d3e-b40e-9fe6c2029c5f,Rajevac,Milovan,TRUE,FALSE,Serbia,https://en.wikipedia.org/wiki/Milovan_Rajevac
+2747d4fe-a6a9-5194-9412-3d4ddff28326,Ramsey,Alf,TRUE,FALSE,England,https://en.wikipedia.org/wiki/Alf_Ramsey
+42b2c61b-537d-5c4b-abef-7331a0830ab9,Ramírez,Óscar,TRUE,FALSE,Costa Rica,"https://en.wikipedia.org/wiki/%C3%93scar_Ram%C3%ADrez_(footballer,_born_1964)"
+fe236aac-31b0-5cf4-a218-017b4d3c3864,Rappan,Karl,TRUE,FALSE,Austria,https://en.wikipedia.org/wiki/Karl_Rappan
+9d43d6c5-3476-5c10-a897-4b8c3689c1cf,Rasic,Rale,TRUE,FALSE,Yugoslavia,https://en.wikipedia.org/wiki/Rale_Rasic
+d57faa21-f30b-5242-b4d7-6231be4cd63c,Raynor,George,TRUE,FALSE,England,https://en.wikipedia.org/wiki/George_Raynor
+2abaac60-63d0-575b-b01d-fef149927c64,Readings,Tony,TRUE,FALSE,England,https://en.wikipedia.org/wiki/Tony_Readings
+4ebc8c22-b267-5b1d-be0b-4735894d8581,Regragui,Walid,TRUE,FALSE,Morocco,https://en.wikipedia.org/wiki/Walid_Regragui
+2174c0b3-8797-5561-966c-018de629c921,Rehhagel,Otto,TRUE,FALSE,Germany,https://en.wikipedia.org/wiki/Otto_Rehhagel
+0e050941-c8bf-568c-9b95-1f420a072646,Reijners,Roger,TRUE,FALSE,Netherlands,https://en.wikipedia.org/wiki/Roger_Reijners
+5b5a4f33-48e9-5870-8d9c-352678243818,Renard,Hervé,TRUE,FALSE,France,https://en.wikipedia.org/wiki/Herv%C3%A9_Renard
+3fb32125-0a4e-51a3-8e8a-0c91727e94d2,Ri,Song-gun,TRUE,FALSE,North Korea,https://en.wikipedia.org/wiki/Ri_Song-gun
+0b95df36-f765-5a40-b5a4-418451bcd0cd,Riera,Fernando,TRUE,FALSE,Chile,https://en.wikipedia.org/wiki/Fernando_Riera
+a7efbae7-6fba-54e2-8791-f53d84ce353e,Riise,Hege,FALSE,TRUE,Norway,https://en.wikipedia.org/wiki/Hege_Riise
+8bc2acc7-02ee-545a-8fb2-ccac0d316850,Robson,Bobby,TRUE,FALSE,England,https://en.wikipedia.org/wiki/Bobby_Robson
+7eb18326-b3e4-598a-abae-122b6d416a16,Roca,José Antonio,TRUE,FALSE,Mexico,https://en.wikipedia.org/wiki/Jos%C3%A9_Antonio_Roca
+1d6f941e-9ba9-56eb-a1fa-f0ca9abfb821,Rodríguez,Mauricio,TRUE,FALSE,El Salvador,https://en.wikipedia.org/wiki/Mauricio_Alonso_Rodr%C3%ADguez
+ce4eceef-70ed-5b46-bf34-d895cdb7d814,Rohr,Gernot,TRUE,FALSE,Germany,https://en.wikipedia.org/wiki/Gernot_Rohr
+d94329b8-3aa0-51f2-8a26-ec9fb288d9ad,Romantsev,Oleg,TRUE,FALSE,Russia,https://en.wikipedia.org/wiki/Oleg_Romantsev
+4968d830-af55-5e6b-90b1-3856346d7e8c,Roxburgh,Andy,TRUE,FALSE,Scotland,https://en.wikipedia.org/wiki/Andy_Roxburgh
+0f05b56e-59c5-5700-80eb-5bfd8ec66710,Rozo,Ricardo,TRUE,FALSE,Colombia,https://en.wikipedia.org/wiki/Ricardo_Rozo
+01974c5a-762e-5631-9445-f1e7b595296b,Rueda,Reinaldo,TRUE,FALSE,Colombia,https://en.wikipedia.org/wiki/Reinaldo_Rueda
+5637e48d-a1cd-5cc7-9224-bff714a87d6f,Ruiz,Aníbal,TRUE,FALSE,Uruguay,https://en.wikipedia.org/wiki/An%C3%ADbal_Ruiz
+5e03e986-84c6-5f17-90de-0c37d1e093f4,Ryan,Greg,TRUE,FALSE,United States,https://en.wikipedia.org/wiki/Greg_Ryan
+7cb6ae9c-cef2-5deb-b793-fcca4abd7d6c,Ré,Cayetano,TRUE,FALSE,Paraguay,https://en.wikipedia.org/wiki/Cayetano_R%C3%A9
+6fbc2802-332c-56de-85fb-6786240bd824,Rădulescu,Costel,TRUE,FALSE,Romania,"https://en.wikipedia.org/wiki/Constantin_R%C4%83dulescu_(footballer,_born_1896)"
+a42d56f4-b9e7-59e0-86cc-90e54654aa75,Sabella,Alejandro,TRUE,FALSE,Argentina,https://en.wikipedia.org/wiki/Alejandro_Sabella
+2a6a3fe2-946c-5f5e-b479-985fc12e1dd5,Sacchi,Arrigo,TRUE,FALSE,Italy,https://en.wikipedia.org/wiki/Arrigo_Sacchi
+54b1a0e3-b91d-5c4c-9d15-70ad0ef5f710,Sadyrin,Pavel,TRUE,FALSE,Russia,https://en.wikipedia.org/wiki/Pavel_Sadyrin
+271c39fd-671d-53c0-8226-e22221823168,Sampaoli,Jorge,TRUE,FALSE,Argentina,https://en.wikipedia.org/wiki/Jorge_Sampaoli
+130c198b-f0b7-57f7-82b5-d7b8bc90811e,Sampson,Mark,TRUE,FALSE,Wales,https://en.wikipedia.org/wiki/Mark_Sampson
+aa08b503-2fb4-5f6a-a8e6-489d983a3774,Sampson,Steve,TRUE,FALSE,United States,https://en.wikipedia.org/wiki/Steve_Sampson
+afff0efe-41be-56fd-a20c-3968d90069dd,Santamaría,José,TRUE,FALSE,Uruguay,https://en.wikipedia.org/wiki/Jos%C3%A9_Santamar%C3%ADa
+778531ac-47db-5e68-9506-687b1de826d6,Santana,Telê,TRUE,FALSE,Brazil,https://en.wikipedia.org/wiki/Tel%C3%AA_Santana
+690b4c9a-3a4b-5438-a904-deacda3499bd,Santibáñez,Luis,TRUE,FALSE,Chile,https://en.wikipedia.org/wiki/Luis_Santib%C3%A1%C3%B1ez
+c3d6645a-a87c-5c22-b380-03b193f92781,Santos,Fernando,TRUE,FALSE,Portugal,"https://en.wikipedia.org/wiki/Fernando_Santos_(footballer,_born_1954)"
+716fad10-9b06-5c5e-8d7b-5ee17aa19b2c,Santrac,Adrian,TRUE,FALSE,Australia,https://en.wikipedia.org/wiki/Adrian_Santrac
+45f2ba5d-1758-529c-819d-c71d64397000,Santrač,Slobodan,TRUE,FALSE,Yugoslavia,https://en.wikipedia.org/wiki/Slobodan_Santra%C4%8D
+d95519aa-ffcc-5187-af9b-886cc223ac7d,Sasaki,Norio,TRUE,FALSE,Japan,https://en.wikipedia.org/wiki/Norio_Sasaki
+3686b052-70fa-5fdf-be9d-4585073800a9,Saucedo,Ulises,TRUE,FALSE,Bolivia,https://en.wikipedia.org/wiki/Ulises_Saucedo
+24aa60de-af61-54ad-a1e9-5364e9a0884f,Saâdane,Rabah,TRUE,FALSE,Algeria,https://en.wikipedia.org/wiki/Rabah_Sa%C3%A2dane
+b3ec3dd9-244e-5895-9890-5b14bd03731c,Scaloni,Lionel,TRUE,FALSE,Argentina,https://en.wikipedia.org/wiki/Lionel_Scaloni
+fc5a6879-09c1-5954-946d-f600d83595fa,Schaffer,Alfréd,TRUE,FALSE,Hungary,https://en.wikipedia.org/wiki/Alfr%C3%A9d_Schaffer
+b6ce9d4c-5881-50b1-9323-121873b793cc,Scheffer,Emmanuel,TRUE,FALSE,Israel,https://en.wikipedia.org/wiki/Emmanuel_Scheffer
+223a684e-19f0-58a8-9ab1-1b8485c1bd82,Schmidt,Georg,TRUE,FALSE,Austria,https://en.wikipedia.org/wiki/Georg_Schmidt_(football_coach)
+7ad7c197-dafe-5f69-959d-cbd92c05c952,Schäfer,Winfried,TRUE,FALSE,Germany,https://en.wikipedia.org/wiki/Winfried_Sch%C3%A4fer
+f1a40b7b-e23d-5f2a-a874-788acf47dcc5,Schön,Helmut,TRUE,FALSE,Germany,https://en.wikipedia.org/wiki/Helmut_Sch%C3%B6n
+d86bec98-11ea-5f35-a5cc-68479d885367,Scolari,Luiz Felipe,TRUE,FALSE,Brazil,https://en.wikipedia.org/wiki/Luiz_Felipe_Scolari
+0d3fc18e-e465-571e-94a7-e369da12d4ee,Sebes,Gusztáv,TRUE,FALSE,Hungary,https://en.wikipedia.org/wiki/Guszt%C3%A1v_Sebes
+1cd15187-7ada-578d-9cca-c68a4d20f9ba,Selmi,Ali,TRUE,FALSE,Poland,https://en.wikipedia.org/wiki/Ali_Selmi
+f94866eb-67d5-5d59-895e-5ca8273f3dca,Senekowitsch,Helmut,TRUE,FALSE,Austria,https://en.wikipedia.org/wiki/Helmut_Senekowitsch
+90bff27f-6e34-5af1-b982-5ce612b94bc5,Sermanni,Tom,TRUE,FALSE,Scotland,https://en.wikipedia.org/wiki/Tom_Sermanni
+eb9af0b2-1a58-5e8a-971e-54ab1b6b740f,Shang,Ruihua,TRUE,FALSE,China,https://en.wikipedia.org/wiki/Shang_Ruihua
+52fbc054-38a0-52d0-b8ab-7d7cbfebbd22,Shin,Tae-yong,TRUE,FALSE,South Korea,https://en.wikipedia.org/wiki/Shin_Tae-yong
+fb8a8c9d-ce1c-596c-b55f-1b460fa9c25b,Simonović,Boško,TRUE,FALSE,Yugoslavia,https://en.wikipedia.org/wiki/Bo%C5%A1ko_Simonovi%C4%87
+62e746d9-f933-5b4c-a80e-64f77a1e881a,Simonsson,Bengt,TRUE,FALSE,Sweden,https://en.wikipedia.org/wiki/Bengt_Simonsson
+ff3d0987-8c14-5d25-9845-601155ead331,Simões,Renê,TRUE,FALSE,Brazil,https://en.wikipedia.org/wiki/Ren%C3%AA_Sim%C3%B5es
+09727d93-8c8d-5f14-8310-0a909d495a04,Sjögren,Martin,TRUE,FALSE,Sweden,https://en.wikipedia.org/wiki/Martin_Sj%C3%B6gren
+7f3df5e1-364c-514c-91f6-4c13dce23f53,Solari,Jorge,TRUE,FALSE,Argentina,https://en.wikipedia.org/wiki/Jorge_Solari
+ad54c240-e6e3-5ec6-96f1-437c1d7b7317,Song,Rigobert,TRUE,FALSE,Cameroon,https://en.wikipedia.org/wiki/Rigobert_Song
+65ff65ef-7ad7-5fc4-8115-410043131653,Sono,Jomo,TRUE,FALSE,South Africa,https://en.wikipedia.org/wiki/Jomo_Sono
+04af5575-0969-50a9-a728-f18496413551,Souayah,Ammar,TRUE,FALSE,Tunisia,https://en.wikipedia.org/wiki/Ammar_Souayah
+d46f4e7a-bb39-5483-99ff-6d18536df6d5,Southgate,Gareth,TRUE,FALSE,England,https://en.wikipedia.org/wiki/Gareth_Southgate
+acf9d23e-a6da-5e5e-a05b-d6afaa5c6750,Srathongvian,Nuengrutai,FALSE,TRUE,Thailand,https://en.wikipedia.org/wiki/Nuengrutai_Srathongvian
+eebda319-664f-5ec2-bcff-dacb77022ef7,Stajcic,Alen,TRUE,FALSE,Australia,https://en.wikipedia.org/wiki/Alen_Stajcic
+491935c1-201b-5a35-9ecf-c3d6d65e3e94,Steen,Åge,TRUE,FALSE,Norway,https://en.wikipedia.org/wiki/%C3%85ge_Steen
+518b165d-8644-5d7e-a32f-892fe1da8e1d,Stein,Jock,TRUE,FALSE,Scotland,https://en.wikipedia.org/wiki/Jock_Stein
+a0f04cd4-244b-5e43-b33c-c632f68801ec,Stojković,Dragan,TRUE,FALSE,Serbia,https://en.wikipedia.org/wiki/Dragan_Stojkovi%C4%87
+970b9d91-c067-5292-8965-2ef9851388cd,Stábile,Guillermo,TRUE,FALSE,Argentina,https://en.wikipedia.org/wiki/Guillermo_St%C3%A1bile
+e0796bbe-e83a-5be6-ba1b-172b1fd32a43,Sundhage,Pia,FALSE,TRUE,Sweden,https://en.wikipedia.org/wiki/Pia_Sundhage
+6811e7a0-ccf9-5ee9-86c4-a2789d45fbe1,Suppici,Alberto,TRUE,FALSE,Uruguay,https://en.wikipedia.org/wiki/Alberto_Suppici
+eb182d03-9886-5dfe-9853-451bf2d37dd8,Suzuki,Tamotsu,TRUE,FALSE,Japan,https://en.wikipedia.org/wiki/Tamotsu_Suzuki
+534f7051-ff51-5fd4-a9bd-6f3be09c3e28,Suárez,Luis,TRUE,FALSE,Spain,"https://en.wikipedia.org/wiki/Luis_Su%C3%A1rez_(footballer,_born_1935)"
+e4ed9f13-0059-5d17-afa4-bd19eca9a345,Suárez,Luis Fernando,TRUE,FALSE,Colombia,https://en.wikipedia.org/wiki/Luis_Fernando_Su%C3%A1rez
+89e5ca9d-7ac1-5ee2-9653-b458a2f3f8dc,Sušić,Safet,TRUE,FALSE,Bosnia and Herzegovina,https://en.wikipedia.org/wiki/Safet_Su%C5%A1i%C4%87
+ba6553df-4aad-5f95-b314-012c9da2eb3d,Svensson,Tommy,TRUE,FALSE,Sweden,https://en.wikipedia.org/wiki/Tommy_Svensson
+73bb31bd-b6b3-586b-bcfd-5d28994b6e9b,Sánchez,Félix,TRUE,FALSE,Spain,https://en.wikipedia.org/wiki/F%C3%A9lix_S%C3%A1nchez_(football_manager)
+fde33a44-8cb1-526b-8974-a5053ef6ffe0,Söderberg,Tommy,TRUE,FALSE,Sweden,https://en.wikipedia.org/wiki/Tommy_S%C3%B6derberg
+36677270-74f8-5b3a-8070-e08edc93b81d,Søndergaard,Lars,TRUE,FALSE,Denmark,https://en.wikipedia.org/wiki/Lars_S%C3%B8ndergaard
+9aa7b4d8-77d0-5ad5-ac2d-466a3d46ac9f,Săvulescu,Alexandru,TRUE,FALSE,Romania,https://en.wikipedia.org/wiki/Alexandru_S%C4%83vulescu_(footballer)
+e352d4e2-ced2-55f7-85c8-f2007afc0c59,Taborda,Fabián,TRUE,FALSE,Colombia,https://en.wikipedia.org/wiki/Fabi%C3%A1n_Taborda
+3979d791-dc59-53e5-a27d-0efa10327543,Tabárez,Óscar,TRUE,FALSE,Uruguay,https://en.wikipedia.org/wiki/%C3%93scar_Tab%C3%A1rez
+d898119b-d89f-519c-b88a-880f3adb8c5d,Takakura,Asako,FALSE,TRUE,Japan,https://en.wikipedia.org/wiki/Asako_Takakura
+466208d3-b4e5-552a-8d7c-4206e1e3e89a,Talebi,Jalal,TRUE,FALSE,Iran,https://en.wikipedia.org/wiki/Jalal_Talebi
+25f09222-293f-5545-8981-a54b245f1f73,Tapia,José,TRUE,FALSE,Cuba,https://en.wikipedia.org/wiki/Jos%C3%A9_Tapia
+fc1d3c70-0ada-5c24-a8c9-0dfc1eedd416,Tassy,Antoine,TRUE,FALSE,Haiti,https://en.wikipedia.org/wiki/Antoine_Tassy
+32e85f5a-8d4a-5dde-a7b1-4fc9b6a9e29e,Theune-Meyer,Tina,FALSE,TRUE,Germany,https://en.wikipedia.org/wiki/Tina_Theune
+aeb7b186-b324-5314-a73b-de4acb845d33,Thys,Guy,TRUE,FALSE,Belgium,https://en.wikipedia.org/wiki/Guy_Thys
+440afa8e-9805-5410-b7df-53166e187d68,Tim,,TRUE,FALSE,Brazil,https://en.wikipedia.org/wiki/Tim_(footballer)
+0d0df328-9a18-5c7c-8a7e-b0f0d86b8ccd,Tirnanić,Aleksandar,TRUE,FALSE,Yugoslavia,https://en.wikipedia.org/wiki/Aleksandar_Tirnani%C4%87
+dcf63a98-89cf-54ff-a224-48858ac5127c,Tite,,TRUE,FALSE,Brazil,https://en.wikipedia.org/wiki/Tite_(football_manager)
+cadb19d8-b696-535e-bf69-db479e599dca,Torres,José,TRUE,FALSE,Portugal,https://en.wikipedia.org/wiki/Jos%C3%A9_Augusto_Torres
+27ffb874-c7b4-543d-9541-a8f29e5e11de,Touré,Clémentine,FALSE,TRUE,Ivory Coast,https://en.wikipedia.org/wiki/Cl%C3%A9mentine_Tour%C3%A9
+b43025c1-67c5-5a80-b300-8bcbf0621f83,Tramutola,Juan José,TRUE,FALSE,Argentina,https://en.wikipedia.org/wiki/Juan_Jos%C3%A9_Tramutola
+1be3d28b-ed12-55ca-91c6-01a6eb59a08b,Trapattoni,Giovanni,TRUE,FALSE,Italy,https://en.wikipedia.org/wiki/Giovanni_Trapattoni
+9ee233f5-25c8-520d-8a6c-0e4a90a60b7d,Troussier,Philippe,TRUE,FALSE,France,https://en.wikipedia.org/wiki/Philippe_Troussier
+ad565344-0562-5f13-a6a0-a90c4be7f2d4,Tréllez,Ignacio,TRUE,FALSE,Mexico,https://en.wikipedia.org/wiki/Ignacio_Tr%C3%A9llez
+4ed72a6d-b1a2-5c82-bbc0-ede83e7c96c4,Turnbull,Neil,TRUE,FALSE,England,https://en.wikipedia.org/wiki/Neil_Turnbull
+2a6238ef-736d-5deb-8d9f-4158b7b1032b,Uche,Ngozi Eucharia,FALSE,TRUE,Nigeria,https://en.wikipedia.org/wiki/Ngozi_Eucharia_Uche
+289c7b07-7254-514e-a891-ee1f47a6671f,Ueda,Eiji,TRUE,FALSE,Japan,https://en.wikipedia.org/wiki/Eiji_Ueda
+81283f21-d98b-5ecd-8255-62d4c0d498e4,Uridil,Josef,TRUE,FALSE,Romania,https://en.wikipedia.org/wiki/Josef_Uridil
+43fb7640-96ba-5296-9f75-cb63de39b526,Vadão,,TRUE,FALSE,Brazil,https://en.wikipedia.org/wiki/Vad%C3%A3o
+34737d50-1787-5ac8-9b5d-11bb877c47db,Valcareggi,Ferruccio,TRUE,FALSE,Italy,https://en.wikipedia.org/wiki/Ferruccio_Valcareggi
+8a23cdea-0c32-5ab2-8398-08208a37321e,Valverde,Amelia,FALSE,TRUE,Costa Rica,https://en.wikipedia.org/wiki/Amelia_Valverde
+3cc70535-13c3-5c28-9cf3-38e60e8425c4,Van Himst,Paul,TRUE,FALSE,Belgium,https://en.wikipedia.org/wiki/Paul_Van_Himst
+62a62362-6b55-5a4f-b037-d2bdf9781b71,Vengloš,Jozef,TRUE,FALSE,Czechoslovakia,https://en.wikipedia.org/wiki/Jozef_Venglo%C5%A1
+756c7a3e-067b-51e2-aa7a-aafb0338dbed,Verbeek,Pim,TRUE,FALSE,Netherlands,https://en.wikipedia.org/wiki/Pim_Verbeek
+8fc2867b-a2a1-5e72-a4b0-f6481b0d84a7,Vial,Octavio,TRUE,FALSE,Mexico,https://en.wikipedia.org/wiki/Octavio_Vial
+33ab4363-0739-540a-a8bf-5af1d586b88d,Vicini,Azeglio,TRUE,FALSE,Italy,https://en.wikipedia.org/wiki/Azeglio_Vicini
+e7062617-fa41-5d56-8bbb-9983411fbc25,Vidinić,Blagoje,TRUE,FALSE,Yugoslavia,https://en.wikipedia.org/wiki/Blagoje_Vidini%C4%87
+69bda185-10f5-50a1-b752-0e903b0b4dc1,Viera,Ondino,TRUE,FALSE,Uruguay,https://en.wikipedia.org/wiki/Ondino_Viera
+b426fb0c-111e-589b-8390-ab3411261987,Vilda,Jorge,TRUE,FALSE,Spain,https://en.wikipedia.org/wiki/Jorge_Vilda
+31ee38ce-0096-5c44-aab3-735a8055b4a8,Villalonga,José,TRUE,FALSE,Spain,https://en.wikipedia.org/wiki/Jos%C3%A9_Villalonga_Llorente
+2b3f8209-8fd8-551b-8419-56f38f315ec5,Vincent,Jean,TRUE,FALSE,France,https://en.wikipedia.org/wiki/Jean_Vincent_(footballer)
+4990c5aa-8d18-5e73-8bc6-caf40a06aa1d,Vinhaes,Luiz,TRUE,FALSE,Brazil,https://en.wikipedia.org/wiki/Luiz_Vinhaes
+b124d840-c522-5215-8a65-5f82b65a5086,Vogts,Berti,TRUE,FALSE,Germany,https://en.wikipedia.org/wiki/Berti_Vogts
+ff612a40-9b1b-52be-8697-55bcde0c7626,Voss-Tecklenburg,Martina,FALSE,TRUE,Germany,https://en.wikipedia.org/wiki/Martina_Voss-Tecklenburg
+c0dfa36f-f718-5147-b4ee-fb3e6f2ad0aa,Vutsov,Ivan,TRUE,FALSE,Bulgaria,https://en.wikipedia.org/wiki/Ivan_Vutsov
+588cf42f-65cc-58e9-8dbe-ec41e031c0f6,Vytlačil,Rudolf,TRUE,FALSE,Czechoslovakia,https://en.wikipedia.org/wiki/Rudolf_Vytla%C4%8Dil
+516e2eb1-7d1d-544f-b5c6-e6c81b8e6212,Völler,Rudi,TRUE,FALSE,Germany,https://en.wikipedia.org/wiki/Rudi_V%C3%B6ller
+6a1a7848-f92d-5467-a361-d3b904c9c371,Waiters,Tony,TRUE,FALSE,England,https://en.wikipedia.org/wiki/Tony_Waiters
+49b079c5-bf55-563a-8e69-63f3a0881eaa,Waldrum,Randy,TRUE,FALSE,United States,https://en.wikipedia.org/wiki/Randy_Waldrum
+67af513d-fbf0-54be-a5a4-3e26957b813f,Walker,Dawson,TRUE,FALSE,Scotland,https://en.wikipedia.org/wiki/Dawson_Walker
+124dffaa-7b98-55bc-907b-e2dd35175dac,Waseige,Robert,TRUE,FALSE,Belgium,https://en.wikipedia.org/wiki/Robert_Waseige
+a8038c8b-f6ab-5055-9935-6e463e0307e6,Weiss,Vladimír,TRUE,FALSE,Slovakia,"https://en.wikipedia.org/wiki/Vladim%C3%ADr_Weiss_(footballer,_born_1964)"
+713e7de1-201c-52d4-bd5f-8712dbac0616,Westerhof,Clemens,TRUE,FALSE,Netherlands,https://en.wikipedia.org/wiki/Clemens_Westerhof
+26b64e2f-4542-58bd-af23-d556e94efd30,Wiegman,Sarina,FALSE,TRUE,Netherlands,https://en.wikipedia.org/wiki/Sarina_Wiegman
+8a91e949-a72f-5a54-b0e8-60a1ed3dfb5a,Wilmots,Marc,TRUE,FALSE,Belgium,https://en.wikipedia.org/wiki/Marc_Wilmots
+55d6ea58-921a-5be7-a317-cd8dc52efd62,Wilsinho,,TRUE,FALSE,Brazil,https://en.wikipedia.org/wiki/Wilsinho_(football_manager)
+605710b9-5847-5e36-9606-d4b8e47edb9e,Winterbottom,Walter,TRUE,FALSE,England,https://en.wikipedia.org/wiki/Walter_Winterbottom
+238143d3-89b9-5544-8291-b8517c629d96,Yakin,Murat,TRUE,FALSE,Switzerland,https://en.wikipedia.org/wiki/Murat_Yakin
+389ac5aa-edd2-5afd-87dc-c4f37c7e3934,Yoon,Deok-yeo,TRUE,FALSE,South Korea,https://en.wikipedia.org/wiki/Yoon_Deok-yeo
+80eb38c2-7878-5d2c-9ee3-405dbb1cc1de,Zaccheroni,Alberto,TRUE,FALSE,Italy,https://en.wikipedia.org/wiki/Alberto_Zaccheroni
+c30d0220-1310-54a9-a3e9-7a7b76d957bd,Zagallo,Mário,TRUE,FALSE,Brazil,https://en.wikipedia.org/wiki/M%C3%A1rio_Zagallo
+3da61af8-2070-553d-84fd-a107581c78fd,Zico,,TRUE,FALSE,Brazil,https://en.wikipedia.org/wiki/Zico_(footballer)
+f6e80a84-c9ff-5dc2-a167-acaa62c4c54e,de Carvalho Rodrigues,Píndaro,TRUE,FALSE,Brazil,https://en.wikipedia.org/wiki/P%C3%ADndaro_de_Carvalho_Rodrigues
+77a0d418-92ce-5802-8578-b5a8fe5c9f22,de Macedo,Evaristo,TRUE,FALSE,Brazil,https://en.wikipedia.org/wiki/Evaristo_de_Macedo
+93362ac4-5210-5b8b-84d5-caf14555f590,de la Paz Herrera,José,TRUE,FALSE,Honduras,https://en.wikipedia.org/wiki/Jos%C3%A9_de_la_Paz_Herrera
+2d42ae8e-36da-539b-8a17-8a5ddc18a8d0,del Bosque,Vicente,TRUE,FALSE,Spain,https://en.wikipedia.org/wiki/Vicente_del_Bosque
+ae4fd738-532d-5fa0-a0f3-46c5ea728d8b,lima,Kleiton,TRUE,FALSE,Brazil,https://en.wikipedia.org/wiki/Kleiton_Lima
+8e02c515-2542-5f77-b345-df21f589ad01,van Basten,Marco,TRUE,FALSE,Netherlands,https://en.wikipedia.org/wiki/Marco_van_Basten
+caa09e8a-db1e-5e2c-a4b3-6fde7f127057,van Gaal,Louis,TRUE,FALSE,Netherlands,https://en.wikipedia.org/wiki/Louis_van_Gaal
+f97b4ee3-6be3-51b8-8a32-2c07f6d3a34f,van Marwijk,Bert,TRUE,FALSE,Netherlands,https://en.wikipedia.org/wiki/Bert_van_Marwijk
+ae34c0ab-175a-5b13-ab26-6dbeaea18b17,Álamos,Luis,TRUE,FALSE,Chile,https://en.wikipedia.org/wiki/Luis_%C3%81lamos

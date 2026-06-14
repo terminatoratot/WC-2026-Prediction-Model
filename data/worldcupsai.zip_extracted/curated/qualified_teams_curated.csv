@@ -1,0 +1,658 @@
+tournament_id,tournament_name,team_id,team_name,team_code,count_matches,progress
+013eb3e7-ff79-5592-944c-ca635e888abb,2019 FIFA Women's World Cup,10913c23-6023-563d-94df-9b4fb66c3432,United States,USA,7,final
+013eb3e7-ff79-5592-944c-ca635e888abb,2019 FIFA Women's World Cup,11240419-821b-5fbb-bf15-4906f40e3951,New Zealand,NZL,3,group stage
+013eb3e7-ff79-5592-944c-ca635e888abb,2019 FIFA Women's World Cup,1234d812-2e40-561b-90a3-ed4f9e66bd63,Canada,CAN,4,round of 16
+013eb3e7-ff79-5592-944c-ca635e888abb,2019 FIFA Women's World Cup,13a7a10d-674d-5be2-bdfa-a0e18b0b6b04,Jamaica,JAM,3,group stage
+013eb3e7-ff79-5592-944c-ca635e888abb,2019 FIFA Women's World Cup,187544dc-4b46-5bf6-a079-e124899a9090,Norway,NOR,5,quarter-finals
+013eb3e7-ff79-5592-944c-ca635e888abb,2019 FIFA Women's World Cup,230373b7-3a16-506a-b5f6-acc37d7e801d,Japan,JPN,4,round of 16
+013eb3e7-ff79-5592-944c-ca635e888abb,2019 FIFA Women's World Cup,2d9898be-ff8f-55ef-a86e-167bdeaf3cc6,Australia,AUS,4,round of 16
+013eb3e7-ff79-5592-944c-ca635e888abb,2019 FIFA Women's World Cup,3611e724-8c08-5f63-b63d-e1cad6af784c,Sweden,SWE,7,third-place match
+013eb3e7-ff79-5592-944c-ca635e888abb,2019 FIFA Women's World Cup,3d11f07c-c004-508d-9001-6f944119b2b0,France,FRA,5,quarter-finals
+013eb3e7-ff79-5592-944c-ca635e888abb,2019 FIFA Women's World Cup,43c1aac8-fa85-5e16-ba9c-4cfdcbc975b8,England,ENG,7,third-place match
+013eb3e7-ff79-5592-944c-ca635e888abb,2019 FIFA Women's World Cup,498c5353-84ca-5f1c-8d71-0ae02196227c,Brazil,BRA,4,round of 16
+013eb3e7-ff79-5592-944c-ca635e888abb,2019 FIFA Women's World Cup,5b16dd9d-d19c-5484-bac2-f9e932dddd29,Spain,ESP,4,round of 16
+013eb3e7-ff79-5592-944c-ca635e888abb,2019 FIFA Women's World Cup,83f65ffa-c76e-5ace-8c09-c87d141a3916,South Korea,KOR,3,group stage
+013eb3e7-ff79-5592-944c-ca635e888abb,2019 FIFA Women's World Cup,879c1298-9904-5b96-8f25-5e7d455ae2ec,Chile,CHL,3,group stage
+013eb3e7-ff79-5592-944c-ca635e888abb,2019 FIFA Women's World Cup,933a103d-d9d7-57a3-9c4a-fbc81d25a266,Argentina,ARG,3,group stage
+013eb3e7-ff79-5592-944c-ca635e888abb,2019 FIFA Women's World Cup,93542d8e-8aca-5c07-ad21-5c493fdf083e,China,CHN,4,round of 16
+013eb3e7-ff79-5592-944c-ca635e888abb,2019 FIFA Women's World Cup,98d2c177-9d33-51f5-998a-7ad3ab0973fd,Thailand,THA,3,group stage
+013eb3e7-ff79-5592-944c-ca635e888abb,2019 FIFA Women's World Cup,a42d3d6a-78dd-5ae6-8408-079a857a7c30,Italy,ITA,5,quarter-finals
+013eb3e7-ff79-5592-944c-ca635e888abb,2019 FIFA Women's World Cup,d522b940-a152-5cc7-bcb3-89e28a1ce459,Netherlands,NLD,7,final
+013eb3e7-ff79-5592-944c-ca635e888abb,2019 FIFA Women's World Cup,e77d250a-1cec-5627-adc4-3cf95c7c0972,South Africa,ZAF,3,group stage
+013eb3e7-ff79-5592-944c-ca635e888abb,2019 FIFA Women's World Cup,eb88a8cc-be5e-5116-8926-ba595504709a,Cameroon,CMR,4,round of 16
+013eb3e7-ff79-5592-944c-ca635e888abb,2019 FIFA Women's World Cup,eff0a856-a340-5ec8-84e8-121552da2cda,Germany,DEU,5,quarter-finals
+013eb3e7-ff79-5592-944c-ca635e888abb,2019 FIFA Women's World Cup,f201a6b5-a9f6-5612-947b-a6a57d2e7e18,Nigeria,NGA,4,round of 16
+013eb3e7-ff79-5592-944c-ca635e888abb,2019 FIFA Women's World Cup,fc2ce361-82ed-537a-85f1-ff8f384d11b1,Scotland,SCO,3,group stage
+09a48bd3-5401-5de4-9bd5-0e907ba0fee6,2015 FIFA Women's World Cup,10913c23-6023-563d-94df-9b4fb66c3432,United States,USA,7,final
+09a48bd3-5401-5de4-9bd5-0e907ba0fee6,2015 FIFA Women's World Cup,11240419-821b-5fbb-bf15-4906f40e3951,New Zealand,NZL,3,group stage
+09a48bd3-5401-5de4-9bd5-0e907ba0fee6,2015 FIFA Women's World Cup,1234d812-2e40-561b-90a3-ed4f9e66bd63,Canada,CAN,5,quarter-finals
+09a48bd3-5401-5de4-9bd5-0e907ba0fee6,2015 FIFA Women's World Cup,187544dc-4b46-5bf6-a079-e124899a9090,Norway,NOR,4,round of 16
+09a48bd3-5401-5de4-9bd5-0e907ba0fee6,2015 FIFA Women's World Cup,2179a8d7-c7ed-5c0c-b6a6-8e6eeef52657,Ecuador,ECU,3,group stage
+09a48bd3-5401-5de4-9bd5-0e907ba0fee6,2015 FIFA Women's World Cup,230373b7-3a16-506a-b5f6-acc37d7e801d,Japan,JPN,7,final
+09a48bd3-5401-5de4-9bd5-0e907ba0fee6,2015 FIFA Women's World Cup,2d9898be-ff8f-55ef-a86e-167bdeaf3cc6,Australia,AUS,5,quarter-finals
+09a48bd3-5401-5de4-9bd5-0e907ba0fee6,2015 FIFA Women's World Cup,3611e724-8c08-5f63-b63d-e1cad6af784c,Sweden,SWE,4,round of 16
+09a48bd3-5401-5de4-9bd5-0e907ba0fee6,2015 FIFA Women's World Cup,3d11f07c-c004-508d-9001-6f944119b2b0,France,FRA,5,quarter-finals
+09a48bd3-5401-5de4-9bd5-0e907ba0fee6,2015 FIFA Women's World Cup,3de13983-4604-5a8d-b39c-08d4f279a06b,Colombia,COL,4,round of 16
+09a48bd3-5401-5de4-9bd5-0e907ba0fee6,2015 FIFA Women's World Cup,43c1aac8-fa85-5e16-ba9c-4cfdcbc975b8,England,ENG,7,third-place match
+09a48bd3-5401-5de4-9bd5-0e907ba0fee6,2015 FIFA Women's World Cup,498c5353-84ca-5f1c-8d71-0ae02196227c,Brazil,BRA,4,round of 16
+09a48bd3-5401-5de4-9bd5-0e907ba0fee6,2015 FIFA Women's World Cup,5b16dd9d-d19c-5484-bac2-f9e932dddd29,Spain,ESP,3,group stage
+09a48bd3-5401-5de4-9bd5-0e907ba0fee6,2015 FIFA Women's World Cup,83f65ffa-c76e-5ace-8c09-c87d141a3916,South Korea,KOR,4,round of 16
+09a48bd3-5401-5de4-9bd5-0e907ba0fee6,2015 FIFA Women's World Cup,8dd855bb-0dbb-576b-837a-ad9f8d770c86,Costa Rica,CRI,3,group stage
+09a48bd3-5401-5de4-9bd5-0e907ba0fee6,2015 FIFA Women's World Cup,93542d8e-8aca-5c07-ad21-5c493fdf083e,China,CHN,5,quarter-finals
+09a48bd3-5401-5de4-9bd5-0e907ba0fee6,2015 FIFA Women's World Cup,98d2c177-9d33-51f5-998a-7ad3ab0973fd,Thailand,THA,3,group stage
+09a48bd3-5401-5de4-9bd5-0e907ba0fee6,2015 FIFA Women's World Cup,a260026d-34b5-5fdf-8896-fd8997f096b9,Switzerland,CHE,4,round of 16
+09a48bd3-5401-5de4-9bd5-0e907ba0fee6,2015 FIFA Women's World Cup,c832b30c-2750-5a24-a66f-cf9ea7c20a5c,Mexico,MEX,3,group stage
+09a48bd3-5401-5de4-9bd5-0e907ba0fee6,2015 FIFA Women's World Cup,d522b940-a152-5cc7-bcb3-89e28a1ce459,Netherlands,NLD,4,round of 16
+09a48bd3-5401-5de4-9bd5-0e907ba0fee6,2015 FIFA Women's World Cup,e31e86e8-0616-5e05-a842-dc8f67c29ca4,Ivory Coast,CIV,3,group stage
+09a48bd3-5401-5de4-9bd5-0e907ba0fee6,2015 FIFA Women's World Cup,eb88a8cc-be5e-5116-8926-ba595504709a,Cameroon,CMR,4,round of 16
+09a48bd3-5401-5de4-9bd5-0e907ba0fee6,2015 FIFA Women's World Cup,eff0a856-a340-5ec8-84e8-121552da2cda,Germany,DEU,7,third-place match
+09a48bd3-5401-5de4-9bd5-0e907ba0fee6,2015 FIFA Women's World Cup,f201a6b5-a9f6-5612-947b-a6a57d2e7e18,Nigeria,NGA,3,group stage
+14ac8c65-b6bd-5301-83ca-d190f210e04f,1999 FIFA Women's World Cup,10913c23-6023-563d-94df-9b4fb66c3432,United States,USA,6,final
+14ac8c65-b6bd-5301-83ca-d190f210e04f,1999 FIFA Women's World Cup,1234d812-2e40-561b-90a3-ed4f9e66bd63,Canada,CAN,3,group stage
+14ac8c65-b6bd-5301-83ca-d190f210e04f,1999 FIFA Women's World Cup,187544dc-4b46-5bf6-a079-e124899a9090,Norway,NOR,6,third-place match
+14ac8c65-b6bd-5301-83ca-d190f210e04f,1999 FIFA Women's World Cup,230373b7-3a16-506a-b5f6-acc37d7e801d,Japan,JPN,3,group stage
+14ac8c65-b6bd-5301-83ca-d190f210e04f,1999 FIFA Women's World Cup,2d9898be-ff8f-55ef-a86e-167bdeaf3cc6,Australia,AUS,3,group stage
+14ac8c65-b6bd-5301-83ca-d190f210e04f,1999 FIFA Women's World Cup,3611e724-8c08-5f63-b63d-e1cad6af784c,Sweden,SWE,4,quarter-finals
+14ac8c65-b6bd-5301-83ca-d190f210e04f,1999 FIFA Women's World Cup,498c5353-84ca-5f1c-8d71-0ae02196227c,Brazil,BRA,6,third-place match
+14ac8c65-b6bd-5301-83ca-d190f210e04f,1999 FIFA Women's World Cup,55f8040d-0098-5415-abdf-66098ef3bbee,Ghana,GHA,3,group stage
+14ac8c65-b6bd-5301-83ca-d190f210e04f,1999 FIFA Women's World Cup,58ce2aac-d181-51c6-9f50-fc3e8643d0e1,North Korea,PRK,3,group stage
+14ac8c65-b6bd-5301-83ca-d190f210e04f,1999 FIFA Women's World Cup,6eb0485e-97e8-57e7-bf93-6c300f3e003a,Russia,RUS,4,quarter-finals
+14ac8c65-b6bd-5301-83ca-d190f210e04f,1999 FIFA Women's World Cup,93542d8e-8aca-5c07-ad21-5c493fdf083e,China,CHN,6,final
+14ac8c65-b6bd-5301-83ca-d190f210e04f,1999 FIFA Women's World Cup,a42d3d6a-78dd-5ae6-8408-079a857a7c30,Italy,ITA,3,group stage
+14ac8c65-b6bd-5301-83ca-d190f210e04f,1999 FIFA Women's World Cup,c832b30c-2750-5a24-a66f-cf9ea7c20a5c,Mexico,MEX,3,group stage
+14ac8c65-b6bd-5301-83ca-d190f210e04f,1999 FIFA Women's World Cup,dfb099cc-e7ea-5e4f-b492-bdbf6e8e179b,Denmark,DNK,3,group stage
+14ac8c65-b6bd-5301-83ca-d190f210e04f,1999 FIFA Women's World Cup,eff0a856-a340-5ec8-84e8-121552da2cda,Germany,DEU,4,quarter-finals
+14ac8c65-b6bd-5301-83ca-d190f210e04f,1999 FIFA Women's World Cup,f201a6b5-a9f6-5612-947b-a6a57d2e7e18,Nigeria,NGA,4,quarter-finals
+15f11a97-c603-53ea-be3a-d196027360e9,1930 FIFA Men's World Cup,10913c23-6023-563d-94df-9b4fb66c3432,United States,USA,3,semi-finals
+15f11a97-c603-53ea-be3a-d196027360e9,1930 FIFA Men's World Cup,3aa56241-3868-505a-ac6a-753aefa79cc2,Belgium,BEL,2,group stage
+15f11a97-c603-53ea-be3a-d196027360e9,1930 FIFA Men's World Cup,3d11f07c-c004-508d-9001-6f944119b2b0,France,FRA,3,group stage
+15f11a97-c603-53ea-be3a-d196027360e9,1930 FIFA Men's World Cup,498c5353-84ca-5f1c-8d71-0ae02196227c,Brazil,BRA,2,group stage
+15f11a97-c603-53ea-be3a-d196027360e9,1930 FIFA Men's World Cup,879c1298-9904-5b96-8f25-5e7d455ae2ec,Chile,CHL,3,group stage
+15f11a97-c603-53ea-be3a-d196027360e9,1930 FIFA Men's World Cup,933a103d-d9d7-57a3-9c4a-fbc81d25a266,Argentina,ARG,5,final
+15f11a97-c603-53ea-be3a-d196027360e9,1930 FIFA Men's World Cup,9678d2a4-5323-5082-b115-575366fb384a,Paraguay,PRY,2,group stage
+15f11a97-c603-53ea-be3a-d196027360e9,1930 FIFA Men's World Cup,97c63301-8b06-5bfb-8909-40b555c7c9e3,Bolivia,BOL,2,group stage
+15f11a97-c603-53ea-be3a-d196027360e9,1930 FIFA Men's World Cup,9a9be60e-89da-590c-95a8-6e5802b5deb5,Yugoslavia,YUG,3,semi-finals
+15f11a97-c603-53ea-be3a-d196027360e9,1930 FIFA Men's World Cup,c832b30c-2750-5a24-a66f-cf9ea7c20a5c,Mexico,MEX,3,group stage
+15f11a97-c603-53ea-be3a-d196027360e9,1930 FIFA Men's World Cup,da4d79d5-3e18-54b9-916c-997fdef9a796,Romania,ROU,2,group stage
+15f11a97-c603-53ea-be3a-d196027360e9,1930 FIFA Men's World Cup,db3abc88-7f89-5183-bc6d-ea6fa7c361d9,Peru,PER,2,group stage
+15f11a97-c603-53ea-be3a-d196027360e9,1930 FIFA Men's World Cup,f8764a69-de29-59f5-8e79-715c4bf88a11,Uruguay,URY,4,final
+16504e44-4d0e-5f54-9f9d-c1dfa90a0f20,1966 FIFA Men's World Cup,13eebf0f-eb49-5e70-97f9-84f0395ceff1,Portugal,PRT,6,third-place match
+16504e44-4d0e-5f54-9f9d-c1dfa90a0f20,1966 FIFA Men's World Cup,3d11f07c-c004-508d-9001-6f944119b2b0,France,FRA,3,group stage
+16504e44-4d0e-5f54-9f9d-c1dfa90a0f20,1966 FIFA Men's World Cup,43c1aac8-fa85-5e16-ba9c-4cfdcbc975b8,England,ENG,6,final
+16504e44-4d0e-5f54-9f9d-c1dfa90a0f20,1966 FIFA Men's World Cup,498c5353-84ca-5f1c-8d71-0ae02196227c,Brazil,BRA,3,group stage
+16504e44-4d0e-5f54-9f9d-c1dfa90a0f20,1966 FIFA Men's World Cup,58ce2aac-d181-51c6-9f50-fc3e8643d0e1,North Korea,PRK,4,quarter-finals
+16504e44-4d0e-5f54-9f9d-c1dfa90a0f20,1966 FIFA Men's World Cup,5b16dd9d-d19c-5484-bac2-f9e932dddd29,Spain,ESP,3,group stage
+16504e44-4d0e-5f54-9f9d-c1dfa90a0f20,1966 FIFA Men's World Cup,6c983d26-03e1-5649-a13f-42b61e101a0e,Soviet Union,SUN,6,third-place match
+16504e44-4d0e-5f54-9f9d-c1dfa90a0f20,1966 FIFA Men's World Cup,879c1298-9904-5b96-8f25-5e7d455ae2ec,Chile,CHL,3,group stage
+16504e44-4d0e-5f54-9f9d-c1dfa90a0f20,1966 FIFA Men's World Cup,933a103d-d9d7-57a3-9c4a-fbc81d25a266,Argentina,ARG,4,quarter-finals
+16504e44-4d0e-5f54-9f9d-c1dfa90a0f20,1966 FIFA Men's World Cup,a260026d-34b5-5fdf-8896-fd8997f096b9,Switzerland,CHE,3,group stage
+16504e44-4d0e-5f54-9f9d-c1dfa90a0f20,1966 FIFA Men's World Cup,a42d3d6a-78dd-5ae6-8408-079a857a7c30,Italy,ITA,3,group stage
+16504e44-4d0e-5f54-9f9d-c1dfa90a0f20,1966 FIFA Men's World Cup,adbcf28f-5f27-56bd-bca0-909cf77a8ae0,West Germany,DEU,6,final
+16504e44-4d0e-5f54-9f9d-c1dfa90a0f20,1966 FIFA Men's World Cup,c832b30c-2750-5a24-a66f-cf9ea7c20a5c,Mexico,MEX,3,group stage
+16504e44-4d0e-5f54-9f9d-c1dfa90a0f20,1966 FIFA Men's World Cup,f16b7d5c-db54-5b27-b827-e848a3035641,Hungary,HUN,4,quarter-finals
+16504e44-4d0e-5f54-9f9d-c1dfa90a0f20,1966 FIFA Men's World Cup,f4b41163-3c82-5e1e-af54-e7ecc8a15135,Bulgaria,BGR,3,group stage
+16504e44-4d0e-5f54-9f9d-c1dfa90a0f20,1966 FIFA Men's World Cup,f8764a69-de29-59f5-8e79-715c4bf88a11,Uruguay,URY,4,quarter-finals
+173406d4-d15a-5033-bddc-c3f91ccad965,1978 FIFA Men's World Cup,3611e724-8c08-5f63-b63d-e1cad6af784c,Sweden,SWE,3,first group stage
+173406d4-d15a-5033-bddc-c3f91ccad965,1978 FIFA Men's World Cup,3d11f07c-c004-508d-9001-6f944119b2b0,France,FRA,3,first group stage
+173406d4-d15a-5033-bddc-c3f91ccad965,1978 FIFA Men's World Cup,498c5353-84ca-5f1c-8d71-0ae02196227c,Brazil,BRA,7,third-place match
+173406d4-d15a-5033-bddc-c3f91ccad965,1978 FIFA Men's World Cup,5b16dd9d-d19c-5484-bac2-f9e932dddd29,Spain,ESP,3,first group stage
+173406d4-d15a-5033-bddc-c3f91ccad965,1978 FIFA Men's World Cup,8e63ee49-fbde-5478-a093-1a6a679cc27f,Austria,AUT,6,second group stage
+173406d4-d15a-5033-bddc-c3f91ccad965,1978 FIFA Men's World Cup,933a103d-d9d7-57a3-9c4a-fbc81d25a266,Argentina,ARG,7,final
+173406d4-d15a-5033-bddc-c3f91ccad965,1978 FIFA Men's World Cup,a42d3d6a-78dd-5ae6-8408-079a857a7c30,Italy,ITA,7,third-place match
+173406d4-d15a-5033-bddc-c3f91ccad965,1978 FIFA Men's World Cup,adbcf28f-5f27-56bd-bca0-909cf77a8ae0,West Germany,DEU,6,second group stage
+173406d4-d15a-5033-bddc-c3f91ccad965,1978 FIFA Men's World Cup,b627769a-7468-5b82-85ee-a38f3d71a3c6,Tunisia,TUN,3,first group stage
+173406d4-d15a-5033-bddc-c3f91ccad965,1978 FIFA Men's World Cup,c832b30c-2750-5a24-a66f-cf9ea7c20a5c,Mexico,MEX,3,first group stage
+173406d4-d15a-5033-bddc-c3f91ccad965,1978 FIFA Men's World Cup,d522b940-a152-5cc7-bcb3-89e28a1ce459,Netherlands,NLD,7,final
+173406d4-d15a-5033-bddc-c3f91ccad965,1978 FIFA Men's World Cup,db3abc88-7f89-5183-bc6d-ea6fa7c361d9,Peru,PER,6,second group stage
+173406d4-d15a-5033-bddc-c3f91ccad965,1978 FIFA Men's World Cup,f16b7d5c-db54-5b27-b827-e848a3035641,Hungary,HUN,3,first group stage
+173406d4-d15a-5033-bddc-c3f91ccad965,1978 FIFA Men's World Cup,f22d85b4-6cde-5f4e-8119-b3b69a2ba879,Iran,IRN,3,first group stage
+173406d4-d15a-5033-bddc-c3f91ccad965,1978 FIFA Men's World Cup,fc0455f9-aa03-5b3d-9b41-41854289e993,Poland,POL,6,second group stage
+173406d4-d15a-5033-bddc-c3f91ccad965,1978 FIFA Men's World Cup,fc2ce361-82ed-537a-85f1-ff8f384d11b1,Scotland,SCO,3,first group stage
+1e88b29b-3883-56c0-a9f4-0fc4447d0f51,1995 FIFA Women's World Cup,10913c23-6023-563d-94df-9b4fb66c3432,United States,USA,6,third-place match
+1e88b29b-3883-56c0-a9f4-0fc4447d0f51,1995 FIFA Women's World Cup,1234d812-2e40-561b-90a3-ed4f9e66bd63,Canada,CAN,3,group stage
+1e88b29b-3883-56c0-a9f4-0fc4447d0f51,1995 FIFA Women's World Cup,187544dc-4b46-5bf6-a079-e124899a9090,Norway,NOR,6,final
+1e88b29b-3883-56c0-a9f4-0fc4447d0f51,1995 FIFA Women's World Cup,230373b7-3a16-506a-b5f6-acc37d7e801d,Japan,JPN,4,quarter-finals
+1e88b29b-3883-56c0-a9f4-0fc4447d0f51,1995 FIFA Women's World Cup,2d9898be-ff8f-55ef-a86e-167bdeaf3cc6,Australia,AUS,3,group stage
+1e88b29b-3883-56c0-a9f4-0fc4447d0f51,1995 FIFA Women's World Cup,3611e724-8c08-5f63-b63d-e1cad6af784c,Sweden,SWE,4,quarter-finals
+1e88b29b-3883-56c0-a9f4-0fc4447d0f51,1995 FIFA Women's World Cup,43c1aac8-fa85-5e16-ba9c-4cfdcbc975b8,England,ENG,4,quarter-finals
+1e88b29b-3883-56c0-a9f4-0fc4447d0f51,1995 FIFA Women's World Cup,498c5353-84ca-5f1c-8d71-0ae02196227c,Brazil,BRA,3,group stage
+1e88b29b-3883-56c0-a9f4-0fc4447d0f51,1995 FIFA Women's World Cup,93542d8e-8aca-5c07-ad21-5c493fdf083e,China,CHN,6,third-place match
+1e88b29b-3883-56c0-a9f4-0fc4447d0f51,1995 FIFA Women's World Cup,dfb099cc-e7ea-5e4f-b492-bdbf6e8e179b,Denmark,DNK,4,quarter-finals
+1e88b29b-3883-56c0-a9f4-0fc4447d0f51,1995 FIFA Women's World Cup,eff0a856-a340-5ec8-84e8-121552da2cda,Germany,DEU,6,final
+1e88b29b-3883-56c0-a9f4-0fc4447d0f51,1995 FIFA Women's World Cup,f201a6b5-a9f6-5612-947b-a6a57d2e7e18,Nigeria,NGA,3,group stage
+20ab0077-a605-5083-9dc5-cd0d38739b20,1994 FIFA Men's World Cup,10913c23-6023-563d-94df-9b4fb66c3432,United States,USA,4,round of 16
+20ab0077-a605-5083-9dc5-cd0d38739b20,1994 FIFA Men's World Cup,187544dc-4b46-5bf6-a079-e124899a9090,Norway,NOR,3,group stage
+20ab0077-a605-5083-9dc5-cd0d38739b20,1994 FIFA Men's World Cup,265f639f-c7d5-5ca2-b708-b0995f6c2b89,Morocco,MAR,3,group stage
+20ab0077-a605-5083-9dc5-cd0d38739b20,1994 FIFA Men's World Cup,3611e724-8c08-5f63-b63d-e1cad6af784c,Sweden,SWE,7,third-place match
+20ab0077-a605-5083-9dc5-cd0d38739b20,1994 FIFA Men's World Cup,3aa56241-3868-505a-ac6a-753aefa79cc2,Belgium,BEL,4,round of 16
+20ab0077-a605-5083-9dc5-cd0d38739b20,1994 FIFA Men's World Cup,3de13983-4604-5a8d-b39c-08d4f279a06b,Colombia,COL,3,group stage
+20ab0077-a605-5083-9dc5-cd0d38739b20,1994 FIFA Men's World Cup,498c5353-84ca-5f1c-8d71-0ae02196227c,Brazil,BRA,7,final
+20ab0077-a605-5083-9dc5-cd0d38739b20,1994 FIFA Men's World Cup,5b16dd9d-d19c-5484-bac2-f9e932dddd29,Spain,ESP,5,quarter-finals
+20ab0077-a605-5083-9dc5-cd0d38739b20,1994 FIFA Men's World Cup,6eb0485e-97e8-57e7-bf93-6c300f3e003a,Russia,RUS,3,group stage
+20ab0077-a605-5083-9dc5-cd0d38739b20,1994 FIFA Men's World Cup,83f65ffa-c76e-5ace-8c09-c87d141a3916,South Korea,KOR,3,group stage
+20ab0077-a605-5083-9dc5-cd0d38739b20,1994 FIFA Men's World Cup,8cca4b99-7e47-5808-9e58-9803329fa50a,Saudi Arabia,SAU,4,round of 16
+20ab0077-a605-5083-9dc5-cd0d38739b20,1994 FIFA Men's World Cup,933a103d-d9d7-57a3-9c4a-fbc81d25a266,Argentina,ARG,4,round of 16
+20ab0077-a605-5083-9dc5-cd0d38739b20,1994 FIFA Men's World Cup,97c63301-8b06-5bfb-8909-40b555c7c9e3,Bolivia,BOL,3,group stage
+20ab0077-a605-5083-9dc5-cd0d38739b20,1994 FIFA Men's World Cup,a260026d-34b5-5fdf-8896-fd8997f096b9,Switzerland,CHE,4,round of 16
+20ab0077-a605-5083-9dc5-cd0d38739b20,1994 FIFA Men's World Cup,a42d3d6a-78dd-5ae6-8408-079a857a7c30,Italy,ITA,7,final
+20ab0077-a605-5083-9dc5-cd0d38739b20,1994 FIFA Men's World Cup,c832b30c-2750-5a24-a66f-cf9ea7c20a5c,Mexico,MEX,4,round of 16
+20ab0077-a605-5083-9dc5-cd0d38739b20,1994 FIFA Men's World Cup,d522b940-a152-5cc7-bcb3-89e28a1ce459,Netherlands,NLD,5,quarter-finals
+20ab0077-a605-5083-9dc5-cd0d38739b20,1994 FIFA Men's World Cup,da4d79d5-3e18-54b9-916c-997fdef9a796,Romania,ROU,5,quarter-finals
+20ab0077-a605-5083-9dc5-cd0d38739b20,1994 FIFA Men's World Cup,e39c6163-70b0-5f66-b2d7-540b785eee94,Republic of Ireland,IRL,4,round of 16
+20ab0077-a605-5083-9dc5-cd0d38739b20,1994 FIFA Men's World Cup,eb88a8cc-be5e-5116-8926-ba595504709a,Cameroon,CMR,3,group stage
+20ab0077-a605-5083-9dc5-cd0d38739b20,1994 FIFA Men's World Cup,eff0a856-a340-5ec8-84e8-121552da2cda,Germany,DEU,5,quarter-finals
+20ab0077-a605-5083-9dc5-cd0d38739b20,1994 FIFA Men's World Cup,f201a6b5-a9f6-5612-947b-a6a57d2e7e18,Nigeria,NGA,4,round of 16
+20ab0077-a605-5083-9dc5-cd0d38739b20,1994 FIFA Men's World Cup,f23d02ab-e48a-541b-a3d5-efb12f628f6c,Greece,GRC,3,group stage
+20ab0077-a605-5083-9dc5-cd0d38739b20,1994 FIFA Men's World Cup,f4b41163-3c82-5e1e-af54-e7ecc8a15135,Bulgaria,BGR,7,third-place match
+2670ca56-9aab-5ab6-95fe-055da95f80ff,2018 FIFA Men's World Cup,0db8bc49-3546-517c-af2c-7abd04ae2214,Croatia,HRV,7,final
+2670ca56-9aab-5ab6-95fe-055da95f80ff,2018 FIFA Men's World Cup,13eebf0f-eb49-5e70-97f9-84f0395ceff1,Portugal,PRT,4,round of 16
+2670ca56-9aab-5ab6-95fe-055da95f80ff,2018 FIFA Men's World Cup,230373b7-3a16-506a-b5f6-acc37d7e801d,Japan,JPN,4,round of 16
+2670ca56-9aab-5ab6-95fe-055da95f80ff,2018 FIFA Men's World Cup,265f639f-c7d5-5ca2-b708-b0995f6c2b89,Morocco,MAR,3,group stage
+2670ca56-9aab-5ab6-95fe-055da95f80ff,2018 FIFA Men's World Cup,2d9898be-ff8f-55ef-a86e-167bdeaf3cc6,Australia,AUS,3,group stage
+2670ca56-9aab-5ab6-95fe-055da95f80ff,2018 FIFA Men's World Cup,3611e724-8c08-5f63-b63d-e1cad6af784c,Sweden,SWE,5,quarter-finals
+2670ca56-9aab-5ab6-95fe-055da95f80ff,2018 FIFA Men's World Cup,3aa56241-3868-505a-ac6a-753aefa79cc2,Belgium,BEL,7,third-place match
+2670ca56-9aab-5ab6-95fe-055da95f80ff,2018 FIFA Men's World Cup,3d11f07c-c004-508d-9001-6f944119b2b0,France,FRA,7,final
+2670ca56-9aab-5ab6-95fe-055da95f80ff,2018 FIFA Men's World Cup,3de13983-4604-5a8d-b39c-08d4f279a06b,Colombia,COL,4,round of 16
+2670ca56-9aab-5ab6-95fe-055da95f80ff,2018 FIFA Men's World Cup,43c1aac8-fa85-5e16-ba9c-4cfdcbc975b8,England,ENG,7,third-place match
+2670ca56-9aab-5ab6-95fe-055da95f80ff,2018 FIFA Men's World Cup,498c5353-84ca-5f1c-8d71-0ae02196227c,Brazil,BRA,5,quarter-finals
+2670ca56-9aab-5ab6-95fe-055da95f80ff,2018 FIFA Men's World Cup,5b16dd9d-d19c-5484-bac2-f9e932dddd29,Spain,ESP,4,round of 16
+2670ca56-9aab-5ab6-95fe-055da95f80ff,2018 FIFA Men's World Cup,6eb0485e-97e8-57e7-bf93-6c300f3e003a,Russia,RUS,5,quarter-finals
+2670ca56-9aab-5ab6-95fe-055da95f80ff,2018 FIFA Men's World Cup,835977dc-ae64-5928-9bd2-421d65fcb745,Panama,PAN,3,group stage
+2670ca56-9aab-5ab6-95fe-055da95f80ff,2018 FIFA Men's World Cup,83f65ffa-c76e-5ace-8c09-c87d141a3916,South Korea,KOR,3,group stage
+2670ca56-9aab-5ab6-95fe-055da95f80ff,2018 FIFA Men's World Cup,8cca4b99-7e47-5808-9e58-9803329fa50a,Saudi Arabia,SAU,3,group stage
+2670ca56-9aab-5ab6-95fe-055da95f80ff,2018 FIFA Men's World Cup,8dd855bb-0dbb-576b-837a-ad9f8d770c86,Costa Rica,CRI,3,group stage
+2670ca56-9aab-5ab6-95fe-055da95f80ff,2018 FIFA Men's World Cup,8fcb57c5-f39b-5302-9aed-c645120d5a91,Serbia,SRB,3,group stage
+2670ca56-9aab-5ab6-95fe-055da95f80ff,2018 FIFA Men's World Cup,933a103d-d9d7-57a3-9c4a-fbc81d25a266,Argentina,ARG,4,round of 16
+2670ca56-9aab-5ab6-95fe-055da95f80ff,2018 FIFA Men's World Cup,a260026d-34b5-5fdf-8896-fd8997f096b9,Switzerland,CHE,4,round of 16
+2670ca56-9aab-5ab6-95fe-055da95f80ff,2018 FIFA Men's World Cup,b627769a-7468-5b82-85ee-a38f3d71a3c6,Tunisia,TUN,3,group stage
+2670ca56-9aab-5ab6-95fe-055da95f80ff,2018 FIFA Men's World Cup,c832b30c-2750-5a24-a66f-cf9ea7c20a5c,Mexico,MEX,4,round of 16
+2670ca56-9aab-5ab6-95fe-055da95f80ff,2018 FIFA Men's World Cup,d499d28a-dd42-5133-8e29-23835731f4ea,Egypt,EGY,3,group stage
+2670ca56-9aab-5ab6-95fe-055da95f80ff,2018 FIFA Men's World Cup,db3abc88-7f89-5183-bc6d-ea6fa7c361d9,Peru,PER,3,group stage
+2670ca56-9aab-5ab6-95fe-055da95f80ff,2018 FIFA Men's World Cup,dfb099cc-e7ea-5e4f-b492-bdbf6e8e179b,Denmark,DNK,4,round of 16
+2670ca56-9aab-5ab6-95fe-055da95f80ff,2018 FIFA Men's World Cup,e31095c5-b215-5b1b-b69e-e0c3be13dcd7,Iceland,ISL,3,group stage
+2670ca56-9aab-5ab6-95fe-055da95f80ff,2018 FIFA Men's World Cup,eff0a856-a340-5ec8-84e8-121552da2cda,Germany,DEU,3,group stage
+2670ca56-9aab-5ab6-95fe-055da95f80ff,2018 FIFA Men's World Cup,f201a6b5-a9f6-5612-947b-a6a57d2e7e18,Nigeria,NGA,3,group stage
+2670ca56-9aab-5ab6-95fe-055da95f80ff,2018 FIFA Men's World Cup,f22d85b4-6cde-5f4e-8119-b3b69a2ba879,Iran,IRN,3,group stage
+2670ca56-9aab-5ab6-95fe-055da95f80ff,2018 FIFA Men's World Cup,f8764a69-de29-59f5-8e79-715c4bf88a11,Uruguay,URY,5,quarter-finals
+2670ca56-9aab-5ab6-95fe-055da95f80ff,2018 FIFA Men's World Cup,fc0455f9-aa03-5b3d-9b41-41854289e993,Poland,POL,3,group stage
+2670ca56-9aab-5ab6-95fe-055da95f80ff,2018 FIFA Men's World Cup,fdb9a8af-2b8d-518b-b0ab-a0118cd58de2,Senegal,SEN,3,group stage
+27c90506-c75e-5fba-813d-68c0722b56bf,1938 FIFA Men's World Cup,187544dc-4b46-5bf6-a079-e124899a9090,Norway,NOR,1,round of 16
+27c90506-c75e-5fba-813d-68c0722b56bf,1938 FIFA Men's World Cup,3611e724-8c08-5f63-b63d-e1cad6af784c,Sweden,SWE,3,third-place match
+27c90506-c75e-5fba-813d-68c0722b56bf,1938 FIFA Men's World Cup,3aa56241-3868-505a-ac6a-753aefa79cc2,Belgium,BEL,1,round of 16
+27c90506-c75e-5fba-813d-68c0722b56bf,1938 FIFA Men's World Cup,3d11f07c-c004-508d-9001-6f944119b2b0,France,FRA,2,quarter-finals
+27c90506-c75e-5fba-813d-68c0722b56bf,1938 FIFA Men's World Cup,498c5353-84ca-5f1c-8d71-0ae02196227c,Brazil,BRA,5,third-place match
+27c90506-c75e-5fba-813d-68c0722b56bf,1938 FIFA Men's World Cup,a260026d-34b5-5fdf-8896-fd8997f096b9,Switzerland,CHE,3,quarter-finals
+27c90506-c75e-5fba-813d-68c0722b56bf,1938 FIFA Men's World Cup,a42d3d6a-78dd-5ae6-8408-079a857a7c30,Italy,ITA,4,final
+27c90506-c75e-5fba-813d-68c0722b56bf,1938 FIFA Men's World Cup,c027d703-e533-524d-a335-2ea948d015fd,Cuba,CUB,3,quarter-finals
+27c90506-c75e-5fba-813d-68c0722b56bf,1938 FIFA Men's World Cup,c42176e0-0fb9-52e6-8d90-65b7655925a0,Dutch East Indies,IDN,1,round of 16
+27c90506-c75e-5fba-813d-68c0722b56bf,1938 FIFA Men's World Cup,cf23603f-09d6-52e6-9c7e-fb8db4554297,Czechoslovakia,CSK,3,quarter-finals
+27c90506-c75e-5fba-813d-68c0722b56bf,1938 FIFA Men's World Cup,d522b940-a152-5cc7-bcb3-89e28a1ce459,Netherlands,NLD,1,round of 16
+27c90506-c75e-5fba-813d-68c0722b56bf,1938 FIFA Men's World Cup,da4d79d5-3e18-54b9-916c-997fdef9a796,Romania,ROU,2,round of 16
+27c90506-c75e-5fba-813d-68c0722b56bf,1938 FIFA Men's World Cup,eff0a856-a340-5ec8-84e8-121552da2cda,Germany,DEU,2,round of 16
+27c90506-c75e-5fba-813d-68c0722b56bf,1938 FIFA Men's World Cup,f16b7d5c-db54-5b27-b827-e848a3035641,Hungary,HUN,4,final
+27c90506-c75e-5fba-813d-68c0722b56bf,1938 FIFA Men's World Cup,fc0455f9-aa03-5b3d-9b41-41854289e993,Poland,POL,1,round of 16
+28d9ffd2-6063-5c73-aed8-40f06aeb44db,1990 FIFA Men's World Cup,10913c23-6023-563d-94df-9b4fb66c3432,United States,USA,3,group stage
+28d9ffd2-6063-5c73-aed8-40f06aeb44db,1990 FIFA Men's World Cup,3611e724-8c08-5f63-b63d-e1cad6af784c,Sweden,SWE,3,group stage
+28d9ffd2-6063-5c73-aed8-40f06aeb44db,1990 FIFA Men's World Cup,3aa56241-3868-505a-ac6a-753aefa79cc2,Belgium,BEL,4,round of 16
+28d9ffd2-6063-5c73-aed8-40f06aeb44db,1990 FIFA Men's World Cup,3de13983-4604-5a8d-b39c-08d4f279a06b,Colombia,COL,4,round of 16
+28d9ffd2-6063-5c73-aed8-40f06aeb44db,1990 FIFA Men's World Cup,43c1aac8-fa85-5e16-ba9c-4cfdcbc975b8,England,ENG,7,third-place match
+28d9ffd2-6063-5c73-aed8-40f06aeb44db,1990 FIFA Men's World Cup,498c5353-84ca-5f1c-8d71-0ae02196227c,Brazil,BRA,4,round of 16
+28d9ffd2-6063-5c73-aed8-40f06aeb44db,1990 FIFA Men's World Cup,5b16dd9d-d19c-5484-bac2-f9e932dddd29,Spain,ESP,4,round of 16
+28d9ffd2-6063-5c73-aed8-40f06aeb44db,1990 FIFA Men's World Cup,6c983d26-03e1-5649-a13f-42b61e101a0e,Soviet Union,SUN,3,group stage
+28d9ffd2-6063-5c73-aed8-40f06aeb44db,1990 FIFA Men's World Cup,83f65ffa-c76e-5ace-8c09-c87d141a3916,South Korea,KOR,3,group stage
+28d9ffd2-6063-5c73-aed8-40f06aeb44db,1990 FIFA Men's World Cup,8dd855bb-0dbb-576b-837a-ad9f8d770c86,Costa Rica,CRI,4,round of 16
+28d9ffd2-6063-5c73-aed8-40f06aeb44db,1990 FIFA Men's World Cup,8e63ee49-fbde-5478-a093-1a6a679cc27f,Austria,AUT,3,group stage
+28d9ffd2-6063-5c73-aed8-40f06aeb44db,1990 FIFA Men's World Cup,933a103d-d9d7-57a3-9c4a-fbc81d25a266,Argentina,ARG,7,final
+28d9ffd2-6063-5c73-aed8-40f06aeb44db,1990 FIFA Men's World Cup,9a9be60e-89da-590c-95a8-6e5802b5deb5,Yugoslavia,YUG,5,quarter-finals
+28d9ffd2-6063-5c73-aed8-40f06aeb44db,1990 FIFA Men's World Cup,a42d3d6a-78dd-5ae6-8408-079a857a7c30,Italy,ITA,7,third-place match
+28d9ffd2-6063-5c73-aed8-40f06aeb44db,1990 FIFA Men's World Cup,adbcf28f-5f27-56bd-bca0-909cf77a8ae0,West Germany,DEU,7,final
+28d9ffd2-6063-5c73-aed8-40f06aeb44db,1990 FIFA Men's World Cup,af3186ce-dc7a-5681-abe7-c1b30465f9ed,United Arab Emirates,ARE,3,group stage
+28d9ffd2-6063-5c73-aed8-40f06aeb44db,1990 FIFA Men's World Cup,cf23603f-09d6-52e6-9c7e-fb8db4554297,Czechoslovakia,CSK,5,quarter-finals
+28d9ffd2-6063-5c73-aed8-40f06aeb44db,1990 FIFA Men's World Cup,d499d28a-dd42-5133-8e29-23835731f4ea,Egypt,EGY,3,group stage
+28d9ffd2-6063-5c73-aed8-40f06aeb44db,1990 FIFA Men's World Cup,d522b940-a152-5cc7-bcb3-89e28a1ce459,Netherlands,NLD,4,round of 16
+28d9ffd2-6063-5c73-aed8-40f06aeb44db,1990 FIFA Men's World Cup,da4d79d5-3e18-54b9-916c-997fdef9a796,Romania,ROU,4,round of 16
+28d9ffd2-6063-5c73-aed8-40f06aeb44db,1990 FIFA Men's World Cup,e39c6163-70b0-5f66-b2d7-540b785eee94,Republic of Ireland,IRL,5,quarter-finals
+28d9ffd2-6063-5c73-aed8-40f06aeb44db,1990 FIFA Men's World Cup,eb88a8cc-be5e-5116-8926-ba595504709a,Cameroon,CMR,5,quarter-finals
+28d9ffd2-6063-5c73-aed8-40f06aeb44db,1990 FIFA Men's World Cup,f8764a69-de29-59f5-8e79-715c4bf88a11,Uruguay,URY,4,round of 16
+28d9ffd2-6063-5c73-aed8-40f06aeb44db,1990 FIFA Men's World Cup,fc2ce361-82ed-537a-85f1-ff8f384d11b1,Scotland,SCO,3,group stage
+3ceb381b-9f6e-54ff-b80d-d1bade27a3b5,2003 FIFA Women's World Cup,10913c23-6023-563d-94df-9b4fb66c3432,United States,USA,6,third-place match
+3ceb381b-9f6e-54ff-b80d-d1bade27a3b5,2003 FIFA Women's World Cup,1234d812-2e40-561b-90a3-ed4f9e66bd63,Canada,CAN,6,third-place match
+3ceb381b-9f6e-54ff-b80d-d1bade27a3b5,2003 FIFA Women's World Cup,187544dc-4b46-5bf6-a079-e124899a9090,Norway,NOR,4,quarter-finals
+3ceb381b-9f6e-54ff-b80d-d1bade27a3b5,2003 FIFA Women's World Cup,230373b7-3a16-506a-b5f6-acc37d7e801d,Japan,JPN,3,group stage
+3ceb381b-9f6e-54ff-b80d-d1bade27a3b5,2003 FIFA Women's World Cup,2d9898be-ff8f-55ef-a86e-167bdeaf3cc6,Australia,AUS,3,group stage
+3ceb381b-9f6e-54ff-b80d-d1bade27a3b5,2003 FIFA Women's World Cup,3611e724-8c08-5f63-b63d-e1cad6af784c,Sweden,SWE,6,final
+3ceb381b-9f6e-54ff-b80d-d1bade27a3b5,2003 FIFA Women's World Cup,3d11f07c-c004-508d-9001-6f944119b2b0,France,FRA,3,group stage
+3ceb381b-9f6e-54ff-b80d-d1bade27a3b5,2003 FIFA Women's World Cup,498c5353-84ca-5f1c-8d71-0ae02196227c,Brazil,BRA,4,quarter-finals
+3ceb381b-9f6e-54ff-b80d-d1bade27a3b5,2003 FIFA Women's World Cup,55f8040d-0098-5415-abdf-66098ef3bbee,Ghana,GHA,3,group stage
+3ceb381b-9f6e-54ff-b80d-d1bade27a3b5,2003 FIFA Women's World Cup,58ce2aac-d181-51c6-9f50-fc3e8643d0e1,North Korea,PRK,3,group stage
+3ceb381b-9f6e-54ff-b80d-d1bade27a3b5,2003 FIFA Women's World Cup,6eb0485e-97e8-57e7-bf93-6c300f3e003a,Russia,RUS,4,quarter-finals
+3ceb381b-9f6e-54ff-b80d-d1bade27a3b5,2003 FIFA Women's World Cup,83f65ffa-c76e-5ace-8c09-c87d141a3916,South Korea,KOR,3,group stage
+3ceb381b-9f6e-54ff-b80d-d1bade27a3b5,2003 FIFA Women's World Cup,933a103d-d9d7-57a3-9c4a-fbc81d25a266,Argentina,ARG,3,group stage
+3ceb381b-9f6e-54ff-b80d-d1bade27a3b5,2003 FIFA Women's World Cup,93542d8e-8aca-5c07-ad21-5c493fdf083e,China,CHN,4,quarter-finals
+3ceb381b-9f6e-54ff-b80d-d1bade27a3b5,2003 FIFA Women's World Cup,eff0a856-a340-5ec8-84e8-121552da2cda,Germany,DEU,6,final
+3ceb381b-9f6e-54ff-b80d-d1bade27a3b5,2003 FIFA Women's World Cup,f201a6b5-a9f6-5612-947b-a6a57d2e7e18,Nigeria,NGA,3,group stage
+49e2bb03-96ed-5dd7-8325-fadb64dd39cb,2011 FIFA Women's World Cup,10913c23-6023-563d-94df-9b4fb66c3432,United States,USA,6,final
+49e2bb03-96ed-5dd7-8325-fadb64dd39cb,2011 FIFA Women's World Cup,11240419-821b-5fbb-bf15-4906f40e3951,New Zealand,NZL,3,group stage
+49e2bb03-96ed-5dd7-8325-fadb64dd39cb,2011 FIFA Women's World Cup,1234d812-2e40-561b-90a3-ed4f9e66bd63,Canada,CAN,3,group stage
+49e2bb03-96ed-5dd7-8325-fadb64dd39cb,2011 FIFA Women's World Cup,187544dc-4b46-5bf6-a079-e124899a9090,Norway,NOR,3,group stage
+49e2bb03-96ed-5dd7-8325-fadb64dd39cb,2011 FIFA Women's World Cup,230373b7-3a16-506a-b5f6-acc37d7e801d,Japan,JPN,6,final
+49e2bb03-96ed-5dd7-8325-fadb64dd39cb,2011 FIFA Women's World Cup,2d9898be-ff8f-55ef-a86e-167bdeaf3cc6,Australia,AUS,4,quarter-finals
+49e2bb03-96ed-5dd7-8325-fadb64dd39cb,2011 FIFA Women's World Cup,3611e724-8c08-5f63-b63d-e1cad6af784c,Sweden,SWE,6,third-place match
+49e2bb03-96ed-5dd7-8325-fadb64dd39cb,2011 FIFA Women's World Cup,3d11f07c-c004-508d-9001-6f944119b2b0,France,FRA,6,third-place match
+49e2bb03-96ed-5dd7-8325-fadb64dd39cb,2011 FIFA Women's World Cup,3de13983-4604-5a8d-b39c-08d4f279a06b,Colombia,COL,3,group stage
+49e2bb03-96ed-5dd7-8325-fadb64dd39cb,2011 FIFA Women's World Cup,43c1aac8-fa85-5e16-ba9c-4cfdcbc975b8,England,ENG,4,quarter-finals
+49e2bb03-96ed-5dd7-8325-fadb64dd39cb,2011 FIFA Women's World Cup,498c5353-84ca-5f1c-8d71-0ae02196227c,Brazil,BRA,4,quarter-finals
+49e2bb03-96ed-5dd7-8325-fadb64dd39cb,2011 FIFA Women's World Cup,54c72963-7aa5-5bd8-be03-81066850ff78,Equatorial Guinea,GNQ,3,group stage
+49e2bb03-96ed-5dd7-8325-fadb64dd39cb,2011 FIFA Women's World Cup,58ce2aac-d181-51c6-9f50-fc3e8643d0e1,North Korea,PRK,3,group stage
+49e2bb03-96ed-5dd7-8325-fadb64dd39cb,2011 FIFA Women's World Cup,c832b30c-2750-5a24-a66f-cf9ea7c20a5c,Mexico,MEX,3,group stage
+49e2bb03-96ed-5dd7-8325-fadb64dd39cb,2011 FIFA Women's World Cup,eff0a856-a340-5ec8-84e8-121552da2cda,Germany,DEU,4,quarter-finals
+49e2bb03-96ed-5dd7-8325-fadb64dd39cb,2011 FIFA Women's World Cup,f201a6b5-a9f6-5612-947b-a6a57d2e7e18,Nigeria,NGA,3,group stage
+4ee70224-a2a3-585b-8bab-8ef5e9464c04,2014 FIFA Men's World Cup,0128c8d4-c488-5312-9fca-94d8f504a7a7,Bosnia and Herzegovina,BIH,3,group stage
+4ee70224-a2a3-585b-8bab-8ef5e9464c04,2014 FIFA Men's World Cup,0db8bc49-3546-517c-af2c-7abd04ae2214,Croatia,HRV,3,group stage
+4ee70224-a2a3-585b-8bab-8ef5e9464c04,2014 FIFA Men's World Cup,10913c23-6023-563d-94df-9b4fb66c3432,United States,USA,4,round of 16
+4ee70224-a2a3-585b-8bab-8ef5e9464c04,2014 FIFA Men's World Cup,13eebf0f-eb49-5e70-97f9-84f0395ceff1,Portugal,PRT,3,group stage
+4ee70224-a2a3-585b-8bab-8ef5e9464c04,2014 FIFA Men's World Cup,1e34dbe6-26e7-5736-947c-cb6c9428e165,Algeria,DZA,4,round of 16
+4ee70224-a2a3-585b-8bab-8ef5e9464c04,2014 FIFA Men's World Cup,2179a8d7-c7ed-5c0c-b6a6-8e6eeef52657,Ecuador,ECU,3,group stage
+4ee70224-a2a3-585b-8bab-8ef5e9464c04,2014 FIFA Men's World Cup,230373b7-3a16-506a-b5f6-acc37d7e801d,Japan,JPN,3,group stage
+4ee70224-a2a3-585b-8bab-8ef5e9464c04,2014 FIFA Men's World Cup,2d9898be-ff8f-55ef-a86e-167bdeaf3cc6,Australia,AUS,3,group stage
+4ee70224-a2a3-585b-8bab-8ef5e9464c04,2014 FIFA Men's World Cup,3aa56241-3868-505a-ac6a-753aefa79cc2,Belgium,BEL,5,quarter-finals
+4ee70224-a2a3-585b-8bab-8ef5e9464c04,2014 FIFA Men's World Cup,3d11f07c-c004-508d-9001-6f944119b2b0,France,FRA,5,quarter-finals
+4ee70224-a2a3-585b-8bab-8ef5e9464c04,2014 FIFA Men's World Cup,3de13983-4604-5a8d-b39c-08d4f279a06b,Colombia,COL,5,quarter-finals
+4ee70224-a2a3-585b-8bab-8ef5e9464c04,2014 FIFA Men's World Cup,43c1aac8-fa85-5e16-ba9c-4cfdcbc975b8,England,ENG,3,group stage
+4ee70224-a2a3-585b-8bab-8ef5e9464c04,2014 FIFA Men's World Cup,498c5353-84ca-5f1c-8d71-0ae02196227c,Brazil,BRA,7,third-place match
+4ee70224-a2a3-585b-8bab-8ef5e9464c04,2014 FIFA Men's World Cup,55f8040d-0098-5415-abdf-66098ef3bbee,Ghana,GHA,3,group stage
+4ee70224-a2a3-585b-8bab-8ef5e9464c04,2014 FIFA Men's World Cup,5b16dd9d-d19c-5484-bac2-f9e932dddd29,Spain,ESP,3,group stage
+4ee70224-a2a3-585b-8bab-8ef5e9464c04,2014 FIFA Men's World Cup,6eb0485e-97e8-57e7-bf93-6c300f3e003a,Russia,RUS,3,group stage
+4ee70224-a2a3-585b-8bab-8ef5e9464c04,2014 FIFA Men's World Cup,83f65ffa-c76e-5ace-8c09-c87d141a3916,South Korea,KOR,3,group stage
+4ee70224-a2a3-585b-8bab-8ef5e9464c04,2014 FIFA Men's World Cup,879c1298-9904-5b96-8f25-5e7d455ae2ec,Chile,CHL,4,round of 16
+4ee70224-a2a3-585b-8bab-8ef5e9464c04,2014 FIFA Men's World Cup,8dd855bb-0dbb-576b-837a-ad9f8d770c86,Costa Rica,CRI,5,quarter-finals
+4ee70224-a2a3-585b-8bab-8ef5e9464c04,2014 FIFA Men's World Cup,933a103d-d9d7-57a3-9c4a-fbc81d25a266,Argentina,ARG,7,final
+4ee70224-a2a3-585b-8bab-8ef5e9464c04,2014 FIFA Men's World Cup,9b432d9b-a19d-5672-901e-2884a641784b,Honduras,HND,3,group stage
+4ee70224-a2a3-585b-8bab-8ef5e9464c04,2014 FIFA Men's World Cup,a260026d-34b5-5fdf-8896-fd8997f096b9,Switzerland,CHE,4,round of 16
+4ee70224-a2a3-585b-8bab-8ef5e9464c04,2014 FIFA Men's World Cup,a42d3d6a-78dd-5ae6-8408-079a857a7c30,Italy,ITA,3,group stage
+4ee70224-a2a3-585b-8bab-8ef5e9464c04,2014 FIFA Men's World Cup,c832b30c-2750-5a24-a66f-cf9ea7c20a5c,Mexico,MEX,4,round of 16
+4ee70224-a2a3-585b-8bab-8ef5e9464c04,2014 FIFA Men's World Cup,d522b940-a152-5cc7-bcb3-89e28a1ce459,Netherlands,NLD,7,third-place match
+4ee70224-a2a3-585b-8bab-8ef5e9464c04,2014 FIFA Men's World Cup,e31e86e8-0616-5e05-a842-dc8f67c29ca4,Ivory Coast,CIV,3,group stage
+4ee70224-a2a3-585b-8bab-8ef5e9464c04,2014 FIFA Men's World Cup,eb88a8cc-be5e-5116-8926-ba595504709a,Cameroon,CMR,3,group stage
+4ee70224-a2a3-585b-8bab-8ef5e9464c04,2014 FIFA Men's World Cup,eff0a856-a340-5ec8-84e8-121552da2cda,Germany,DEU,7,final
+4ee70224-a2a3-585b-8bab-8ef5e9464c04,2014 FIFA Men's World Cup,f201a6b5-a9f6-5612-947b-a6a57d2e7e18,Nigeria,NGA,4,round of 16
+4ee70224-a2a3-585b-8bab-8ef5e9464c04,2014 FIFA Men's World Cup,f22d85b4-6cde-5f4e-8119-b3b69a2ba879,Iran,IRN,3,group stage
+4ee70224-a2a3-585b-8bab-8ef5e9464c04,2014 FIFA Men's World Cup,f23d02ab-e48a-541b-a3d5-efb12f628f6c,Greece,GRC,4,round of 16
+4ee70224-a2a3-585b-8bab-8ef5e9464c04,2014 FIFA Men's World Cup,f8764a69-de29-59f5-8e79-715c4bf88a11,Uruguay,URY,4,round of 16
+5628ea07-73ab-57ad-99be-84c20dc96cc0,1954 FIFA Men's World Cup,3aa56241-3868-505a-ac6a-753aefa79cc2,Belgium,BEL,2,group stage
+5628ea07-73ab-57ad-99be-84c20dc96cc0,1954 FIFA Men's World Cup,3d11f07c-c004-508d-9001-6f944119b2b0,France,FRA,2,group stage
+5628ea07-73ab-57ad-99be-84c20dc96cc0,1954 FIFA Men's World Cup,43c1aac8-fa85-5e16-ba9c-4cfdcbc975b8,England,ENG,3,quarter-finals
+5628ea07-73ab-57ad-99be-84c20dc96cc0,1954 FIFA Men's World Cup,498c5353-84ca-5f1c-8d71-0ae02196227c,Brazil,BRA,3,quarter-finals
+5628ea07-73ab-57ad-99be-84c20dc96cc0,1954 FIFA Men's World Cup,83f65ffa-c76e-5ace-8c09-c87d141a3916,South Korea,KOR,2,group stage
+5628ea07-73ab-57ad-99be-84c20dc96cc0,1954 FIFA Men's World Cup,8e63ee49-fbde-5478-a093-1a6a679cc27f,Austria,AUT,5,third-place match
+5628ea07-73ab-57ad-99be-84c20dc96cc0,1954 FIFA Men's World Cup,9a9be60e-89da-590c-95a8-6e5802b5deb5,Yugoslavia,YUG,3,quarter-finals
+5628ea07-73ab-57ad-99be-84c20dc96cc0,1954 FIFA Men's World Cup,a260026d-34b5-5fdf-8896-fd8997f096b9,Switzerland,CHE,4,quarter-finals
+5628ea07-73ab-57ad-99be-84c20dc96cc0,1954 FIFA Men's World Cup,a42d3d6a-78dd-5ae6-8408-079a857a7c30,Italy,ITA,3,group stage
+5628ea07-73ab-57ad-99be-84c20dc96cc0,1954 FIFA Men's World Cup,adbcf28f-5f27-56bd-bca0-909cf77a8ae0,West Germany,DEU,6,final
+5628ea07-73ab-57ad-99be-84c20dc96cc0,1954 FIFA Men's World Cup,c832b30c-2750-5a24-a66f-cf9ea7c20a5c,Mexico,MEX,2,group stage
+5628ea07-73ab-57ad-99be-84c20dc96cc0,1954 FIFA Men's World Cup,cf23603f-09d6-52e6-9c7e-fb8db4554297,Czechoslovakia,CSK,2,group stage
+5628ea07-73ab-57ad-99be-84c20dc96cc0,1954 FIFA Men's World Cup,d1c45d05-d0bd-55b8-b370-dfa64d998bcc,Turkey,TUR,3,group stage
+5628ea07-73ab-57ad-99be-84c20dc96cc0,1954 FIFA Men's World Cup,f16b7d5c-db54-5b27-b827-e848a3035641,Hungary,HUN,5,final
+5628ea07-73ab-57ad-99be-84c20dc96cc0,1954 FIFA Men's World Cup,f8764a69-de29-59f5-8e79-715c4bf88a11,Uruguay,URY,5,third-place match
+5628ea07-73ab-57ad-99be-84c20dc96cc0,1954 FIFA Men's World Cup,fc2ce361-82ed-537a-85f1-ff8f384d11b1,Scotland,SCO,2,group stage
+5d9da256-e241-508e-85a7-5a17c07f186a,1950 FIFA Men's World Cup,10913c23-6023-563d-94df-9b4fb66c3432,United States,USA,3,group stage
+5d9da256-e241-508e-85a7-5a17c07f186a,1950 FIFA Men's World Cup,3611e724-8c08-5f63-b63d-e1cad6af784c,Sweden,SWE,5,final round
+5d9da256-e241-508e-85a7-5a17c07f186a,1950 FIFA Men's World Cup,43c1aac8-fa85-5e16-ba9c-4cfdcbc975b8,England,ENG,3,group stage
+5d9da256-e241-508e-85a7-5a17c07f186a,1950 FIFA Men's World Cup,498c5353-84ca-5f1c-8d71-0ae02196227c,Brazil,BRA,6,final round
+5d9da256-e241-508e-85a7-5a17c07f186a,1950 FIFA Men's World Cup,5b16dd9d-d19c-5484-bac2-f9e932dddd29,Spain,ESP,6,final round
+5d9da256-e241-508e-85a7-5a17c07f186a,1950 FIFA Men's World Cup,879c1298-9904-5b96-8f25-5e7d455ae2ec,Chile,CHL,3,group stage
+5d9da256-e241-508e-85a7-5a17c07f186a,1950 FIFA Men's World Cup,9678d2a4-5323-5082-b115-575366fb384a,Paraguay,PRY,2,group stage
+5d9da256-e241-508e-85a7-5a17c07f186a,1950 FIFA Men's World Cup,97c63301-8b06-5bfb-8909-40b555c7c9e3,Bolivia,BOL,1,group stage
+5d9da256-e241-508e-85a7-5a17c07f186a,1950 FIFA Men's World Cup,9a9be60e-89da-590c-95a8-6e5802b5deb5,Yugoslavia,YUG,3,group stage
+5d9da256-e241-508e-85a7-5a17c07f186a,1950 FIFA Men's World Cup,a260026d-34b5-5fdf-8896-fd8997f096b9,Switzerland,CHE,3,group stage
+5d9da256-e241-508e-85a7-5a17c07f186a,1950 FIFA Men's World Cup,a42d3d6a-78dd-5ae6-8408-079a857a7c30,Italy,ITA,2,group stage
+5d9da256-e241-508e-85a7-5a17c07f186a,1950 FIFA Men's World Cup,c832b30c-2750-5a24-a66f-cf9ea7c20a5c,Mexico,MEX,3,group stage
+5d9da256-e241-508e-85a7-5a17c07f186a,1950 FIFA Men's World Cup,f8764a69-de29-59f5-8e79-715c4bf88a11,Uruguay,URY,4,final round
+6be60fed-dffa-5aa5-89a6-374b2bcb8c92,1958 FIFA Men's World Cup,172bbcf1-8dd9-50ac-ba34-b51c641a833e,Wales,WAL,5,quarter-finals
+6be60fed-dffa-5aa5-89a6-374b2bcb8c92,1958 FIFA Men's World Cup,3611e724-8c08-5f63-b63d-e1cad6af784c,Sweden,SWE,6,final
+6be60fed-dffa-5aa5-89a6-374b2bcb8c92,1958 FIFA Men's World Cup,3d11f07c-c004-508d-9001-6f944119b2b0,France,FRA,6,third-place match
+6be60fed-dffa-5aa5-89a6-374b2bcb8c92,1958 FIFA Men's World Cup,43c1aac8-fa85-5e16-ba9c-4cfdcbc975b8,England,ENG,4,group stage
+6be60fed-dffa-5aa5-89a6-374b2bcb8c92,1958 FIFA Men's World Cup,498c5353-84ca-5f1c-8d71-0ae02196227c,Brazil,BRA,6,final
+6be60fed-dffa-5aa5-89a6-374b2bcb8c92,1958 FIFA Men's World Cup,641e565c-2f15-5697-b9f0-a09f9dcf1d99,Northern Ireland,NIR,5,quarter-finals
+6be60fed-dffa-5aa5-89a6-374b2bcb8c92,1958 FIFA Men's World Cup,6c983d26-03e1-5649-a13f-42b61e101a0e,Soviet Union,SUN,5,quarter-finals
+6be60fed-dffa-5aa5-89a6-374b2bcb8c92,1958 FIFA Men's World Cup,8e63ee49-fbde-5478-a093-1a6a679cc27f,Austria,AUT,3,group stage
+6be60fed-dffa-5aa5-89a6-374b2bcb8c92,1958 FIFA Men's World Cup,933a103d-d9d7-57a3-9c4a-fbc81d25a266,Argentina,ARG,3,group stage
+6be60fed-dffa-5aa5-89a6-374b2bcb8c92,1958 FIFA Men's World Cup,9678d2a4-5323-5082-b115-575366fb384a,Paraguay,PRY,3,group stage
+6be60fed-dffa-5aa5-89a6-374b2bcb8c92,1958 FIFA Men's World Cup,9a9be60e-89da-590c-95a8-6e5802b5deb5,Yugoslavia,YUG,4,quarter-finals
+6be60fed-dffa-5aa5-89a6-374b2bcb8c92,1958 FIFA Men's World Cup,adbcf28f-5f27-56bd-bca0-909cf77a8ae0,West Germany,DEU,6,third-place match
+6be60fed-dffa-5aa5-89a6-374b2bcb8c92,1958 FIFA Men's World Cup,c832b30c-2750-5a24-a66f-cf9ea7c20a5c,Mexico,MEX,3,group stage
+6be60fed-dffa-5aa5-89a6-374b2bcb8c92,1958 FIFA Men's World Cup,cf23603f-09d6-52e6-9c7e-fb8db4554297,Czechoslovakia,CSK,4,group stage
+6be60fed-dffa-5aa5-89a6-374b2bcb8c92,1958 FIFA Men's World Cup,f16b7d5c-db54-5b27-b827-e848a3035641,Hungary,HUN,4,group stage
+6be60fed-dffa-5aa5-89a6-374b2bcb8c92,1958 FIFA Men's World Cup,fc2ce361-82ed-537a-85f1-ff8f384d11b1,Scotland,SCO,3,group stage
+717bed6b-0e65-5efa-8010-ab689ff32abe,1970 FIFA Men's World Cup,265f639f-c7d5-5ca2-b708-b0995f6c2b89,Morocco,MAR,3,group stage
+717bed6b-0e65-5efa-8010-ab689ff32abe,1970 FIFA Men's World Cup,3611e724-8c08-5f63-b63d-e1cad6af784c,Sweden,SWE,3,group stage
+717bed6b-0e65-5efa-8010-ab689ff32abe,1970 FIFA Men's World Cup,3aa56241-3868-505a-ac6a-753aefa79cc2,Belgium,BEL,3,group stage
+717bed6b-0e65-5efa-8010-ab689ff32abe,1970 FIFA Men's World Cup,43c1aac8-fa85-5e16-ba9c-4cfdcbc975b8,England,ENG,4,quarter-finals
+717bed6b-0e65-5efa-8010-ab689ff32abe,1970 FIFA Men's World Cup,498c5353-84ca-5f1c-8d71-0ae02196227c,Brazil,BRA,6,final
+717bed6b-0e65-5efa-8010-ab689ff32abe,1970 FIFA Men's World Cup,535a7e23-4bf9-5e96-ac76-48241d246817,El Salvador,SLV,3,group stage
+717bed6b-0e65-5efa-8010-ab689ff32abe,1970 FIFA Men's World Cup,6c983d26-03e1-5649-a13f-42b61e101a0e,Soviet Union,SUN,4,quarter-finals
+717bed6b-0e65-5efa-8010-ab689ff32abe,1970 FIFA Men's World Cup,93a0c160-8db6-5c28-9415-210f2e278ab8,Israel,ISR,3,group stage
+717bed6b-0e65-5efa-8010-ab689ff32abe,1970 FIFA Men's World Cup,a42d3d6a-78dd-5ae6-8408-079a857a7c30,Italy,ITA,6,final
+717bed6b-0e65-5efa-8010-ab689ff32abe,1970 FIFA Men's World Cup,adbcf28f-5f27-56bd-bca0-909cf77a8ae0,West Germany,DEU,6,third-place match
+717bed6b-0e65-5efa-8010-ab689ff32abe,1970 FIFA Men's World Cup,c832b30c-2750-5a24-a66f-cf9ea7c20a5c,Mexico,MEX,4,quarter-finals
+717bed6b-0e65-5efa-8010-ab689ff32abe,1970 FIFA Men's World Cup,cf23603f-09d6-52e6-9c7e-fb8db4554297,Czechoslovakia,CSK,3,group stage
+717bed6b-0e65-5efa-8010-ab689ff32abe,1970 FIFA Men's World Cup,da4d79d5-3e18-54b9-916c-997fdef9a796,Romania,ROU,3,group stage
+717bed6b-0e65-5efa-8010-ab689ff32abe,1970 FIFA Men's World Cup,db3abc88-7f89-5183-bc6d-ea6fa7c361d9,Peru,PER,4,quarter-finals
+717bed6b-0e65-5efa-8010-ab689ff32abe,1970 FIFA Men's World Cup,f4b41163-3c82-5e1e-af54-e7ecc8a15135,Bulgaria,BGR,3,group stage
+717bed6b-0e65-5efa-8010-ab689ff32abe,1970 FIFA Men's World Cup,f8764a69-de29-59f5-8e79-715c4bf88a11,Uruguay,URY,6,third-place match
+860dc5fb-c8ff-502e-ad19-c34195b265e0,1974 FIFA Men's World Cup,2d9898be-ff8f-55ef-a86e-167bdeaf3cc6,Australia,AUS,3,first group stage
+860dc5fb-c8ff-502e-ad19-c34195b265e0,1974 FIFA Men's World Cup,3611e724-8c08-5f63-b63d-e1cad6af784c,Sweden,SWE,6,second group stage
+860dc5fb-c8ff-502e-ad19-c34195b265e0,1974 FIFA Men's World Cup,3a57ba00-89d9-50ec-b7f0-c37c9920a2fa,Haiti,HTI,3,first group stage
+860dc5fb-c8ff-502e-ad19-c34195b265e0,1974 FIFA Men's World Cup,498c5353-84ca-5f1c-8d71-0ae02196227c,Brazil,BRA,7,third-place match
+860dc5fb-c8ff-502e-ad19-c34195b265e0,1974 FIFA Men's World Cup,7092805b-51a6-5344-845b-489df45277c1,East Germany,DDR,6,second group stage
+860dc5fb-c8ff-502e-ad19-c34195b265e0,1974 FIFA Men's World Cup,879c1298-9904-5b96-8f25-5e7d455ae2ec,Chile,CHL,3,first group stage
+860dc5fb-c8ff-502e-ad19-c34195b265e0,1974 FIFA Men's World Cup,933a103d-d9d7-57a3-9c4a-fbc81d25a266,Argentina,ARG,6,second group stage
+860dc5fb-c8ff-502e-ad19-c34195b265e0,1974 FIFA Men's World Cup,9a9be60e-89da-590c-95a8-6e5802b5deb5,Yugoslavia,YUG,6,second group stage
+860dc5fb-c8ff-502e-ad19-c34195b265e0,1974 FIFA Men's World Cup,a42d3d6a-78dd-5ae6-8408-079a857a7c30,Italy,ITA,3,first group stage
+860dc5fb-c8ff-502e-ad19-c34195b265e0,1974 FIFA Men's World Cup,adbcf28f-5f27-56bd-bca0-909cf77a8ae0,West Germany,DEU,7,final
+860dc5fb-c8ff-502e-ad19-c34195b265e0,1974 FIFA Men's World Cup,d522b940-a152-5cc7-bcb3-89e28a1ce459,Netherlands,NLD,7,final
+860dc5fb-c8ff-502e-ad19-c34195b265e0,1974 FIFA Men's World Cup,d54fde2a-25fe-5c19-820f-93843678e1a3,Zaire,COD,3,first group stage
+860dc5fb-c8ff-502e-ad19-c34195b265e0,1974 FIFA Men's World Cup,f4b41163-3c82-5e1e-af54-e7ecc8a15135,Bulgaria,BGR,3,first group stage
+860dc5fb-c8ff-502e-ad19-c34195b265e0,1974 FIFA Men's World Cup,f8764a69-de29-59f5-8e79-715c4bf88a11,Uruguay,URY,3,first group stage
+860dc5fb-c8ff-502e-ad19-c34195b265e0,1974 FIFA Men's World Cup,fc0455f9-aa03-5b3d-9b41-41854289e993,Poland,POL,7,third-place match
+860dc5fb-c8ff-502e-ad19-c34195b265e0,1974 FIFA Men's World Cup,fc2ce361-82ed-537a-85f1-ff8f384d11b1,Scotland,SCO,3,first group stage
+8e0540a9-ab5d-5e7f-8ed2-417e3e1568a9,1986 FIFA Men's World Cup,0483a910-5880-55a5-abb2-5da0215a7d70,Iraq,IRQ,3,group stage
+8e0540a9-ab5d-5e7f-8ed2-417e3e1568a9,1986 FIFA Men's World Cup,1234d812-2e40-561b-90a3-ed4f9e66bd63,Canada,CAN,3,group stage
+8e0540a9-ab5d-5e7f-8ed2-417e3e1568a9,1986 FIFA Men's World Cup,13eebf0f-eb49-5e70-97f9-84f0395ceff1,Portugal,PRT,3,group stage
+8e0540a9-ab5d-5e7f-8ed2-417e3e1568a9,1986 FIFA Men's World Cup,1e34dbe6-26e7-5736-947c-cb6c9428e165,Algeria,DZA,3,group stage
+8e0540a9-ab5d-5e7f-8ed2-417e3e1568a9,1986 FIFA Men's World Cup,265f639f-c7d5-5ca2-b708-b0995f6c2b89,Morocco,MAR,4,round of 16
+8e0540a9-ab5d-5e7f-8ed2-417e3e1568a9,1986 FIFA Men's World Cup,3aa56241-3868-505a-ac6a-753aefa79cc2,Belgium,BEL,7,third-place match
+8e0540a9-ab5d-5e7f-8ed2-417e3e1568a9,1986 FIFA Men's World Cup,3d11f07c-c004-508d-9001-6f944119b2b0,France,FRA,7,third-place match
+8e0540a9-ab5d-5e7f-8ed2-417e3e1568a9,1986 FIFA Men's World Cup,43c1aac8-fa85-5e16-ba9c-4cfdcbc975b8,England,ENG,5,quarter-finals
+8e0540a9-ab5d-5e7f-8ed2-417e3e1568a9,1986 FIFA Men's World Cup,498c5353-84ca-5f1c-8d71-0ae02196227c,Brazil,BRA,5,quarter-finals
+8e0540a9-ab5d-5e7f-8ed2-417e3e1568a9,1986 FIFA Men's World Cup,5b16dd9d-d19c-5484-bac2-f9e932dddd29,Spain,ESP,5,quarter-finals
+8e0540a9-ab5d-5e7f-8ed2-417e3e1568a9,1986 FIFA Men's World Cup,641e565c-2f15-5697-b9f0-a09f9dcf1d99,Northern Ireland,NIR,3,group stage
+8e0540a9-ab5d-5e7f-8ed2-417e3e1568a9,1986 FIFA Men's World Cup,6c983d26-03e1-5649-a13f-42b61e101a0e,Soviet Union,SUN,4,round of 16
+8e0540a9-ab5d-5e7f-8ed2-417e3e1568a9,1986 FIFA Men's World Cup,83f65ffa-c76e-5ace-8c09-c87d141a3916,South Korea,KOR,3,group stage
+8e0540a9-ab5d-5e7f-8ed2-417e3e1568a9,1986 FIFA Men's World Cup,933a103d-d9d7-57a3-9c4a-fbc81d25a266,Argentina,ARG,7,final
+8e0540a9-ab5d-5e7f-8ed2-417e3e1568a9,1986 FIFA Men's World Cup,9678d2a4-5323-5082-b115-575366fb384a,Paraguay,PRY,4,round of 16
+8e0540a9-ab5d-5e7f-8ed2-417e3e1568a9,1986 FIFA Men's World Cup,a42d3d6a-78dd-5ae6-8408-079a857a7c30,Italy,ITA,4,round of 16
+8e0540a9-ab5d-5e7f-8ed2-417e3e1568a9,1986 FIFA Men's World Cup,adbcf28f-5f27-56bd-bca0-909cf77a8ae0,West Germany,DEU,7,final
+8e0540a9-ab5d-5e7f-8ed2-417e3e1568a9,1986 FIFA Men's World Cup,c832b30c-2750-5a24-a66f-cf9ea7c20a5c,Mexico,MEX,5,quarter-finals
+8e0540a9-ab5d-5e7f-8ed2-417e3e1568a9,1986 FIFA Men's World Cup,dfb099cc-e7ea-5e4f-b492-bdbf6e8e179b,Denmark,DNK,4,round of 16
+8e0540a9-ab5d-5e7f-8ed2-417e3e1568a9,1986 FIFA Men's World Cup,f16b7d5c-db54-5b27-b827-e848a3035641,Hungary,HUN,3,group stage
+8e0540a9-ab5d-5e7f-8ed2-417e3e1568a9,1986 FIFA Men's World Cup,f4b41163-3c82-5e1e-af54-e7ecc8a15135,Bulgaria,BGR,4,round of 16
+8e0540a9-ab5d-5e7f-8ed2-417e3e1568a9,1986 FIFA Men's World Cup,f8764a69-de29-59f5-8e79-715c4bf88a11,Uruguay,URY,4,round of 16
+8e0540a9-ab5d-5e7f-8ed2-417e3e1568a9,1986 FIFA Men's World Cup,fc0455f9-aa03-5b3d-9b41-41854289e993,Poland,POL,4,round of 16
+8e0540a9-ab5d-5e7f-8ed2-417e3e1568a9,1986 FIFA Men's World Cup,fc2ce361-82ed-537a-85f1-ff8f384d11b1,Scotland,SCO,3,group stage
+97242af1-4f11-5b96-b5f1-026e51f4a3c5,2023 FIFA Women's World Cup,10913c23-6023-563d-94df-9b4fb66c3432,United States,USA,4,round of 16
+97242af1-4f11-5b96-b5f1-026e51f4a3c5,2023 FIFA Women's World Cup,11240419-821b-5fbb-bf15-4906f40e3951,New Zealand,NZL,3,group stage
+97242af1-4f11-5b96-b5f1-026e51f4a3c5,2023 FIFA Women's World Cup,1234d812-2e40-561b-90a3-ed4f9e66bd63,Canada,CAN,3,group stage
+97242af1-4f11-5b96-b5f1-026e51f4a3c5,2023 FIFA Women's World Cup,13a7a10d-674d-5be2-bdfa-a0e18b0b6b04,Jamaica,JAM,4,round of 16
+97242af1-4f11-5b96-b5f1-026e51f4a3c5,2023 FIFA Women's World Cup,13eebf0f-eb49-5e70-97f9-84f0395ceff1,Portugal,PRT,3,group stage
+97242af1-4f11-5b96-b5f1-026e51f4a3c5,2023 FIFA Women's World Cup,187544dc-4b46-5bf6-a079-e124899a9090,Norway,NOR,4,round of 16
+97242af1-4f11-5b96-b5f1-026e51f4a3c5,2023 FIFA Women's World Cup,230373b7-3a16-506a-b5f6-acc37d7e801d,Japan,JPN,5,quarter-finals
+97242af1-4f11-5b96-b5f1-026e51f4a3c5,2023 FIFA Women's World Cup,265f639f-c7d5-5ca2-b708-b0995f6c2b89,Morocco,MAR,4,round of 16
+97242af1-4f11-5b96-b5f1-026e51f4a3c5,2023 FIFA Women's World Cup,2d9898be-ff8f-55ef-a86e-167bdeaf3cc6,Australia,AUS,7,third-place match
+97242af1-4f11-5b96-b5f1-026e51f4a3c5,2023 FIFA Women's World Cup,3611e724-8c08-5f63-b63d-e1cad6af784c,Sweden,SWE,7,third-place match
+97242af1-4f11-5b96-b5f1-026e51f4a3c5,2023 FIFA Women's World Cup,3a57ba00-89d9-50ec-b7f0-c37c9920a2fa,Haiti,HTI,3,group stage
+97242af1-4f11-5b96-b5f1-026e51f4a3c5,2023 FIFA Women's World Cup,3c6a11b7-f75d-55d5-9b7b-fe69a4f46ece,Zambia,ZMB,3,group stage
+97242af1-4f11-5b96-b5f1-026e51f4a3c5,2023 FIFA Women's World Cup,3d11f07c-c004-508d-9001-6f944119b2b0,France,FRA,5,quarter-finals
+97242af1-4f11-5b96-b5f1-026e51f4a3c5,2023 FIFA Women's World Cup,3de13983-4604-5a8d-b39c-08d4f279a06b,Colombia,COL,5,quarter-finals
+97242af1-4f11-5b96-b5f1-026e51f4a3c5,2023 FIFA Women's World Cup,43c1aac8-fa85-5e16-ba9c-4cfdcbc975b8,England,ENG,7,final
+97242af1-4f11-5b96-b5f1-026e51f4a3c5,2023 FIFA Women's World Cup,498c5353-84ca-5f1c-8d71-0ae02196227c,Brazil,BRA,3,group stage
+97242af1-4f11-5b96-b5f1-026e51f4a3c5,2023 FIFA Women's World Cup,5b16dd9d-d19c-5484-bac2-f9e932dddd29,Spain,ESP,7,final
+97242af1-4f11-5b96-b5f1-026e51f4a3c5,2023 FIFA Women's World Cup,835977dc-ae64-5928-9bd2-421d65fcb745,Panama,PAN,3,group stage
+97242af1-4f11-5b96-b5f1-026e51f4a3c5,2023 FIFA Women's World Cup,83f65ffa-c76e-5ace-8c09-c87d141a3916,South Korea,KOR,3,group stage
+97242af1-4f11-5b96-b5f1-026e51f4a3c5,2023 FIFA Women's World Cup,858b02ea-33d2-5241-9fda-d431df455f31,Vietnam,VNM,3,group stage
+97242af1-4f11-5b96-b5f1-026e51f4a3c5,2023 FIFA Women's World Cup,88af50ff-bf54-5c7f-a5e6-cbc7968ad7ad,Philippines,PHL,3,group stage
+97242af1-4f11-5b96-b5f1-026e51f4a3c5,2023 FIFA Women's World Cup,8dd855bb-0dbb-576b-837a-ad9f8d770c86,Costa Rica,CRI,3,group stage
+97242af1-4f11-5b96-b5f1-026e51f4a3c5,2023 FIFA Women's World Cup,933a103d-d9d7-57a3-9c4a-fbc81d25a266,Argentina,ARG,3,group stage
+97242af1-4f11-5b96-b5f1-026e51f4a3c5,2023 FIFA Women's World Cup,93542d8e-8aca-5c07-ad21-5c493fdf083e,China,CHN,3,group stage
+97242af1-4f11-5b96-b5f1-026e51f4a3c5,2023 FIFA Women's World Cup,a260026d-34b5-5fdf-8896-fd8997f096b9,Switzerland,CHE,4,round of 16
+97242af1-4f11-5b96-b5f1-026e51f4a3c5,2023 FIFA Women's World Cup,a42d3d6a-78dd-5ae6-8408-079a857a7c30,Italy,ITA,3,group stage
+97242af1-4f11-5b96-b5f1-026e51f4a3c5,2023 FIFA Women's World Cup,d522b940-a152-5cc7-bcb3-89e28a1ce459,Netherlands,NLD,5,quarter-finals
+97242af1-4f11-5b96-b5f1-026e51f4a3c5,2023 FIFA Women's World Cup,dfb099cc-e7ea-5e4f-b492-bdbf6e8e179b,Denmark,DNK,4,round of 16
+97242af1-4f11-5b96-b5f1-026e51f4a3c5,2023 FIFA Women's World Cup,e39c6163-70b0-5f66-b2d7-540b785eee94,Republic of Ireland,IRL,3,group stage
+97242af1-4f11-5b96-b5f1-026e51f4a3c5,2023 FIFA Women's World Cup,e77d250a-1cec-5627-adc4-3cf95c7c0972,South Africa,ZAF,4,round of 16
+97242af1-4f11-5b96-b5f1-026e51f4a3c5,2023 FIFA Women's World Cup,eff0a856-a340-5ec8-84e8-121552da2cda,Germany,DEU,3,group stage
+97242af1-4f11-5b96-b5f1-026e51f4a3c5,2023 FIFA Women's World Cup,f201a6b5-a9f6-5612-947b-a6a57d2e7e18,Nigeria,NGA,4,round of 16
+980713b4-f72a-5fb3-a406-6de227728b1d,1982 FIFA Men's World Cup,11240419-821b-5fbb-bf15-4906f40e3951,New Zealand,NZL,3,first group stage
+980713b4-f72a-5fb3-a406-6de227728b1d,1982 FIFA Men's World Cup,1e34dbe6-26e7-5736-947c-cb6c9428e165,Algeria,DZA,3,first group stage
+980713b4-f72a-5fb3-a406-6de227728b1d,1982 FIFA Men's World Cup,3aa56241-3868-505a-ac6a-753aefa79cc2,Belgium,BEL,5,second group stage
+980713b4-f72a-5fb3-a406-6de227728b1d,1982 FIFA Men's World Cup,3d11f07c-c004-508d-9001-6f944119b2b0,France,FRA,7,third-place match
+980713b4-f72a-5fb3-a406-6de227728b1d,1982 FIFA Men's World Cup,43c1aac8-fa85-5e16-ba9c-4cfdcbc975b8,England,ENG,5,second group stage
+980713b4-f72a-5fb3-a406-6de227728b1d,1982 FIFA Men's World Cup,498c5353-84ca-5f1c-8d71-0ae02196227c,Brazil,BRA,5,second group stage
+980713b4-f72a-5fb3-a406-6de227728b1d,1982 FIFA Men's World Cup,535a7e23-4bf9-5e96-ac76-48241d246817,El Salvador,SLV,3,first group stage
+980713b4-f72a-5fb3-a406-6de227728b1d,1982 FIFA Men's World Cup,5b16dd9d-d19c-5484-bac2-f9e932dddd29,Spain,ESP,5,second group stage
+980713b4-f72a-5fb3-a406-6de227728b1d,1982 FIFA Men's World Cup,641e565c-2f15-5697-b9f0-a09f9dcf1d99,Northern Ireland,NIR,5,second group stage
+980713b4-f72a-5fb3-a406-6de227728b1d,1982 FIFA Men's World Cup,6c983d26-03e1-5649-a13f-42b61e101a0e,Soviet Union,SUN,5,second group stage
+980713b4-f72a-5fb3-a406-6de227728b1d,1982 FIFA Men's World Cup,879c1298-9904-5b96-8f25-5e7d455ae2ec,Chile,CHL,3,first group stage
+980713b4-f72a-5fb3-a406-6de227728b1d,1982 FIFA Men's World Cup,8e63ee49-fbde-5478-a093-1a6a679cc27f,Austria,AUT,5,second group stage
+980713b4-f72a-5fb3-a406-6de227728b1d,1982 FIFA Men's World Cup,933a103d-d9d7-57a3-9c4a-fbc81d25a266,Argentina,ARG,5,second group stage
+980713b4-f72a-5fb3-a406-6de227728b1d,1982 FIFA Men's World Cup,9a9be60e-89da-590c-95a8-6e5802b5deb5,Yugoslavia,YUG,3,first group stage
+980713b4-f72a-5fb3-a406-6de227728b1d,1982 FIFA Men's World Cup,9b432d9b-a19d-5672-901e-2884a641784b,Honduras,HND,3,first group stage
+980713b4-f72a-5fb3-a406-6de227728b1d,1982 FIFA Men's World Cup,a42d3d6a-78dd-5ae6-8408-079a857a7c30,Italy,ITA,7,final
+980713b4-f72a-5fb3-a406-6de227728b1d,1982 FIFA Men's World Cup,adbcf28f-5f27-56bd-bca0-909cf77a8ae0,West Germany,DEU,7,final
+980713b4-f72a-5fb3-a406-6de227728b1d,1982 FIFA Men's World Cup,b106b715-3121-50e4-a0a0-1166ddede37e,Kuwait,KWT,3,first group stage
+980713b4-f72a-5fb3-a406-6de227728b1d,1982 FIFA Men's World Cup,cf23603f-09d6-52e6-9c7e-fb8db4554297,Czechoslovakia,CSK,3,first group stage
+980713b4-f72a-5fb3-a406-6de227728b1d,1982 FIFA Men's World Cup,db3abc88-7f89-5183-bc6d-ea6fa7c361d9,Peru,PER,3,first group stage
+980713b4-f72a-5fb3-a406-6de227728b1d,1982 FIFA Men's World Cup,eb88a8cc-be5e-5116-8926-ba595504709a,Cameroon,CMR,3,first group stage
+980713b4-f72a-5fb3-a406-6de227728b1d,1982 FIFA Men's World Cup,f16b7d5c-db54-5b27-b827-e848a3035641,Hungary,HUN,3,first group stage
+980713b4-f72a-5fb3-a406-6de227728b1d,1982 FIFA Men's World Cup,fc0455f9-aa03-5b3d-9b41-41854289e993,Poland,POL,7,third-place match
+980713b4-f72a-5fb3-a406-6de227728b1d,1982 FIFA Men's World Cup,fc2ce361-82ed-537a-85f1-ff8f384d11b1,Scotland,SCO,3,first group stage
+989bb40b-e4d2-554d-b25d-51c776e801e2,2022 FIFA Men's World Cup,0db8bc49-3546-517c-af2c-7abd04ae2214,Croatia,HRV,7,third-place match
+989bb40b-e4d2-554d-b25d-51c776e801e2,2022 FIFA Men's World Cup,10913c23-6023-563d-94df-9b4fb66c3432,United States,USA,4,round of 16
+989bb40b-e4d2-554d-b25d-51c776e801e2,2022 FIFA Men's World Cup,1234d812-2e40-561b-90a3-ed4f9e66bd63,Canada,CAN,3,group stage
+989bb40b-e4d2-554d-b25d-51c776e801e2,2022 FIFA Men's World Cup,13eebf0f-eb49-5e70-97f9-84f0395ceff1,Portugal,PRT,5,quarter-finals
+989bb40b-e4d2-554d-b25d-51c776e801e2,2022 FIFA Men's World Cup,172bbcf1-8dd9-50ac-ba34-b51c641a833e,Wales,WAL,3,group stage
+989bb40b-e4d2-554d-b25d-51c776e801e2,2022 FIFA Men's World Cup,2179a8d7-c7ed-5c0c-b6a6-8e6eeef52657,Ecuador,ECU,3,group stage
+989bb40b-e4d2-554d-b25d-51c776e801e2,2022 FIFA Men's World Cup,230373b7-3a16-506a-b5f6-acc37d7e801d,Japan,JPN,4,round of 16
+989bb40b-e4d2-554d-b25d-51c776e801e2,2022 FIFA Men's World Cup,265f639f-c7d5-5ca2-b708-b0995f6c2b89,Morocco,MAR,7,third-place match
+989bb40b-e4d2-554d-b25d-51c776e801e2,2022 FIFA Men's World Cup,2d9898be-ff8f-55ef-a86e-167bdeaf3cc6,Australia,AUS,4,round of 16
+989bb40b-e4d2-554d-b25d-51c776e801e2,2022 FIFA Men's World Cup,3aa56241-3868-505a-ac6a-753aefa79cc2,Belgium,BEL,3,group stage
+989bb40b-e4d2-554d-b25d-51c776e801e2,2022 FIFA Men's World Cup,3d11f07c-c004-508d-9001-6f944119b2b0,France,FRA,7,final
+989bb40b-e4d2-554d-b25d-51c776e801e2,2022 FIFA Men's World Cup,42c04ec6-0345-52bc-8d8a-5d51bd89ad16,Qatar,QAT,3,group stage
+989bb40b-e4d2-554d-b25d-51c776e801e2,2022 FIFA Men's World Cup,43c1aac8-fa85-5e16-ba9c-4cfdcbc975b8,England,ENG,5,quarter-finals
+989bb40b-e4d2-554d-b25d-51c776e801e2,2022 FIFA Men's World Cup,498c5353-84ca-5f1c-8d71-0ae02196227c,Brazil,BRA,5,quarter-finals
+989bb40b-e4d2-554d-b25d-51c776e801e2,2022 FIFA Men's World Cup,55f8040d-0098-5415-abdf-66098ef3bbee,Ghana,GHA,3,group stage
+989bb40b-e4d2-554d-b25d-51c776e801e2,2022 FIFA Men's World Cup,5b16dd9d-d19c-5484-bac2-f9e932dddd29,Spain,ESP,4,round of 16
+989bb40b-e4d2-554d-b25d-51c776e801e2,2022 FIFA Men's World Cup,83f65ffa-c76e-5ace-8c09-c87d141a3916,South Korea,KOR,4,round of 16
+989bb40b-e4d2-554d-b25d-51c776e801e2,2022 FIFA Men's World Cup,8cca4b99-7e47-5808-9e58-9803329fa50a,Saudi Arabia,SAU,3,group stage
+989bb40b-e4d2-554d-b25d-51c776e801e2,2022 FIFA Men's World Cup,8dd855bb-0dbb-576b-837a-ad9f8d770c86,Costa Rica,CRI,3,group stage
+989bb40b-e4d2-554d-b25d-51c776e801e2,2022 FIFA Men's World Cup,8fcb57c5-f39b-5302-9aed-c645120d5a91,Serbia,SRB,3,group stage
+989bb40b-e4d2-554d-b25d-51c776e801e2,2022 FIFA Men's World Cup,933a103d-d9d7-57a3-9c4a-fbc81d25a266,Argentina,ARG,7,final
+989bb40b-e4d2-554d-b25d-51c776e801e2,2022 FIFA Men's World Cup,a260026d-34b5-5fdf-8896-fd8997f096b9,Switzerland,CHE,4,round of 16
+989bb40b-e4d2-554d-b25d-51c776e801e2,2022 FIFA Men's World Cup,b627769a-7468-5b82-85ee-a38f3d71a3c6,Tunisia,TUN,3,group stage
+989bb40b-e4d2-554d-b25d-51c776e801e2,2022 FIFA Men's World Cup,c832b30c-2750-5a24-a66f-cf9ea7c20a5c,Mexico,MEX,3,group stage
+989bb40b-e4d2-554d-b25d-51c776e801e2,2022 FIFA Men's World Cup,d522b940-a152-5cc7-bcb3-89e28a1ce459,Netherlands,NLD,5,quarter-finals
+989bb40b-e4d2-554d-b25d-51c776e801e2,2022 FIFA Men's World Cup,dfb099cc-e7ea-5e4f-b492-bdbf6e8e179b,Denmark,DNK,3,group stage
+989bb40b-e4d2-554d-b25d-51c776e801e2,2022 FIFA Men's World Cup,eb88a8cc-be5e-5116-8926-ba595504709a,Cameroon,CMR,3,group stage
+989bb40b-e4d2-554d-b25d-51c776e801e2,2022 FIFA Men's World Cup,eff0a856-a340-5ec8-84e8-121552da2cda,Germany,DEU,3,group stage
+989bb40b-e4d2-554d-b25d-51c776e801e2,2022 FIFA Men's World Cup,f22d85b4-6cde-5f4e-8119-b3b69a2ba879,Iran,IRN,3,group stage
+989bb40b-e4d2-554d-b25d-51c776e801e2,2022 FIFA Men's World Cup,f8764a69-de29-59f5-8e79-715c4bf88a11,Uruguay,URY,3,group stage
+989bb40b-e4d2-554d-b25d-51c776e801e2,2022 FIFA Men's World Cup,fc0455f9-aa03-5b3d-9b41-41854289e993,Poland,POL,4,round of 16
+989bb40b-e4d2-554d-b25d-51c776e801e2,2022 FIFA Men's World Cup,fdb9a8af-2b8d-518b-b0ab-a0118cd58de2,Senegal,SEN,4,round of 16
+a3355eb2-b9f4-5e9c-92d3-dc9cb37177b6,2010 FIFA Men's World Cup,10913c23-6023-563d-94df-9b4fb66c3432,United States,USA,4,round of 16
+a3355eb2-b9f4-5e9c-92d3-dc9cb37177b6,2010 FIFA Men's World Cup,11240419-821b-5fbb-bf15-4906f40e3951,New Zealand,NZL,3,group stage
+a3355eb2-b9f4-5e9c-92d3-dc9cb37177b6,2010 FIFA Men's World Cup,13eebf0f-eb49-5e70-97f9-84f0395ceff1,Portugal,PRT,4,round of 16
+a3355eb2-b9f4-5e9c-92d3-dc9cb37177b6,2010 FIFA Men's World Cup,1e34dbe6-26e7-5736-947c-cb6c9428e165,Algeria,DZA,3,group stage
+a3355eb2-b9f4-5e9c-92d3-dc9cb37177b6,2010 FIFA Men's World Cup,230373b7-3a16-506a-b5f6-acc37d7e801d,Japan,JPN,4,round of 16
+a3355eb2-b9f4-5e9c-92d3-dc9cb37177b6,2010 FIFA Men's World Cup,2d9898be-ff8f-55ef-a86e-167bdeaf3cc6,Australia,AUS,3,group stage
+a3355eb2-b9f4-5e9c-92d3-dc9cb37177b6,2010 FIFA Men's World Cup,2eeac718-4c7f-5065-aedd-5250910b0c78,Slovakia,SVK,4,round of 16
+a3355eb2-b9f4-5e9c-92d3-dc9cb37177b6,2010 FIFA Men's World Cup,3d11f07c-c004-508d-9001-6f944119b2b0,France,FRA,3,group stage
+a3355eb2-b9f4-5e9c-92d3-dc9cb37177b6,2010 FIFA Men's World Cup,43c1aac8-fa85-5e16-ba9c-4cfdcbc975b8,England,ENG,4,round of 16
+a3355eb2-b9f4-5e9c-92d3-dc9cb37177b6,2010 FIFA Men's World Cup,498c5353-84ca-5f1c-8d71-0ae02196227c,Brazil,BRA,5,quarter-finals
+a3355eb2-b9f4-5e9c-92d3-dc9cb37177b6,2010 FIFA Men's World Cup,55f8040d-0098-5415-abdf-66098ef3bbee,Ghana,GHA,5,quarter-finals
+a3355eb2-b9f4-5e9c-92d3-dc9cb37177b6,2010 FIFA Men's World Cup,58ce2aac-d181-51c6-9f50-fc3e8643d0e1,North Korea,PRK,3,group stage
+a3355eb2-b9f4-5e9c-92d3-dc9cb37177b6,2010 FIFA Men's World Cup,5b16dd9d-d19c-5484-bac2-f9e932dddd29,Spain,ESP,7,final
+a3355eb2-b9f4-5e9c-92d3-dc9cb37177b6,2010 FIFA Men's World Cup,83f65ffa-c76e-5ace-8c09-c87d141a3916,South Korea,KOR,4,round of 16
+a3355eb2-b9f4-5e9c-92d3-dc9cb37177b6,2010 FIFA Men's World Cup,879c1298-9904-5b96-8f25-5e7d455ae2ec,Chile,CHL,4,round of 16
+a3355eb2-b9f4-5e9c-92d3-dc9cb37177b6,2010 FIFA Men's World Cup,8fcb57c5-f39b-5302-9aed-c645120d5a91,Serbia,SRB,3,group stage
+a3355eb2-b9f4-5e9c-92d3-dc9cb37177b6,2010 FIFA Men's World Cup,933a103d-d9d7-57a3-9c4a-fbc81d25a266,Argentina,ARG,5,quarter-finals
+a3355eb2-b9f4-5e9c-92d3-dc9cb37177b6,2010 FIFA Men's World Cup,9678d2a4-5323-5082-b115-575366fb384a,Paraguay,PRY,5,quarter-finals
+a3355eb2-b9f4-5e9c-92d3-dc9cb37177b6,2010 FIFA Men's World Cup,9b432d9b-a19d-5672-901e-2884a641784b,Honduras,HND,3,group stage
+a3355eb2-b9f4-5e9c-92d3-dc9cb37177b6,2010 FIFA Men's World Cup,9c7ec48d-3d9a-501e-b202-7f5c4fc96909,Slovenia,SVN,3,group stage
+a3355eb2-b9f4-5e9c-92d3-dc9cb37177b6,2010 FIFA Men's World Cup,a260026d-34b5-5fdf-8896-fd8997f096b9,Switzerland,CHE,3,group stage
+a3355eb2-b9f4-5e9c-92d3-dc9cb37177b6,2010 FIFA Men's World Cup,a42d3d6a-78dd-5ae6-8408-079a857a7c30,Italy,ITA,3,group stage
+a3355eb2-b9f4-5e9c-92d3-dc9cb37177b6,2010 FIFA Men's World Cup,c832b30c-2750-5a24-a66f-cf9ea7c20a5c,Mexico,MEX,4,round of 16
+a3355eb2-b9f4-5e9c-92d3-dc9cb37177b6,2010 FIFA Men's World Cup,d522b940-a152-5cc7-bcb3-89e28a1ce459,Netherlands,NLD,7,final
+a3355eb2-b9f4-5e9c-92d3-dc9cb37177b6,2010 FIFA Men's World Cup,dfb099cc-e7ea-5e4f-b492-bdbf6e8e179b,Denmark,DNK,3,group stage
+a3355eb2-b9f4-5e9c-92d3-dc9cb37177b6,2010 FIFA Men's World Cup,e31e86e8-0616-5e05-a842-dc8f67c29ca4,Ivory Coast,CIV,3,group stage
+a3355eb2-b9f4-5e9c-92d3-dc9cb37177b6,2010 FIFA Men's World Cup,e77d250a-1cec-5627-adc4-3cf95c7c0972,South Africa,ZAF,3,group stage
+a3355eb2-b9f4-5e9c-92d3-dc9cb37177b6,2010 FIFA Men's World Cup,eb88a8cc-be5e-5116-8926-ba595504709a,Cameroon,CMR,3,group stage
+a3355eb2-b9f4-5e9c-92d3-dc9cb37177b6,2010 FIFA Men's World Cup,eff0a856-a340-5ec8-84e8-121552da2cda,Germany,DEU,7,third-place match
+a3355eb2-b9f4-5e9c-92d3-dc9cb37177b6,2010 FIFA Men's World Cup,f201a6b5-a9f6-5612-947b-a6a57d2e7e18,Nigeria,NGA,3,group stage
+a3355eb2-b9f4-5e9c-92d3-dc9cb37177b6,2010 FIFA Men's World Cup,f23d02ab-e48a-541b-a3d5-efb12f628f6c,Greece,GRC,3,group stage
+a3355eb2-b9f4-5e9c-92d3-dc9cb37177b6,2010 FIFA Men's World Cup,f8764a69-de29-59f5-8e79-715c4bf88a11,Uruguay,URY,7,third-place match
+c18a4889-5b51-5337-bc1a-a0731c1d97eb,2002 FIFA Men's World Cup,0db8bc49-3546-517c-af2c-7abd04ae2214,Croatia,HRV,3,group stage
+c18a4889-5b51-5337-bc1a-a0731c1d97eb,2002 FIFA Men's World Cup,10913c23-6023-563d-94df-9b4fb66c3432,United States,USA,5,quarter-finals
+c18a4889-5b51-5337-bc1a-a0731c1d97eb,2002 FIFA Men's World Cup,13eebf0f-eb49-5e70-97f9-84f0395ceff1,Portugal,PRT,3,group stage
+c18a4889-5b51-5337-bc1a-a0731c1d97eb,2002 FIFA Men's World Cup,2179a8d7-c7ed-5c0c-b6a6-8e6eeef52657,Ecuador,ECU,3,group stage
+c18a4889-5b51-5337-bc1a-a0731c1d97eb,2002 FIFA Men's World Cup,230373b7-3a16-506a-b5f6-acc37d7e801d,Japan,JPN,4,round of 16
+c18a4889-5b51-5337-bc1a-a0731c1d97eb,2002 FIFA Men's World Cup,3611e724-8c08-5f63-b63d-e1cad6af784c,Sweden,SWE,4,round of 16
+c18a4889-5b51-5337-bc1a-a0731c1d97eb,2002 FIFA Men's World Cup,3aa56241-3868-505a-ac6a-753aefa79cc2,Belgium,BEL,4,round of 16
+c18a4889-5b51-5337-bc1a-a0731c1d97eb,2002 FIFA Men's World Cup,3d11f07c-c004-508d-9001-6f944119b2b0,France,FRA,3,group stage
+c18a4889-5b51-5337-bc1a-a0731c1d97eb,2002 FIFA Men's World Cup,43c1aac8-fa85-5e16-ba9c-4cfdcbc975b8,England,ENG,5,quarter-finals
+c18a4889-5b51-5337-bc1a-a0731c1d97eb,2002 FIFA Men's World Cup,498c5353-84ca-5f1c-8d71-0ae02196227c,Brazil,BRA,7,final
+c18a4889-5b51-5337-bc1a-a0731c1d97eb,2002 FIFA Men's World Cup,5b16dd9d-d19c-5484-bac2-f9e932dddd29,Spain,ESP,5,quarter-finals
+c18a4889-5b51-5337-bc1a-a0731c1d97eb,2002 FIFA Men's World Cup,6eb0485e-97e8-57e7-bf93-6c300f3e003a,Russia,RUS,3,group stage
+c18a4889-5b51-5337-bc1a-a0731c1d97eb,2002 FIFA Men's World Cup,83f65ffa-c76e-5ace-8c09-c87d141a3916,South Korea,KOR,7,third-place match
+c18a4889-5b51-5337-bc1a-a0731c1d97eb,2002 FIFA Men's World Cup,8cca4b99-7e47-5808-9e58-9803329fa50a,Saudi Arabia,SAU,3,group stage
+c18a4889-5b51-5337-bc1a-a0731c1d97eb,2002 FIFA Men's World Cup,8dd855bb-0dbb-576b-837a-ad9f8d770c86,Costa Rica,CRI,3,group stage
+c18a4889-5b51-5337-bc1a-a0731c1d97eb,2002 FIFA Men's World Cup,933a103d-d9d7-57a3-9c4a-fbc81d25a266,Argentina,ARG,3,group stage
+c18a4889-5b51-5337-bc1a-a0731c1d97eb,2002 FIFA Men's World Cup,93542d8e-8aca-5c07-ad21-5c493fdf083e,China,CHN,3,group stage
+c18a4889-5b51-5337-bc1a-a0731c1d97eb,2002 FIFA Men's World Cup,9678d2a4-5323-5082-b115-575366fb384a,Paraguay,PRY,4,round of 16
+c18a4889-5b51-5337-bc1a-a0731c1d97eb,2002 FIFA Men's World Cup,9c7ec48d-3d9a-501e-b202-7f5c4fc96909,Slovenia,SVN,3,group stage
+c18a4889-5b51-5337-bc1a-a0731c1d97eb,2002 FIFA Men's World Cup,a42d3d6a-78dd-5ae6-8408-079a857a7c30,Italy,ITA,4,round of 16
+c18a4889-5b51-5337-bc1a-a0731c1d97eb,2002 FIFA Men's World Cup,b627769a-7468-5b82-85ee-a38f3d71a3c6,Tunisia,TUN,3,group stage
+c18a4889-5b51-5337-bc1a-a0731c1d97eb,2002 FIFA Men's World Cup,c832b30c-2750-5a24-a66f-cf9ea7c20a5c,Mexico,MEX,4,round of 16
+c18a4889-5b51-5337-bc1a-a0731c1d97eb,2002 FIFA Men's World Cup,d1c45d05-d0bd-55b8-b370-dfa64d998bcc,Turkey,TUR,7,third-place match
+c18a4889-5b51-5337-bc1a-a0731c1d97eb,2002 FIFA Men's World Cup,dfb099cc-e7ea-5e4f-b492-bdbf6e8e179b,Denmark,DNK,4,round of 16
+c18a4889-5b51-5337-bc1a-a0731c1d97eb,2002 FIFA Men's World Cup,e39c6163-70b0-5f66-b2d7-540b785eee94,Republic of Ireland,IRL,4,round of 16
+c18a4889-5b51-5337-bc1a-a0731c1d97eb,2002 FIFA Men's World Cup,e77d250a-1cec-5627-adc4-3cf95c7c0972,South Africa,ZAF,3,group stage
+c18a4889-5b51-5337-bc1a-a0731c1d97eb,2002 FIFA Men's World Cup,eb88a8cc-be5e-5116-8926-ba595504709a,Cameroon,CMR,3,group stage
+c18a4889-5b51-5337-bc1a-a0731c1d97eb,2002 FIFA Men's World Cup,eff0a856-a340-5ec8-84e8-121552da2cda,Germany,DEU,7,final
+c18a4889-5b51-5337-bc1a-a0731c1d97eb,2002 FIFA Men's World Cup,f201a6b5-a9f6-5612-947b-a6a57d2e7e18,Nigeria,NGA,3,group stage
+c18a4889-5b51-5337-bc1a-a0731c1d97eb,2002 FIFA Men's World Cup,f8764a69-de29-59f5-8e79-715c4bf88a11,Uruguay,URY,3,group stage
+c18a4889-5b51-5337-bc1a-a0731c1d97eb,2002 FIFA Men's World Cup,fc0455f9-aa03-5b3d-9b41-41854289e993,Poland,POL,3,group stage
+c18a4889-5b51-5337-bc1a-a0731c1d97eb,2002 FIFA Men's World Cup,fdb9a8af-2b8d-518b-b0ab-a0118cd58de2,Senegal,SEN,5,quarter-finals
+cb194f04-c36a-5525-a51a-2219d44c0be3,1991 FIFA Women's World Cup,10913c23-6023-563d-94df-9b4fb66c3432,United States,USA,6,final
+cb194f04-c36a-5525-a51a-2219d44c0be3,1991 FIFA Women's World Cup,11240419-821b-5fbb-bf15-4906f40e3951,New Zealand,NZL,3,group stage
+cb194f04-c36a-5525-a51a-2219d44c0be3,1991 FIFA Women's World Cup,187544dc-4b46-5bf6-a079-e124899a9090,Norway,NOR,6,final
+cb194f04-c36a-5525-a51a-2219d44c0be3,1991 FIFA Women's World Cup,230373b7-3a16-506a-b5f6-acc37d7e801d,Japan,JPN,3,group stage
+cb194f04-c36a-5525-a51a-2219d44c0be3,1991 FIFA Women's World Cup,3611e724-8c08-5f63-b63d-e1cad6af784c,Sweden,SWE,6,third-place match
+cb194f04-c36a-5525-a51a-2219d44c0be3,1991 FIFA Women's World Cup,498c5353-84ca-5f1c-8d71-0ae02196227c,Brazil,BRA,3,group stage
+cb194f04-c36a-5525-a51a-2219d44c0be3,1991 FIFA Women's World Cup,93542d8e-8aca-5c07-ad21-5c493fdf083e,China,CHN,4,quarter-finals
+cb194f04-c36a-5525-a51a-2219d44c0be3,1991 FIFA Women's World Cup,a42d3d6a-78dd-5ae6-8408-079a857a7c30,Italy,ITA,4,quarter-finals
+cb194f04-c36a-5525-a51a-2219d44c0be3,1991 FIFA Women's World Cup,bb4bcbfb-67ac-5582-b11f-3e60fa83af7f,Chinese Taipei,TWN,4,quarter-finals
+cb194f04-c36a-5525-a51a-2219d44c0be3,1991 FIFA Women's World Cup,dfb099cc-e7ea-5e4f-b492-bdbf6e8e179b,Denmark,DNK,4,quarter-finals
+cb194f04-c36a-5525-a51a-2219d44c0be3,1991 FIFA Women's World Cup,eff0a856-a340-5ec8-84e8-121552da2cda,Germany,DEU,6,third-place match
+cb194f04-c36a-5525-a51a-2219d44c0be3,1991 FIFA Women's World Cup,f201a6b5-a9f6-5612-947b-a6a57d2e7e18,Nigeria,NGA,3,group stage
+d52279b1-f4bd-5228-862f-a0a23d6cd16d,2006 FIFA Men's World Cup,017c48cb-b97e-5de7-b7cd-7df9586d9d34,Trinidad and Tobago,TTO,3,group stage
+d52279b1-f4bd-5228-862f-a0a23d6cd16d,2006 FIFA Men's World Cup,0db8bc49-3546-517c-af2c-7abd04ae2214,Croatia,HRV,3,group stage
+d52279b1-f4bd-5228-862f-a0a23d6cd16d,2006 FIFA Men's World Cup,10913c23-6023-563d-94df-9b4fb66c3432,United States,USA,3,group stage
+d52279b1-f4bd-5228-862f-a0a23d6cd16d,2006 FIFA Men's World Cup,13eebf0f-eb49-5e70-97f9-84f0395ceff1,Portugal,PRT,7,third-place match
+d52279b1-f4bd-5228-862f-a0a23d6cd16d,2006 FIFA Men's World Cup,153c6112-4054-5bec-b238-3f80b76f05c6,Angola,AGO,3,group stage
+d52279b1-f4bd-5228-862f-a0a23d6cd16d,2006 FIFA Men's World Cup,1f887746-2115-54a3-a7da-7b8a619f858e,Togo,TGO,3,group stage
+d52279b1-f4bd-5228-862f-a0a23d6cd16d,2006 FIFA Men's World Cup,2179a8d7-c7ed-5c0c-b6a6-8e6eeef52657,Ecuador,ECU,4,round of 16
+d52279b1-f4bd-5228-862f-a0a23d6cd16d,2006 FIFA Men's World Cup,230373b7-3a16-506a-b5f6-acc37d7e801d,Japan,JPN,3,group stage
+d52279b1-f4bd-5228-862f-a0a23d6cd16d,2006 FIFA Men's World Cup,27b5664b-2e3e-52cd-a1df-0f1e60869c68,Ukraine,UKR,5,quarter-finals
+d52279b1-f4bd-5228-862f-a0a23d6cd16d,2006 FIFA Men's World Cup,2d9898be-ff8f-55ef-a86e-167bdeaf3cc6,Australia,AUS,4,round of 16
+d52279b1-f4bd-5228-862f-a0a23d6cd16d,2006 FIFA Men's World Cup,3611e724-8c08-5f63-b63d-e1cad6af784c,Sweden,SWE,4,round of 16
+d52279b1-f4bd-5228-862f-a0a23d6cd16d,2006 FIFA Men's World Cup,3d11f07c-c004-508d-9001-6f944119b2b0,France,FRA,7,final
+d52279b1-f4bd-5228-862f-a0a23d6cd16d,2006 FIFA Men's World Cup,43c1aac8-fa85-5e16-ba9c-4cfdcbc975b8,England,ENG,5,quarter-finals
+d52279b1-f4bd-5228-862f-a0a23d6cd16d,2006 FIFA Men's World Cup,498c5353-84ca-5f1c-8d71-0ae02196227c,Brazil,BRA,5,quarter-finals
+d52279b1-f4bd-5228-862f-a0a23d6cd16d,2006 FIFA Men's World Cup,55f8040d-0098-5415-abdf-66098ef3bbee,Ghana,GHA,4,round of 16
+d52279b1-f4bd-5228-862f-a0a23d6cd16d,2006 FIFA Men's World Cup,5b16dd9d-d19c-5484-bac2-f9e932dddd29,Spain,ESP,4,round of 16
+d52279b1-f4bd-5228-862f-a0a23d6cd16d,2006 FIFA Men's World Cup,83f65ffa-c76e-5ace-8c09-c87d141a3916,South Korea,KOR,3,group stage
+d52279b1-f4bd-5228-862f-a0a23d6cd16d,2006 FIFA Men's World Cup,8cca4b99-7e47-5808-9e58-9803329fa50a,Saudi Arabia,SAU,3,group stage
+d52279b1-f4bd-5228-862f-a0a23d6cd16d,2006 FIFA Men's World Cup,8dd855bb-0dbb-576b-837a-ad9f8d770c86,Costa Rica,CRI,3,group stage
+d52279b1-f4bd-5228-862f-a0a23d6cd16d,2006 FIFA Men's World Cup,933a103d-d9d7-57a3-9c4a-fbc81d25a266,Argentina,ARG,5,quarter-finals
+d52279b1-f4bd-5228-862f-a0a23d6cd16d,2006 FIFA Men's World Cup,9678d2a4-5323-5082-b115-575366fb384a,Paraguay,PRY,3,group stage
+d52279b1-f4bd-5228-862f-a0a23d6cd16d,2006 FIFA Men's World Cup,a260026d-34b5-5fdf-8896-fd8997f096b9,Switzerland,CHE,4,round of 16
+d52279b1-f4bd-5228-862f-a0a23d6cd16d,2006 FIFA Men's World Cup,a42d3d6a-78dd-5ae6-8408-079a857a7c30,Italy,ITA,7,final
+d52279b1-f4bd-5228-862f-a0a23d6cd16d,2006 FIFA Men's World Cup,ad708552-b621-5809-9ae6-02de989608b3,Czech Republic,CZE,3,group stage
+d52279b1-f4bd-5228-862f-a0a23d6cd16d,2006 FIFA Men's World Cup,b627769a-7468-5b82-85ee-a38f3d71a3c6,Tunisia,TUN,3,group stage
+d52279b1-f4bd-5228-862f-a0a23d6cd16d,2006 FIFA Men's World Cup,c832b30c-2750-5a24-a66f-cf9ea7c20a5c,Mexico,MEX,4,round of 16
+d52279b1-f4bd-5228-862f-a0a23d6cd16d,2006 FIFA Men's World Cup,d522b940-a152-5cc7-bcb3-89e28a1ce459,Netherlands,NLD,4,round of 16
+d52279b1-f4bd-5228-862f-a0a23d6cd16d,2006 FIFA Men's World Cup,e31e86e8-0616-5e05-a842-dc8f67c29ca4,Ivory Coast,CIV,3,group stage
+d52279b1-f4bd-5228-862f-a0a23d6cd16d,2006 FIFA Men's World Cup,ed749800-82e2-5bb8-a684-8bdf061d889d,Serbia and Montenegro,SCG,3,group stage
+d52279b1-f4bd-5228-862f-a0a23d6cd16d,2006 FIFA Men's World Cup,eff0a856-a340-5ec8-84e8-121552da2cda,Germany,DEU,7,third-place match
+d52279b1-f4bd-5228-862f-a0a23d6cd16d,2006 FIFA Men's World Cup,f22d85b4-6cde-5f4e-8119-b3b69a2ba879,Iran,IRN,3,group stage
+d52279b1-f4bd-5228-862f-a0a23d6cd16d,2006 FIFA Men's World Cup,fc0455f9-aa03-5b3d-9b41-41854289e993,Poland,POL,3,group stage
+eae9dec6-fcb0-5343-8f9b-c07e3895e50a,2007 FIFA Women's World Cup,10913c23-6023-563d-94df-9b4fb66c3432,United States,USA,6,third-place match
+eae9dec6-fcb0-5343-8f9b-c07e3895e50a,2007 FIFA Women's World Cup,11240419-821b-5fbb-bf15-4906f40e3951,New Zealand,NZL,3,group stage
+eae9dec6-fcb0-5343-8f9b-c07e3895e50a,2007 FIFA Women's World Cup,1234d812-2e40-561b-90a3-ed4f9e66bd63,Canada,CAN,3,group stage
+eae9dec6-fcb0-5343-8f9b-c07e3895e50a,2007 FIFA Women's World Cup,187544dc-4b46-5bf6-a079-e124899a9090,Norway,NOR,6,third-place match
+eae9dec6-fcb0-5343-8f9b-c07e3895e50a,2007 FIFA Women's World Cup,230373b7-3a16-506a-b5f6-acc37d7e801d,Japan,JPN,3,group stage
+eae9dec6-fcb0-5343-8f9b-c07e3895e50a,2007 FIFA Women's World Cup,2d9898be-ff8f-55ef-a86e-167bdeaf3cc6,Australia,AUS,4,quarter-finals
+eae9dec6-fcb0-5343-8f9b-c07e3895e50a,2007 FIFA Women's World Cup,3611e724-8c08-5f63-b63d-e1cad6af784c,Sweden,SWE,3,group stage
+eae9dec6-fcb0-5343-8f9b-c07e3895e50a,2007 FIFA Women's World Cup,43c1aac8-fa85-5e16-ba9c-4cfdcbc975b8,England,ENG,4,quarter-finals
+eae9dec6-fcb0-5343-8f9b-c07e3895e50a,2007 FIFA Women's World Cup,498c5353-84ca-5f1c-8d71-0ae02196227c,Brazil,BRA,6,final
+eae9dec6-fcb0-5343-8f9b-c07e3895e50a,2007 FIFA Women's World Cup,55f8040d-0098-5415-abdf-66098ef3bbee,Ghana,GHA,3,group stage
+eae9dec6-fcb0-5343-8f9b-c07e3895e50a,2007 FIFA Women's World Cup,58ce2aac-d181-51c6-9f50-fc3e8643d0e1,North Korea,PRK,4,quarter-finals
+eae9dec6-fcb0-5343-8f9b-c07e3895e50a,2007 FIFA Women's World Cup,933a103d-d9d7-57a3-9c4a-fbc81d25a266,Argentina,ARG,3,group stage
+eae9dec6-fcb0-5343-8f9b-c07e3895e50a,2007 FIFA Women's World Cup,93542d8e-8aca-5c07-ad21-5c493fdf083e,China,CHN,4,quarter-finals
+eae9dec6-fcb0-5343-8f9b-c07e3895e50a,2007 FIFA Women's World Cup,dfb099cc-e7ea-5e4f-b492-bdbf6e8e179b,Denmark,DNK,3,group stage
+eae9dec6-fcb0-5343-8f9b-c07e3895e50a,2007 FIFA Women's World Cup,eff0a856-a340-5ec8-84e8-121552da2cda,Germany,DEU,6,final
+eae9dec6-fcb0-5343-8f9b-c07e3895e50a,2007 FIFA Women's World Cup,f201a6b5-a9f6-5612-947b-a6a57d2e7e18,Nigeria,NGA,3,group stage
+f8183740-0c58-50c1-98eb-1bb1e1148304,1934 FIFA Men's World Cup,10913c23-6023-563d-94df-9b4fb66c3432,United States,USA,1,round of 16
+f8183740-0c58-50c1-98eb-1bb1e1148304,1934 FIFA Men's World Cup,3611e724-8c08-5f63-b63d-e1cad6af784c,Sweden,SWE,2,quarter-finals
+f8183740-0c58-50c1-98eb-1bb1e1148304,1934 FIFA Men's World Cup,3aa56241-3868-505a-ac6a-753aefa79cc2,Belgium,BEL,1,round of 16
+f8183740-0c58-50c1-98eb-1bb1e1148304,1934 FIFA Men's World Cup,3d11f07c-c004-508d-9001-6f944119b2b0,France,FRA,1,round of 16
+f8183740-0c58-50c1-98eb-1bb1e1148304,1934 FIFA Men's World Cup,498c5353-84ca-5f1c-8d71-0ae02196227c,Brazil,BRA,1,round of 16
+f8183740-0c58-50c1-98eb-1bb1e1148304,1934 FIFA Men's World Cup,5b16dd9d-d19c-5484-bac2-f9e932dddd29,Spain,ESP,3,quarter-finals
+f8183740-0c58-50c1-98eb-1bb1e1148304,1934 FIFA Men's World Cup,8e63ee49-fbde-5478-a093-1a6a679cc27f,Austria,AUT,4,third-place match
+f8183740-0c58-50c1-98eb-1bb1e1148304,1934 FIFA Men's World Cup,933a103d-d9d7-57a3-9c4a-fbc81d25a266,Argentina,ARG,1,round of 16
+f8183740-0c58-50c1-98eb-1bb1e1148304,1934 FIFA Men's World Cup,a260026d-34b5-5fdf-8896-fd8997f096b9,Switzerland,CHE,2,quarter-finals
+f8183740-0c58-50c1-98eb-1bb1e1148304,1934 FIFA Men's World Cup,a42d3d6a-78dd-5ae6-8408-079a857a7c30,Italy,ITA,5,final
+f8183740-0c58-50c1-98eb-1bb1e1148304,1934 FIFA Men's World Cup,cf23603f-09d6-52e6-9c7e-fb8db4554297,Czechoslovakia,CSK,4,final
+f8183740-0c58-50c1-98eb-1bb1e1148304,1934 FIFA Men's World Cup,d499d28a-dd42-5133-8e29-23835731f4ea,Egypt,EGY,1,round of 16
+f8183740-0c58-50c1-98eb-1bb1e1148304,1934 FIFA Men's World Cup,d522b940-a152-5cc7-bcb3-89e28a1ce459,Netherlands,NLD,1,round of 16
+f8183740-0c58-50c1-98eb-1bb1e1148304,1934 FIFA Men's World Cup,da4d79d5-3e18-54b9-916c-997fdef9a796,Romania,ROU,1,round of 16
+f8183740-0c58-50c1-98eb-1bb1e1148304,1934 FIFA Men's World Cup,eff0a856-a340-5ec8-84e8-121552da2cda,Germany,DEU,4,third-place match
+f8183740-0c58-50c1-98eb-1bb1e1148304,1934 FIFA Men's World Cup,f16b7d5c-db54-5b27-b827-e848a3035641,Hungary,HUN,2,quarter-finals
+f97aa139-2102-5d5d-adbe-eb5f91a07de6,1962 FIFA Men's World Cup,3de13983-4604-5a8d-b39c-08d4f279a06b,Colombia,COL,3,group stage
+f97aa139-2102-5d5d-adbe-eb5f91a07de6,1962 FIFA Men's World Cup,43c1aac8-fa85-5e16-ba9c-4cfdcbc975b8,England,ENG,4,quarter-finals
+f97aa139-2102-5d5d-adbe-eb5f91a07de6,1962 FIFA Men's World Cup,498c5353-84ca-5f1c-8d71-0ae02196227c,Brazil,BRA,6,final
+f97aa139-2102-5d5d-adbe-eb5f91a07de6,1962 FIFA Men's World Cup,5b16dd9d-d19c-5484-bac2-f9e932dddd29,Spain,ESP,3,group stage
+f97aa139-2102-5d5d-adbe-eb5f91a07de6,1962 FIFA Men's World Cup,6c983d26-03e1-5649-a13f-42b61e101a0e,Soviet Union,SUN,4,quarter-finals
+f97aa139-2102-5d5d-adbe-eb5f91a07de6,1962 FIFA Men's World Cup,879c1298-9904-5b96-8f25-5e7d455ae2ec,Chile,CHL,6,third-place match
+f97aa139-2102-5d5d-adbe-eb5f91a07de6,1962 FIFA Men's World Cup,933a103d-d9d7-57a3-9c4a-fbc81d25a266,Argentina,ARG,3,group stage
+f97aa139-2102-5d5d-adbe-eb5f91a07de6,1962 FIFA Men's World Cup,9a9be60e-89da-590c-95a8-6e5802b5deb5,Yugoslavia,YUG,6,third-place match
+f97aa139-2102-5d5d-adbe-eb5f91a07de6,1962 FIFA Men's World Cup,a260026d-34b5-5fdf-8896-fd8997f096b9,Switzerland,CHE,3,group stage
+f97aa139-2102-5d5d-adbe-eb5f91a07de6,1962 FIFA Men's World Cup,a42d3d6a-78dd-5ae6-8408-079a857a7c30,Italy,ITA,3,group stage
+f97aa139-2102-5d5d-adbe-eb5f91a07de6,1962 FIFA Men's World Cup,adbcf28f-5f27-56bd-bca0-909cf77a8ae0,West Germany,DEU,4,quarter-finals
+f97aa139-2102-5d5d-adbe-eb5f91a07de6,1962 FIFA Men's World Cup,c832b30c-2750-5a24-a66f-cf9ea7c20a5c,Mexico,MEX,3,group stage
+f97aa139-2102-5d5d-adbe-eb5f91a07de6,1962 FIFA Men's World Cup,cf23603f-09d6-52e6-9c7e-fb8db4554297,Czechoslovakia,CSK,6,final
+f97aa139-2102-5d5d-adbe-eb5f91a07de6,1962 FIFA Men's World Cup,f16b7d5c-db54-5b27-b827-e848a3035641,Hungary,HUN,4,quarter-finals
+f97aa139-2102-5d5d-adbe-eb5f91a07de6,1962 FIFA Men's World Cup,f4b41163-3c82-5e1e-af54-e7ecc8a15135,Bulgaria,BGR,3,group stage
+f97aa139-2102-5d5d-adbe-eb5f91a07de6,1962 FIFA Men's World Cup,f8764a69-de29-59f5-8e79-715c4bf88a11,Uruguay,URY,3,group stage
+fbe31e5e-d2a1-50dd-a5ca-93784ee9f889,1998 FIFA Men's World Cup,0db8bc49-3546-517c-af2c-7abd04ae2214,Croatia,HRV,7,third-place match
+fbe31e5e-d2a1-50dd-a5ca-93784ee9f889,1998 FIFA Men's World Cup,10913c23-6023-563d-94df-9b4fb66c3432,United States,USA,3,group stage
+fbe31e5e-d2a1-50dd-a5ca-93784ee9f889,1998 FIFA Men's World Cup,13a7a10d-674d-5be2-bdfa-a0e18b0b6b04,Jamaica,JAM,3,group stage
+fbe31e5e-d2a1-50dd-a5ca-93784ee9f889,1998 FIFA Men's World Cup,187544dc-4b46-5bf6-a079-e124899a9090,Norway,NOR,4,round of 16
+fbe31e5e-d2a1-50dd-a5ca-93784ee9f889,1998 FIFA Men's World Cup,230373b7-3a16-506a-b5f6-acc37d7e801d,Japan,JPN,3,group stage
+fbe31e5e-d2a1-50dd-a5ca-93784ee9f889,1998 FIFA Men's World Cup,265f639f-c7d5-5ca2-b708-b0995f6c2b89,Morocco,MAR,3,group stage
+fbe31e5e-d2a1-50dd-a5ca-93784ee9f889,1998 FIFA Men's World Cup,3aa56241-3868-505a-ac6a-753aefa79cc2,Belgium,BEL,3,group stage
+fbe31e5e-d2a1-50dd-a5ca-93784ee9f889,1998 FIFA Men's World Cup,3d11f07c-c004-508d-9001-6f944119b2b0,France,FRA,7,final
+fbe31e5e-d2a1-50dd-a5ca-93784ee9f889,1998 FIFA Men's World Cup,3de13983-4604-5a8d-b39c-08d4f279a06b,Colombia,COL,3,group stage
+fbe31e5e-d2a1-50dd-a5ca-93784ee9f889,1998 FIFA Men's World Cup,43c1aac8-fa85-5e16-ba9c-4cfdcbc975b8,England,ENG,4,round of 16
+fbe31e5e-d2a1-50dd-a5ca-93784ee9f889,1998 FIFA Men's World Cup,498c5353-84ca-5f1c-8d71-0ae02196227c,Brazil,BRA,7,final
+fbe31e5e-d2a1-50dd-a5ca-93784ee9f889,1998 FIFA Men's World Cup,5b16dd9d-d19c-5484-bac2-f9e932dddd29,Spain,ESP,3,group stage
+fbe31e5e-d2a1-50dd-a5ca-93784ee9f889,1998 FIFA Men's World Cup,83f65ffa-c76e-5ace-8c09-c87d141a3916,South Korea,KOR,3,group stage
+fbe31e5e-d2a1-50dd-a5ca-93784ee9f889,1998 FIFA Men's World Cup,879c1298-9904-5b96-8f25-5e7d455ae2ec,Chile,CHL,4,round of 16
+fbe31e5e-d2a1-50dd-a5ca-93784ee9f889,1998 FIFA Men's World Cup,8cca4b99-7e47-5808-9e58-9803329fa50a,Saudi Arabia,SAU,3,group stage
+fbe31e5e-d2a1-50dd-a5ca-93784ee9f889,1998 FIFA Men's World Cup,8e63ee49-fbde-5478-a093-1a6a679cc27f,Austria,AUT,3,group stage
+fbe31e5e-d2a1-50dd-a5ca-93784ee9f889,1998 FIFA Men's World Cup,933a103d-d9d7-57a3-9c4a-fbc81d25a266,Argentina,ARG,5,quarter-finals
+fbe31e5e-d2a1-50dd-a5ca-93784ee9f889,1998 FIFA Men's World Cup,9678d2a4-5323-5082-b115-575366fb384a,Paraguay,PRY,4,round of 16
+fbe31e5e-d2a1-50dd-a5ca-93784ee9f889,1998 FIFA Men's World Cup,9a9be60e-89da-590c-95a8-6e5802b5deb5,Yugoslavia,YUG,4,round of 16
+fbe31e5e-d2a1-50dd-a5ca-93784ee9f889,1998 FIFA Men's World Cup,a42d3d6a-78dd-5ae6-8408-079a857a7c30,Italy,ITA,5,quarter-finals
+fbe31e5e-d2a1-50dd-a5ca-93784ee9f889,1998 FIFA Men's World Cup,b627769a-7468-5b82-85ee-a38f3d71a3c6,Tunisia,TUN,3,group stage
+fbe31e5e-d2a1-50dd-a5ca-93784ee9f889,1998 FIFA Men's World Cup,c832b30c-2750-5a24-a66f-cf9ea7c20a5c,Mexico,MEX,4,round of 16
+fbe31e5e-d2a1-50dd-a5ca-93784ee9f889,1998 FIFA Men's World Cup,d522b940-a152-5cc7-bcb3-89e28a1ce459,Netherlands,NLD,7,third-place match
+fbe31e5e-d2a1-50dd-a5ca-93784ee9f889,1998 FIFA Men's World Cup,da4d79d5-3e18-54b9-916c-997fdef9a796,Romania,ROU,4,round of 16
+fbe31e5e-d2a1-50dd-a5ca-93784ee9f889,1998 FIFA Men's World Cup,dfb099cc-e7ea-5e4f-b492-bdbf6e8e179b,Denmark,DNK,5,quarter-finals
+fbe31e5e-d2a1-50dd-a5ca-93784ee9f889,1998 FIFA Men's World Cup,e77d250a-1cec-5627-adc4-3cf95c7c0972,South Africa,ZAF,3,group stage
+fbe31e5e-d2a1-50dd-a5ca-93784ee9f889,1998 FIFA Men's World Cup,eb88a8cc-be5e-5116-8926-ba595504709a,Cameroon,CMR,3,group stage
+fbe31e5e-d2a1-50dd-a5ca-93784ee9f889,1998 FIFA Men's World Cup,eff0a856-a340-5ec8-84e8-121552da2cda,Germany,DEU,5,quarter-finals
+fbe31e5e-d2a1-50dd-a5ca-93784ee9f889,1998 FIFA Men's World Cup,f201a6b5-a9f6-5612-947b-a6a57d2e7e18,Nigeria,NGA,4,round of 16
+fbe31e5e-d2a1-50dd-a5ca-93784ee9f889,1998 FIFA Men's World Cup,f22d85b4-6cde-5f4e-8119-b3b69a2ba879,Iran,IRN,3,group stage
+fbe31e5e-d2a1-50dd-a5ca-93784ee9f889,1998 FIFA Men's World Cup,f4b41163-3c82-5e1e-af54-e7ecc8a15135,Bulgaria,BGR,3,group stage
+fbe31e5e-d2a1-50dd-a5ca-93784ee9f889,1998 FIFA Men's World Cup,fc2ce361-82ed-537a-85f1-ff8f384d11b1,Scotland,SCO,3,group stage

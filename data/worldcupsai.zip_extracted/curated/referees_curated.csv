@@ -1,0 +1,508 @@
+referee_id,family_name,given_name,male,female,country_name,confederation_id,confederation_name,confederation_code,wikipedia_link_referee
+103f6956-7121-504b-ba65-050d6072a394,Abdel-Fatah,Essam,TRUE,FALSE,Egypt,d7bd58d8-3349-543e-a891-dc0ac15c3d92,Confederation of African Football,CAF,https://en.wikipedia.org/wiki/Essam_Abd_El_Fatah
+3d234ecd-c645-5c02-a571-67162909caf4,Abidoye,Bola Elizabeth,FALSE,TRUE,Nigeria,d7bd58d8-3349-543e-a891-dc0ac15c3d92,Confederation of African Football,CAF,
+a8ce2495-ab73-569b-9af3-6e18d01e66dc,Adair,John,TRUE,FALSE,Northern Ireland,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,
+6165c24c-ba65-56fa-8fde-c8fad016c7f9,Adámková,Jana,FALSE,TRUE,Czech Republic,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Jana_Ad%C3%A1mkov%C3%A1
+c34db10b-7d27-5936-8f98-9fb97278bd33,Agboyi,Xonam,FALSE,TRUE,Togo,d7bd58d8-3349-543e-a891-dc0ac15c3d92,Confederation of African Football,CAF,
+d50b3e10-6899-5e29-b87c-f0af516fc02c,Agnolin,Luigi,TRUE,FALSE,Italy,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Luigi_Agnolin
+6effe362-dd72-59f9-be71-c4bb20a5d810,Aguilar,Joel,TRUE,FALSE,El Salvador,2e2e8de6-629d-52db-ae57-a59213b1e0ed,"Confederation of North, Central American and Caribbean Association Football",CONCACAF,https://en.wikipedia.org/wiki/Joel_Aguilar
+eeeb203b-2d1f-5abd-9bfe-184a380d765b,Aguilar Elizalde,Abel,TRUE,FALSE,Mexico,2e2e8de6-629d-52db-ae57-a59213b1e0ed,"Confederation of North, Central American and Caribbean Association Football",CONCACAF,
+c636539a-8660-5255-a579-43b5fd7c8670,Ahlner,Sten,TRUE,FALSE,Sweden,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,
+e901bb60-d75c-5ba5-bb56-549fa47f06c7,Al-Doy,Ibrahim Youssef,TRUE,FALSE,Bahrain,6349fd9d-fd40-5a60-9e90-8ff953842334,Asian Football Confederation,AFC,https://en.wikipedia.org/wiki/Ibrahim_Youssef_Al-Doy
+0ab72bd5-be18-5e08-b7fb-a581927f2770,Al-Ghamdi,Khalil,TRUE,FALSE,Saudi Arabia,6349fd9d-fd40-5a60-9e90-8ff953842334,Asian Football Confederation,AFC,https://en.wikipedia.org/wiki/Khalil_Al_Ghamdi
+1eff1e02-b415-5fad-893b-910ac45561e7,Al-Ghandour,Gamal,TRUE,FALSE,Egypt,d7bd58d8-3349-543e-a891-dc0ac15c3d92,Confederation of African Football,CAF,https://en.wikipedia.org/wiki/Gamal_Al-Ghandour
+10a4f6d0-d2c2-5b4e-b225-63e611c6ea3f,Al-Jassim,Abdulrahman,TRUE,FALSE,Qatar,6349fd9d-fd40-5a60-9e90-8ff953842334,Asian Football Confederation,AFC,https://en.wikipedia.org/wiki/Abdulrahman_Al-Jassim
+f9900389-ea63-5c6d-acec-60c4b58c950b,Al-Shanar,Fallaj,TRUE,FALSE,Saudi Arabia,6349fd9d-fd40-5a60-9e90-8ff953842334,Asian Football Confederation,AFC,https://en.wikipedia.org/wiki/Fallaj_Al_Shanar
+fbfcf383-dd9b-5c7b-8f61-e4b47c948563,Al-Sharif,Jamal,TRUE,FALSE,Syria,6349fd9d-fd40-5a60-9e90-8ff953842334,Asian Football Confederation,AFC,https://en.wikipedia.org/wiki/Jamal_Al_Sharif
+dcc96dd5-44a8-516b-b481-1bd9a28cfd26,Albon,Teodora,FALSE,TRUE,Romania,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Teodora_Albon
+28e5a387-310f-56dd-a033-b3d51b0fb271,Alghoul,Yousef,TRUE,FALSE,Libya,d7bd58d8-3349-543e-a891-dc0ac15c3d92,Confederation of African Football,CAF,https://en.wikipedia.org/wiki/Yousef_Alghoul
+5cdd5d87-28d5-5942-9c31-c6d6a909083c,Alvarado,Quetzalli,FALSE,TRUE,Mexico,2e2e8de6-629d-52db-ae57-a59213b1e0ed,"Confederation of North, Central American and Caribbean Association Football",CONCACAF,
+e86967cc-dfd8-5e5a-b20c-212019a0df4a,Alves Batista,Edina,FALSE,TRUE,Brazil,55033925-8eba-5786-bcca-ede2388a87b4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Edina_Alves_Batista
+8af2cff6-87ec-510c-8b1f-034a57ddfc3a,Amarilla,Carlos,TRUE,FALSE,Paraguay,55033925-8eba-5786-bcca-ede2388a87b4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Carlos_Amarilla
+0a06dad4-485b-5221-ae97-30cf293362ad,Amedome,Vincentia,FALSE,TRUE,Togo,d7bd58d8-3349-543e-a891-dc0ac15c3d92,Confederation of African Football,CAF,
+e4b764b2-e73e-51e6-ba74-5dc4cd7a1304,Angeles,Arturo,TRUE,FALSE,United States,2e2e8de6-629d-52db-ae57-a59213b1e0ed,"Confederation of North, Central American and Caribbean Association Football",CONCACAF,https://en.wikipedia.org/wiki/Arturo_Angeles
+a28461f2-754c-54ff-8768-e442328609a1,Angonese,Aurelio,TRUE,FALSE,Italy,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,
+f075b386-c191-57a1-8393-d33c89571efa,Aquino,Ubaldo,TRUE,FALSE,Paraguay,55033925-8eba-5786-bcca-ede2388a87b4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Ubaldo_Aquino
+68140538-5d35-592b-aa56-1cbc0803a7a1,Archundia,Benito,TRUE,FALSE,Mexico,2e2e8de6-629d-52db-ae57-a59213b1e0ed,"Confederation of North, Central American and Caribbean Association Football",CONCACAF,https://en.wikipedia.org/wiki/Benito_Archundia
+ddb3975d-a731-596a-bbae-d694da61a0ca,Aristizábal,Gilberto,TRUE,FALSE,Colombia,55033925-8eba-5786-bcca-ede2388a87b4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Gilberto_Aristiz%C3%A1bal
+5cc63511-1fc9-5e01-bab5-524656df3458,Arppi Filho,Romualdo,TRUE,FALSE,Brazil,55033925-8eba-5786-bcca-ede2388a87b4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Romualdo_Arppi_Filho
+3555d9f8-cab3-59ea-ab93-64cbc6c06b94,Asensi,Manuel,TRUE,FALSE,Spain,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,
+27def076-ce78-51d7-a481-aeaa0673a829,Ashkenazi,Menachem,TRUE,FALSE,Israel,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Menachem_Ashkenazi
+5ce35f01-9a82-5424-9a20-80149e7909c1,Aston,Kenneth,TRUE,FALSE,England,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Ken_Aston
+87110dbc-b6a5-5ff0-8f49-cfe3fab931df,Azón Romá,Ramón,TRUE,FALSE,Spain,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,
+6078b3b6-802e-52a8-9bff-559751bec809,Babacan,Doğan,TRUE,FALSE,Turkey,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Do%C4%9Fan_Babacan
+652f62aa-eb77-5c85-86e3-88fb3d17161b,Badilla,Rodrigo,TRUE,FALSE,Costa Rica,2e2e8de6-629d-52db-ae57-a59213b1e0ed,"Confederation of North, Central American and Caribbean Association Football",CONCACAF,https://en.wikipedia.org/wiki/Rodrigo_Badilla
+b4ca43bc-21c5-5203-a422-d0787263a5e8,Baert,Louis,TRUE,FALSE,Belgium,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Louis_Baert
+15120e0a-ea55-5f8a-9fc4-955e2d12a2ff,Baharmast,Esfandiar,TRUE,FALSE,United States,2e2e8de6-629d-52db-ae57-a59213b1e0ed,"Confederation of North, Central American and Caribbean Association Football",CONCACAF,https://en.wikipedia.org/wiki/Esfandiar_Baharmast
+945afb78-8afe-53c6-ae35-684c24096e03,Bahramov,Tofiq,TRUE,FALSE,Soviet Union,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Tofiq_Bahramov
+fd661754-3348-5cf4-b908-23d2e9981443,Baldas,Fabio,TRUE,FALSE,Italy,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Fabio_Baldas
+a05b8cc3-c653-5995-b57d-9a6c4d288118,Baldassi,Héctor,TRUE,FALSE,Argentina,55033925-8eba-5786-bcca-ede2388a87b4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/H%C3%A9ctor_Baldassi
+c54d3a84-c04a-5dcb-b468-0f5bd16d659b,Balvay,Thomas,TRUE,FALSE,France,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Thomas_Balvay
+fdc5b52c-72de-5aa7-90fd-0893da8966cd,Bambridge,Chris,TRUE,FALSE,Australia,6349fd9d-fd40-5a60-9e90-8ff953842334,Asian Football Confederation,AFC,https://en.wikipedia.org/wiki/Chris_Bambridge
+08dd76bc-1b25-5884-9dc0-01cf3a2121aa,Barlassina,Rinaldo,TRUE,FALSE,Italy,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Rinaldo_Barlassina
+140b92a3-fc6b-5fab-adbb-130e3ede93b4,Barrancos,Luis,TRUE,FALSE,Bolivia,55033925-8eba-5786-bcca-ede2388a87b4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Luis_Barrancos
+ab4a8572-ecef-5895-b3b5-72a243896612,Barreto Ruíz,Ramón,TRUE,FALSE,Uruguay,55033925-8eba-5786-bcca-ede2388a87b4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Ram%C3%B3n_Barreto
+6718d560-b736-5841-b758-12843832e074,Barton,Iván,TRUE,FALSE,El Salvador,2e2e8de6-629d-52db-ae57-a59213b1e0ed,"Confederation of North, Central American and Caribbean Association Football",CONCACAF,https://en.wikipedia.org/wiki/Iván_Barton
+9aa051ce-0598-5c67-b463-bf4450877581,Batres,Carlos Alberto,TRUE,FALSE,Guatemala,2e2e8de6-629d-52db-ae57-a59213b1e0ed,"Confederation of North, Central American and Caribbean Association Football",CONCACAF,https://en.wikipedia.org/wiki/Carlos_Alberto_Batres
+6f6b60be-6b7e-5f0e-a07c-c7b2b18ca8c9,Batta,Marc,TRUE,FALSE,France,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Marc_Batta
+7cb07148-58e0-515c-a246-301d87bb82f2,Beath,Chris,TRUE,FALSE,Australia,6349fd9d-fd40-5a60-9e90-8ff953842334,Asian Football Confederation,AFC,https://en.wikipedia.org/wiki/Chris_Beath
+f17a95f8-05f4-5ca2-b802-116fee3fa64f,Beaudoin,Marie-Soleil,FALSE,TRUE,Canada,2e2e8de6-629d-52db-ae57-a59213b1e0ed,"Confederation of North, Central American and Caribbean Association Football",CONCACAF,https://en.wikipedia.org/wiki/Marie-Soleil_Beaudoin
+01bcf209-9fde-5583-8f6c-3bdff7f09576,Beck,Christine,FALSE,TRUE,Germany,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Christine_Baitinger
+a083257e-d2dd-5ed1-971b-6f76d07b4755,Belqola,Said,TRUE,FALSE,Morocco,d7bd58d8-3349-543e-a891-dc0ac15c3d92,Confederation of African Football,CAF,https://en.wikipedia.org/wiki/Said_Belqola
+bad1acc5-0213-5782-86b0-e427a56d022e,Benkö,Günter,TRUE,FALSE,Austria,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/G%C3%BCnter_Benk%C3%B6
+96689d5d-c1ac-5ca0-bac2-fe323fa60e97,Bennett,Jennifer,FALSE,TRUE,United States,2e2e8de6-629d-52db-ae57-a59213b1e0ed,"Confederation of North, Central American and Caribbean Association Football",CONCACAF,
+04c26ff1-57a0-5d17-88c8-36ac7f5c50af,Benquerença,Olegário,TRUE,FALSE,Portugal,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Oleg%C3%A1rio_Benqueren%C3%A7a
+27d31860-d517-50f1-9664-d75ce2805fcc,Beranek,Alois,TRUE,FALSE,Austria,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Alois_Beranek
+a05a8ec0-53e6-5d42-bc68-6b4ba0dfc293,Bin Nasser,Ali,TRUE,FALSE,Tunisia,d7bd58d8-3349-543e-a891-dc0ac15c3d92,Confederation of African Football,CAF,https://en.wikipedia.org/wiki/Ali_Bin_Nasser
+5b3ede95-0544-5268-8b13-f8152ea4216d,Birlem,Alfred,TRUE,FALSE,Germany,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,
+7574d838-339a-5d67-b703-e07ed2ec93f8,Biwersi,Ferdinand,TRUE,FALSE,West Germany,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Ferdinand_Biwersi
+f08b7c1d-24fb-522d-960e-38356e05c84b,Black,Linda May,FALSE,TRUE,New Zealand,af3baf15-a112-506c-a9a3-872a8414a8e2,Oceania Football Confederation,OFC,
+49afe004-3b47-5ed4-8ce4-1b9c73b7fd06,Blavier,Antoine,TRUE,FALSE,Belgium,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Antoine_Blavier
+90b84121-71bc-5ee7-95d4-8891670a78f0,Borjas,Melissa,FALSE,TRUE,Honduras,2e2e8de6-629d-52db-ae57-a59213b1e0ed,"Confederation of North, Central American and Caribbean Association Football",CONCACAF,https://en.wikipedia.org/wiki/Melissa_Borjas
+9e14a050-efd3-5712-aafb-7391ff9fb94e,Boskovic,Tony,TRUE,FALSE,Australia,6349fd9d-fd40-5a60-9e90-8ff953842334,Asian Football Confederation,AFC,https://en.wikipedia.org/wiki/Tony_Boskovic
+291c54e6-493f-5073-93a3-9da64b895398,Boucetta,Fethi,TRUE,FALSE,Tunisia,d7bd58d8-3349-543e-a891-dc0ac15c3d92,Confederation of African Football,CAF,
+1caa804a-2cb6-57cb-af8c-0583d98898d3,Bouchardeau,Lucien,TRUE,FALSE,Niger,d7bd58d8-3349-543e-a891-dc0ac15c3d92,Confederation of African Football,CAF,https://en.wikipedia.org/wiki/Lucien_Bouchardeau
+146c82a1-af35-5861-8382-6998b844a054,Bouzo,Farouk,TRUE,FALSE,Syria,6349fd9d-fd40-5a60-9e90-8ff953842334,Asian Football Confederation,AFC,https://en.wikipedia.org/wiki/Farouk_Bouzo
+f6d82344-7d8b-5077-803b-1c2a11b37692,Braun,Eugen,TRUE,FALSE,Austria,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,
+c74ee624-453f-59bb-b9eb-584ee618a167,Braz,Sandra,FALSE,TRUE,Portugal,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Sandra_Braz
+0c0964d4-7628-587b-a0f2-cbb82d502d64,Brizio Carter,Arturo,TRUE,FALSE,Mexico,2e2e8de6-629d-52db-ae57-a59213b1e0ed,"Confederation of North, Central American and Caribbean Association Football",CONCACAF,https://en.wikipedia.org/wiki/Arturo_Brizio_Carter
+6fc19e80-8bc2-5663-bd9e-1fdb9639da01,Bronkhorst,Jan,TRUE,FALSE,Netherlands,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,
+8c00ae2f-ed04-5102-96df-1518cbfa9a88,Brummeier,Horst,TRUE,FALSE,Austria,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Horst_Brummeier
+ef18b513-395a-5e23-b37f-848039baee88,Brych,Felix,TRUE,FALSE,Germany,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Felix_Brych
+cc2ee577-6423-570e-8569-50e1fd271b5b,Bujsaim,Ali,TRUE,FALSE,United Arab Emirates,6349fd9d-fd40-5a60-9e90-8ff953842334,Asian Football Confederation,AFC,https://en.wikipedia.org/wiki/Ali_Bujsaim
+54d0e0e8-b719-58c1-9ae9-998076b32097,Busacca,Massimo,TRUE,FALSE,Switzerland,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Massimo_Busacca
+5b425033-1087-5014-87bd-9ade5d40ab3b,Bustamante,Sergio,TRUE,FALSE,Chile,55033925-8eba-5786-bcca-ede2388a87b4,South American Football Confederation,CONMEBOL,
+52525191-7963-5db0-a170-18be1ecd3443,Butenko,Valeri,TRUE,FALSE,Soviet Union,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Valeri_Butenko
+37215c21-89ea-54b1-bfe3-135702cccc6a,Calderas,Emikar,FALSE,TRUE,Venezuela,55033925-8eba-5786-bcca-ede2388a87b4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Emikar_Calderas
+f86d254e-1c7c-54d2-86f1-f816c3fa4554,Callaghan,Leo,TRUE,FALSE,Wales,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Leo_Callaghan
+ab6cb91f-b48c-5a2e-9de2-f6581fe511bb,Camara,Engage,TRUE,FALSE,Guinea,d7bd58d8-3349-543e-a891-dc0ac15c3d92,Confederation of African Football,CAF,
+4b8b9662-bbcb-543c-a3f7-44d391a37677,Campos,Joaquim,TRUE,FALSE,Portugal,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,
+56f385a5-44b8-57ea-849f-5238b83e62a4,Capdeville,Georges,TRUE,FALSE,France,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Georges_Capdeville
+f4cc7962-9150-5fad-953f-95fa1f563077,Cardellino,Juan Daniel,TRUE,FALSE,Uruguay,55033925-8eba-5786-bcca-ede2388a87b4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Juan_Daniel_Cardellino
+7a42c487-9533-5ace-a377-b7173fc3b237,Carraro,Albino,TRUE,FALSE,Italy,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,
+14d8f51c-9d39-54dc-a91c-bea4cb8506d3,Carvajal,María,FALSE,TRUE,Chile,55033925-8eba-5786-bcca-ede2388a87b4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Mar%C3%ADa_Carvajal
+7956cf1b-4cbc-5055-a850-a4a6ce072ef6,Casarin,Paolo,TRUE,FALSE,Italy,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Paolo_Casarin
+167b7fd9-0df7-5a83-957b-f6460b4464d0,Castrilli,Javier,TRUE,FALSE,Argentina,55033925-8eba-5786-bcca-ede2388a87b4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Javier_Castrilli
+3f1916d9-feee-565e-a5c7-2f08f0524b37,Castro,Gastón,TRUE,FALSE,Chile,55033925-8eba-5786-bcca-ede2388a87b4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Gast%C3%B3n_Castro
+53cd3b8e-a6bd-5320-8264-94fa00e32a5f,Cavani,Filippi,TRUE,FALSE,Uruguay,55033925-8eba-5786-bcca-ede2388a87b4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Filippi_Cavani
+97d239a1-d474-5e63-8f55-371bbc0b7b2b,Cha,Sung-mi,FALSE,TRUE,South Korea,6349fd9d-fd40-5a60-9e90-8ff953842334,Asian Football Confederation,AFC,
+98c5574b-efc2-52a0-aa40-ff5896b4247f,Chan,Tam Sun,TRUE,FALSE,Hong Kong,6349fd9d-fd40-5a60-9e90-8ff953842334,Asian Football Confederation,AFC,https://en.wikipedia.org/wiki/Thomson_Chan
+d4735a6e-687c-5e8c-ae4c-e9f65f61b1a1,Chenard,Carol Anne,FALSE,TRUE,Canada,2e2e8de6-629d-52db-ae57-a59213b1e0ed,"Confederation of North, Central American and Caribbean Association Football",CONCACAF,
+6c6ea497-7baf-5d0b-95d3-12cbf2d4965a,Christophe,Henri,TRUE,FALSE,Belgium,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Henri_Christophe_(referee)
+a8570a3f-83db-55e2-a865-f75a31045296,Christov,Vojtěch,TRUE,FALSE,Czechoslovakia,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Vojt%C4%9Bch_Christov
+fe732be0-3ae5-503d-a02b-011bfcd16b65,Claus,Raphael,TRUE,FALSE,Brazil,55033925-8eba-5786-bcca-ede2388a87b4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Raphael_Claus
+d8e42fae-a053-5938-8ae2-bd127e011165,Codesal,Edgardo,TRUE,FALSE,Mexico,2e2e8de6-629d-52db-ae57-a59213b1e0ed,"Confederation of North, Central American and Caribbean Association Football",CONCACAF,https://en.wikipedia.org/wiki/Edgardo_Codesal
+9d03534b-33d0-50d3-af57-94d20e6278d2,Codesal,José María,TRUE,FALSE,Uruguay,55033925-8eba-5786-bcca-ede2388a87b4,South American Football Confederation,CONMEBOL,
+fa52b075-7bbd-5099-8f48-4fb6ef343b1a,Codjia,Coffi,TRUE,FALSE,Benin,6349fd9d-fd40-5a60-9e90-8ff953842334,Asian Football Confederation,AFC,https://en.wikipedia.org/wiki/Coffi_Codjia
+a85da07f-7621-530d-addb-b7083db26a0d,Coelho,Arnaldo Cézar,TRUE,FALSE,Brazil,55033925-8eba-5786-bcca-ede2388a87b4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Arnaldo_C%C3%A9zar_Coelho
+a11aeea8-0a45-5c19-af6a-9497b7d6f12c,Collina,Pierluigi,TRUE,FALSE,Italy,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Pierluigi_Collina
+e5380deb-bba6-5fee-96c3-c9b5eb2d82c1,Conger,Matthew,TRUE,FALSE,New Zealand,af3baf15-a112-506c-a9a3-872a8414a8e2,Oceania Football Confederation,OFC,https://en.wikipedia.org/wiki/Matthew_Conger
+944f17bf-3f86-5ac4-959d-d094734eb811,Conrié,Roger,TRUE,FALSE,France,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,
+47af5f2e-481f-57e9-ac94-8dc51c754427,Contreras,Marisela,FALSE,TRUE,Venezuela,55033925-8eba-5786-bcca-ede2388a87b4,South American Football Confederation,CONMEBOL,
+6f299580-56d2-5a82-9626-6dbcf7aca74d,Correa,Adriana,FALSE,TRUE,Colombia,55033925-8eba-5786-bcca-ede2388a87b4,South American Football Confederation,CONMEBOL,
+97b6780f-6759-52c5-bf73-0f6580157989,Corver,Charles,TRUE,FALSE,Netherlands,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Charles_Corver
+f3a148a0-5ec8-5fd1-864a-861e2a646ca3,Coulibaly,Koman,TRUE,FALSE,Mali,d7bd58d8-3349-543e-a891-dc0ac15c3d92,Confederation of African Football,CAF,https://en.wikipedia.org/wiki/Koman_Coulibaly
+b5499d32-4d27-54b8-bf87-c9ef1d5e0f1d,Courtney,George,TRUE,FALSE,England,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/George_Courtney
+e2286751-7e1a-5891-adc7-5d1123d5c33f,Cunha,Andrés,TRUE,FALSE,Uruguay,55033925-8eba-5786-bcca-ede2388a87b4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Andr%C3%A9s_Cunha
+9ed2bf0d-71a0-5417-ac08-07f8a761bde8,Cáceres,Enrique,TRUE,FALSE,Paraguay,55033925-8eba-5786-bcca-ede2388a87b4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Enrique_C%C3%A1ceres
+67b46155-99d7-5020-93ea-2d682c81de23,Daami,Mourad,TRUE,FALSE,Tunisia,d7bd58d8-3349-543e-a891-dc0ac15c3d92,Confederation of African Football,CAF,https://en.wikipedia.org/wiki/Mourad_Daami
+c34ba4c7-b48a-5307-ba7f-610c4684f82d,Dagnall,Ken,TRUE,FALSE,England,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Ken_Dagnall
+b75bfa7e-f09a-58ae-8261-b0f0de0888ef,Daina,André,TRUE,FALSE,Switzerland,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Andr%C3%A9_Daina
+ca3c618a-3cd2-51ba-94cb-6f3a7e52affb,Dallas,Hugh,TRUE,FALSE,Scotland,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Hugh_Dallas
+68fbd572-0d2d-5b51-b8a5-0c376160d5d9,Damková,Dagmar,FALSE,TRUE,Czech Republic,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Dagmar_Damkov%C3%A1
+dae86a4e-eb55-55c9-a617-8169bd96b558,Damon,Jerome,TRUE,FALSE,South Africa,d7bd58d8-3349-543e-a891-dc0ac15c3d92,Confederation of African Football,CAF,https://en.wikipedia.org/wiki/Jerome_Damon
+4127f792-c370-5b48-b418-bdfcefdfba4a,Dattilo,Generoso,TRUE,FALSE,Italy,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,
+d402f776-23ae-56e9-88c3-c39f319801c3,Davidson,Bobby,TRUE,FALSE,Scotland,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Bobby_Davidson
+c32e0acd-63a8-51b0-9ca5-c73d36bc7ced,De Bleeckere,Frank,TRUE,FALSE,Belgium,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Frank_De_Bleeckere
+f0217b39-0d31-5d22-861c-97acb9df3f44,De Leo,Diego,TRUE,FALSE,Mexico,2e2e8de6-629d-52db-ae57-a59213b1e0ed,"Confederation of North, Central American and Caribbean Association Football",CONCACAF,https://en.wikipedia.org/wiki/Diego_De_Leo
+937cf16c-deab-5986-8ccf-4b96f75c9d21,Delgado Gómez,Omar,TRUE,FALSE,Colombia,55033925-8eba-5786-bcca-ede2388a87b4,South American Football Confederation,CONMEBOL,
+2d65e9df-0d87-5e76-9d14-cc93c6cfe1eb,Denoncourt,Sonia,FALSE,TRUE,Canada,2e2e8de6-629d-52db-ae57-a59213b1e0ed,"Confederation of North, Central American and Caribbean Association Football",CONCACAF,https://en.wikipedia.org/wiki/Sonia_Denoncourt
+437759d3-7690-5f37-a449-f152ced08ea2,Diedhiou,Malang,TRUE,FALSE,Senegal,d7bd58d8-3349-543e-a891-dc0ac15c3d92,Confederation of African Football,CAF,https://en.wikipedia.org/wiki/Malang_Diedhiou
+077c1ac8-d850-5ba7-9af6-5a81a7cd3b14,Dienst,Gottfried,TRUE,FALSE,Switzerland,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Gottfried_Dienst
+c36603f1-f7de-5c23-9261-b76481b24509,Domka,Margaret,FALSE,TRUE,United States,2e2e8de6-629d-52db-ae57-a59213b1e0ed,"Confederation of North, Central American and Caribbean Association Football",CONCACAF,https://en.wikipedia.org/wiki/Margaret_Domka
+4e33fdb6-7118-5793-bab9-91469d895fe6,Don,Philip,TRUE,FALSE,England,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Philip_Don
+54876d43-1a7d-5a4b-844b-c6d65c70360a,Dorogi,Andor,TRUE,FALSE,Hungary,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,
+734fa886-4285-5621-bd4b-d255660c723b,Dotchev,Bogdan,TRUE,FALSE,Bulgaria,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Bogdan_Dotchev
+2b434375-a53b-56a8-8866-00117e99e780,Doué,Noumandiez,TRUE,FALSE,Ivory Coast,d7bd58d8-3349-543e-a891-dc0ac15c3d92,Confederation of African Football,CAF,https://en.wikipedia.org/wiki/Noumandiez_Dou%C3%A9
+c659783e-251c-5e56-b3a1-ad7f8162328d,Dubach,Jean,TRUE,FALSE,Switzerland,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,
+13aca935-5f85-5b56-a47c-e076b2822b70,Durkin,Paul,TRUE,FALSE,England,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Paul_Durkin
+96897017-9182-5ae6-9b4a-4ac62a9da786,Dusch,Albert,TRUE,FALSE,West Germany,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,
+703ac8bd-ae37-58cb-acb6-79fd8add1f7c,Dwomoh,Benjamin,TRUE,FALSE,Ghana,d7bd58d8-3349-543e-a891-dc0ac15c3d92,Confederation of African Football,CAF,https://en.wikipedia.org/wiki/Benjamin_Dwomoh
+b6d77b9e-0291-579a-afb5-19d50acb6d3a,Díaz,Jesús,TRUE,FALSE,Colombia,55033925-8eba-5786-bcca-ede2388a87b4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Jes%C3%BAs_D%C3%ADaz_(football_referee)
+5d6ced91-4966-5e89-a5d0-5eca473cb619,Díaz Vega,Manuel,TRUE,FALSE,Spain,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Manuel_D%C3%ADaz_Vega
+36ca99ea-71e4-5935-b244-0a9c42a65db5,Eklind,Ivan,TRUE,FALSE,Sweden,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Ivan_Eklind
+3adec082-2307-53e5-8356-252579b6a23f,Elfath,Ismail,TRUE,FALSE,United States,2e2e8de6-629d-52db-ae57-a59213b1e0ed,"Confederation of North, Central American and Caribbean Association Football",CONCACAF,https://en.wikipedia.org/wiki/Ismail_Elfath
+cb345b74-0da5-5dc9-8f5b-5c62cf42e716,Elizondo,Horacio,TRUE,FALSE,Argentina,55033925-8eba-5786-bcca-ede2388a87b4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Horacio_Elizondo
+21c28eeb-0cda-5090-bd29-fce2c3a6f7c3,Ellis,Arthur Edward,TRUE,FALSE,England,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Arthur_Edward_Ellis
+c06fa0a4-f684-5ca6-819b-a5ce6098f763,Elovirta,Katriina,FALSE,TRUE,Finland,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Katriina_Elovirta
+5ce2f78a-71d7-5f23-bf6f-c0ad1e4ec026,Eriksson,Arne,TRUE,FALSE,Finland,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Arne_Eriksson
+40829dc7-79d0-5652-a3d0-a27455770518,Eriksson,Jonas,TRUE,FALSE,Sweden,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Jonas_Eriksson_(referee)
+9c0aa733-1130-5001-870f-4ac6a000b3e1,Eriksson,Ulf,TRUE,FALSE,Sweden,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Ulf_Eriksson_(referee)
+55c8d656-1254-58e0-afff-7a8c2516a1f3,Eschweiler,Walter,TRUE,FALSE,West Germany,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Walter_Eschweiler
+aa3c2443-1ecc-5afe-9f31-de4eeef61175,Escobar,Mario,TRUE,FALSE,Guatemala,2e2e8de6-629d-52db-ae57-a59213b1e0ed,"Confederation of North, Central American and Caribbean Association Football",CONCACAF,https://en.wikipedia.org/wiki/Mario_Escobar_(referee)
+dad965ac-2de3-5dd3-af6c-cbcbc3eda6e6,Espósito,Carlos,TRUE,FALSE,Argentina,55033925-8eba-5786-bcca-ede2388a87b4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Carlos_Esp%C3%B3sito
+165d1b98-eb9e-58b1-9101-f4803d38f8fe,Etzel Filho,João,TRUE,FALSE,Brazil,55033925-8eba-5786-bcca-ede2388a87b4,South American Football Confederation,CONMEBOL,
+b053cd15-d261-5046-a6e4-3f7af7eef239,Faghani,Alireza,TRUE,FALSE,Iran,6349fd9d-fd40-5a60-9e90-8ff953842334,Asian Football Confederation,AFC,https://en.wikipedia.org/wiki/Alireza_Faghani
+c75c78fc-a9f2-544d-96b2-bd7cfb3c1772,Faultless,Charlie,TRUE,FALSE,Scotland,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,
+72956e3f-5fc4-5d29-9462-2cbbf162f93d,Ferreira-James,Dianne,FALSE,TRUE,Guyana,2e2e8de6-629d-52db-ae57-a59213b1e0ed,"Confederation of North, Central American and Caribbean Association Football",CONCACAF,
+781a1f5f-48da-5a2a-9a09-ab4c81250f24,Ferrieri Caputi,Maria Sole,FALSE,TRUE,Italy,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Maria_Sole_Ferrieri_Caputi
+106120c6-e2fb-524b-b9f9-440ae61ef99d,Finney,Jim,TRUE,FALSE,England,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Jim_Finney
+72403c45-4c10-556e-a05c-9dd8898204c4,Fortunato,Laura,FALSE,TRUE,Argentina,55033925-8eba-5786-bcca-ede2388a87b4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Laura_Fortunato_(referee)
+2a4549ab-dd75-5ad3-8f1f-47d23c7e58fb,Foster,Cheryl,FALSE,TRUE,Wales,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Cheryl_Foster
+e38799d3-4120-58c3-9be3-d801a44ecf15,Franken,Laurent,TRUE,FALSE,Belgium,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,
+87b2bcd9-4253-5348-99c2-60b819de58fd,Frappart,Stéphanie,FALSE,TRUE,France,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Stéphanie_Frappart
+42ead8cc-1a3f-522e-b6ec-3f4a0d49c0a6,Fredriksson,Erik,TRUE,FALSE,Sweden,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Erik_Fredriksson
+28571ffb-d84d-5471-a3c3-e2dffba6706a,Frisk,Anders,TRUE,FALSE,Sweden,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Anders_Frisk
+ab1ae437-d67b-5cb8-8bff-997040aa6c1e,Fukano,Etsuko,FALSE,TRUE,Japan,6349fd9d-fd40-5a60-9e90-8ff953842334,Asian Football Confederation,AFC,
+8c0c81fb-cfba-5e4f-ba61-2d5f82d64ebb,Galba,Karol,TRUE,FALSE,Czechoslovakia,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Karol_Galba
+cec5ec51-f4e3-5be7-9624-4b4b1440fe6a,Galeati,Giovanni,TRUE,FALSE,Italy,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,
+6175f930-2c64-5908-88e1-65f67092e6d3,Galler,Bruno,TRUE,FALSE,Switzerland,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Bruno_Galler
+cbffa55f-a4da-5271-bfca-bd2c421b00c7,Gamboa,Eduardo,TRUE,FALSE,Chile,55033925-8eba-5786-bcca-ede2388a87b4,South American Football Confederation,CONMEBOL,
+b3688c15-962b-5014-8068-453f517f72bf,Gani,Rita,FALSE,TRUE,Malaysia,6349fd9d-fd40-5a60-9e90-8ff953842334,Asian Football Confederation,AFC,https://en.wikipedia.org/wiki/Rita_Gani
+41fbcda3-a291-5a9a-9154-fdd4de8e2f50,Garay Gardeazábal,Juan,TRUE,FALSE,Spain,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,
+06457b12-6598-5887-b38e-d99ee627828b,García,Katia,FALSE,TRUE,Mexico,2e2e8de6-629d-52db-ae57-a59213b1e0ed,"Confederation of North, Central American and Caribbean Association Football",CONCACAF,https://en.wikipedia.org/wiki/Katia_Itzel_Garc%C3%ADa
+c6eac935-3129-5f6b-b545-46d2e152a2c1,García-Aranda,José María,TRUE,FALSE,Spain,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Jos%C3%A9_Mar%C3%ADa_Garc%C3%ADa-Aranda
+488da459-7d6a-5a97-a0d4-926113cf270b,Gardelli,Mário,TRUE,FALSE,Brazil,55033925-8eba-5786-bcca-ede2388a87b4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/M%C3%A1rio_Gardelli
+7cfa01b4-2b7e-5dcf-ae4f-36f9c1cd3eaa,Garrido,António,TRUE,FALSE,Portugal,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Ant%C3%B3nio_Garrido_(referee)
+792ceabc-e29d-5fb9-ac93-8cf2867249b2,Gassama,Bakary,TRUE,FALSE,Gambia,d7bd58d8-3349-543e-a891-dc0ac15c3d92,Confederation of African Football,CAF,https://en.wikipedia.org/wiki/Bakary_Gassama
+3ae3118b-5a72-5c7c-93f6-f3f34652703c,Gaye,Fatou,FALSE,TRUE,Senegal,d7bd58d8-3349-543e-a891-dc0ac15c3d92,Confederation of African Football,CAF,
+af917b68-0cc3-58d0-9439-9bda7e321b1b,Gaál,Gyöngyi,FALSE,TRUE,Hungary,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Gy%C3%B6ngyi_Ga%C3%A1l
+ce976cbc-9db2-5b9a-a281-9d952beb3a11,Geiger,Mark,TRUE,FALSE,United States,2e2e8de6-629d-52db-ae57-a59213b1e0ed,"Confederation of North, Central American and Caribbean Association Football",CONCACAF,https://en.wikipedia.org/wiki/Mark_Geiger
+c4e04ffb-4749-5fb1-8f15-5ec4727f01fc,Ghorbal,Mustapha,TRUE,FALSE,Algeria,d7bd58d8-3349-543e-a891-dc0ac15c3d92,Confederation of African Football,CAF,https://en.wikipedia.org/wiki/Mustapha_Ghorbal
+24b05929-6b75-5924-9c56-15f724503089,Glöckner,Rudi,TRUE,FALSE,East Germany,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Rudi_Gl%C3%B6ckner
+d8eda728-34f7-5018-b916-dba878fa872c,Goicoechea,Roberto,TRUE,FALSE,Argentina,55033925-8eba-5786-bcca-ede2388a87b4,South American Football Confederation,CONMEBOL,
+0c340bf5-5aed-5212-9461-08f1bb8f947e,Gomes,Victor,TRUE,FALSE,South Africa,d7bd58d8-3349-543e-a891-dc0ac15c3d92,Confederation of African Football,CAF,https://en.wikipedia.org/wiki/Victor_Gomes
+7631af7b-ba9e-5a87-856b-360e6ec0ccf0,Gonella,Sergio,TRUE,FALSE,Italy,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Sergio_Gonella
+fd701b2f-9a36-5695-8eb1-2f35561f1427,González,Epifanio,TRUE,FALSE,Paraguay,55033925-8eba-5786-bcca-ede2388a87b4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Epifanio_Gonz%C3%A1lez
+1330884d-04e4-56cf-ad0a-b115036e7ffa,González,Gabriel,TRUE,FALSE,Paraguay,55033925-8eba-5786-bcca-ede2388a87b4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Gabriel_Gonz%C3%A1lez_(referee)
+f57dfe5f-6079-5f42-a457-765e52835383,González Archundía,Alfonso,TRUE,FALSE,Mexico,2e2e8de6-629d-52db-ae57-a59213b1e0ed,"Confederation of North, Central American and Caribbean Association Football",CONCACAF,
+834ad834-2756-5c00-8040-f0d60587d235,Gordon,John,TRUE,FALSE,Scotland,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/John_Gordon_(referee)
+0b181e1c-2ce8-5bd4-a7f0-a2079cd015b1,Griffiths,Sandy,TRUE,FALSE,Wales,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Sandy_Griffiths
+dedd90d0-311c-5f4d-93bd-3597f32182df,Grisha,Gehad,TRUE,FALSE,Egypt,d7bd58d8-3349-543e-a891-dc0ac15c3d92,Confederation of African Football,CAF,https://en.wikipedia.org/wiki/Gehad_Grisha
+15f0e3f3-2360-5f15-8733-b873d1c3993a,Guerrero Orosco,César,TRUE,FALSE,Peru,55033925-8eba-5786-bcca-ede2388a87b4,South American Football Confederation,CONMEBOL,
+536f1d4d-0cee-5a76-b985-5c467df4cc98,Guezzaz,Mohamed,TRUE,FALSE,Morocco,d7bd58d8-3349-543e-a891-dc0ac15c3d92,Confederation of African Football,CAF,https://en.wikipedia.org/wiki/Mohamed_Guezzaz
+3beaa6a2-0cda-56ff-bd8d-0968a673f76a,Guigue,Maurice,TRUE,FALSE,France,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Maurice_Guigue
+59701a53-4203-5b0b-a0d1-83a702a72729,Günthner,Elke,FALSE,TRUE,Germany,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,
+e4ed4941-c529-537c-bf3e-3b7eceecd854,Haimoudi,Djamel,TRUE,FALSE,Algeria,d7bd58d8-3349-543e-a891-dc0ac15c3d92,Confederation of African Football,CAF,https://en.wikipedia.org/wiki/Djamel_Haimoudi
+8283394e-be44-5d1d-bc79-91c3585f758c,Hall,Brian,TRUE,FALSE,United States,2e2e8de6-629d-52db-ae57-a59213b1e0ed,"Confederation of North, Central American and Caribbean Association Football",CONCACAF,https://en.wikipedia.org/wiki/Brian_Hall_(referee)
+5c24d82f-cb3f-55a5-9474-549d256218be,Hamer,Alain,TRUE,FALSE,Luxembourg,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Alain_Hamer
+9e3c3df5-5979-54f6-8c12-9771605534de,Hassan Mohamed,Mohammed Abdulla,TRUE,FALSE,United Arab Emirates,6349fd9d-fd40-5a60-9e90-8ff953842334,Asian Football Confederation,AFC,https://en.wikipedia.org/wiki/Mohammed_Abdulla_Hassan_Mohamed
+9690d641-a24c-52a1-a35f-895138a747ef,Hauge,Terje,TRUE,FALSE,Norway,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Terje_Hauge
+87d203d2-9844-5f02-9d59-741529fafef6,Heikkinen,Kirsi,FALSE,TRUE,Finland,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Kirsi_Heikkinen
+81901f66-9beb-5f75-880f-7a3852b4ae38,Hepburn,Catherine Leann,FALSE,TRUE,United States,2e2e8de6-629d-52db-ae57-a59213b1e0ed,"Confederation of North, Central American and Caribbean Association Football",CONCACAF,
+398888d8-73e9-5c9e-a83e-108b72d45fd9,Hester,Michael,TRUE,FALSE,New Zealand,af3baf15-a112-506c-a9a3-872a8414a8e2,Oceania Football Confederation,OFC,https://en.wikipedia.org/wiki/Michael_Hester
+aec2fd6b-19b0-502d-966b-2da9170d1ec4,Heynemann,Bernd,TRUE,FALSE,Germany,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Bernd_Heynemann
+8990ff3f-27b3-5e71-9d46-f5fb8f4a9d1d,Hormazábal Díaz,Rafael,TRUE,FALSE,Chile,55033925-8eba-5786-bcca-ede2388a87b4,South American Football Confederation,CONMEBOL,
+4a8ff341-17af-5065-8121-692a98cce46a,Horn,Leo,TRUE,FALSE,Netherlands,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Leo_Horn
+1c483b22-d84f-52c2-9dc8-e896c33082ca,Huerta de Aza,Marta,FALSE,TRUE,Spain,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Marta_Huerta_de_Aza
+277c9b7b-6e47-5dcf-a4a3-86a6679f2c55,Hunt,Sandra,FALSE,TRUE,United States,2e2e8de6-629d-52db-ae57-a59213b1e0ed,"Confederation of North, Central American and Caribbean Association Football",CONCACAF,https://en.wikipedia.org/wiki/Sandra_Hunt
+b34d0959-f512-5a93-a0d3-6ff0e039e059,Hussein,Riem,FALSE,TRUE,Germany,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Riem_Hussein
+0731c233-7a43-5290-9ac6-13ef192e17d9,Igna,Ioan,TRUE,FALSE,Romania,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Ioan_Igna
+bb3a66bb-406b-5c50-a2e6-f622c17d9098,Im,Eun-ju,FALSE,TRUE,South Korea,6349fd9d-fd40-5a60-9e90-8ff953842334,Asian Football Confederation,AFC,https://en.wikipedia.org/wiki/Im_Eun-ju
+3aabb90a-f2c2-517f-9a44-e97ff56117e8,Imperatore,Salvador,TRUE,FALSE,Chile,55033925-8eba-5786-bcca-ede2388a87b4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Salvador_Imperatore
+b0b2141d-3326-5979-ac14-127491988ce7,Ionescu,Cristina,FALSE,TRUE,Romania,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,
+de320aae-309e-59cd-a8be-09be55d3e6e0,Irmatov,Ravshan,TRUE,FALSE,Uzbekistan,6349fd9d-fd40-5a60-9e90-8ff953842334,Asian Football Confederation,AFC,https://en.wikipedia.org/wiki/Ravshan_Irmatov
+7a3bbfdb-43bb-5472-bc74-161a889864d4,Ithurralde,Arturo,TRUE,FALSE,Argentina,55033925-8eba-5786-bcca-ede2388a87b4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Arturo_Ithurralde
+96e180f9-df84-5baf-9990-f5c758416bcb,Ivanov,Valentin,TRUE,FALSE,Russia,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Valentin_Ivanov_(footballer_born_1961)
+9bb784e2-63bf-56db-91e7-871cbe1d9135,Jacewicz,Kate,FALSE,TRUE,Australia,6349fd9d-fd40-5a60-9e90-8ff953842334,Asian Football Confederation,AFC,https://en.wikipedia.org/wiki/Kate_Jacewicz
+ab12e61f-d829-5771-8d29-ec6f523e3eea,Jarguz,Alojzy,TRUE,FALSE,Poland,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,
+fa9c7b03-a012-559e-964f-3266aec06c21,Jonni,Cesare,TRUE,FALSE,Italy,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Cesare_Jonni
+2bb3152b-78b0-5403-b3cf-f4f5c8e2c851,Jonsson,Ingrid,FALSE,TRUE,Sweden,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,
+d184b5b4-61eb-5a1f-ac5b-f5a04de4c46a,Jouini,Neji,TRUE,FALSE,Tunisia,d7bd58d8-3349-543e-a891-dc0ac15c3d92,Confederation of African Football,CAF,https://en.wikipedia.org/wiki/Neji_Jouini
+ebce894b-c9eb-58fb-971d-a0e4296c91e3,Jácome,Elías,TRUE,FALSE,Ecuador,55033925-8eba-5786-bcca-ede2388a87b4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/El%C3%ADas_J%C3%A1come
+428bf62c-8ef4-56a3-847a-181db264500a,Jørgensen,Carl,TRUE,FALSE,Denmark,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,
+5f867b06-3c10-57a0-ab38-d39b3c03942c,Kamikawa,Toru,TRUE,FALSE,Japan,6349fd9d-fd40-5a60-9e90-8ff953842334,Asian Football Confederation,AFC,https://en.wikipedia.org/wiki/Toru_Kamikawa
+6dfba9a1-f211-5518-80c4-9565d4edc70d,Kamnueng,Pannipar,FALSE,TRUE,Thailand,6349fd9d-fd40-5a60-9e90-8ff953842334,Asian Football Confederation,AFC,https://en.wikipedia.org/wiki/Pannipar_Kamnueng
+de1b257c-6f95-5387-a5f8-051dea457fbe,Kandil,Ali,TRUE,FALSE,United Arab Republic,d7bd58d8-3349-543e-a891-dc0ac15c3d92,Confederation of African Football,CAF,https://en.wikipedia.org/wiki/Ali_Kandil
+80e9b43b-2c59-5052-b325-6833543e3c5b,Karasev,Sergei,TRUE,FALSE,Russia,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Sergei_Karasev
+a4162f0a-e59a-5e64-b68b-b4f7cc9e08b0,Karboubi,Bouchra,FALSE,TRUE,Morocco,d7bd58d8-3349-543e-a891-dc0ac15c3d92,Confederation of African Football,CAF,
+b6fe5818-91b1-5ecd-a531-094c82f255a8,Karlsson,Bo,TRUE,FALSE,Sweden,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Bo_Karlsson
+bfe40757-65f2-5e09-a8e8-f75216567fe4,Kassai,Viktor,TRUE,FALSE,Hungary,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Viktor_Kassai
+e2b79a3f-3b81-54b3-8965-56b6a3695bb5,Kazakov,Pavel,TRUE,FALSE,Soviet Union,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Pavel_Kazakov
+26a4b548-c0f6-5ea5-9b95-9bb0d8cfc24a,Keighley,Anna-Marie,FALSE,TRUE,New Zealand,af3baf15-a112-506c-a9a3-872a8414a8e2,Oceania Football Confederation,OFC,https://en.wikipedia.org/wiki/Anna-Marie_Keighley
+ea4888d0-8a2c-51c1-8d76-d55edf0ae8f4,Keizer,Jan,TRUE,FALSE,Netherlands,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Jan_Keizer_(referee)
+31df3a79-e2ba-5138-b09f-94e9ff8aafe8,Kim,Young-joo,TRUE,FALSE,South Korea,6349fd9d-fd40-5a60-9e90-8ff953842334,Asian Football Confederation,AFC,https://en.wikipedia.org/wiki/Kim_Young-joo
+befeb25f-7e0d-5c79-9046-6b12afafbaab,Kirschen,Siegfried,TRUE,FALSE,East Germany,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Siegfried_Kirschen
+f53f02d1-e3d8-525e-8a71-f10fe797b9bc,Klein,Abraham,TRUE,FALSE,Israel,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Abraham_Klein_(referee)
+a5f6c303-cab4-5823-a773-c768a03d7f55,Kohl,Helmut,TRUE,FALSE,Austria,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Helmut_Kohl_(referee)
+93e60a90-d985-58a8-9df7-6b88ca57f9a4,Koroleva,Ekaterina,FALSE,TRUE,United States,2e2e8de6-629d-52db-ae57-a59213b1e0ed,"Confederation of North, Central American and Caribbean Association Football",CONCACAF,https://en.wikipedia.org/wiki/Katja_Koroleva
+7e3ed42a-4d31-5006-ba28-a60e3956fe23,Kreitlein,Rudolf,TRUE,FALSE,West Germany,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Rudolf_Kreitlein
+d1a7bfb3-24ea-5ef0-b0f4-b9d574c72075,Krist,Augustin,TRUE,FALSE,Czechoslovakia,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Augustin_Krist
+db84494d-43cf-58ae-b1b3-508070f55133,Krug,Hellmut,TRUE,FALSE,Germany,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Hellmut_Krug
+e033c925-42e8-588e-a59a-a2ea55b28664,Kuipers,Björn,TRUE,FALSE,Netherlands,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Bj%C3%B6rn_Kuipers
+c8d4cb47-7eca-5a8a-ae68-0a620b87687d,Kulcsár,Katalin,FALSE,TRUE,Hungary,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Katalin_Kulcs%C3%A1r
+b4ccb314-031f-5d6f-b634-684fa7a2f5e3,Labo Revoredo,Enrique,TRUE,FALSE,Peru,55033925-8eba-5786-bcca-ede2388a87b4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Enrique_Labo_Revoredo
+e6923bfd-74d5-56dc-8c2b-0607d88048e0,Lacarne,Belaïd,TRUE,FALSE,Algeria,d7bd58d8-3349-543e-a891-dc0ac15c3d92,Confederation of African Football,CAF,https://en.wikipedia.org/wiki/Bela%C3%AFd_Lacarne
+2b333050-711a-55a1-a67e-92aebdaef901,Lamo Castillo,Augusto,TRUE,FALSE,Spain,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Augusto_Lamo_Castillo
+f0e26b76-df91-518e-a1e9-d66efef2acf0,Lamolina,Francisco Oscar,TRUE,FALSE,Argentina,55033925-8eba-5786-bcca-ede2388a87b4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Francisco_Oscar_Lamolina
+774a3398-90a2-5c93-b143-dae7c73a5756,Landauer,Henry,TRUE,FALSE,United States,2e2e8de6-629d-52db-ae57-a59213b1e0ed,"Confederation of North, Central American and Caribbean Association Football",CONCACAF,
+fa113aa3-67dd-5e5c-8279-ae05ef5c4aa3,Lanese,Tullio,TRUE,FALSE,Italy,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Tullio_Lanese
+9c502d0e-bf48-55e9-ad03-55e7cc07cc0f,Langenus,John,TRUE,FALSE,Belgium,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/John_Langenus
+39ad005f-9e3f-5019-8747-3e65d2748ddb,Lannoy,Stéphane,TRUE,FALSE,France,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/St%C3%A9phane_Lannoy
+792d9b49-9749-5d24-a19c-0e3a39a6c056,Larrionda,Jorge,TRUE,FALSE,Uruguay,55033925-8eba-5786-bcca-ede2388a87b4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Jorge_Larrionda
+fccaddd3-f7f9-56c8-b5d5-2f280fba4bce,Larsson,Pernilla,FALSE,TRUE,Sweden,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Pernilla_Larsson
+04859503-43e4-5bab-8a59-73e9673ea112,Leafe,Reginald,TRUE,FALSE,England,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Reginald_Leafe
+1fb1833c-6896-5c11-ae8e-24e792f6a1b1,Leclerq,Lucien,TRUE,FALSE,France,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,
+c20d57fd-0ffd-5978-910b-09a174c0f60c,Lehtovaara,Lina,FALSE,TRUE,Finland,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Lina_Lehtovaara
+86039bb2-cc54-5bad-9c3b-f793d131fb7b,Lemesic,Leo,TRUE,FALSE,Yugoslavia,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Leo_Lemesic
+e3c03d1b-146a-5ae4-ab2f-d8b8a9471520,Lengwe,Gladys,FALSE,TRUE,Zambia,d7bd58d8-3349-543e-a891-dc0ac15c3d92,Confederation of African Football,CAF,https://en.wikipedia.org/wiki/Gladys_Lengwe
+70cdedac-37e7-5e5a-b0ac-66cab1e6120c,Lennie,Eddie,TRUE,FALSE,Australia,6349fd9d-fd40-5a60-9e90-8ff953842334,Asian Football Confederation,AFC,https://en.wikipedia.org/wiki/Eddie_Lennie
+0d6d8b0c-1086-5965-8473-6df9b6ab40c5,Levnikov,Nikolai,TRUE,FALSE,Soviet Union,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Nikolai_Levnikov
+76ed7bd4-6a25-5489-b8e2-b447912871cd,Lim,Kee Chong,TRUE,FALSE,Mauritius,d7bd58d8-3349-543e-a891-dc0ac15c3d92,Confederation of African Football,CAF,https://en.wikipedia.org/wiki/Lim_Kee_Chong
+ba28c1fb-f158-503f-8333-ab2f44f69031,Linemayr,Erich,TRUE,FALSE,Austria,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Erich_Linemayr
+4a4b4822-ae2a-58f3-b375-170bda4d163a,Ling,William,TRUE,FALSE,England,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/William_Ling_(referee)
+4ae80eb8-04c8-5015-836e-00d87f78fc3d,Llobregat,Vicente,TRUE,FALSE,Venezuela,55033925-8eba-5786-bcca-ede2388a87b4,South American Football Confederation,CONMEBOL,
+bce41271-d51b-55a6-b65d-cfdc4b58e106,Lo Bello,Concetto,TRUE,FALSE,Italy,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Concetto_Lo_Bello
+9d2dd20e-5d23-5d1f-a5cd-9ab04faa3fbb,Lombardi,Domingo,TRUE,FALSE,Uruguay,55033925-8eba-5786-bcca-ede2388a87b4,South American Football Confederation,CONMEBOL,
+1dd1984c-8e10-5121-8f56-a422d9862a0b,Loraux,Vital,TRUE,FALSE,Belgium,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,
+dfaad26a-92ec-5dd5-8135-5e864181920c,Loustau,Juan Carlos,TRUE,FALSE,Argentina,55033925-8eba-5786-bcca-ede2388a87b4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Juan_Carlos_Loustau
+336a493d-8f4f-5800-9fc7-f4266ac80f33,Lu,Jun,TRUE,FALSE,China,6349fd9d-fd40-5a60-9e90-8ff953842334,Asian Football Confederation,AFC,https://en.wikipedia.org/wiki/Lu_Jun
+ce1cc9f1-c9cf-503c-ada6-2881f3501f14,Lund-Sørensen,Henning,TRUE,FALSE,Denmark,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Henning_Lund-S%C3%B8rensen
+3025539e-a9aa-59d9-8fd7-0dc3487b2001,Lutz,Jean,TRUE,FALSE,Switzerland,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,
+d6c253df-1ea7-50ef-9c08-2d4bc709f520,López Nieto,Antonio,TRUE,FALSE,Spain,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Antonio_L%C3%B3pez_Nieto
+e2604d92-1961-5f3f-a5fa-29e1bb320d61,Lööw,Bertil,TRUE,FALSE,Sweden,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,
+d696e69c-8919-5de7-a08a-9d5103ed8a65,Machin,Roger,TRUE,FALSE,France,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Roger_Machin
+ab9efa25-5873-52b4-9275-f3c405a360b6,Maciel,Carlos,TRUE,FALSE,Paraguay,55033925-8eba-5786-bcca-ede2388a87b4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Carlos_Maciel
+69171275-8cdd-5da8-8e00-6fd3206b0a74,Macko,Martin,TRUE,FALSE,Czechoslovakia,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,
+0e3aad83-4cdf-50fe-8d65-58961257df59,Macías,José,TRUE,FALSE,Argentina,55033925-8eba-5786-bcca-ede2388a87b4,South American Football Confederation,CONMEBOL,
+031e628c-4548-532e-a6f2-72b75421e38d,Maidin,Shamsul,TRUE,FALSE,Singapore,6349fd9d-fd40-5a60-9e90-8ff953842334,Asian Football Confederation,AFC,https://en.wikipedia.org/wiki/Shamsul_Maidin
+45260516-60fa-572e-b508-adb677d64435,Maillet,Eddy,TRUE,FALSE,Seychelles,d7bd58d8-3349-543e-a891-dc0ac15c3d92,Confederation of African Football,CAF,https://en.wikipedia.org/wiki/Eddy_Maillet
+95be32a7-60ec-5f4d-8ba0-dd2f145a4cf8,Makkelie,Danny,TRUE,FALSE,Netherlands,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Danny_Makkelie
+17c4cc7f-208d-549e-9372-01d6fe1f7503,Maksimović,Dušan,TRUE,FALSE,Yugoslavia,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,
+dd3acd8d-7fff-590c-9a43-fae924b064ec,Malcher,Alberto,TRUE,FALSE,Brazil,55033925-8eba-5786-bcca-ede2388a87b4,South American Football Confederation,CONMEBOL,
+69dbc669-738b-51a9-bc5a-d811f4319d1c,Mane,Saad,TRUE,FALSE,Kuwait,6349fd9d-fd40-5a60-9e90-8ff953842334,Asian Football Confederation,AFC,https://en.wikipedia.org/wiki/Saad_Mane
+f66c5a68-730c-5123-bcc3-f6a40e3e6147,Marciniak,Szymon,TRUE,FALSE,Poland,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Szymon_Marciniak
+7b62cb34-0108-5b95-8b7c-65bc1f10315e,Marino,Esteban,TRUE,FALSE,Uruguay,55033925-8eba-5786-bcca-ede2388a87b4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Esteban_Marino
+bc4329c5-6e2a-559f-af85-2b63ffb07a0d,Marques,Armando,TRUE,FALSE,Brazil,55033925-8eba-5786-bcca-ede2388a87b4,South American Football Confederation,CONMEBOL,
+9c02ce54-862a-597b-a815-04d95aa3fc0a,Marrufo,Jair,TRUE,FALSE,United States,2e2e8de6-629d-52db-ae57-a59213b1e0ed,"Confederation of North, Central American and Caribbean Association Football",CONCACAF,https://en.wikipedia.org/wiki/Jair_Marrufo
+7204c4f4-3871-5ea7-840e-548143abbe8e,Marschall,Ferdinand,TRUE,FALSE,Austria,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Ferdinand_Marschall
+aed8cbb1-5611-5745-ad4b-1c65cde55a33,Marsiglia,Renato,TRUE,FALSE,Brazil,55033925-8eba-5786-bcca-ede2388a87b4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Renato_Marsiglia
+b7835f8f-5976-54ba-af49-4b15c28d6da3,Martinčić,Ivana,FALSE,TRUE,Croatia,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,
+21295163-7cfe-5dd6-8b78-9c0fde4ed09b,Martínez,Yeimy,FALSE,TRUE,Colombia,55033925-8eba-5786-bcca-ede2388a87b4,South American Football Confederation,CONMEBOL,
+6dfff0c6-dea6-5678-9912-5c3382c310fa,Martínez,Ángel Franco,TRUE,FALSE,Spain,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,
+a513802e-47a3-5ece-8322-85cddad8feff,Martínez Bazán,José Luis,TRUE,FALSE,Uruguay,55033925-8eba-5786-bcca-ede2388a87b4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Jos%C3%A9_Luis_Mart%C3%ADnez_Baz%C3%A1n
+79dfc5b7-e664-5943-9317-10cc3076fd65,Mateu Lahoz,Antonio,TRUE,FALSE,Spain,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Antonio_Mateu_Lahoz
+593430c8-9c54-5c61-aeed-13378b82216d,Mateucci,Francisco,TRUE,FALSE,Uruguay,55033925-8eba-5786-bcca-ede2388a87b4,South American Football Confederation,CONMEBOL,
+4643c1ab-006d-5560-923b-ed388b14c6e5,Mathabela,Petros,TRUE,FALSE,South Africa,d7bd58d8-3349-543e-a891-dc0ac15c3d92,Confederation of African Football,CAF,
+f26913c8-3c70-5fb6-85ca-0edae70f22bc,Matonte,Andrés,TRUE,FALSE,Uruguay,55033925-8eba-5786-bcca-ede2388a87b4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Andrés_Matonte
+1b836f42-f6f3-5c2e-b10d-3abea739f82d,Matovinović,Damir,TRUE,FALSE,Yugoslavia,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Damir_Matovinovi%C4%87
+c6e3f8b3-1006-532d-83dd-5f075f6d5ab8,Mattea,Francesco,TRUE,FALSE,Italy,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,
+7cdab9f9-e768-5517-ae28-3057e14b0da7,Mattus,William,TRUE,FALSE,Costa Rica,2e2e8de6-629d-52db-ae57-a59213b1e0ed,"Confederation of North, Central American and Caribbean Association Football",CONCACAF,https://en.wikipedia.org/wiki/William_Mattus
+07ced5dc-4b39-5988-b10a-43c83a21b805,Mauro,Vincent,TRUE,FALSE,United States,2e2e8de6-629d-52db-ae57-a59213b1e0ed,"Confederation of North, Central American and Caribbean Association Football",CONCACAF,
+3ede63c6-d5c3-553c-8bc4-6e53cb594c89,Mažić,Milorad,TRUE,FALSE,Serbia,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Milorad_Ma%C5%BEi%C4%87
+03b33cca-29e1-58ce-966f-e31845ed28cc,McCabe,George,TRUE,FALSE,England,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/George_McCabe
+5fe90a59-cf14-5ed0-a64f-d5e9fbdf96cc,McCluskey,Jim,TRUE,FALSE,Scotland,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Jim_McCluskey
+46b1ffac-548f-539b-98a2-6fca5925f6b1,McLeod,Ian,TRUE,FALSE,South Africa,d7bd58d8-3349-543e-a891-dc0ac15c3d92,Confederation of African Football,CAF,https://en.wikipedia.org/wiki/Ian_McLeod_(referee)
+c2f2310f-ade4-5bee-8c51-e1e638bef22b,Medina Cantalejo,Luis,TRUE,FALSE,Spain,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Luis_Medina_Cantalejo
+58e6d868-4038-5f5c-a179-632211ca57e3,Meier,Urs,TRUE,FALSE,Switzerland,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Urs_Meier
+17aa13dd-4884-5522-aa73-166f1ced45d6,Melksham,Jacqui,FALSE,TRUE,Australia,6349fd9d-fd40-5a60-9e90-8ff953842334,Asian Football Confederation,AFC,
+76c0c51c-598d-57a3-b8f1-0026f220ff26,Melo Pereira,Vítor,TRUE,FALSE,Portugal,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/V%C3%ADtor_Melo_Pereira
+a6cf6216-9b88-5b62-bbcd-fdf1445983ca,Mercet,René,TRUE,FALSE,Switzerland,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Ren%C3%A9_Mercet
+69e3df1e-6b18-5e9f-9bdc-4da5c2ca669d,Merk,Markus,TRUE,FALSE,Germany,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Markus_Merk
+b92a562a-f1aa-5745-aa0d-30fd87529022,Micheľ,Ľuboš,TRUE,FALSE,Slovakia,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/%C4%BDubo%C5%A1_Miche%C4%BE
+ecec55dd-04b9-56ef-ae9c-2ee8b06c82af,Mikkelsen,Peter,TRUE,FALSE,Denmark,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Peter_Mikkelsen_(referee)
+142ba27f-d6b7-505a-be44-2f46152409f1,Mitchell,George,TRUE,FALSE,Scotland,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/George_Mitchell_(referee)
+4f162083-afdd-544e-bcd4-d944be842efe,Mitsi,Efthalia,FALSE,TRUE,Greece,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,
+313cf43c-bca3-56e4-adf3-3bedc11510c2,Moffat,Malcolm,TRUE,FALSE,Northern Ireland,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,
+1c39ce74-e2dd-549d-bde9-e3c60ac6e643,Monzul,Kateryna,FALSE,TRUE,Ukraine,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Kateryna_Monzul
+712fa6b2-478b-591d-a613-c5552ba124e4,Moreno,Byron,TRUE,FALSE,Ecuador,55033925-8eba-5786-bcca-ede2388a87b4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Byron_Moreno
+7ae7822b-964c-5fa3-ba41-d3fa18a2912f,Mottram,Leslie,TRUE,FALSE,Scotland,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Leslie_Mottram
+5a5bbffe-ac9d-56a4-9652-30cc0acc0296,Mowat,Jack,TRUE,FALSE,Scotland,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Jack_Mowat
+a9cbe310-ab99-5073-a677-ef43f136328b,Mukansanga,Salima,FALSE,TRUE,Rwanda,d7bd58d8-3349-543e-a891-dc0ac15c3d92,Confederation of African Football,CAF,https://en.wikipedia.org/wiki/Salima_Mukansanga
+7bc96b0b-989d-5db6-8462-bfc5065db227,Mustafa Kamel,Mahmoud,TRUE,FALSE,Egypt,d7bd58d8-3349-543e-a891-dc0ac15c3d92,Confederation of African Football,CAF,
+51d49cb1-b294-5826-a516-d962b45ac0c0,Márquez Ramírez,Antonio,TRUE,FALSE,Mexico,2e2e8de6-629d-52db-ae57-a59213b1e0ed,"Confederation of North, Central American and Caribbean Association Football",CONCACAF,https://en.wikipedia.org/wiki/Antonio_M%C3%A1rquez_Ram%C3%ADrez
+e72e86ac-aaa2-511d-a381-eba27df31202,Méndez,Rómulo,TRUE,FALSE,Guatemala,2e2e8de6-629d-52db-ae57-a59213b1e0ed,"Confederation of North, Central American and Caribbean Association Football",CONCACAF,https://en.wikipedia.org/wiki/R%C3%B3mulo_M%C3%A9ndez
+34cdff68-0010-5c71-8fbd-fd36d93daf46,N'Diaye,Youssou,TRUE,FALSE,Senegal,d7bd58d8-3349-543e-a891-dc0ac15c3d92,Confederation of African Football,CAF,
+9ad6aeaa-849a-5623-9348-deae5bb398ff,N'Doye,Falla,TRUE,FALSE,Senegal,d7bd58d8-3349-543e-a891-dc0ac15c3d92,Confederation of African Football,CAF,https://en.wikipedia.org/wiki/Falla_N%27Doye
+00444dcd-4cbc-583c-8817-d9092d6210a8,Namdar,Jafar,TRUE,FALSE,Iran,6349fd9d-fd40-5a60-9e90-8ff953842334,Asian Football Confederation,AFC,https://en.wikipedia.org/wiki/Jafar_Namdar
+4bea41d9-6240-5e57-9c6e-743084e1de5f,Neguel,Thérèse,FALSE,TRUE,Cameroon,d7bd58d8-3349-543e-a891-dc0ac15c3d92,Confederation of African Football,CAF,https://en.wikipedia.org/wiki/Th%C3%A9r%C3%A8se_Neguel
+2da9e5a7-adc3-5894-b096-54fcc4d1d138,Nielsen,Gitte,FALSE,TRUE,Denmark,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,
+b0fb763f-b82d-53dd-bfa3-13ebb12ef17a,Nielsen,Kim Milton,TRUE,FALSE,Denmark,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Kim_Milton_Nielsen
+4401e3aa-46e4-53c5-9094-023afe437687,Nikakis,Vassilios,TRUE,FALSE,Greece,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Vassilios_Nikakis
+df080532-3989-5ed5-928c-5cbe3e4d2ab4,Nishimura,Yuichi,TRUE,FALSE,Japan,6349fd9d-fd40-5a60-9e90-8ff953842334,Asian Football Confederation,AFC,https://en.wikipedia.org/wiki/Yuichi_Nishimura
+b76cb9ae-dbfc-54af-b43d-35e9c8dbbf3a,Niu,Huijun,FALSE,TRUE,China,6349fd9d-fd40-5a60-9e90-8ff953842334,Asian Football Confederation,AFC,https://en.wikipedia.org/wiki/Niu_Huijun
+2b3b85a2-4958-5980-b1ae-6ecb17a19555,Norberto Coerezza,Ángel,TRUE,FALSE,Argentina,55033925-8eba-5786-bcca-ede2388a87b4,South American Football Confederation,CONMEBOL,
+c85b502c-6a69-5b78-a202-714b78c73fc5,Németh,Lajos,TRUE,FALSE,Hungary,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,
+042d3cfe-d532-5d43-92b8-5efdf8dc5e09,O'Leary,Peter,TRUE,FALSE,New Zealand,af3baf15-a112-506c-a9a3-872a8414a8e2,Oceania Football Confederation,OFC,https://en.wikipedia.org/wiki/Peter_O%27Leary_(referee)
+0473c842-b48f-58f0-8973-353813be0cca,Ogston,Tammy,FALSE,TRUE,Australia,6349fd9d-fd40-5a60-9e90-8ff953842334,Asian Football Confederation,AFC,https://en.wikipedia.org/wiki/Tammy_Ogston
+2590d557-9d83-5fc1-845b-f50894ad7407,Oh,Hyeon-jeong,FALSE,TRUE,South Korea,6349fd9d-fd40-5a60-9e90-8ff953842334,Asian Football Confederation,AFC,
+2e3b8fba-0541-5da3-bf15-5e7ece1cbe19,Oiwa,Mayumi,FALSE,TRUE,Japan,6349fd9d-fd40-5a60-9e90-8ff953842334,Asian Football Confederation,AFC,https://en.wikipedia.org/wiki/Mayumi_Oiwa
+90a08f02-1896-5b7f-9f11-660346bbdb53,Okada,Masayoshi,TRUE,FALSE,Japan,6349fd9d-fd40-5a60-9e90-8ff953842334,Asian Football Confederation,AFC,https://en.wikipedia.org/wiki/Masayoshi_Okada
+a513904f-6c29-5551-8236-dd91daec6da8,Oliver,Michael,TRUE,FALSE,England,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Michael_Oliver_(referee)
+33cc8259-d884-5feb-b929-52a6f5a50939,Olofsson,Tess,FALSE,TRUE,Sweden,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Tess_Olofsson
+81c7c059-e5ca-5ab3-8cb7-d5f29a09f1d1,Orlandini,Vincenzo,TRUE,FALSE,Italy,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Vincenzo_Orlandini
+40915fdd-b6a3-5442-9779-ce38d8826412,Orsato,Daniele,TRUE,FALSE,Italy,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Daniele_Orsato
+e4a8097b-7746-5573-930b-14da78323ab8,Ortiz,Héctor,TRUE,FALSE,Paraguay,55033925-8eba-5786-bcca-ede2388a87b4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/H%C3%A9ctor_Ortiz_(referee)
+fd235eba-d5f3-598d-9c8b-1b9c2da6bb41,Ortiz de Mendíbil,José María,TRUE,FALSE,Spain,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Jos%C3%A9_Mar%C3%ADa_Ortiz_de_Mend%C3%ADbil
+af4ebadb-8d9d-559a-85d6-35b6f5a33969,Ortubé,René,TRUE,FALSE,Bolivia,55033925-8eba-5786-bcca-ede2388a87b4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Ren%C3%A9_Ortub%C3%A9
+61014716-3e0e-5ef6-9c09-116182804d7d,Osses,Enrique,TRUE,FALSE,Chile,55033925-8eba-5786-bcca-ede2388a87b4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Enrique_Osses
+ae0a91df-508b-548d-aff7-5e9b1e4102a8,Pairetto,Pierluigi,TRUE,FALSE,Italy,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Pierluigi_Pairetto
+140e52aa-d95a-567c-8afb-acbaad2fdd90,Palmqvist,Jenny,FALSE,TRUE,Sweden,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Jenny_Palmqvist
+b813650d-c0dc-5d25-926d-fbf60b32d8b7,Palotai,Károly,TRUE,FALSE,Hungary,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/K%C3%A1roly_Palotai
+014ad6d7-5d18-579a-914b-873974f996f2,Pardo,Martha Liliana,FALSE,TRUE,Colombia,55033925-8eba-5786-bcca-ede2388a87b4,South American Football Confederation,CONMEBOL,
+37fda00c-6203-54ae-98ec-60341322d1eb,Partridge,Pat,TRUE,FALSE,England,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Pat_Partridge
+6186ac45-f75e-5de9-9db5-640b88ef3f4e,Paulino Siles,Luis,TRUE,FALSE,Costa Rica,2e2e8de6-629d-52db-ae57-a59213b1e0ed,"Confederation of North, Central American and Caribbean Association Football",CONCACAF,https://en.wikipedia.org/wiki/Luis_Paulino_Siles
+aaf94842-0460-581a-9f9c-e9cd04956b5e,Pedersen,Christina,FALSE,TRUE,Norway,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Christina_Pedersen_(referee)
+57e1c0cd-f290-5c77-a211-2eebd5d2b38f,Pedersen,Rune,TRUE,FALSE,Norway,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Rune_Pedersen_(referee)
+a38452dd-327f-57ad-bb66-76c68c5e002d,Penso,Tori,FALSE,TRUE,United States,2e2e8de6-629d-52db-ae57-a59213b1e0ed,"Confederation of North, Central American and Caribbean Association Football",CONCACAF,https://en.wikipedia.org/wiki/Tori_Penso
+96202ce8-f259-5d3d-95e6-0fb8b8c14291,Peréz Núñez,Edison,TRUE,FALSE,Peru,55033925-8eba-5786-bcca-ede2388a87b4,South American Football Confederation,CONMEBOL,
+3c5e140d-baad-5586-83f1-4dc168ebf514,Pestarino,Luis,TRUE,FALSE,Argentina,55033925-8eba-5786-bcca-ede2388a87b4,South American Football Confederation,CONMEBOL,
+a8c206ff-7b9e-5b14-b4a4-87006354de7e,Petignat,Nicole,FALSE,TRUE,Switzerland,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Nicole_Petignat
+b0e740fc-8507-5b07-8f4c-b6cb7d561964,Petrović,Zoran,TRUE,FALSE,Yugoslavia,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Zoran_Petrovi%C4%87_(referee)
+772c0eb9-f08f-5169-806b-42411b7f5d24,Phillips,Hugh,TRUE,FALSE,Scotland,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,
+ba692ffd-0817-5c6a-8dd3-ee171de40ed0,Picon-Ackong,Edwin,TRUE,FALSE,Mauritius,d7bd58d8-3349-543e-a891-dc0ac15c3d92,Confederation of African Football,CAF,https://en.wikipedia.org/wiki/Edwin_Picon-Ackong
+4cbdd470-88c4-5c31-acc0-58450d88468b,Pitana,Néstor,TRUE,FALSE,Argentina,55033925-8eba-5786-bcca-ede2388a87b4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/N%C3%A9stor_Pitana
+6b8a0ece-b3fb-54d3-8e2c-39f8d3896bbb,Poll,Graham,TRUE,FALSE,England,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Graham_Poll
+e953c5c4-b175-5bdf-a6fb-c6872ddb7de5,Ponnet,Alexis,TRUE,FALSE,Belgium,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Alexis_Ponnet
+5fef0b6d-009b-5b2c-ab65-14d4230da5ef,Poulat,Éric,TRUE,FALSE,France,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/%C3%89ric_Poulat
+cd246db7-95dd-568d-9277-118e452b93c9,Pozo,Pablo,TRUE,FALSE,Chile,55033925-8eba-5786-bcca-ede2388a87b4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Pablo_Pozo
+56e2e789-45d6-50b0-bb40-38acfcacdeba,Prendergast,Peter,TRUE,FALSE,Jamaica,2e2e8de6-629d-52db-ae57-a59213b1e0ed,"Confederation of North, Central American and Caribbean Association Football",CONCACAF,https://en.wikipedia.org/wiki/Peter_Prendergast_(referee)
+6fcc3be4-5aaa-54c7-b600-83c75bf43792,Proença,Pedro,TRUE,FALSE,Portugal,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Pedro_Proen%C3%A7a
+d978a3cc-4e33-535f-b618-8da5bfb6c61c,Prokop,Adolf,TRUE,FALSE,East Germany,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Adolf_Prokop
+99414225-8838-54f2-b751-9f3ea2224911,Puhl,Sándor,TRUE,FALSE,Hungary,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/S%C3%A1ndor_Puhl
+971dce39-f541-5d4b-8fa5-cd7a5787026d,Pustovoitova,Anastasia,FALSE,TRUE,Russia,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Anastasia_Pustovoitova
+ee734092-ef08-50b0-8f10-0666c9279407,Qin,Liang,FALSE,TRUE,China,6349fd9d-fd40-5a60-9e90-8ff953842334,Asian Football Confederation,AFC,https://en.wikipedia.org/wiki/Qin_Liang
+346e7559-11ff-5c9c-ba37-72b75f3e409c,Quiniou,Joël,TRUE,FALSE,France,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Jo%C3%ABl_Quiniou
+334b8367-32ab-5624-bc66-c2eeb7622c09,Rahman Al-Zeid,Abdul,TRUE,FALSE,Saudi Arabia,6349fd9d-fd40-5a60-9e90-8ff953842334,Asian Football Confederation,AFC,https://en.wikipedia.org/wiki/Abdul_Rahman_Al-Zeid
+92e67def-a509-5e10-8ee1-97f9525c83ea,Rainea,Nicolae,TRUE,FALSE,Romania,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Nicolae_Rainea
+ffc3f27c-b37e-514f-93a3-be46c71d171d,Ramdhan,Ramesh,TRUE,FALSE,Trinidad and Tobago,2e2e8de6-629d-52db-ae57-a59213b1e0ed,"Confederation of North, Central American and Caribbean Association Football",CONCACAF,https://en.wikipedia.org/wiki/Ramesh_Ramdhan
+619cb8c5-1f8b-5974-8e91-63154b94794b,Ramos,César Arturo,TRUE,FALSE,Mexico,2e2e8de6-629d-52db-ae57-a59213b1e0ed,"Confederation of North, Central American and Caribbean Association Football",CONCACAF,https://en.wikipedia.org/wiki/C%C3%A9sar_Arturo_Ramos
+dd8963e8-01cf-51aa-9354-34e9e8381e49,Ramos,Felipe,TRUE,FALSE,Mexico,2e2e8de6-629d-52db-ae57-a59213b1e0ed,"Confederation of North, Central American and Caribbean Association Football",CONCACAF,https://en.wikipedia.org/wiki/Felipe_Ramos
+2f9f3c0e-9e92-5740-992d-d1a60a872c77,Rapallini,Fernando,TRUE,FALSE,Argentina,55033925-8eba-5786-bcca-ede2388a87b4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Fernando_Rapallini
+863ac74f-5497-5bd8-b285-68d3e5dc9bd1,Reader,George,TRUE,FALSE,England,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/George_Reader
+a6564387-6522-56e2-a69a-1664cf967d55,Regis Brozzi,Juan,TRUE,FALSE,Argentina,55033925-8eba-5786-bcca-ede2388a87b4,South American Football Confederation,CONMEBOL,
+362df23a-6726-5171-b07c-1364e96694be,Reibelt,Casey,FALSE,TRUE,Australia,6349fd9d-fd40-5a60-9e90-8ff953842334,Asian Football Confederation,AFC,https://en.wikipedia.org/wiki/Casey_Reibelt
+fafb8c47-f247-57f4-b104-e39eabb7f0a8,Reyes,Silvia,FALSE,TRUE,Peru,55033925-8eba-5786-bcca-ede2388a87b4,South American Football Confederation,CONMEBOL,
+55ca52f1-27d4-5d85-8912-bea7d3ecb9b0,Rezende de Freitas,Márcio,TRUE,FALSE,Brazil,55033925-8eba-5786-bcca-ede2388a87b4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/M%C3%A1rcio_Rezende_de_Freitas
+728d440f-7556-57b8-82f4-acd3fb4df2b8,Ri,Hyang-ok,FALSE,TRUE,North Korea,6349fd9d-fd40-5a60-9e90-8ff953842334,Asian Football Confederation,AFC,https://en.wikipedia.org/wiki/Ri_Hyang-ok
+2eaa0ee1-344a-55ad-870d-4910f6e26467,Ribeiro Saldanha,Antonio,TRUE,FALSE,Portugal,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,
+bd0f7fd8-cecf-5e31-9e25-3bbf34ed11cf,Ricci,Sandro,TRUE,FALSE,Brazil,55033925-8eba-5786-bcca-ede2388a87b4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Sandro_Ricci
+bd5e66ab-da9e-5111-9831-cb36dfeedfa1,Rion,Francis,TRUE,FALSE,Belgium,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,
+50c66580-3e8b-5933-83e7-fc5aaa7a283d,Rizzoli,Nicola,TRUE,FALSE,Italy,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Nicola_Rizzoli
+da45c5da-056a-5ea2-958e-6be9defeb86d,Robles,Carlos,TRUE,FALSE,Chile,55033925-8eba-5786-bcca-ede2388a87b4,South American Football Confederation,CONMEBOL,
+f6be971b-0461-5a27-8090-c1d22eecb690,Rocchi,Gianluca,TRUE,FALSE,Italy,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Gianluca_Rocchi
+010e652b-982f-5eef-ad49-0714a8a0e92f,Rodríguez,Marco Antonio,TRUE,FALSE,Mexico,2e2e8de6-629d-52db-ae57-a59213b1e0ed,"Confederation of North, Central American and Caribbean Association Football",CONCACAF,https://en.wikipedia.org/wiki/Marco_Antonio_Rodr%C3%ADguez
+8e561848-1a6f-5b0c-8a2a-a7dde6775eb4,Rodríguez Medina,Rafael,TRUE,FALSE,El Salvador,2e2e8de6-629d-52db-ae57-a59213b1e0ed,"Confederation of North, Central American and Caribbean Association Football",CONCACAF,
+846d8380-231f-57bd-9f5f-1f5892dd1b66,Roldán,Wilmar,TRUE,FALSE,Colombia,55033925-8eba-5786-bcca-ede2388a87b4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Wilmar_Rold%C3%A1n
+7295af90-ca2b-551f-95ab-37aff119d0da,Romano,Florencia,FALSE,TRUE,Argentina,55033925-8eba-5786-bcca-ede2388a87b4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Florencia_Romano
+77761692-88a0-5942-8973-ccc7a2773b18,Rosetti,Roberto,TRUE,FALSE,Italy,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Roberto_Rosetti
+e0e65206-0d72-546b-86af-c7716ed5edea,Roth,Volker,TRUE,FALSE,West Germany,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Volker_Roth
+61f7dc4e-7733-5f48-9050-c0c4f9658a40,Ruiz,Óscar,TRUE,FALSE,Colombia,55033925-8eba-5786-bcca-ede2388a87b4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/%C3%93scar_Ruiz
+ce372a65-a5ed-52e8-ad3e-95d500f35bb8,Rumenchev,Dimitar,TRUE,FALSE,Bulgaria,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,
+7aef1462-ce3f-5736-b8b1-cd25ac9d0955,Röthlisberger,Kurt,TRUE,FALSE,Switzerland,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Kurt_R%C3%B6thlisberger
+ad82be17-885e-5abd-991d-6e9ac8e84bdc,Rădulescu,Andrei,TRUE,FALSE,Romania,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Andrei_R%C4%83dulescu_(footballer)
+5eb8448b-4b5e-57f3-8dcb-fc37b51a14e8,Sampaio,Wilton,TRUE,FALSE,Brazil,55033925-8eba-5786-bcca-ede2388a87b4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Wilton_Sampaio
+3686b052-70fa-5fdf-be9d-4585073800a9,Saucedo,Ulises,TRUE,FALSE,Bolivia,55033925-8eba-5786-bcca-ede2388a87b4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Ulises_Saucedo
+470c817c-0b91-503f-b225-a43ebdab1569,Sbardella,Antonio,TRUE,FALSE,Italy,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Antonio_Sbardella
+db51d6c0-99de-5562-995d-eb5572df9094,Scarpi,Giuseppe,TRUE,FALSE,Italy,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,
+5a1321ae-db97-5b3a-bacc-731fe2a3aafa,Scheurer,Rudolf,TRUE,FALSE,Switzerland,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Rudolf_Scheurer
+4ff97b0c-cc4a-50ee-b082-a4d7ec6d6e62,Schmetzer,Emil,TRUE,FALSE,West Germany,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,
+b20b485f-c69a-5e28-8f71-ac6b941a1927,Schmidhuber,Aron,TRUE,FALSE,West Germany,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Aron_Schmidhuber
+1eb73fbb-3816-5dcf-b627-ffcb73e7b5c3,Schulenburg,Gerhard,TRUE,FALSE,West Germany,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,
+a558366a-4925-565b-91ee-e40e80dcd232,Schwinte,Pierre,TRUE,FALSE,France,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,
+0c98e748-62e8-5b4b-b796-0c56ad0ff0e7,Seipelt,Fritz,TRUE,FALSE,Austria,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,
+5a31a1c3-6ac8-540b-a532-f33ab4a653ff,Seitz,Kari,FALSE,TRUE,United States,2e2e8de6-629d-52db-ae57-a59213b1e0ed,"Confederation of North, Central American and Caribbean Association Football",CONCACAF,https://en.wikipedia.org/wiki/Kari_Seitz
+e26119a3-3a38-573a-ae10-af6a67f133ac,Shield,Mark,TRUE,FALSE,Australia,6349fd9d-fd40-5a60-9e90-8ff953842334,Asian Football Confederation,AFC,https://en.wikipedia.org/wiki/Mark_Shield
+71368cdd-81c3-5fe1-9285-8df9506e7555,Shrestha,Gyanu Raja,TRUE,FALSE,Nepal,6349fd9d-fd40-5a60-9e90-8ff953842334,Asian Football Confederation,AFC,
+c0517217-e9dc-509b-819a-1546db5782ea,Shukralla,Nawaf,TRUE,FALSE,Bahrain,6349fd9d-fd40-5a60-9e90-8ff953842334,Asian Football Confederation,AFC,https://en.wikipedia.org/wiki/Nawaf_Shukralla
+669f652c-6165-5d74-9aa9-c39fdb109320,Siebert,Daniel,TRUE,FALSE,Germany,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Daniel_Siebert_(referee)
+b2ab218b-dcc9-56f5-875d-6ad5cc499997,Sikazwe,Janny,TRUE,FALSE,Zambia,d7bd58d8-3349-543e-a891-dc0ac15c3d92,Confederation of African Football,CAF,https://en.wikipedia.org/wiki/Janny_Sikazwe
+7804bf8b-a657-56bf-89a5-d44dd6bf6190,Silva,Hernán,TRUE,FALSE,Chile,55033925-8eba-5786-bcca-ede2388a87b4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Hern%C3%A1n_Silva
+bf673d7b-b11f-5677-a683-323cf9859e7f,Silva Valente,Carlos,TRUE,FALSE,Portugal,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Carlos_Silva_Valente
+38345ddb-d24e-5bad-b7d8-b55eb1893e4d,Silvagno Cavanna,Juan,TRUE,FALSE,Chile,55033925-8eba-5786-bcca-ede2388a87b4,South American Football Confederation,CONMEBOL,
+00260c9b-dd8e-5ffe-b68f-fe523d514ee6,Simon,Carlos Eugênio,TRUE,FALSE,Brazil,55033925-8eba-5786-bcca-ede2388a87b4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Carlos_Eug%C3%AAnio_Simon
+1c8d97d8-fb77-5b5b-95d2-55ba9065048f,Siqueira,Maria Edilene,FALSE,TRUE,Brazil,55033925-8eba-5786-bcca-ede2388a87b4,South American Football Confederation,CONMEBOL,
+ec0f8ace-224b-5588-bbbf-aea1b80b886d,Skogvang,Bente,FALSE,TRUE,Norway,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,
+6fd34660-03b0-54cf-a9be-7e9e564f11bf,Skomina,Damir,TRUE,FALSE,Slovenia,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Damir_Skomina
+c6767498-2ace-5b51-a3c6-40e3d7ad0399,Smith,George,TRUE,FALSE,Scotland,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/George_Smith_(referee)
+81ced0cb-2a6f-5a91-82d2-c81962897f67,Snoddy,Alan,TRUE,FALSE,Northern Ireland,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Alan_Snoddy
+590b3ae3-e8a6-57f1-bca2-0956885f2ed2,Socha,David,TRUE,FALSE,United States,2e2e8de6-629d-52db-ae57-a59213b1e0ed,"Confederation of North, Central American and Caribbean Association Football",CONCACAF,https://en.wikipedia.org/wiki/David_Socha
+e420eafc-bbda-5f8f-a421-3879d54774bb,Soriano Aladrén,Emilio,TRUE,FALSE,Spain,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Emilio_Soriano_Aladr%C3%A9n
+8c721ae6-6747-589f-93bb-83d8b5d1c108,Spirin,Alexey,TRUE,FALSE,Soviet Union,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Alexey_Spirin
+c7c04b24-d7c8-5494-ac9f-70d592dc2486,Stark,Wolfgang,TRUE,FALSE,Germany,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Wolfgang_Stark
+cc0e0c11-6b85-53d5-bb2b-48850620c5e2,Staubli,Esther,FALSE,TRUE,Switzerland,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Esther_Staubli
+5756e391-f88e-5fad-a347-efe2ea8616e2,Stefanovic,Vasa,TRUE,FALSE,Yugoslavia,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,
+f9cff208-761e-5e53-97a9-a8936854c809,Steiner,Carl Erich,TRUE,FALSE,Austria,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,
+9c1bb076-29e7-5c02-8183-dac4a7368319,Steinhaus,Bibiana,FALSE,TRUE,Germany,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Bibiana_Steinhaus
+a1a6939b-3bcc-57d7-829a-f862b01d8819,Stupar,Myroslav,TRUE,FALSE,Soviet Union,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Myroslav_Stupar
+c476247c-ab23-5675-9ab8-de15e974a031,Suppiah,Govindasamy,TRUE,FALSE,Singapore,6349fd9d-fd40-5a60-9e90-8ff953842334,Asian Football Confederation,AFC,https://en.wikipedia.org/wiki/Govindasamy_Suppiah
+90621bca-109e-5691-974f-cd889e42bdf0,Sánchez,Ángel,TRUE,FALSE,Argentina,55033925-8eba-5786-bcca-ede2388a87b4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/%C3%81ngel_S%C3%A1nchez_(referee)
+8eef2972-11b5-5bf4-94de-aded1510d88a,Sánchez Arminio,Victoriano,TRUE,FALSE,Spain,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,
+4ea173c1-00dd-5c28-bbea-13e86847737a,Sánchez Ibáñez,Pablo,TRUE,FALSE,Spain,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,
+caa0a4b6-b18f-52b7-a4bb-66d3f1184eb1,Sánchez Yantén,Mario,TRUE,FALSE,Chile,55033925-8eba-5786-bcca-ede2388a87b4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Mario_S%C3%A1nchez_Yant%C3%A9n
+fa73cbec-ba83-5af8-be6a-fdb80424063f,Tafesse,Lidya,FALSE,TRUE,Ethiopia,d7bd58d8-3349-543e-a891-dc0ac15c3d92,Confederation of African Football,CAF,https://en.wikipedia.org/wiki/Lidya_Tafesse
+acb5b97e-f5df-5b5e-9893-1af57f52f3bb,Takada,Shizuo,TRUE,FALSE,Japan,6349fd9d-fd40-5a60-9e90-8ff953842334,Asian Football Confederation,AFC,https://en.wikipedia.org/wiki/Shizuo_Takada
+d43898ef-5720-5471-a569-2b4663744253,Tarekegn,Seyoum,TRUE,FALSE,Ethiopia,d7bd58d8-3349-543e-a891-dc0ac15c3d92,Confederation of African Football,CAF,
+b3c8ac4b-1ccf-54b7-944f-2260e3d2f178,Taylor,Anthony,TRUE,FALSE,England,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Anthony_Taylor_(referee)
+88b919b3-3719-51a6-b979-6571b94d084c,Taylor,Jack,TRUE,FALSE,England,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Jack_Taylor_(referee)
+c10dd3d1-249f-5832-8fe9-fa4ca006c83a,Tejada,Aníbal,TRUE,FALSE,Uruguay,55033925-8eba-5786-bcca-ede2388a87b4,South American Football Confederation,CONMEBOL,
+8acbff1e-f41c-58f4-82f5-15991f65ddad,Tejada Noriega,Alberto,TRUE,FALSE,Peru,55033925-8eba-5786-bcca-ede2388a87b4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Alberto_Tejada_Noriega
+c0ab2983-da5d-539b-9f6f-d3e605fca3d9,Tello,Facundo,TRUE,FALSE,Argentina,55033925-8eba-5786-bcca-ede2388a87b4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Facundo_Tello
+94889552-e98a-5c59-b1f5-47bd58e0d18a,Tesanić,Branko,TRUE,FALSE,Yugoslavia,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,
+50508f35-10a7-52f9-a3de-cbad6fc18fcf,Thomas,Clive,TRUE,FALSE,Wales,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Clive_Thomas_(football)
+7ab72cc9-d3b9-57cd-ae85-981105ac4ef9,Toro Rendón,John,TRUE,FALSE,Colombia,55033925-8eba-5786-bcca-ede2388a87b4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/John_Toro_Rend%C3%B3n
+58232a3b-5963-567b-8604-cb07be89d50f,Torres Cadena,José,TRUE,FALSE,Colombia,55033925-8eba-5786-bcca-ede2388a87b4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Jos%C3%A9_Torres_Cadena
+dbc18bbf-2e18-5d7a-9cd5-9759b5b85d37,Tortura,Sueli,FALSE,TRUE,Brazil,55033925-8eba-5786-bcca-ede2388a87b4,South American Football Confederation,CONMEBOL,
+97c450cf-c01e-5c6b-a130-d5a8dc6933d2,Tovar,Virginia,FALSE,TRUE,Mexico,2e2e8de6-629d-52db-ae57-a59213b1e0ed,"Confederation of North, Central American and Caribbean Association Football",CONCACAF,
+f22c0a4f-af1b-53df-8c90-837aae600c52,Traoré,Idrissa,TRUE,FALSE,Mali,d7bd58d8-3349-543e-a891-dc0ac15c3d92,Confederation of African Football,CAF,https://en.wikipedia.org/wiki/Idrissa_Traor%C3%A9_(referee)
+9d1067b3-81b1-5175-bc5e-44ae4d3127b2,Tschenscher,Kurt,TRUE,FALSE,West Germany,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Kurt_Tschenscher
+51f15071-c7b7-56e0-802f-5ef91b9082aa,Turpin,Clément,TRUE,FALSE,France,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Cl%C3%A9ment_Turpin
+3cb7d969-6632-50d1-8190-46334880a32c,Ulloa Morera,Berny,TRUE,FALSE,Costa Rica,2e2e8de6-629d-52db-ae57-a59213b1e0ed,"Confederation of North, Central American and Caribbean Association Football",CONCACAF,https://en.wikipedia.org/wiki/Berny_Ulloa_Morera
+f4070f05-6689-56d3-9d5e-e3fdb4427158,Umpiérrez,Claudia,FALSE,TRUE,Uruguay,55033925-8eba-5786-bcca-ede2388a87b4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Claudia_Umpi%C3%A9rrez
+a6b65233-b7f1-517e-be7f-0baf99b8d268,Un-prasert,Pirom,TRUE,FALSE,Thailand,6349fd9d-fd40-5a60-9e90-8ff953842334,Asian Football Confederation,AFC,https://en.wikipedia.org/wiki/Pirom_Un-prasert
+4f52c06e-6764-5dea-9e53-2735f9e0897e,Undiano Mallenco,Alberto,TRUE,FALSE,Spain,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Alberto_Undiano_Mallenco
+f581fe1e-d1e3-58ae-a7b8-4aa90ccf1854,Valentine,Bob,TRUE,FALSE,Scotland,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Bob_Valentine_(referee)
+ed32a02a-08f9-58e0-bfcb-7b9a231b2729,Valenzuela,Jesús,TRUE,FALSE,Venezuela,55033925-8eba-5786-bcca-ede2388a87b4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Jesús_Valenzuela
+5abdf13c-8295-5fb6-a17f-da744da33750,Vallarino,Ricardo,TRUE,FALSE,Uruguay,55033925-8eba-5786-bcca-ede2388a87b4,South American Football Confederation,CONMEBOL,
+cef8948a-b04e-543b-ab5d-7b0a326f5729,Vasconcelos,Cláudia,FALSE,TRUE,Brazil,55033925-8eba-5786-bcca-ede2388a87b4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Cl%C3%A1udia_Vasconcelos
+671a17ef-49d2-5734-a173-5b634c87bee0,Vassaras,Kyros,TRUE,FALSE,Greece,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Kyros_Vassaras
+cd8e8190-1404-59ef-b272-9fcaa87eab8c,Vautrot,Michel,TRUE,FALSE,France,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Michel_Vautrot
+9130dee1-6fe5-52fe-9454-89e83857a8a3,Veissière,Gilles,TRUE,FALSE,France,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Gilles_Veissi%C3%A8re
+7b692e8c-597d-5a8c-bd2d-f4b0769eff4d,Velasco Carballo,Carlos,TRUE,FALSE,Spain,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Carlos_Velasco_Carballo
+e37a6db5-41d3-5c58-beaf-4588b7297486,Venegas,Lucila,FALSE,TRUE,Mexico,2e2e8de6-629d-52db-ae57-a59213b1e0ed,"Confederation of North, Central American and Caribbean Association Football",CONCACAF,https://en.wikipedia.org/wiki/Lucila_Venegas
+f368e5ff-b221-5b17-8fba-0215064bc977,Vera,Carlos,TRUE,FALSE,Ecuador,55033925-8eba-5786-bcca-ede2388a87b4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Carlos_Vera
+fcbf60ce-4609-541c-b9bf-751adb15f926,Vianna,Mário,TRUE,FALSE,Brazil,55033925-8eba-5786-bcca-ede2388a87b4,South American Football Confederation,CONMEBOL,
+526d5d4e-8a4d-5114-a70f-ee978652cccd,Vieira de Moraes,Ayrton,TRUE,FALSE,Brazil,55033925-8eba-5786-bcca-ede2388a87b4,South American Football Confederation,CONMEBOL,
+254d1d80-7d20-5247-8097-24076fdf5974,Vincenti,Raymond,TRUE,FALSE,France,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,
+5ed01198-57a7-5730-8738-9538edef36e5,Vinčić,Slavko,TRUE,FALSE,Slovenia,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Slavko_Vinčić
+e3035d18-8ea8-5872-8db4-53d495961156,Vitulano,Carina,FALSE,TRUE,Italy,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Carina_Vitulano
+260e2fc0-b2ce-593e-bd07-6788381c1a73,Vulivuli,Finau,FALSE,TRUE,Fiji,af3baf15-a112-506c-a9a3-872a8414a8e2,Oceania Football Confederation,OFC,https://en.wikipedia.org/wiki/Finau_Vulivuli
+9541dc57-48f1-5399-8bd6-5eb66d52fe5a,Vágner,László,TRUE,FALSE,Hungary,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/L%C3%A1szl%C3%B3_V%C3%A1gner
+fd48c6e3-044a-57b4-b321-ad440559ca26,Vázquez,Mario Rubio,TRUE,FALSE,Mexico,2e2e8de6-629d-52db-ae57-a59213b1e0ed,"Confederation of North, Central American and Caribbean Association Football",CONCACAF,
+69e69c5e-aba5-5860-b484-cc3c9c841d74,Warnken,Alberto,TRUE,FALSE,Chile,55033925-8eba-5786-bcca-ede2388a87b4,South American Football Confederation,CONMEBOL,
+d92957fe-d7b5-56f2-97df-138d0de8dc36,Webb,Howard,TRUE,FALSE,England,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Howard_Webb
+ba8b8305-6a0a-50f9-b5af-fbd7918f3a6b,Wegereef,Jan,TRUE,FALSE,Netherlands,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Jan_Wegereef
+781665c9-9a48-566e-94a3-0c6a4a0992bc,Welch,Rebecca,FALSE,TRUE,England,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Rebecca_Welch
+54668e6f-a64d-5738-abab-b74b91eb4526,Weyland,Hans-Joachim,TRUE,FALSE,West Germany,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,
+86be1edc-c8de-51dd-b50f-e2fcbcd22ac6,White,Clive,TRUE,FALSE,England,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Clive_White
+6ba87509-a7a3-5b59-8ab6-f82b6a50a613,Williams,Ben,TRUE,FALSE,Australia,6349fd9d-fd40-5a60-9e90-8ff953842334,Asian Football Confederation,AFC,https://en.wikipedia.org/wiki/Ben_Williams_(referee)
+343b724c-7f79-519c-97b1-db13abf5ca81,Winsemann,Werner,TRUE,FALSE,Canada,2e2e8de6-629d-52db-ae57-a59213b1e0ed,"Confederation of North, Central American and Caribbean Association Football",CONCACAF,https://en.wikipedia.org/wiki/Werner_Winsemann
+d15d610d-022a-5a1a-ba41-6c4d9a12a441,Wright,José Roberto,TRUE,FALSE,Brazil,55033925-8eba-5786-bcca-ede2388a87b4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Jos%C3%A9_Roberto_Wright
+b48acafa-1df1-50e7-a5ab-6e7a547af4ac,Wurtz,Robert,TRUE,FALSE,France,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Robert_Wurtz_(referee)
+e8c5e043-c0f7-5fcb-bedb-7db1b5be27ed,Wyssling,Raymond,TRUE,FALSE,Switzerland,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,
+25b31a9e-6593-5ad9-bad3-083f74769e51,Wójcik,Ryszard,TRUE,FALSE,Poland,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Ryszard_W%C3%B3jcik
+d0dbf36d-6de4-57b0-8fa9-d87377f0f8b6,Wöhrer,Franz,TRUE,FALSE,Austria,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Franz_W%C3%B6hrer
+18ed1a55-1f50-508a-ab39-437c60c948f2,Wüthrich,Hans,TRUE,FALSE,Switzerland,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Hans_Wuthrich
+4a66a450-9ece-57b9-87ff-685f8054238d,Yamagishi,Sachiko,FALSE,TRUE,Japan,6349fd9d-fd40-5a60-9e90-8ff953842334,Asian Football Confederation,AFC,
+2cab4f45-58bc-541b-a3ac-4161ca090d5a,Yamasaki Maldonado,Arturo,TRUE,FALSE,Peru,55033925-8eba-5786-bcca-ede2388a87b4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Arturo_Yamasaki
+81781b4a-5c78-5e1c-bb2e-92607dd4ed98,Yamashita,Yoshimi,FALSE,TRUE,Japan,6349fd9d-fd40-5a60-9e90-8ff953842334,Asian Football Confederation,AFC,https://en.wikipedia.org/wiki/Yoshimi_Yamashita
+c7fff6af-e22a-52e8-ac1e-e4ecfdf838dd,Yengo,Omer,TRUE,FALSE,Congo,d7bd58d8-3349-543e-a891-dc0ac15c3d92,Confederation of African Football,CAF,
+7ed483b0-96b3-58e0-9434-f682fa232d81,Zečević,Konstantin,TRUE,FALSE,Yugoslavia,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,
+7a9cead7-c3b5-5fb6-84cf-780f0faffcc2,Zhang,Dongqing,FALSE,TRUE,China,6349fd9d-fd40-5a60-9e90-8ff953842334,Asian Football Confederation,AFC,
+dca5f62a-f503-5d11-b0c1-5cb0320e181e,Zhuk,Vadim,TRUE,FALSE,Soviet Union,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Vadim_Zhuk
+31e3a328-2c82-54bd-ac3a-c6d244f29319,Zsolt,István,TRUE,FALSE,Hungary,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Istv%C3%A1n_Zsolt
+c2dba6cc-2719-5278-aeed-5069c9d80a0e,Zuo,Xiudi,FALSE,TRUE,China,6349fd9d-fd40-5a60-9e90-8ff953842334,Asian Football Confederation,AFC,
+d3ee5582-8a5b-5c04-90d0-a03ad09e0821,da Costa Vieira,Jose,TRUE,FALSE,Portugal,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,
+d5c58161-7a21-5a07-b281-56628ac2acfe,de Almeida Rêgo,Gilberto,TRUE,FALSE,Brazil,55033925-8eba-5786-bcca-ede2388a87b4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Gilberto_de_Almeida_R%C3%AAgo
+29d60382-0013-5eb8-a9ad-6ad881026094,di Iorio,Salomé,FALSE,TRUE,Argentina,55033925-8eba-5786-bcca-ede2388a87b4,South American Football Confederation,CONMEBOL,https://en.wikipedia.org/wiki/Salom%C3%A9_di_Iorio
+3a8142cf-582d-5d5d-ba91-f25954735485,van Gemert,Arie,TRUE,FALSE,Netherlands,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,
+e35cb675-9019-513a-89c2-0cc2b27d89df,van Langenhove,Marcel,TRUE,FALSE,Belgium,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Marcel_van_Langenhove_(referee)
+82726192-b979-5ff2-a211-bc6236040123,van Moorsel,Johannes,TRUE,FALSE,Netherlands,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,
+3faaaac5-85b3-5984-b9e6-9216e5cbe5b8,van Nuffel,Lucien,TRUE,FALSE,Belgium,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,
+709e6dd0-27a9-593b-8f04-c81b69fc0474,van Ravens,Laurens,TRUE,FALSE,Netherlands,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Laurens_van_Ravens
+924d7782-de6b-53fd-aff6-7a3dc1f3d552,van der Ende,Mario,TRUE,FALSE,Netherlands,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/Mario_van_der_Ende
+cd05aa6a-231a-5cde-914b-eeba297e0299,van der Meer,Karel,TRUE,FALSE,Netherlands,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,
+8fa60c5e-e99b-5257-bef8-9bbd6a3e6c84,von Hertzka,Pál,TRUE,FALSE,Hungary,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,
+1f43e7d5-3c19-5887-b7fd-2315a303b370,Álvarez,Estela,FALSE,TRUE,Argentina,55033925-8eba-5786-bcca-ede2388a87b4,South American Football Confederation,CONMEBOL,
+b8400c21-deec-58c5-aa3c-1743b91ff0eb,Çakır,Cüneyt,TRUE,FALSE,Turkey,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,https://en.wikipedia.org/wiki/C%C3%BCneyt_%C3%87ak%C4%B1r
+944a2532-c1f9-5856-a13a-976bbe7bd206,Ödlund,Eva,FALSE,TRUE,Sweden,e7c3477d-bcfb-5840-9489-cd082ab0954f,Union of European Football Associations,UEFA,

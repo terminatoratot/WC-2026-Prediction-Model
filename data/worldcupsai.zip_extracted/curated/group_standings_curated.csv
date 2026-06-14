@@ -1,0 +1,659 @@
+tournament_id,tournament_name,stage_number,stage_name,group_name,position,team_id,team_name,team_code,played,wins,draws,losses,goals_for,goals_against,goal_difference,points,advanced
+013eb3e7-ff79-5592-944c-ca635e888abb,2019 FIFA Women's World Cup,1,group stage,Group A,1,3d11f07c-c004-508d-9001-6f944119b2b0,France,FRA,3,3,0,0,7,1,6,9,TRUE
+013eb3e7-ff79-5592-944c-ca635e888abb,2019 FIFA Women's World Cup,1,group stage,Group A,2,187544dc-4b46-5bf6-a079-e124899a9090,Norway,NOR,3,2,0,1,6,3,3,6,TRUE
+013eb3e7-ff79-5592-944c-ca635e888abb,2019 FIFA Women's World Cup,1,group stage,Group A,3,f201a6b5-a9f6-5612-947b-a6a57d2e7e18,Nigeria,NGA,3,1,0,2,2,4,-2,3,TRUE
+013eb3e7-ff79-5592-944c-ca635e888abb,2019 FIFA Women's World Cup,1,group stage,Group A,4,83f65ffa-c76e-5ace-8c09-c87d141a3916,South Korea,KOR,3,0,0,3,1,8,-7,0,FALSE
+013eb3e7-ff79-5592-944c-ca635e888abb,2019 FIFA Women's World Cup,1,group stage,Group B,1,eff0a856-a340-5ec8-84e8-121552da2cda,Germany,DEU,3,3,0,0,6,0,6,9,TRUE
+013eb3e7-ff79-5592-944c-ca635e888abb,2019 FIFA Women's World Cup,1,group stage,Group B,2,5b16dd9d-d19c-5484-bac2-f9e932dddd29,Spain,ESP,3,1,1,1,3,2,1,4,TRUE
+013eb3e7-ff79-5592-944c-ca635e888abb,2019 FIFA Women's World Cup,1,group stage,Group B,3,93542d8e-8aca-5c07-ad21-5c493fdf083e,China,CHN,3,1,1,1,1,1,0,4,TRUE
+013eb3e7-ff79-5592-944c-ca635e888abb,2019 FIFA Women's World Cup,1,group stage,Group B,4,e77d250a-1cec-5627-adc4-3cf95c7c0972,South Africa,ZAF,3,0,0,3,1,8,-7,0,FALSE
+013eb3e7-ff79-5592-944c-ca635e888abb,2019 FIFA Women's World Cup,1,group stage,Group C,1,a42d3d6a-78dd-5ae6-8408-079a857a7c30,Italy,ITA,3,2,0,1,7,2,5,6,TRUE
+013eb3e7-ff79-5592-944c-ca635e888abb,2019 FIFA Women's World Cup,1,group stage,Group C,2,2d9898be-ff8f-55ef-a86e-167bdeaf3cc6,Australia,AUS,3,2,0,1,8,5,3,6,TRUE
+013eb3e7-ff79-5592-944c-ca635e888abb,2019 FIFA Women's World Cup,1,group stage,Group C,3,498c5353-84ca-5f1c-8d71-0ae02196227c,Brazil,BRA,3,2,0,1,6,3,3,6,TRUE
+013eb3e7-ff79-5592-944c-ca635e888abb,2019 FIFA Women's World Cup,1,group stage,Group C,4,13a7a10d-674d-5be2-bdfa-a0e18b0b6b04,Jamaica,JAM,3,0,0,3,1,12,-11,0,FALSE
+013eb3e7-ff79-5592-944c-ca635e888abb,2019 FIFA Women's World Cup,1,group stage,Group D,1,43c1aac8-fa85-5e16-ba9c-4cfdcbc975b8,England,ENG,3,3,0,0,5,1,4,9,TRUE
+013eb3e7-ff79-5592-944c-ca635e888abb,2019 FIFA Women's World Cup,1,group stage,Group D,2,230373b7-3a16-506a-b5f6-acc37d7e801d,Japan,JPN,3,1,1,1,2,3,-1,4,TRUE
+013eb3e7-ff79-5592-944c-ca635e888abb,2019 FIFA Women's World Cup,1,group stage,Group D,3,933a103d-d9d7-57a3-9c4a-fbc81d25a266,Argentina,ARG,3,0,2,1,3,4,-1,2,FALSE
+013eb3e7-ff79-5592-944c-ca635e888abb,2019 FIFA Women's World Cup,1,group stage,Group D,4,fc2ce361-82ed-537a-85f1-ff8f384d11b1,Scotland,SCO,3,0,1,2,5,7,-2,1,FALSE
+013eb3e7-ff79-5592-944c-ca635e888abb,2019 FIFA Women's World Cup,1,group stage,Group E,1,d522b940-a152-5cc7-bcb3-89e28a1ce459,Netherlands,NLD,3,3,0,0,6,2,4,9,TRUE
+013eb3e7-ff79-5592-944c-ca635e888abb,2019 FIFA Women's World Cup,1,group stage,Group E,2,1234d812-2e40-561b-90a3-ed4f9e66bd63,Canada,CAN,3,2,0,1,4,2,2,6,TRUE
+013eb3e7-ff79-5592-944c-ca635e888abb,2019 FIFA Women's World Cup,1,group stage,Group E,3,eb88a8cc-be5e-5116-8926-ba595504709a,Cameroon,CMR,3,1,0,2,3,5,-2,3,TRUE
+013eb3e7-ff79-5592-944c-ca635e888abb,2019 FIFA Women's World Cup,1,group stage,Group E,4,11240419-821b-5fbb-bf15-4906f40e3951,New Zealand,NZL,3,0,0,3,1,5,-4,0,FALSE
+013eb3e7-ff79-5592-944c-ca635e888abb,2019 FIFA Women's World Cup,1,group stage,Group F,1,10913c23-6023-563d-94df-9b4fb66c3432,United States,USA,3,3,0,0,18,0,18,9,TRUE
+013eb3e7-ff79-5592-944c-ca635e888abb,2019 FIFA Women's World Cup,1,group stage,Group F,2,3611e724-8c08-5f63-b63d-e1cad6af784c,Sweden,SWE,3,2,0,1,7,3,4,6,TRUE
+013eb3e7-ff79-5592-944c-ca635e888abb,2019 FIFA Women's World Cup,1,group stage,Group F,3,879c1298-9904-5b96-8f25-5e7d455ae2ec,Chile,CHL,3,1,0,2,2,5,-3,3,FALSE
+013eb3e7-ff79-5592-944c-ca635e888abb,2019 FIFA Women's World Cup,1,group stage,Group F,4,98d2c177-9d33-51f5-998a-7ad3ab0973fd,Thailand,THA,3,0,0,3,1,20,-19,0,FALSE
+09a48bd3-5401-5de4-9bd5-0e907ba0fee6,2015 FIFA Women's World Cup,1,group stage,Group A,1,1234d812-2e40-561b-90a3-ed4f9e66bd63,Canada,CAN,3,1,2,0,2,1,1,5,TRUE
+09a48bd3-5401-5de4-9bd5-0e907ba0fee6,2015 FIFA Women's World Cup,1,group stage,Group A,2,93542d8e-8aca-5c07-ad21-5c493fdf083e,China,CHN,3,1,1,1,3,3,0,4,TRUE
+09a48bd3-5401-5de4-9bd5-0e907ba0fee6,2015 FIFA Women's World Cup,1,group stage,Group A,3,d522b940-a152-5cc7-bcb3-89e28a1ce459,Netherlands,NLD,3,1,1,1,2,2,0,4,TRUE
+09a48bd3-5401-5de4-9bd5-0e907ba0fee6,2015 FIFA Women's World Cup,1,group stage,Group A,4,11240419-821b-5fbb-bf15-4906f40e3951,New Zealand,NZL,3,0,2,1,2,3,-1,2,FALSE
+09a48bd3-5401-5de4-9bd5-0e907ba0fee6,2015 FIFA Women's World Cup,1,group stage,Group B,1,eff0a856-a340-5ec8-84e8-121552da2cda,Germany,DEU,3,2,1,0,15,1,14,7,TRUE
+09a48bd3-5401-5de4-9bd5-0e907ba0fee6,2015 FIFA Women's World Cup,1,group stage,Group B,2,187544dc-4b46-5bf6-a079-e124899a9090,Norway,NOR,3,2,1,0,8,2,6,7,TRUE
+09a48bd3-5401-5de4-9bd5-0e907ba0fee6,2015 FIFA Women's World Cup,1,group stage,Group B,3,98d2c177-9d33-51f5-998a-7ad3ab0973fd,Thailand,THA,3,1,0,2,3,10,-7,3,FALSE
+09a48bd3-5401-5de4-9bd5-0e907ba0fee6,2015 FIFA Women's World Cup,1,group stage,Group B,4,e31e86e8-0616-5e05-a842-dc8f67c29ca4,Ivory Coast,CIV,3,0,0,3,3,16,-13,0,FALSE
+09a48bd3-5401-5de4-9bd5-0e907ba0fee6,2015 FIFA Women's World Cup,1,group stage,Group C,1,230373b7-3a16-506a-b5f6-acc37d7e801d,Japan,JPN,3,3,0,0,4,1,3,9,TRUE
+09a48bd3-5401-5de4-9bd5-0e907ba0fee6,2015 FIFA Women's World Cup,1,group stage,Group C,2,eb88a8cc-be5e-5116-8926-ba595504709a,Cameroon,CMR,3,2,0,1,9,3,6,6,TRUE
+09a48bd3-5401-5de4-9bd5-0e907ba0fee6,2015 FIFA Women's World Cup,1,group stage,Group C,3,a260026d-34b5-5fdf-8896-fd8997f096b9,Switzerland,CHE,3,1,0,2,11,4,7,3,TRUE
+09a48bd3-5401-5de4-9bd5-0e907ba0fee6,2015 FIFA Women's World Cup,1,group stage,Group C,4,2179a8d7-c7ed-5c0c-b6a6-8e6eeef52657,Ecuador,ECU,3,0,0,3,1,17,-16,0,FALSE
+09a48bd3-5401-5de4-9bd5-0e907ba0fee6,2015 FIFA Women's World Cup,1,group stage,Group D,1,10913c23-6023-563d-94df-9b4fb66c3432,United States,USA,3,2,1,0,4,1,3,7,TRUE
+09a48bd3-5401-5de4-9bd5-0e907ba0fee6,2015 FIFA Women's World Cup,1,group stage,Group D,2,2d9898be-ff8f-55ef-a86e-167bdeaf3cc6,Australia,AUS,3,1,1,1,4,4,0,4,TRUE
+09a48bd3-5401-5de4-9bd5-0e907ba0fee6,2015 FIFA Women's World Cup,1,group stage,Group D,3,3611e724-8c08-5f63-b63d-e1cad6af784c,Sweden,SWE,3,0,3,0,4,4,0,3,TRUE
+09a48bd3-5401-5de4-9bd5-0e907ba0fee6,2015 FIFA Women's World Cup,1,group stage,Group D,4,f201a6b5-a9f6-5612-947b-a6a57d2e7e18,Nigeria,NGA,3,0,1,2,3,6,-3,1,FALSE
+09a48bd3-5401-5de4-9bd5-0e907ba0fee6,2015 FIFA Women's World Cup,1,group stage,Group E,1,498c5353-84ca-5f1c-8d71-0ae02196227c,Brazil,BRA,3,3,0,0,4,0,4,9,TRUE
+09a48bd3-5401-5de4-9bd5-0e907ba0fee6,2015 FIFA Women's World Cup,1,group stage,Group E,2,83f65ffa-c76e-5ace-8c09-c87d141a3916,South Korea,KOR,3,1,1,1,4,5,-1,4,TRUE
+09a48bd3-5401-5de4-9bd5-0e907ba0fee6,2015 FIFA Women's World Cup,1,group stage,Group E,3,8dd855bb-0dbb-576b-837a-ad9f8d770c86,Costa Rica,CRI,3,0,2,1,3,4,-1,2,FALSE
+09a48bd3-5401-5de4-9bd5-0e907ba0fee6,2015 FIFA Women's World Cup,1,group stage,Group E,4,5b16dd9d-d19c-5484-bac2-f9e932dddd29,Spain,ESP,3,0,1,2,2,4,-2,1,FALSE
+09a48bd3-5401-5de4-9bd5-0e907ba0fee6,2015 FIFA Women's World Cup,1,group stage,Group F,1,3d11f07c-c004-508d-9001-6f944119b2b0,France,FRA,3,2,0,1,6,2,4,6,TRUE
+09a48bd3-5401-5de4-9bd5-0e907ba0fee6,2015 FIFA Women's World Cup,1,group stage,Group F,2,43c1aac8-fa85-5e16-ba9c-4cfdcbc975b8,England,ENG,3,2,0,1,4,3,1,6,TRUE
+09a48bd3-5401-5de4-9bd5-0e907ba0fee6,2015 FIFA Women's World Cup,1,group stage,Group F,3,3de13983-4604-5a8d-b39c-08d4f279a06b,Colombia,COL,3,1,1,1,4,3,1,4,TRUE
+09a48bd3-5401-5de4-9bd5-0e907ba0fee6,2015 FIFA Women's World Cup,1,group stage,Group F,4,c832b30c-2750-5a24-a66f-cf9ea7c20a5c,Mexico,MEX,3,0,1,2,2,8,-6,1,FALSE
+14ac8c65-b6bd-5301-83ca-d190f210e04f,1999 FIFA Women's World Cup,1,group stage,Group A,1,10913c23-6023-563d-94df-9b4fb66c3432,United States,USA,3,3,0,0,13,1,12,9,TRUE
+14ac8c65-b6bd-5301-83ca-d190f210e04f,1999 FIFA Women's World Cup,1,group stage,Group A,2,f201a6b5-a9f6-5612-947b-a6a57d2e7e18,Nigeria,NGA,3,2,0,1,5,8,-3,6,TRUE
+14ac8c65-b6bd-5301-83ca-d190f210e04f,1999 FIFA Women's World Cup,1,group stage,Group A,3,58ce2aac-d181-51c6-9f50-fc3e8643d0e1,North Korea,PRK,3,1,0,2,4,6,-2,3,FALSE
+14ac8c65-b6bd-5301-83ca-d190f210e04f,1999 FIFA Women's World Cup,1,group stage,Group A,4,dfb099cc-e7ea-5e4f-b492-bdbf6e8e179b,Denmark,DNK,3,0,0,3,1,8,-7,0,FALSE
+14ac8c65-b6bd-5301-83ca-d190f210e04f,1999 FIFA Women's World Cup,1,group stage,Group B,1,498c5353-84ca-5f1c-8d71-0ae02196227c,Brazil,BRA,3,2,1,0,12,4,8,7,TRUE
+14ac8c65-b6bd-5301-83ca-d190f210e04f,1999 FIFA Women's World Cup,1,group stage,Group B,2,eff0a856-a340-5ec8-84e8-121552da2cda,Germany,DEU,3,1,2,0,10,4,6,5,TRUE
+14ac8c65-b6bd-5301-83ca-d190f210e04f,1999 FIFA Women's World Cup,1,group stage,Group B,3,a42d3d6a-78dd-5ae6-8408-079a857a7c30,Italy,ITA,3,1,1,1,3,3,0,4,FALSE
+14ac8c65-b6bd-5301-83ca-d190f210e04f,1999 FIFA Women's World Cup,1,group stage,Group B,4,c832b30c-2750-5a24-a66f-cf9ea7c20a5c,Mexico,MEX,3,0,0,3,1,15,-14,0,FALSE
+14ac8c65-b6bd-5301-83ca-d190f210e04f,1999 FIFA Women's World Cup,1,group stage,Group C,1,187544dc-4b46-5bf6-a079-e124899a9090,Norway,NOR,3,3,0,0,13,2,11,9,TRUE
+14ac8c65-b6bd-5301-83ca-d190f210e04f,1999 FIFA Women's World Cup,1,group stage,Group C,2,6eb0485e-97e8-57e7-bf93-6c300f3e003a,Russia,RUS,3,2,0,1,10,3,7,6,TRUE
+14ac8c65-b6bd-5301-83ca-d190f210e04f,1999 FIFA Women's World Cup,1,group stage,Group C,3,1234d812-2e40-561b-90a3-ed4f9e66bd63,Canada,CAN,3,0,1,2,3,12,-9,1,FALSE
+14ac8c65-b6bd-5301-83ca-d190f210e04f,1999 FIFA Women's World Cup,1,group stage,Group C,4,230373b7-3a16-506a-b5f6-acc37d7e801d,Japan,JPN,3,0,1,2,1,10,-9,1,FALSE
+14ac8c65-b6bd-5301-83ca-d190f210e04f,1999 FIFA Women's World Cup,1,group stage,Group D,1,93542d8e-8aca-5c07-ad21-5c493fdf083e,China,CHN,3,3,0,0,12,2,10,9,TRUE
+14ac8c65-b6bd-5301-83ca-d190f210e04f,1999 FIFA Women's World Cup,1,group stage,Group D,2,3611e724-8c08-5f63-b63d-e1cad6af784c,Sweden,SWE,3,2,0,1,6,3,3,6,TRUE
+14ac8c65-b6bd-5301-83ca-d190f210e04f,1999 FIFA Women's World Cup,1,group stage,Group D,3,2d9898be-ff8f-55ef-a86e-167bdeaf3cc6,Australia,AUS,3,0,1,2,3,7,-4,1,FALSE
+14ac8c65-b6bd-5301-83ca-d190f210e04f,1999 FIFA Women's World Cup,1,group stage,Group D,4,55f8040d-0098-5415-abdf-66098ef3bbee,Ghana,GHA,3,0,1,2,1,10,-9,1,FALSE
+15f11a97-c603-53ea-be3a-d196027360e9,1930 FIFA Men's World Cup,1,group stage,Group 1,1,933a103d-d9d7-57a3-9c4a-fbc81d25a266,Argentina,ARG,3,3,0,0,10,4,6,6,TRUE
+15f11a97-c603-53ea-be3a-d196027360e9,1930 FIFA Men's World Cup,1,group stage,Group 1,2,879c1298-9904-5b96-8f25-5e7d455ae2ec,Chile,CHL,3,2,0,1,5,3,2,4,FALSE
+15f11a97-c603-53ea-be3a-d196027360e9,1930 FIFA Men's World Cup,1,group stage,Group 1,3,3d11f07c-c004-508d-9001-6f944119b2b0,France,FRA,3,1,0,2,4,3,1,2,FALSE
+15f11a97-c603-53ea-be3a-d196027360e9,1930 FIFA Men's World Cup,1,group stage,Group 1,4,c832b30c-2750-5a24-a66f-cf9ea7c20a5c,Mexico,MEX,3,0,0,3,4,13,-9,0,FALSE
+15f11a97-c603-53ea-be3a-d196027360e9,1930 FIFA Men's World Cup,1,group stage,Group 2,1,9a9be60e-89da-590c-95a8-6e5802b5deb5,Yugoslavia,YUG,2,2,0,0,6,1,5,4,TRUE
+15f11a97-c603-53ea-be3a-d196027360e9,1930 FIFA Men's World Cup,1,group stage,Group 2,2,498c5353-84ca-5f1c-8d71-0ae02196227c,Brazil,BRA,2,1,0,1,5,2,3,2,FALSE
+15f11a97-c603-53ea-be3a-d196027360e9,1930 FIFA Men's World Cup,1,group stage,Group 2,3,97c63301-8b06-5bfb-8909-40b555c7c9e3,Bolivia,BOL,2,0,0,2,0,8,-8,0,FALSE
+15f11a97-c603-53ea-be3a-d196027360e9,1930 FIFA Men's World Cup,1,group stage,Group 3,1,f8764a69-de29-59f5-8e79-715c4bf88a11,Uruguay,URY,2,2,0,0,5,0,5,4,TRUE
+15f11a97-c603-53ea-be3a-d196027360e9,1930 FIFA Men's World Cup,1,group stage,Group 3,2,da4d79d5-3e18-54b9-916c-997fdef9a796,Romania,ROU,2,1,0,1,3,5,-2,2,FALSE
+15f11a97-c603-53ea-be3a-d196027360e9,1930 FIFA Men's World Cup,1,group stage,Group 3,3,db3abc88-7f89-5183-bc6d-ea6fa7c361d9,Peru,PER,2,0,0,2,1,4,-3,0,FALSE
+15f11a97-c603-53ea-be3a-d196027360e9,1930 FIFA Men's World Cup,1,group stage,Group 4,1,10913c23-6023-563d-94df-9b4fb66c3432,United States,USA,2,2,0,0,6,0,6,4,TRUE
+15f11a97-c603-53ea-be3a-d196027360e9,1930 FIFA Men's World Cup,1,group stage,Group 4,2,9678d2a4-5323-5082-b115-575366fb384a,Paraguay,PRY,2,1,0,1,1,3,-2,2,FALSE
+15f11a97-c603-53ea-be3a-d196027360e9,1930 FIFA Men's World Cup,1,group stage,Group 4,3,3aa56241-3868-505a-ac6a-753aefa79cc2,Belgium,BEL,2,0,0,2,0,4,-4,0,FALSE
+16504e44-4d0e-5f54-9f9d-c1dfa90a0f20,1966 FIFA Men's World Cup,1,group stage,Group 1,1,43c1aac8-fa85-5e16-ba9c-4cfdcbc975b8,England,ENG,3,2,1,0,4,0,4,5,TRUE
+16504e44-4d0e-5f54-9f9d-c1dfa90a0f20,1966 FIFA Men's World Cup,1,group stage,Group 1,2,f8764a69-de29-59f5-8e79-715c4bf88a11,Uruguay,URY,3,1,2,0,2,1,1,4,TRUE
+16504e44-4d0e-5f54-9f9d-c1dfa90a0f20,1966 FIFA Men's World Cup,1,group stage,Group 1,3,c832b30c-2750-5a24-a66f-cf9ea7c20a5c,Mexico,MEX,3,0,2,1,1,3,-2,2,FALSE
+16504e44-4d0e-5f54-9f9d-c1dfa90a0f20,1966 FIFA Men's World Cup,1,group stage,Group 1,4,3d11f07c-c004-508d-9001-6f944119b2b0,France,FRA,3,0,1,2,2,5,-3,1,FALSE
+16504e44-4d0e-5f54-9f9d-c1dfa90a0f20,1966 FIFA Men's World Cup,1,group stage,Group 2,1,adbcf28f-5f27-56bd-bca0-909cf77a8ae0,West Germany,DEU,3,2,1,0,7,1,6,5,TRUE
+16504e44-4d0e-5f54-9f9d-c1dfa90a0f20,1966 FIFA Men's World Cup,1,group stage,Group 2,2,933a103d-d9d7-57a3-9c4a-fbc81d25a266,Argentina,ARG,3,2,1,0,4,1,3,5,TRUE
+16504e44-4d0e-5f54-9f9d-c1dfa90a0f20,1966 FIFA Men's World Cup,1,group stage,Group 2,3,5b16dd9d-d19c-5484-bac2-f9e932dddd29,Spain,ESP,3,1,0,2,4,5,-1,2,FALSE
+16504e44-4d0e-5f54-9f9d-c1dfa90a0f20,1966 FIFA Men's World Cup,1,group stage,Group 2,4,a260026d-34b5-5fdf-8896-fd8997f096b9,Switzerland,CHE,3,0,0,3,1,9,-8,0,FALSE
+16504e44-4d0e-5f54-9f9d-c1dfa90a0f20,1966 FIFA Men's World Cup,1,group stage,Group 3,1,13eebf0f-eb49-5e70-97f9-84f0395ceff1,Portugal,PRT,3,3,0,0,9,2,7,6,TRUE
+16504e44-4d0e-5f54-9f9d-c1dfa90a0f20,1966 FIFA Men's World Cup,1,group stage,Group 3,2,f16b7d5c-db54-5b27-b827-e848a3035641,Hungary,HUN,3,2,0,1,7,5,2,4,TRUE
+16504e44-4d0e-5f54-9f9d-c1dfa90a0f20,1966 FIFA Men's World Cup,1,group stage,Group 3,3,498c5353-84ca-5f1c-8d71-0ae02196227c,Brazil,BRA,3,1,0,2,4,6,-2,2,FALSE
+16504e44-4d0e-5f54-9f9d-c1dfa90a0f20,1966 FIFA Men's World Cup,1,group stage,Group 3,4,f4b41163-3c82-5e1e-af54-e7ecc8a15135,Bulgaria,BGR,3,0,0,3,1,8,-7,0,FALSE
+16504e44-4d0e-5f54-9f9d-c1dfa90a0f20,1966 FIFA Men's World Cup,1,group stage,Group 4,1,6c983d26-03e1-5649-a13f-42b61e101a0e,Soviet Union,SUN,3,3,0,0,6,1,5,6,TRUE
+16504e44-4d0e-5f54-9f9d-c1dfa90a0f20,1966 FIFA Men's World Cup,1,group stage,Group 4,2,58ce2aac-d181-51c6-9f50-fc3e8643d0e1,North Korea,PRK,3,1,1,1,2,4,-2,3,TRUE
+16504e44-4d0e-5f54-9f9d-c1dfa90a0f20,1966 FIFA Men's World Cup,1,group stage,Group 4,3,a42d3d6a-78dd-5ae6-8408-079a857a7c30,Italy,ITA,3,1,0,2,2,2,0,2,FALSE
+16504e44-4d0e-5f54-9f9d-c1dfa90a0f20,1966 FIFA Men's World Cup,1,group stage,Group 4,4,879c1298-9904-5b96-8f25-5e7d455ae2ec,Chile,CHL,3,0,1,2,2,5,-3,1,FALSE
+173406d4-d15a-5033-bddc-c3f91ccad965,1978 FIFA Men's World Cup,1,first group stage,Group 1,1,a42d3d6a-78dd-5ae6-8408-079a857a7c30,Italy,ITA,3,3,0,0,6,2,4,6,TRUE
+173406d4-d15a-5033-bddc-c3f91ccad965,1978 FIFA Men's World Cup,1,first group stage,Group 1,2,933a103d-d9d7-57a3-9c4a-fbc81d25a266,Argentina,ARG,3,2,0,1,4,3,1,4,TRUE
+173406d4-d15a-5033-bddc-c3f91ccad965,1978 FIFA Men's World Cup,1,first group stage,Group 1,3,3d11f07c-c004-508d-9001-6f944119b2b0,France,FRA,3,1,0,2,5,5,0,2,FALSE
+173406d4-d15a-5033-bddc-c3f91ccad965,1978 FIFA Men's World Cup,1,first group stage,Group 1,4,f16b7d5c-db54-5b27-b827-e848a3035641,Hungary,HUN,3,0,0,3,3,8,-5,0,FALSE
+173406d4-d15a-5033-bddc-c3f91ccad965,1978 FIFA Men's World Cup,1,first group stage,Group 2,1,fc0455f9-aa03-5b3d-9b41-41854289e993,Poland,POL,3,2,1,0,4,1,3,5,TRUE
+173406d4-d15a-5033-bddc-c3f91ccad965,1978 FIFA Men's World Cup,1,first group stage,Group 2,2,adbcf28f-5f27-56bd-bca0-909cf77a8ae0,West Germany,DEU,3,1,2,0,6,0,6,4,TRUE
+173406d4-d15a-5033-bddc-c3f91ccad965,1978 FIFA Men's World Cup,1,first group stage,Group 2,3,b627769a-7468-5b82-85ee-a38f3d71a3c6,Tunisia,TUN,3,1,1,1,3,2,1,3,FALSE
+173406d4-d15a-5033-bddc-c3f91ccad965,1978 FIFA Men's World Cup,1,first group stage,Group 2,4,c832b30c-2750-5a24-a66f-cf9ea7c20a5c,Mexico,MEX,3,0,0,3,2,12,-10,0,FALSE
+173406d4-d15a-5033-bddc-c3f91ccad965,1978 FIFA Men's World Cup,1,first group stage,Group 3,1,8e63ee49-fbde-5478-a093-1a6a679cc27f,Austria,AUT,3,2,0,1,3,2,1,4,TRUE
+173406d4-d15a-5033-bddc-c3f91ccad965,1978 FIFA Men's World Cup,1,first group stage,Group 3,2,498c5353-84ca-5f1c-8d71-0ae02196227c,Brazil,BRA,3,1,2,0,2,1,1,4,TRUE
+173406d4-d15a-5033-bddc-c3f91ccad965,1978 FIFA Men's World Cup,1,first group stage,Group 3,3,5b16dd9d-d19c-5484-bac2-f9e932dddd29,Spain,ESP,3,1,1,1,2,2,0,3,FALSE
+173406d4-d15a-5033-bddc-c3f91ccad965,1978 FIFA Men's World Cup,1,first group stage,Group 3,4,3611e724-8c08-5f63-b63d-e1cad6af784c,Sweden,SWE,3,0,1,2,1,3,-2,1,FALSE
+173406d4-d15a-5033-bddc-c3f91ccad965,1978 FIFA Men's World Cup,1,first group stage,Group 4,1,db3abc88-7f89-5183-bc6d-ea6fa7c361d9,Peru,PER,3,2,1,0,7,2,5,5,TRUE
+173406d4-d15a-5033-bddc-c3f91ccad965,1978 FIFA Men's World Cup,1,first group stage,Group 4,2,d522b940-a152-5cc7-bcb3-89e28a1ce459,Netherlands,NLD,3,1,1,1,5,3,2,3,TRUE
+173406d4-d15a-5033-bddc-c3f91ccad965,1978 FIFA Men's World Cup,1,first group stage,Group 4,3,fc2ce361-82ed-537a-85f1-ff8f384d11b1,Scotland,SCO,3,1,1,1,5,6,-1,3,FALSE
+173406d4-d15a-5033-bddc-c3f91ccad965,1978 FIFA Men's World Cup,1,first group stage,Group 4,4,f22d85b4-6cde-5f4e-8119-b3b69a2ba879,Iran,IRN,3,0,1,2,2,8,-6,1,FALSE
+173406d4-d15a-5033-bddc-c3f91ccad965,1978 FIFA Men's World Cup,2,second group stage,Group A,1,d522b940-a152-5cc7-bcb3-89e28a1ce459,Netherlands,NLD,3,2,1,0,9,4,5,5,TRUE
+173406d4-d15a-5033-bddc-c3f91ccad965,1978 FIFA Men's World Cup,2,second group stage,Group A,2,a42d3d6a-78dd-5ae6-8408-079a857a7c30,Italy,ITA,3,1,1,1,2,2,0,3,TRUE
+173406d4-d15a-5033-bddc-c3f91ccad965,1978 FIFA Men's World Cup,2,second group stage,Group A,3,adbcf28f-5f27-56bd-bca0-909cf77a8ae0,West Germany,DEU,3,0,2,1,4,5,-1,2,FALSE
+173406d4-d15a-5033-bddc-c3f91ccad965,1978 FIFA Men's World Cup,2,second group stage,Group A,4,8e63ee49-fbde-5478-a093-1a6a679cc27f,Austria,AUT,3,1,0,2,4,8,-4,2,FALSE
+173406d4-d15a-5033-bddc-c3f91ccad965,1978 FIFA Men's World Cup,2,second group stage,Group B,1,933a103d-d9d7-57a3-9c4a-fbc81d25a266,Argentina,ARG,3,2,1,0,8,0,8,5,TRUE
+173406d4-d15a-5033-bddc-c3f91ccad965,1978 FIFA Men's World Cup,2,second group stage,Group B,2,498c5353-84ca-5f1c-8d71-0ae02196227c,Brazil,BRA,3,2,1,0,6,1,5,5,TRUE
+173406d4-d15a-5033-bddc-c3f91ccad965,1978 FIFA Men's World Cup,2,second group stage,Group B,3,fc0455f9-aa03-5b3d-9b41-41854289e993,Poland,POL,3,1,0,2,2,5,-3,2,FALSE
+173406d4-d15a-5033-bddc-c3f91ccad965,1978 FIFA Men's World Cup,2,second group stage,Group B,4,db3abc88-7f89-5183-bc6d-ea6fa7c361d9,Peru,PER,3,0,0,3,0,10,-10,0,FALSE
+1e88b29b-3883-56c0-a9f4-0fc4447d0f51,1995 FIFA Women's World Cup,1,group stage,Group A,1,eff0a856-a340-5ec8-84e8-121552da2cda,Germany,DEU,3,2,0,1,9,4,5,6,TRUE
+1e88b29b-3883-56c0-a9f4-0fc4447d0f51,1995 FIFA Women's World Cup,1,group stage,Group A,2,3611e724-8c08-5f63-b63d-e1cad6af784c,Sweden,SWE,3,2,0,1,5,3,2,6,TRUE
+1e88b29b-3883-56c0-a9f4-0fc4447d0f51,1995 FIFA Women's World Cup,1,group stage,Group A,3,230373b7-3a16-506a-b5f6-acc37d7e801d,Japan,JPN,3,1,0,2,2,4,-2,3,TRUE
+1e88b29b-3883-56c0-a9f4-0fc4447d0f51,1995 FIFA Women's World Cup,1,group stage,Group A,4,498c5353-84ca-5f1c-8d71-0ae02196227c,Brazil,BRA,3,1,0,2,3,8,-5,3,FALSE
+1e88b29b-3883-56c0-a9f4-0fc4447d0f51,1995 FIFA Women's World Cup,1,group stage,Group B,1,187544dc-4b46-5bf6-a079-e124899a9090,Norway,NOR,3,3,0,0,17,0,17,9,TRUE
+1e88b29b-3883-56c0-a9f4-0fc4447d0f51,1995 FIFA Women's World Cup,1,group stage,Group B,2,43c1aac8-fa85-5e16-ba9c-4cfdcbc975b8,England,ENG,3,2,0,1,6,6,0,6,TRUE
+1e88b29b-3883-56c0-a9f4-0fc4447d0f51,1995 FIFA Women's World Cup,1,group stage,Group B,3,1234d812-2e40-561b-90a3-ed4f9e66bd63,Canada,CAN,3,0,1,2,5,13,-8,1,FALSE
+1e88b29b-3883-56c0-a9f4-0fc4447d0f51,1995 FIFA Women's World Cup,1,group stage,Group B,4,f201a6b5-a9f6-5612-947b-a6a57d2e7e18,Nigeria,NGA,3,0,1,2,5,14,-9,1,FALSE
+1e88b29b-3883-56c0-a9f4-0fc4447d0f51,1995 FIFA Women's World Cup,1,group stage,Group C,1,10913c23-6023-563d-94df-9b4fb66c3432,United States,USA,3,2,1,0,9,4,5,7,TRUE
+1e88b29b-3883-56c0-a9f4-0fc4447d0f51,1995 FIFA Women's World Cup,1,group stage,Group C,2,93542d8e-8aca-5c07-ad21-5c493fdf083e,China,CHN,3,2,1,0,10,6,4,7,TRUE
+1e88b29b-3883-56c0-a9f4-0fc4447d0f51,1995 FIFA Women's World Cup,1,group stage,Group C,3,dfb099cc-e7ea-5e4f-b492-bdbf6e8e179b,Denmark,DNK,3,1,0,2,6,5,1,3,TRUE
+1e88b29b-3883-56c0-a9f4-0fc4447d0f51,1995 FIFA Women's World Cup,1,group stage,Group C,4,2d9898be-ff8f-55ef-a86e-167bdeaf3cc6,Australia,AUS,3,0,0,3,3,13,-10,0,FALSE
+20ab0077-a605-5083-9dc5-cd0d38739b20,1994 FIFA Men's World Cup,1,group stage,Group A,1,da4d79d5-3e18-54b9-916c-997fdef9a796,Romania,ROU,3,2,0,1,5,5,0,6,TRUE
+20ab0077-a605-5083-9dc5-cd0d38739b20,1994 FIFA Men's World Cup,1,group stage,Group A,2,a260026d-34b5-5fdf-8896-fd8997f096b9,Switzerland,CHE,3,1,1,1,5,4,1,4,TRUE
+20ab0077-a605-5083-9dc5-cd0d38739b20,1994 FIFA Men's World Cup,1,group stage,Group A,3,10913c23-6023-563d-94df-9b4fb66c3432,United States,USA,3,1,1,1,3,3,0,4,TRUE
+20ab0077-a605-5083-9dc5-cd0d38739b20,1994 FIFA Men's World Cup,1,group stage,Group A,4,3de13983-4604-5a8d-b39c-08d4f279a06b,Colombia,COL,3,1,0,2,4,5,-1,3,FALSE
+20ab0077-a605-5083-9dc5-cd0d38739b20,1994 FIFA Men's World Cup,1,group stage,Group B,1,498c5353-84ca-5f1c-8d71-0ae02196227c,Brazil,BRA,3,2,1,0,6,1,5,7,TRUE
+20ab0077-a605-5083-9dc5-cd0d38739b20,1994 FIFA Men's World Cup,1,group stage,Group B,2,3611e724-8c08-5f63-b63d-e1cad6af784c,Sweden,SWE,3,1,2,0,6,4,2,5,TRUE
+20ab0077-a605-5083-9dc5-cd0d38739b20,1994 FIFA Men's World Cup,1,group stage,Group B,3,6eb0485e-97e8-57e7-bf93-6c300f3e003a,Russia,RUS,3,1,0,2,7,6,1,3,FALSE
+20ab0077-a605-5083-9dc5-cd0d38739b20,1994 FIFA Men's World Cup,1,group stage,Group B,4,eb88a8cc-be5e-5116-8926-ba595504709a,Cameroon,CMR,3,0,1,2,3,11,-8,1,FALSE
+20ab0077-a605-5083-9dc5-cd0d38739b20,1994 FIFA Men's World Cup,1,group stage,Group C,1,eff0a856-a340-5ec8-84e8-121552da2cda,Germany,DEU,3,2,1,0,5,3,2,7,TRUE
+20ab0077-a605-5083-9dc5-cd0d38739b20,1994 FIFA Men's World Cup,1,group stage,Group C,2,5b16dd9d-d19c-5484-bac2-f9e932dddd29,Spain,ESP,3,1,2,0,6,4,2,5,TRUE
+20ab0077-a605-5083-9dc5-cd0d38739b20,1994 FIFA Men's World Cup,1,group stage,Group C,3,83f65ffa-c76e-5ace-8c09-c87d141a3916,South Korea,KOR,3,0,2,1,4,5,-1,2,FALSE
+20ab0077-a605-5083-9dc5-cd0d38739b20,1994 FIFA Men's World Cup,1,group stage,Group C,4,97c63301-8b06-5bfb-8909-40b555c7c9e3,Bolivia,BOL,3,0,1,2,1,4,-3,1,FALSE
+20ab0077-a605-5083-9dc5-cd0d38739b20,1994 FIFA Men's World Cup,1,group stage,Group D,1,f201a6b5-a9f6-5612-947b-a6a57d2e7e18,Nigeria,NGA,3,2,0,1,6,2,4,6,TRUE
+20ab0077-a605-5083-9dc5-cd0d38739b20,1994 FIFA Men's World Cup,1,group stage,Group D,2,f4b41163-3c82-5e1e-af54-e7ecc8a15135,Bulgaria,BGR,3,2,0,1,6,3,3,6,TRUE
+20ab0077-a605-5083-9dc5-cd0d38739b20,1994 FIFA Men's World Cup,1,group stage,Group D,3,933a103d-d9d7-57a3-9c4a-fbc81d25a266,Argentina,ARG,3,2,0,1,6,3,3,6,TRUE
+20ab0077-a605-5083-9dc5-cd0d38739b20,1994 FIFA Men's World Cup,1,group stage,Group D,4,f23d02ab-e48a-541b-a3d5-efb12f628f6c,Greece,GRC,3,0,0,3,0,10,-10,0,FALSE
+20ab0077-a605-5083-9dc5-cd0d38739b20,1994 FIFA Men's World Cup,1,group stage,Group E,1,c832b30c-2750-5a24-a66f-cf9ea7c20a5c,Mexico,MEX,3,1,1,1,3,3,0,4,TRUE
+20ab0077-a605-5083-9dc5-cd0d38739b20,1994 FIFA Men's World Cup,1,group stage,Group E,2,e39c6163-70b0-5f66-b2d7-540b785eee94,Republic of Ireland,IRL,3,1,1,1,2,2,0,4,TRUE
+20ab0077-a605-5083-9dc5-cd0d38739b20,1994 FIFA Men's World Cup,1,group stage,Group E,3,a42d3d6a-78dd-5ae6-8408-079a857a7c30,Italy,ITA,3,1,1,1,2,2,0,4,TRUE
+20ab0077-a605-5083-9dc5-cd0d38739b20,1994 FIFA Men's World Cup,1,group stage,Group E,4,187544dc-4b46-5bf6-a079-e124899a9090,Norway,NOR,3,1,1,1,1,1,0,4,FALSE
+20ab0077-a605-5083-9dc5-cd0d38739b20,1994 FIFA Men's World Cup,1,group stage,Group F,1,d522b940-a152-5cc7-bcb3-89e28a1ce459,Netherlands,NLD,3,2,0,1,4,3,1,6,TRUE
+20ab0077-a605-5083-9dc5-cd0d38739b20,1994 FIFA Men's World Cup,1,group stage,Group F,2,8cca4b99-7e47-5808-9e58-9803329fa50a,Saudi Arabia,SAU,3,2,0,1,4,3,1,6,TRUE
+20ab0077-a605-5083-9dc5-cd0d38739b20,1994 FIFA Men's World Cup,1,group stage,Group F,3,3aa56241-3868-505a-ac6a-753aefa79cc2,Belgium,BEL,3,2,0,1,2,1,1,6,TRUE
+20ab0077-a605-5083-9dc5-cd0d38739b20,1994 FIFA Men's World Cup,1,group stage,Group F,4,265f639f-c7d5-5ca2-b708-b0995f6c2b89,Morocco,MAR,3,0,0,3,2,5,-3,0,FALSE
+2670ca56-9aab-5ab6-95fe-055da95f80ff,2018 FIFA Men's World Cup,1,group stage,Group A,1,f8764a69-de29-59f5-8e79-715c4bf88a11,Uruguay,URY,3,3,0,0,5,0,5,9,TRUE
+2670ca56-9aab-5ab6-95fe-055da95f80ff,2018 FIFA Men's World Cup,1,group stage,Group A,2,6eb0485e-97e8-57e7-bf93-6c300f3e003a,Russia,RUS,3,2,0,1,8,4,4,6,TRUE
+2670ca56-9aab-5ab6-95fe-055da95f80ff,2018 FIFA Men's World Cup,1,group stage,Group A,3,8cca4b99-7e47-5808-9e58-9803329fa50a,Saudi Arabia,SAU,3,1,0,2,2,7,-5,3,FALSE
+2670ca56-9aab-5ab6-95fe-055da95f80ff,2018 FIFA Men's World Cup,1,group stage,Group A,4,d499d28a-dd42-5133-8e29-23835731f4ea,Egypt,EGY,3,0,0,3,2,6,-4,0,FALSE
+2670ca56-9aab-5ab6-95fe-055da95f80ff,2018 FIFA Men's World Cup,1,group stage,Group B,1,5b16dd9d-d19c-5484-bac2-f9e932dddd29,Spain,ESP,3,1,2,0,6,5,1,5,TRUE
+2670ca56-9aab-5ab6-95fe-055da95f80ff,2018 FIFA Men's World Cup,1,group stage,Group B,2,13eebf0f-eb49-5e70-97f9-84f0395ceff1,Portugal,PRT,3,1,2,0,5,4,1,5,TRUE
+2670ca56-9aab-5ab6-95fe-055da95f80ff,2018 FIFA Men's World Cup,1,group stage,Group B,3,f22d85b4-6cde-5f4e-8119-b3b69a2ba879,Iran,IRN,3,1,1,1,2,2,0,4,FALSE
+2670ca56-9aab-5ab6-95fe-055da95f80ff,2018 FIFA Men's World Cup,1,group stage,Group B,4,265f639f-c7d5-5ca2-b708-b0995f6c2b89,Morocco,MAR,3,0,1,2,2,4,-2,1,FALSE
+2670ca56-9aab-5ab6-95fe-055da95f80ff,2018 FIFA Men's World Cup,1,group stage,Group C,1,3d11f07c-c004-508d-9001-6f944119b2b0,France,FRA,3,2,1,0,3,1,2,7,TRUE
+2670ca56-9aab-5ab6-95fe-055da95f80ff,2018 FIFA Men's World Cup,1,group stage,Group C,2,dfb099cc-e7ea-5e4f-b492-bdbf6e8e179b,Denmark,DNK,3,1,2,0,2,1,1,5,TRUE
+2670ca56-9aab-5ab6-95fe-055da95f80ff,2018 FIFA Men's World Cup,1,group stage,Group C,3,db3abc88-7f89-5183-bc6d-ea6fa7c361d9,Peru,PER,3,1,0,2,2,2,0,3,FALSE
+2670ca56-9aab-5ab6-95fe-055da95f80ff,2018 FIFA Men's World Cup,1,group stage,Group C,4,2d9898be-ff8f-55ef-a86e-167bdeaf3cc6,Australia,AUS,3,0,1,2,2,5,-3,1,FALSE
+2670ca56-9aab-5ab6-95fe-055da95f80ff,2018 FIFA Men's World Cup,1,group stage,Group D,1,0db8bc49-3546-517c-af2c-7abd04ae2214,Croatia,HRV,3,3,0,0,7,1,6,9,TRUE
+2670ca56-9aab-5ab6-95fe-055da95f80ff,2018 FIFA Men's World Cup,1,group stage,Group D,2,933a103d-d9d7-57a3-9c4a-fbc81d25a266,Argentina,ARG,3,1,1,1,3,5,-2,4,TRUE
+2670ca56-9aab-5ab6-95fe-055da95f80ff,2018 FIFA Men's World Cup,1,group stage,Group D,3,f201a6b5-a9f6-5612-947b-a6a57d2e7e18,Nigeria,NGA,3,1,0,2,3,4,-1,3,FALSE
+2670ca56-9aab-5ab6-95fe-055da95f80ff,2018 FIFA Men's World Cup,1,group stage,Group D,4,e31095c5-b215-5b1b-b69e-e0c3be13dcd7,Iceland,ISL,3,0,1,2,2,5,-3,1,FALSE
+2670ca56-9aab-5ab6-95fe-055da95f80ff,2018 FIFA Men's World Cup,1,group stage,Group E,1,498c5353-84ca-5f1c-8d71-0ae02196227c,Brazil,BRA,3,2,1,0,5,1,4,7,TRUE
+2670ca56-9aab-5ab6-95fe-055da95f80ff,2018 FIFA Men's World Cup,1,group stage,Group E,2,a260026d-34b5-5fdf-8896-fd8997f096b9,Switzerland,CHE,3,1,2,0,5,4,1,5,TRUE
+2670ca56-9aab-5ab6-95fe-055da95f80ff,2018 FIFA Men's World Cup,1,group stage,Group E,3,8fcb57c5-f39b-5302-9aed-c645120d5a91,Serbia,SRB,3,1,0,2,2,4,-2,3,FALSE
+2670ca56-9aab-5ab6-95fe-055da95f80ff,2018 FIFA Men's World Cup,1,group stage,Group E,4,8dd855bb-0dbb-576b-837a-ad9f8d770c86,Costa Rica,CRI,3,0,1,2,2,5,-3,1,FALSE
+2670ca56-9aab-5ab6-95fe-055da95f80ff,2018 FIFA Men's World Cup,1,group stage,Group F,1,3611e724-8c08-5f63-b63d-e1cad6af784c,Sweden,SWE,3,2,0,1,5,2,3,6,TRUE
+2670ca56-9aab-5ab6-95fe-055da95f80ff,2018 FIFA Men's World Cup,1,group stage,Group F,2,c832b30c-2750-5a24-a66f-cf9ea7c20a5c,Mexico,MEX,3,2,0,1,3,4,-1,6,TRUE
+2670ca56-9aab-5ab6-95fe-055da95f80ff,2018 FIFA Men's World Cup,1,group stage,Group F,3,83f65ffa-c76e-5ace-8c09-c87d141a3916,South Korea,KOR,3,1,0,2,3,3,0,3,FALSE
+2670ca56-9aab-5ab6-95fe-055da95f80ff,2018 FIFA Men's World Cup,1,group stage,Group F,4,eff0a856-a340-5ec8-84e8-121552da2cda,Germany,DEU,3,1,0,2,2,4,-2,3,FALSE
+2670ca56-9aab-5ab6-95fe-055da95f80ff,2018 FIFA Men's World Cup,1,group stage,Group G,1,3aa56241-3868-505a-ac6a-753aefa79cc2,Belgium,BEL,3,3,0,0,9,2,7,9,TRUE
+2670ca56-9aab-5ab6-95fe-055da95f80ff,2018 FIFA Men's World Cup,1,group stage,Group G,2,43c1aac8-fa85-5e16-ba9c-4cfdcbc975b8,England,ENG,3,2,0,1,8,3,5,6,TRUE
+2670ca56-9aab-5ab6-95fe-055da95f80ff,2018 FIFA Men's World Cup,1,group stage,Group G,3,b627769a-7468-5b82-85ee-a38f3d71a3c6,Tunisia,TUN,3,1,0,2,5,8,-3,3,FALSE
+2670ca56-9aab-5ab6-95fe-055da95f80ff,2018 FIFA Men's World Cup,1,group stage,Group G,4,835977dc-ae64-5928-9bd2-421d65fcb745,Panama,PAN,3,0,0,3,2,11,-9,0,FALSE
+2670ca56-9aab-5ab6-95fe-055da95f80ff,2018 FIFA Men's World Cup,1,group stage,Group H,1,3de13983-4604-5a8d-b39c-08d4f279a06b,Colombia,COL,3,2,0,1,5,2,3,6,TRUE
+2670ca56-9aab-5ab6-95fe-055da95f80ff,2018 FIFA Men's World Cup,1,group stage,Group H,2,230373b7-3a16-506a-b5f6-acc37d7e801d,Japan,JPN,3,1,1,1,4,4,0,4,TRUE
+2670ca56-9aab-5ab6-95fe-055da95f80ff,2018 FIFA Men's World Cup,1,group stage,Group H,3,fdb9a8af-2b8d-518b-b0ab-a0118cd58de2,Senegal,SEN,3,1,1,1,4,4,0,4,FALSE
+2670ca56-9aab-5ab6-95fe-055da95f80ff,2018 FIFA Men's World Cup,1,group stage,Group H,4,fc0455f9-aa03-5b3d-9b41-41854289e993,Poland,POL,3,1,0,2,2,5,-3,3,FALSE
+28d9ffd2-6063-5c73-aed8-40f06aeb44db,1990 FIFA Men's World Cup,1,group stage,Group A,1,a42d3d6a-78dd-5ae6-8408-079a857a7c30,Italy,ITA,3,3,0,0,4,0,4,6,TRUE
+28d9ffd2-6063-5c73-aed8-40f06aeb44db,1990 FIFA Men's World Cup,1,group stage,Group A,2,cf23603f-09d6-52e6-9c7e-fb8db4554297,Czechoslovakia,CSK,3,2,0,1,6,3,3,4,TRUE
+28d9ffd2-6063-5c73-aed8-40f06aeb44db,1990 FIFA Men's World Cup,1,group stage,Group A,3,8e63ee49-fbde-5478-a093-1a6a679cc27f,Austria,AUT,3,1,0,2,2,3,-1,2,FALSE
+28d9ffd2-6063-5c73-aed8-40f06aeb44db,1990 FIFA Men's World Cup,1,group stage,Group A,4,10913c23-6023-563d-94df-9b4fb66c3432,United States,USA,3,0,0,3,2,8,-6,0,FALSE
+28d9ffd2-6063-5c73-aed8-40f06aeb44db,1990 FIFA Men's World Cup,1,group stage,Group B,1,eb88a8cc-be5e-5116-8926-ba595504709a,Cameroon,CMR,3,2,0,1,3,5,-2,4,TRUE
+28d9ffd2-6063-5c73-aed8-40f06aeb44db,1990 FIFA Men's World Cup,1,group stage,Group B,2,da4d79d5-3e18-54b9-916c-997fdef9a796,Romania,ROU,3,1,1,1,4,3,1,3,TRUE
+28d9ffd2-6063-5c73-aed8-40f06aeb44db,1990 FIFA Men's World Cup,1,group stage,Group B,3,933a103d-d9d7-57a3-9c4a-fbc81d25a266,Argentina,ARG,3,1,1,1,3,2,1,3,TRUE
+28d9ffd2-6063-5c73-aed8-40f06aeb44db,1990 FIFA Men's World Cup,1,group stage,Group B,4,6c983d26-03e1-5649-a13f-42b61e101a0e,Soviet Union,SUN,3,1,0,2,4,4,0,2,FALSE
+28d9ffd2-6063-5c73-aed8-40f06aeb44db,1990 FIFA Men's World Cup,1,group stage,Group C,1,498c5353-84ca-5f1c-8d71-0ae02196227c,Brazil,BRA,3,3,0,0,4,1,3,6,TRUE
+28d9ffd2-6063-5c73-aed8-40f06aeb44db,1990 FIFA Men's World Cup,1,group stage,Group C,2,8dd855bb-0dbb-576b-837a-ad9f8d770c86,Costa Rica,CRI,3,2,0,1,3,2,1,4,TRUE
+28d9ffd2-6063-5c73-aed8-40f06aeb44db,1990 FIFA Men's World Cup,1,group stage,Group C,3,fc2ce361-82ed-537a-85f1-ff8f384d11b1,Scotland,SCO,3,1,0,2,2,3,-1,2,FALSE
+28d9ffd2-6063-5c73-aed8-40f06aeb44db,1990 FIFA Men's World Cup,1,group stage,Group C,4,3611e724-8c08-5f63-b63d-e1cad6af784c,Sweden,SWE,3,0,0,3,3,6,-3,0,FALSE
+28d9ffd2-6063-5c73-aed8-40f06aeb44db,1990 FIFA Men's World Cup,1,group stage,Group D,1,adbcf28f-5f27-56bd-bca0-909cf77a8ae0,West Germany,DEU,3,2,1,0,10,3,7,5,TRUE
+28d9ffd2-6063-5c73-aed8-40f06aeb44db,1990 FIFA Men's World Cup,1,group stage,Group D,2,9a9be60e-89da-590c-95a8-6e5802b5deb5,Yugoslavia,YUG,3,2,0,1,6,5,1,4,TRUE
+28d9ffd2-6063-5c73-aed8-40f06aeb44db,1990 FIFA Men's World Cup,1,group stage,Group D,3,3de13983-4604-5a8d-b39c-08d4f279a06b,Colombia,COL,3,1,1,1,3,2,1,3,TRUE
+28d9ffd2-6063-5c73-aed8-40f06aeb44db,1990 FIFA Men's World Cup,1,group stage,Group D,4,af3186ce-dc7a-5681-abe7-c1b30465f9ed,United Arab Emirates,ARE,3,0,0,3,2,11,-9,0,FALSE
+28d9ffd2-6063-5c73-aed8-40f06aeb44db,1990 FIFA Men's World Cup,1,group stage,Group E,1,5b16dd9d-d19c-5484-bac2-f9e932dddd29,Spain,ESP,3,2,1,0,5,2,3,5,TRUE
+28d9ffd2-6063-5c73-aed8-40f06aeb44db,1990 FIFA Men's World Cup,1,group stage,Group E,2,3aa56241-3868-505a-ac6a-753aefa79cc2,Belgium,BEL,3,2,0,1,6,3,3,4,TRUE
+28d9ffd2-6063-5c73-aed8-40f06aeb44db,1990 FIFA Men's World Cup,1,group stage,Group E,3,f8764a69-de29-59f5-8e79-715c4bf88a11,Uruguay,URY,3,1,1,1,2,3,-1,3,TRUE
+28d9ffd2-6063-5c73-aed8-40f06aeb44db,1990 FIFA Men's World Cup,1,group stage,Group E,4,83f65ffa-c76e-5ace-8c09-c87d141a3916,South Korea,KOR,3,0,0,3,1,6,-5,0,FALSE
+28d9ffd2-6063-5c73-aed8-40f06aeb44db,1990 FIFA Men's World Cup,1,group stage,Group F,1,43c1aac8-fa85-5e16-ba9c-4cfdcbc975b8,England,ENG,3,1,2,0,2,1,1,4,TRUE
+28d9ffd2-6063-5c73-aed8-40f06aeb44db,1990 FIFA Men's World Cup,1,group stage,Group F,2,e39c6163-70b0-5f66-b2d7-540b785eee94,Republic of Ireland,IRL,3,0,3,0,2,2,0,3,TRUE
+28d9ffd2-6063-5c73-aed8-40f06aeb44db,1990 FIFA Men's World Cup,1,group stage,Group F,3,d522b940-a152-5cc7-bcb3-89e28a1ce459,Netherlands,NLD,3,0,3,0,2,2,0,3,TRUE
+28d9ffd2-6063-5c73-aed8-40f06aeb44db,1990 FIFA Men's World Cup,1,group stage,Group F,4,d499d28a-dd42-5133-8e29-23835731f4ea,Egypt,EGY,3,0,2,1,1,2,-1,2,FALSE
+3ceb381b-9f6e-54ff-b80d-d1bade27a3b5,2003 FIFA Women's World Cup,1,group stage,Group A,1,10913c23-6023-563d-94df-9b4fb66c3432,United States,USA,3,3,0,0,11,1,10,9,TRUE
+3ceb381b-9f6e-54ff-b80d-d1bade27a3b5,2003 FIFA Women's World Cup,1,group stage,Group A,2,3611e724-8c08-5f63-b63d-e1cad6af784c,Sweden,SWE,3,2,0,1,5,3,2,6,TRUE
+3ceb381b-9f6e-54ff-b80d-d1bade27a3b5,2003 FIFA Women's World Cup,1,group stage,Group A,3,58ce2aac-d181-51c6-9f50-fc3e8643d0e1,North Korea,PRK,3,1,0,2,3,4,-1,3,FALSE
+3ceb381b-9f6e-54ff-b80d-d1bade27a3b5,2003 FIFA Women's World Cup,1,group stage,Group A,4,f201a6b5-a9f6-5612-947b-a6a57d2e7e18,Nigeria,NGA,3,0,0,3,0,11,-11,0,FALSE
+3ceb381b-9f6e-54ff-b80d-d1bade27a3b5,2003 FIFA Women's World Cup,1,group stage,Group B,1,498c5353-84ca-5f1c-8d71-0ae02196227c,Brazil,BRA,3,2,1,0,8,2,6,7,TRUE
+3ceb381b-9f6e-54ff-b80d-d1bade27a3b5,2003 FIFA Women's World Cup,1,group stage,Group B,2,187544dc-4b46-5bf6-a079-e124899a9090,Norway,NOR,3,2,0,1,10,5,5,6,TRUE
+3ceb381b-9f6e-54ff-b80d-d1bade27a3b5,2003 FIFA Women's World Cup,1,group stage,Group B,3,3d11f07c-c004-508d-9001-6f944119b2b0,France,FRA,3,1,1,1,2,3,-1,4,FALSE
+3ceb381b-9f6e-54ff-b80d-d1bade27a3b5,2003 FIFA Women's World Cup,1,group stage,Group B,4,83f65ffa-c76e-5ace-8c09-c87d141a3916,South Korea,KOR,3,0,0,3,1,11,-10,0,FALSE
+3ceb381b-9f6e-54ff-b80d-d1bade27a3b5,2003 FIFA Women's World Cup,1,group stage,Group C,1,eff0a856-a340-5ec8-84e8-121552da2cda,Germany,DEU,3,3,0,0,13,2,11,9,TRUE
+3ceb381b-9f6e-54ff-b80d-d1bade27a3b5,2003 FIFA Women's World Cup,1,group stage,Group C,2,1234d812-2e40-561b-90a3-ed4f9e66bd63,Canada,CAN,3,2,0,1,7,5,2,6,TRUE
+3ceb381b-9f6e-54ff-b80d-d1bade27a3b5,2003 FIFA Women's World Cup,1,group stage,Group C,3,230373b7-3a16-506a-b5f6-acc37d7e801d,Japan,JPN,3,1,0,2,7,6,1,3,FALSE
+3ceb381b-9f6e-54ff-b80d-d1bade27a3b5,2003 FIFA Women's World Cup,1,group stage,Group C,4,933a103d-d9d7-57a3-9c4a-fbc81d25a266,Argentina,ARG,3,0,0,3,1,15,-14,0,FALSE
+3ceb381b-9f6e-54ff-b80d-d1bade27a3b5,2003 FIFA Women's World Cup,1,group stage,Group D,1,93542d8e-8aca-5c07-ad21-5c493fdf083e,China,CHN,3,2,1,0,3,1,2,7,TRUE
+3ceb381b-9f6e-54ff-b80d-d1bade27a3b5,2003 FIFA Women's World Cup,1,group stage,Group D,2,6eb0485e-97e8-57e7-bf93-6c300f3e003a,Russia,RUS,3,2,0,1,5,2,3,6,TRUE
+3ceb381b-9f6e-54ff-b80d-d1bade27a3b5,2003 FIFA Women's World Cup,1,group stage,Group D,3,55f8040d-0098-5415-abdf-66098ef3bbee,Ghana,GHA,3,1,0,2,2,5,-3,3,FALSE
+3ceb381b-9f6e-54ff-b80d-d1bade27a3b5,2003 FIFA Women's World Cup,1,group stage,Group D,4,2d9898be-ff8f-55ef-a86e-167bdeaf3cc6,Australia,AUS,3,0,1,2,3,5,-2,1,FALSE
+49e2bb03-96ed-5dd7-8325-fadb64dd39cb,2011 FIFA Women's World Cup,1,group stage,Group A,1,eff0a856-a340-5ec8-84e8-121552da2cda,Germany,DEU,3,3,0,0,7,3,4,9,TRUE
+49e2bb03-96ed-5dd7-8325-fadb64dd39cb,2011 FIFA Women's World Cup,1,group stage,Group A,2,3d11f07c-c004-508d-9001-6f944119b2b0,France,FRA,3,2,0,1,7,4,3,6,TRUE
+49e2bb03-96ed-5dd7-8325-fadb64dd39cb,2011 FIFA Women's World Cup,1,group stage,Group A,3,f201a6b5-a9f6-5612-947b-a6a57d2e7e18,Nigeria,NGA,3,1,0,2,1,2,-1,3,FALSE
+49e2bb03-96ed-5dd7-8325-fadb64dd39cb,2011 FIFA Women's World Cup,1,group stage,Group A,4,1234d812-2e40-561b-90a3-ed4f9e66bd63,Canada,CAN,3,0,0,3,1,7,-6,0,FALSE
+49e2bb03-96ed-5dd7-8325-fadb64dd39cb,2011 FIFA Women's World Cup,1,group stage,Group B,1,43c1aac8-fa85-5e16-ba9c-4cfdcbc975b8,England,ENG,3,2,1,0,5,2,3,7,TRUE
+49e2bb03-96ed-5dd7-8325-fadb64dd39cb,2011 FIFA Women's World Cup,1,group stage,Group B,2,230373b7-3a16-506a-b5f6-acc37d7e801d,Japan,JPN,3,2,0,1,6,3,3,6,TRUE
+49e2bb03-96ed-5dd7-8325-fadb64dd39cb,2011 FIFA Women's World Cup,1,group stage,Group B,3,c832b30c-2750-5a24-a66f-cf9ea7c20a5c,Mexico,MEX,3,0,2,1,3,7,-4,2,FALSE
+49e2bb03-96ed-5dd7-8325-fadb64dd39cb,2011 FIFA Women's World Cup,1,group stage,Group B,4,11240419-821b-5fbb-bf15-4906f40e3951,New Zealand,NZL,3,0,1,2,4,6,-2,1,FALSE
+49e2bb03-96ed-5dd7-8325-fadb64dd39cb,2011 FIFA Women's World Cup,1,group stage,Group C,1,3611e724-8c08-5f63-b63d-e1cad6af784c,Sweden,SWE,3,3,0,0,4,1,3,9,TRUE
+49e2bb03-96ed-5dd7-8325-fadb64dd39cb,2011 FIFA Women's World Cup,1,group stage,Group C,2,10913c23-6023-563d-94df-9b4fb66c3432,United States,USA,3,2,0,1,6,2,4,6,TRUE
+49e2bb03-96ed-5dd7-8325-fadb64dd39cb,2011 FIFA Women's World Cup,1,group stage,Group C,3,58ce2aac-d181-51c6-9f50-fc3e8643d0e1,North Korea,PRK,3,0,1,2,0,3,-3,1,FALSE
+49e2bb03-96ed-5dd7-8325-fadb64dd39cb,2011 FIFA Women's World Cup,1,group stage,Group C,4,3de13983-4604-5a8d-b39c-08d4f279a06b,Colombia,COL,3,0,1,2,0,4,-4,1,FALSE
+49e2bb03-96ed-5dd7-8325-fadb64dd39cb,2011 FIFA Women's World Cup,1,group stage,Group D,1,498c5353-84ca-5f1c-8d71-0ae02196227c,Brazil,BRA,3,3,0,0,7,0,7,9,TRUE
+49e2bb03-96ed-5dd7-8325-fadb64dd39cb,2011 FIFA Women's World Cup,1,group stage,Group D,2,2d9898be-ff8f-55ef-a86e-167bdeaf3cc6,Australia,AUS,3,2,0,1,5,4,1,6,TRUE
+49e2bb03-96ed-5dd7-8325-fadb64dd39cb,2011 FIFA Women's World Cup,1,group stage,Group D,3,187544dc-4b46-5bf6-a079-e124899a9090,Norway,NOR,3,1,0,2,2,5,-3,3,FALSE
+49e2bb03-96ed-5dd7-8325-fadb64dd39cb,2011 FIFA Women's World Cup,1,group stage,Group D,4,54c72963-7aa5-5bd8-be03-81066850ff78,Equatorial Guinea,GNQ,3,0,0,3,2,7,-5,0,FALSE
+4ee70224-a2a3-585b-8bab-8ef5e9464c04,2014 FIFA Men's World Cup,1,group stage,Group A,1,498c5353-84ca-5f1c-8d71-0ae02196227c,Brazil,BRA,3,2,1,0,7,2,5,7,TRUE
+4ee70224-a2a3-585b-8bab-8ef5e9464c04,2014 FIFA Men's World Cup,1,group stage,Group A,2,c832b30c-2750-5a24-a66f-cf9ea7c20a5c,Mexico,MEX,3,2,1,0,4,1,3,7,TRUE
+4ee70224-a2a3-585b-8bab-8ef5e9464c04,2014 FIFA Men's World Cup,1,group stage,Group A,3,0db8bc49-3546-517c-af2c-7abd04ae2214,Croatia,HRV,3,1,0,2,6,6,0,3,FALSE
+4ee70224-a2a3-585b-8bab-8ef5e9464c04,2014 FIFA Men's World Cup,1,group stage,Group A,4,eb88a8cc-be5e-5116-8926-ba595504709a,Cameroon,CMR,3,0,0,3,1,9,-8,0,FALSE
+4ee70224-a2a3-585b-8bab-8ef5e9464c04,2014 FIFA Men's World Cup,1,group stage,Group B,1,d522b940-a152-5cc7-bcb3-89e28a1ce459,Netherlands,NLD,3,3,0,0,10,3,7,9,TRUE
+4ee70224-a2a3-585b-8bab-8ef5e9464c04,2014 FIFA Men's World Cup,1,group stage,Group B,2,879c1298-9904-5b96-8f25-5e7d455ae2ec,Chile,CHL,3,2,0,1,5,3,2,6,TRUE
+4ee70224-a2a3-585b-8bab-8ef5e9464c04,2014 FIFA Men's World Cup,1,group stage,Group B,3,5b16dd9d-d19c-5484-bac2-f9e932dddd29,Spain,ESP,3,1,0,2,4,7,-3,3,FALSE
+4ee70224-a2a3-585b-8bab-8ef5e9464c04,2014 FIFA Men's World Cup,1,group stage,Group B,4,2d9898be-ff8f-55ef-a86e-167bdeaf3cc6,Australia,AUS,3,0,0,3,3,9,-6,0,FALSE
+4ee70224-a2a3-585b-8bab-8ef5e9464c04,2014 FIFA Men's World Cup,1,group stage,Group C,1,3de13983-4604-5a8d-b39c-08d4f279a06b,Colombia,COL,3,3,0,0,9,2,7,9,TRUE
+4ee70224-a2a3-585b-8bab-8ef5e9464c04,2014 FIFA Men's World Cup,1,group stage,Group C,2,f23d02ab-e48a-541b-a3d5-efb12f628f6c,Greece,GRC,3,1,1,1,2,4,-2,4,TRUE
+4ee70224-a2a3-585b-8bab-8ef5e9464c04,2014 FIFA Men's World Cup,1,group stage,Group C,3,e31e86e8-0616-5e05-a842-dc8f67c29ca4,Ivory Coast,CIV,3,1,0,2,4,5,-1,3,FALSE
+4ee70224-a2a3-585b-8bab-8ef5e9464c04,2014 FIFA Men's World Cup,1,group stage,Group C,4,230373b7-3a16-506a-b5f6-acc37d7e801d,Japan,JPN,3,0,1,2,2,6,-4,1,FALSE
+4ee70224-a2a3-585b-8bab-8ef5e9464c04,2014 FIFA Men's World Cup,1,group stage,Group D,1,8dd855bb-0dbb-576b-837a-ad9f8d770c86,Costa Rica,CRI,3,2,1,0,4,1,3,7,TRUE
+4ee70224-a2a3-585b-8bab-8ef5e9464c04,2014 FIFA Men's World Cup,1,group stage,Group D,2,f8764a69-de29-59f5-8e79-715c4bf88a11,Uruguay,URY,3,2,0,1,4,4,0,6,TRUE
+4ee70224-a2a3-585b-8bab-8ef5e9464c04,2014 FIFA Men's World Cup,1,group stage,Group D,3,a42d3d6a-78dd-5ae6-8408-079a857a7c30,Italy,ITA,3,1,0,2,2,3,-1,3,FALSE
+4ee70224-a2a3-585b-8bab-8ef5e9464c04,2014 FIFA Men's World Cup,1,group stage,Group D,4,43c1aac8-fa85-5e16-ba9c-4cfdcbc975b8,England,ENG,3,0,1,2,2,4,-2,1,FALSE
+4ee70224-a2a3-585b-8bab-8ef5e9464c04,2014 FIFA Men's World Cup,1,group stage,Group E,1,3d11f07c-c004-508d-9001-6f944119b2b0,France,FRA,3,2,1,0,8,2,6,7,TRUE
+4ee70224-a2a3-585b-8bab-8ef5e9464c04,2014 FIFA Men's World Cup,1,group stage,Group E,2,a260026d-34b5-5fdf-8896-fd8997f096b9,Switzerland,CHE,3,2,0,1,7,6,1,6,TRUE
+4ee70224-a2a3-585b-8bab-8ef5e9464c04,2014 FIFA Men's World Cup,1,group stage,Group E,3,2179a8d7-c7ed-5c0c-b6a6-8e6eeef52657,Ecuador,ECU,3,1,1,1,3,3,0,4,FALSE
+4ee70224-a2a3-585b-8bab-8ef5e9464c04,2014 FIFA Men's World Cup,1,group stage,Group E,4,9b432d9b-a19d-5672-901e-2884a641784b,Honduras,HND,3,0,0,3,1,8,-7,0,FALSE
+4ee70224-a2a3-585b-8bab-8ef5e9464c04,2014 FIFA Men's World Cup,1,group stage,Group F,1,933a103d-d9d7-57a3-9c4a-fbc81d25a266,Argentina,ARG,3,3,0,0,6,3,3,9,TRUE
+4ee70224-a2a3-585b-8bab-8ef5e9464c04,2014 FIFA Men's World Cup,1,group stage,Group F,2,f201a6b5-a9f6-5612-947b-a6a57d2e7e18,Nigeria,NGA,3,1,1,1,3,3,0,4,TRUE
+4ee70224-a2a3-585b-8bab-8ef5e9464c04,2014 FIFA Men's World Cup,1,group stage,Group F,3,0128c8d4-c488-5312-9fca-94d8f504a7a7,Bosnia and Herzegovina,BIH,3,1,0,2,4,4,0,3,FALSE
+4ee70224-a2a3-585b-8bab-8ef5e9464c04,2014 FIFA Men's World Cup,1,group stage,Group F,4,f22d85b4-6cde-5f4e-8119-b3b69a2ba879,Iran,IRN,3,0,1,2,1,4,-3,1,FALSE
+4ee70224-a2a3-585b-8bab-8ef5e9464c04,2014 FIFA Men's World Cup,1,group stage,Group G,1,eff0a856-a340-5ec8-84e8-121552da2cda,Germany,DEU,3,2,1,0,7,2,5,7,TRUE
+4ee70224-a2a3-585b-8bab-8ef5e9464c04,2014 FIFA Men's World Cup,1,group stage,Group G,2,10913c23-6023-563d-94df-9b4fb66c3432,United States,USA,3,1,1,1,4,4,0,4,TRUE
+4ee70224-a2a3-585b-8bab-8ef5e9464c04,2014 FIFA Men's World Cup,1,group stage,Group G,3,13eebf0f-eb49-5e70-97f9-84f0395ceff1,Portugal,PRT,3,1,1,1,4,7,-3,4,FALSE
+4ee70224-a2a3-585b-8bab-8ef5e9464c04,2014 FIFA Men's World Cup,1,group stage,Group G,4,55f8040d-0098-5415-abdf-66098ef3bbee,Ghana,GHA,3,0,1,2,4,6,-2,1,FALSE
+4ee70224-a2a3-585b-8bab-8ef5e9464c04,2014 FIFA Men's World Cup,1,group stage,Group H,1,3aa56241-3868-505a-ac6a-753aefa79cc2,Belgium,BEL,3,3,0,0,4,1,3,9,TRUE
+4ee70224-a2a3-585b-8bab-8ef5e9464c04,2014 FIFA Men's World Cup,1,group stage,Group H,2,1e34dbe6-26e7-5736-947c-cb6c9428e165,Algeria,DZA,3,1,1,1,6,5,1,4,TRUE
+4ee70224-a2a3-585b-8bab-8ef5e9464c04,2014 FIFA Men's World Cup,1,group stage,Group H,3,6eb0485e-97e8-57e7-bf93-6c300f3e003a,Russia,RUS,3,0,2,1,2,3,-1,2,FALSE
+4ee70224-a2a3-585b-8bab-8ef5e9464c04,2014 FIFA Men's World Cup,1,group stage,Group H,4,83f65ffa-c76e-5ace-8c09-c87d141a3916,South Korea,KOR,3,0,1,2,3,6,-3,1,FALSE
+5628ea07-73ab-57ad-99be-84c20dc96cc0,1954 FIFA Men's World Cup,1,group stage,Group 1,1,498c5353-84ca-5f1c-8d71-0ae02196227c,Brazil,BRA,2,1,1,0,6,1,5,3,TRUE
+5628ea07-73ab-57ad-99be-84c20dc96cc0,1954 FIFA Men's World Cup,1,group stage,Group 1,2,9a9be60e-89da-590c-95a8-6e5802b5deb5,Yugoslavia,YUG,2,1,1,0,2,1,1,3,TRUE
+5628ea07-73ab-57ad-99be-84c20dc96cc0,1954 FIFA Men's World Cup,1,group stage,Group 1,3,3d11f07c-c004-508d-9001-6f944119b2b0,France,FRA,2,1,0,1,3,3,0,2,FALSE
+5628ea07-73ab-57ad-99be-84c20dc96cc0,1954 FIFA Men's World Cup,1,group stage,Group 1,4,c832b30c-2750-5a24-a66f-cf9ea7c20a5c,Mexico,MEX,2,0,0,2,2,8,-6,0,FALSE
+5628ea07-73ab-57ad-99be-84c20dc96cc0,1954 FIFA Men's World Cup,1,group stage,Group 2,1,f16b7d5c-db54-5b27-b827-e848a3035641,Hungary,HUN,2,2,0,0,17,3,14,4,TRUE
+5628ea07-73ab-57ad-99be-84c20dc96cc0,1954 FIFA Men's World Cup,1,group stage,Group 2,2,adbcf28f-5f27-56bd-bca0-909cf77a8ae0,West Germany,DEU,2,1,0,1,7,9,-2,2,TRUE
+5628ea07-73ab-57ad-99be-84c20dc96cc0,1954 FIFA Men's World Cup,1,group stage,Group 2,3,d1c45d05-d0bd-55b8-b370-dfa64d998bcc,Turkey,TUR,2,1,0,1,8,4,4,2,FALSE
+5628ea07-73ab-57ad-99be-84c20dc96cc0,1954 FIFA Men's World Cup,1,group stage,Group 2,4,83f65ffa-c76e-5ace-8c09-c87d141a3916,South Korea,KOR,2,0,0,2,0,16,-16,0,FALSE
+5628ea07-73ab-57ad-99be-84c20dc96cc0,1954 FIFA Men's World Cup,1,group stage,Group 3,1,f8764a69-de29-59f5-8e79-715c4bf88a11,Uruguay,URY,2,2,0,0,9,0,9,4,TRUE
+5628ea07-73ab-57ad-99be-84c20dc96cc0,1954 FIFA Men's World Cup,1,group stage,Group 3,2,8e63ee49-fbde-5478-a093-1a6a679cc27f,Austria,AUT,2,2,0,0,6,0,6,4,TRUE
+5628ea07-73ab-57ad-99be-84c20dc96cc0,1954 FIFA Men's World Cup,1,group stage,Group 3,3,cf23603f-09d6-52e6-9c7e-fb8db4554297,Czechoslovakia,CSK,2,0,0,2,0,7,-7,0,FALSE
+5628ea07-73ab-57ad-99be-84c20dc96cc0,1954 FIFA Men's World Cup,1,group stage,Group 3,4,fc2ce361-82ed-537a-85f1-ff8f384d11b1,Scotland,SCO,2,0,0,2,0,8,-8,0,FALSE
+5628ea07-73ab-57ad-99be-84c20dc96cc0,1954 FIFA Men's World Cup,1,group stage,Group 4,1,43c1aac8-fa85-5e16-ba9c-4cfdcbc975b8,England,ENG,2,1,1,0,6,4,2,3,TRUE
+5628ea07-73ab-57ad-99be-84c20dc96cc0,1954 FIFA Men's World Cup,1,group stage,Group 4,2,a260026d-34b5-5fdf-8896-fd8997f096b9,Switzerland,CHE,2,1,0,1,2,3,-1,2,TRUE
+5628ea07-73ab-57ad-99be-84c20dc96cc0,1954 FIFA Men's World Cup,1,group stage,Group 4,3,a42d3d6a-78dd-5ae6-8408-079a857a7c30,Italy,ITA,2,1,0,1,5,3,2,2,FALSE
+5628ea07-73ab-57ad-99be-84c20dc96cc0,1954 FIFA Men's World Cup,1,group stage,Group 4,4,3aa56241-3868-505a-ac6a-753aefa79cc2,Belgium,BEL,2,0,1,1,5,8,-3,1,FALSE
+5d9da256-e241-508e-85a7-5a17c07f186a,1950 FIFA Men's World Cup,1,first round,Group 1,1,498c5353-84ca-5f1c-8d71-0ae02196227c,Brazil,BRA,3,2,1,0,8,2,6,5,TRUE
+5d9da256-e241-508e-85a7-5a17c07f186a,1950 FIFA Men's World Cup,1,first round,Group 1,2,9a9be60e-89da-590c-95a8-6e5802b5deb5,Yugoslavia,YUG,3,2,0,1,7,3,4,4,FALSE
+5d9da256-e241-508e-85a7-5a17c07f186a,1950 FIFA Men's World Cup,1,first round,Group 1,3,a260026d-34b5-5fdf-8896-fd8997f096b9,Switzerland,CHE,3,1,1,1,4,6,-2,3,FALSE
+5d9da256-e241-508e-85a7-5a17c07f186a,1950 FIFA Men's World Cup,1,first round,Group 1,4,c832b30c-2750-5a24-a66f-cf9ea7c20a5c,Mexico,MEX,3,0,0,3,2,10,-8,0,FALSE
+5d9da256-e241-508e-85a7-5a17c07f186a,1950 FIFA Men's World Cup,1,first round,Group 2,1,5b16dd9d-d19c-5484-bac2-f9e932dddd29,Spain,ESP,3,3,0,0,6,1,5,6,TRUE
+5d9da256-e241-508e-85a7-5a17c07f186a,1950 FIFA Men's World Cup,1,first round,Group 2,2,43c1aac8-fa85-5e16-ba9c-4cfdcbc975b8,England,ENG,3,1,0,2,2,2,0,2,FALSE
+5d9da256-e241-508e-85a7-5a17c07f186a,1950 FIFA Men's World Cup,1,first round,Group 2,3,879c1298-9904-5b96-8f25-5e7d455ae2ec,Chile,CHL,3,1,0,2,5,6,-1,2,FALSE
+5d9da256-e241-508e-85a7-5a17c07f186a,1950 FIFA Men's World Cup,1,first round,Group 2,4,10913c23-6023-563d-94df-9b4fb66c3432,United States,USA,3,1,0,2,4,8,-4,2,FALSE
+5d9da256-e241-508e-85a7-5a17c07f186a,1950 FIFA Men's World Cup,1,first round,Group 3,1,3611e724-8c08-5f63-b63d-e1cad6af784c,Sweden,SWE,2,1,1,0,5,4,1,3,TRUE
+5d9da256-e241-508e-85a7-5a17c07f186a,1950 FIFA Men's World Cup,1,first round,Group 3,2,a42d3d6a-78dd-5ae6-8408-079a857a7c30,Italy,ITA,2,1,0,1,4,3,1,2,FALSE
+5d9da256-e241-508e-85a7-5a17c07f186a,1950 FIFA Men's World Cup,1,first round,Group 3,3,9678d2a4-5323-5082-b115-575366fb384a,Paraguay,PRY,2,0,1,1,2,4,-2,1,FALSE
+5d9da256-e241-508e-85a7-5a17c07f186a,1950 FIFA Men's World Cup,1,first round,Group 4,1,f8764a69-de29-59f5-8e79-715c4bf88a11,Uruguay,URY,1,1,0,0,8,0,8,2,TRUE
+5d9da256-e241-508e-85a7-5a17c07f186a,1950 FIFA Men's World Cup,1,first round,Group 4,2,97c63301-8b06-5bfb-8909-40b555c7c9e3,Bolivia,BOL,1,0,0,1,0,8,-8,0,FALSE
+5d9da256-e241-508e-85a7-5a17c07f186a,1950 FIFA Men's World Cup,2,final round,Group 1,1,f8764a69-de29-59f5-8e79-715c4bf88a11,Uruguay,URY,3,2,1,0,7,5,2,5,TRUE
+5d9da256-e241-508e-85a7-5a17c07f186a,1950 FIFA Men's World Cup,2,final round,Group 1,2,498c5353-84ca-5f1c-8d71-0ae02196227c,Brazil,BRA,3,2,0,1,14,4,10,4,FALSE
+5d9da256-e241-508e-85a7-5a17c07f186a,1950 FIFA Men's World Cup,2,final round,Group 1,3,3611e724-8c08-5f63-b63d-e1cad6af784c,Sweden,SWE,3,1,0,2,6,11,-5,2,FALSE
+5d9da256-e241-508e-85a7-5a17c07f186a,1950 FIFA Men's World Cup,2,final round,Group 1,4,5b16dd9d-d19c-5484-bac2-f9e932dddd29,Spain,ESP,3,0,1,2,4,11,-7,1,FALSE
+6be60fed-dffa-5aa5-89a6-374b2bcb8c92,1958 FIFA Men's World Cup,1,group stage,Group 1,1,adbcf28f-5f27-56bd-bca0-909cf77a8ae0,West Germany,DEU,3,1,2,0,7,5,2,4,TRUE
+6be60fed-dffa-5aa5-89a6-374b2bcb8c92,1958 FIFA Men's World Cup,1,group stage,Group 1,2,641e565c-2f15-5697-b9f0-a09f9dcf1d99,Northern Ireland,NIR,3,1,1,1,4,5,-1,3,TRUE
+6be60fed-dffa-5aa5-89a6-374b2bcb8c92,1958 FIFA Men's World Cup,1,group stage,Group 1,3,cf23603f-09d6-52e6-9c7e-fb8db4554297,Czechoslovakia,CSK,3,1,1,1,8,4,4,3,FALSE
+6be60fed-dffa-5aa5-89a6-374b2bcb8c92,1958 FIFA Men's World Cup,1,group stage,Group 1,4,933a103d-d9d7-57a3-9c4a-fbc81d25a266,Argentina,ARG,3,1,0,2,5,10,-5,2,FALSE
+6be60fed-dffa-5aa5-89a6-374b2bcb8c92,1958 FIFA Men's World Cup,1,group stage,Group 2,1,3d11f07c-c004-508d-9001-6f944119b2b0,France,FRA,3,2,0,1,11,7,4,4,TRUE
+6be60fed-dffa-5aa5-89a6-374b2bcb8c92,1958 FIFA Men's World Cup,1,group stage,Group 2,2,9a9be60e-89da-590c-95a8-6e5802b5deb5,Yugoslavia,YUG,3,1,2,0,7,6,1,4,TRUE
+6be60fed-dffa-5aa5-89a6-374b2bcb8c92,1958 FIFA Men's World Cup,1,group stage,Group 2,3,9678d2a4-5323-5082-b115-575366fb384a,Paraguay,PRY,3,1,1,1,9,12,-3,3,FALSE
+6be60fed-dffa-5aa5-89a6-374b2bcb8c92,1958 FIFA Men's World Cup,1,group stage,Group 2,4,fc2ce361-82ed-537a-85f1-ff8f384d11b1,Scotland,SCO,3,0,1,2,4,6,-2,1,FALSE
+6be60fed-dffa-5aa5-89a6-374b2bcb8c92,1958 FIFA Men's World Cup,1,group stage,Group 3,1,3611e724-8c08-5f63-b63d-e1cad6af784c,Sweden,SWE,3,2,1,0,5,1,4,5,TRUE
+6be60fed-dffa-5aa5-89a6-374b2bcb8c92,1958 FIFA Men's World Cup,1,group stage,Group 3,2,172bbcf1-8dd9-50ac-ba34-b51c641a833e,Wales,WAL,3,0,3,0,2,2,0,3,TRUE
+6be60fed-dffa-5aa5-89a6-374b2bcb8c92,1958 FIFA Men's World Cup,1,group stage,Group 3,3,f16b7d5c-db54-5b27-b827-e848a3035641,Hungary,HUN,3,1,1,1,6,3,3,3,FALSE
+6be60fed-dffa-5aa5-89a6-374b2bcb8c92,1958 FIFA Men's World Cup,1,group stage,Group 3,4,c832b30c-2750-5a24-a66f-cf9ea7c20a5c,Mexico,MEX,3,0,1,2,1,8,-7,1,FALSE
+6be60fed-dffa-5aa5-89a6-374b2bcb8c92,1958 FIFA Men's World Cup,1,group stage,Group 4,1,498c5353-84ca-5f1c-8d71-0ae02196227c,Brazil,BRA,3,2,1,0,5,0,5,5,TRUE
+6be60fed-dffa-5aa5-89a6-374b2bcb8c92,1958 FIFA Men's World Cup,1,group stage,Group 4,2,6c983d26-03e1-5649-a13f-42b61e101a0e,Soviet Union,SUN,3,1,1,1,4,4,0,3,TRUE
+6be60fed-dffa-5aa5-89a6-374b2bcb8c92,1958 FIFA Men's World Cup,1,group stage,Group 4,3,43c1aac8-fa85-5e16-ba9c-4cfdcbc975b8,England,ENG,3,0,3,0,4,4,0,3,FALSE
+6be60fed-dffa-5aa5-89a6-374b2bcb8c92,1958 FIFA Men's World Cup,1,group stage,Group 4,4,8e63ee49-fbde-5478-a093-1a6a679cc27f,Austria,AUT,3,0,1,2,2,7,-5,1,FALSE
+717bed6b-0e65-5efa-8010-ab689ff32abe,1970 FIFA Men's World Cup,1,group stage,Group 1,1,6c983d26-03e1-5649-a13f-42b61e101a0e,Soviet Union,SUN,3,2,1,0,6,1,5,5,TRUE
+717bed6b-0e65-5efa-8010-ab689ff32abe,1970 FIFA Men's World Cup,1,group stage,Group 1,2,c832b30c-2750-5a24-a66f-cf9ea7c20a5c,Mexico,MEX,3,2,1,0,5,0,5,5,TRUE
+717bed6b-0e65-5efa-8010-ab689ff32abe,1970 FIFA Men's World Cup,1,group stage,Group 1,3,3aa56241-3868-505a-ac6a-753aefa79cc2,Belgium,BEL,3,1,0,2,4,5,-1,2,FALSE
+717bed6b-0e65-5efa-8010-ab689ff32abe,1970 FIFA Men's World Cup,1,group stage,Group 1,4,535a7e23-4bf9-5e96-ac76-48241d246817,El Salvador,SLV,3,0,0,3,0,9,-9,0,FALSE
+717bed6b-0e65-5efa-8010-ab689ff32abe,1970 FIFA Men's World Cup,1,group stage,Group 2,1,a42d3d6a-78dd-5ae6-8408-079a857a7c30,Italy,ITA,3,1,2,0,1,0,1,4,TRUE
+717bed6b-0e65-5efa-8010-ab689ff32abe,1970 FIFA Men's World Cup,1,group stage,Group 2,2,f8764a69-de29-59f5-8e79-715c4bf88a11,Uruguay,URY,3,1,1,1,2,1,1,3,TRUE
+717bed6b-0e65-5efa-8010-ab689ff32abe,1970 FIFA Men's World Cup,1,group stage,Group 2,3,3611e724-8c08-5f63-b63d-e1cad6af784c,Sweden,SWE,3,1,1,1,2,2,0,3,FALSE
+717bed6b-0e65-5efa-8010-ab689ff32abe,1970 FIFA Men's World Cup,1,group stage,Group 2,4,93a0c160-8db6-5c28-9415-210f2e278ab8,Israel,ISR,3,0,2,1,1,3,-2,2,FALSE
+717bed6b-0e65-5efa-8010-ab689ff32abe,1970 FIFA Men's World Cup,1,group stage,Group 3,1,498c5353-84ca-5f1c-8d71-0ae02196227c,Brazil,BRA,3,3,0,0,8,3,5,6,TRUE
+717bed6b-0e65-5efa-8010-ab689ff32abe,1970 FIFA Men's World Cup,1,group stage,Group 3,2,43c1aac8-fa85-5e16-ba9c-4cfdcbc975b8,England,ENG,3,2,0,1,2,1,1,4,TRUE
+717bed6b-0e65-5efa-8010-ab689ff32abe,1970 FIFA Men's World Cup,1,group stage,Group 3,3,da4d79d5-3e18-54b9-916c-997fdef9a796,Romania,ROU,3,1,0,2,4,5,-1,2,FALSE
+717bed6b-0e65-5efa-8010-ab689ff32abe,1970 FIFA Men's World Cup,1,group stage,Group 3,4,cf23603f-09d6-52e6-9c7e-fb8db4554297,Czechoslovakia,CSK,3,0,0,3,2,7,-5,0,FALSE
+717bed6b-0e65-5efa-8010-ab689ff32abe,1970 FIFA Men's World Cup,1,group stage,Group 4,1,adbcf28f-5f27-56bd-bca0-909cf77a8ae0,West Germany,DEU,3,3,0,0,10,4,6,6,TRUE
+717bed6b-0e65-5efa-8010-ab689ff32abe,1970 FIFA Men's World Cup,1,group stage,Group 4,2,db3abc88-7f89-5183-bc6d-ea6fa7c361d9,Peru,PER,3,2,0,1,7,5,2,4,TRUE
+717bed6b-0e65-5efa-8010-ab689ff32abe,1970 FIFA Men's World Cup,1,group stage,Group 4,3,f4b41163-3c82-5e1e-af54-e7ecc8a15135,Bulgaria,BGR,3,0,1,2,5,9,-4,1,FALSE
+717bed6b-0e65-5efa-8010-ab689ff32abe,1970 FIFA Men's World Cup,1,group stage,Group 4,4,265f639f-c7d5-5ca2-b708-b0995f6c2b89,Morocco,MAR,3,0,1,2,2,6,-4,1,FALSE
+860dc5fb-c8ff-502e-ad19-c34195b265e0,1974 FIFA Men's World Cup,1,first group stage,Group 1,1,7092805b-51a6-5344-845b-489df45277c1,East Germany,DDR,3,2,1,0,4,1,3,5,TRUE
+860dc5fb-c8ff-502e-ad19-c34195b265e0,1974 FIFA Men's World Cup,1,first group stage,Group 1,2,adbcf28f-5f27-56bd-bca0-909cf77a8ae0,West Germany,DEU,3,2,0,1,4,1,3,4,TRUE
+860dc5fb-c8ff-502e-ad19-c34195b265e0,1974 FIFA Men's World Cup,1,first group stage,Group 1,3,879c1298-9904-5b96-8f25-5e7d455ae2ec,Chile,CHL,3,0,2,1,1,2,-1,2,FALSE
+860dc5fb-c8ff-502e-ad19-c34195b265e0,1974 FIFA Men's World Cup,1,first group stage,Group 1,4,2d9898be-ff8f-55ef-a86e-167bdeaf3cc6,Australia,AUS,3,0,1,2,0,5,-5,1,FALSE
+860dc5fb-c8ff-502e-ad19-c34195b265e0,1974 FIFA Men's World Cup,1,first group stage,Group 2,1,9a9be60e-89da-590c-95a8-6e5802b5deb5,Yugoslavia,YUG,3,1,2,0,10,1,9,4,TRUE
+860dc5fb-c8ff-502e-ad19-c34195b265e0,1974 FIFA Men's World Cup,1,first group stage,Group 2,2,498c5353-84ca-5f1c-8d71-0ae02196227c,Brazil,BRA,3,1,2,0,3,0,3,4,TRUE
+860dc5fb-c8ff-502e-ad19-c34195b265e0,1974 FIFA Men's World Cup,1,first group stage,Group 2,3,fc2ce361-82ed-537a-85f1-ff8f384d11b1,Scotland,SCO,3,1,2,0,3,1,2,4,FALSE
+860dc5fb-c8ff-502e-ad19-c34195b265e0,1974 FIFA Men's World Cup,1,first group stage,Group 2,4,d54fde2a-25fe-5c19-820f-93843678e1a3,Zaire,COD,3,0,0,3,0,14,-14,0,FALSE
+860dc5fb-c8ff-502e-ad19-c34195b265e0,1974 FIFA Men's World Cup,1,first group stage,Group 3,1,d522b940-a152-5cc7-bcb3-89e28a1ce459,Netherlands,NLD,3,2,1,0,6,1,5,5,TRUE
+860dc5fb-c8ff-502e-ad19-c34195b265e0,1974 FIFA Men's World Cup,1,first group stage,Group 3,2,3611e724-8c08-5f63-b63d-e1cad6af784c,Sweden,SWE,3,1,2,0,3,0,3,4,TRUE
+860dc5fb-c8ff-502e-ad19-c34195b265e0,1974 FIFA Men's World Cup,1,first group stage,Group 3,3,f4b41163-3c82-5e1e-af54-e7ecc8a15135,Bulgaria,BGR,3,0,2,1,2,5,-3,2,FALSE
+860dc5fb-c8ff-502e-ad19-c34195b265e0,1974 FIFA Men's World Cup,1,first group stage,Group 3,4,f8764a69-de29-59f5-8e79-715c4bf88a11,Uruguay,URY,3,0,1,2,1,6,-5,1,FALSE
+860dc5fb-c8ff-502e-ad19-c34195b265e0,1974 FIFA Men's World Cup,1,first group stage,Group 4,1,fc0455f9-aa03-5b3d-9b41-41854289e993,Poland,POL,3,3,0,0,12,3,9,6,TRUE
+860dc5fb-c8ff-502e-ad19-c34195b265e0,1974 FIFA Men's World Cup,1,first group stage,Group 4,2,933a103d-d9d7-57a3-9c4a-fbc81d25a266,Argentina,ARG,3,1,1,1,7,5,2,3,TRUE
+860dc5fb-c8ff-502e-ad19-c34195b265e0,1974 FIFA Men's World Cup,1,first group stage,Group 4,3,a42d3d6a-78dd-5ae6-8408-079a857a7c30,Italy,ITA,3,1,1,1,5,4,1,3,FALSE
+860dc5fb-c8ff-502e-ad19-c34195b265e0,1974 FIFA Men's World Cup,1,first group stage,Group 4,4,3a57ba00-89d9-50ec-b7f0-c37c9920a2fa,Haiti,HTI,3,0,0,3,2,14,-12,0,FALSE
+860dc5fb-c8ff-502e-ad19-c34195b265e0,1974 FIFA Men's World Cup,2,second group stage,Group A,1,d522b940-a152-5cc7-bcb3-89e28a1ce459,Netherlands,NLD,3,3,0,0,8,0,8,6,TRUE
+860dc5fb-c8ff-502e-ad19-c34195b265e0,1974 FIFA Men's World Cup,2,second group stage,Group A,2,498c5353-84ca-5f1c-8d71-0ae02196227c,Brazil,BRA,3,2,0,1,3,3,0,4,TRUE
+860dc5fb-c8ff-502e-ad19-c34195b265e0,1974 FIFA Men's World Cup,2,second group stage,Group A,3,7092805b-51a6-5344-845b-489df45277c1,East Germany,DDR,3,0,1,2,1,4,-3,1,FALSE
+860dc5fb-c8ff-502e-ad19-c34195b265e0,1974 FIFA Men's World Cup,2,second group stage,Group A,4,933a103d-d9d7-57a3-9c4a-fbc81d25a266,Argentina,ARG,3,0,1,2,2,7,-5,1,FALSE
+860dc5fb-c8ff-502e-ad19-c34195b265e0,1974 FIFA Men's World Cup,2,second group stage,Group B,1,adbcf28f-5f27-56bd-bca0-909cf77a8ae0,West Germany,DEU,3,3,0,0,7,2,5,6,TRUE
+860dc5fb-c8ff-502e-ad19-c34195b265e0,1974 FIFA Men's World Cup,2,second group stage,Group B,2,fc0455f9-aa03-5b3d-9b41-41854289e993,Poland,POL,3,2,0,1,3,2,1,4,TRUE
+860dc5fb-c8ff-502e-ad19-c34195b265e0,1974 FIFA Men's World Cup,2,second group stage,Group B,3,3611e724-8c08-5f63-b63d-e1cad6af784c,Sweden,SWE,3,1,0,2,4,6,-2,2,FALSE
+860dc5fb-c8ff-502e-ad19-c34195b265e0,1974 FIFA Men's World Cup,2,second group stage,Group B,4,9a9be60e-89da-590c-95a8-6e5802b5deb5,Yugoslavia,YUG,3,0,0,3,2,6,-4,0,FALSE
+8e0540a9-ab5d-5e7f-8ed2-417e3e1568a9,1986 FIFA Men's World Cup,1,group stage,Group A,1,933a103d-d9d7-57a3-9c4a-fbc81d25a266,Argentina,ARG,3,2,1,0,6,2,4,5,TRUE
+8e0540a9-ab5d-5e7f-8ed2-417e3e1568a9,1986 FIFA Men's World Cup,1,group stage,Group A,2,a42d3d6a-78dd-5ae6-8408-079a857a7c30,Italy,ITA,3,1,2,0,5,4,1,4,TRUE
+8e0540a9-ab5d-5e7f-8ed2-417e3e1568a9,1986 FIFA Men's World Cup,1,group stage,Group A,3,f4b41163-3c82-5e1e-af54-e7ecc8a15135,Bulgaria,BGR,3,0,2,1,2,4,-2,2,TRUE
+8e0540a9-ab5d-5e7f-8ed2-417e3e1568a9,1986 FIFA Men's World Cup,1,group stage,Group A,4,83f65ffa-c76e-5ace-8c09-c87d141a3916,South Korea,KOR,3,0,1,2,4,7,-3,1,FALSE
+8e0540a9-ab5d-5e7f-8ed2-417e3e1568a9,1986 FIFA Men's World Cup,1,group stage,Group B,1,c832b30c-2750-5a24-a66f-cf9ea7c20a5c,Mexico,MEX,3,2,1,0,4,2,2,5,TRUE
+8e0540a9-ab5d-5e7f-8ed2-417e3e1568a9,1986 FIFA Men's World Cup,1,group stage,Group B,2,9678d2a4-5323-5082-b115-575366fb384a,Paraguay,PRY,3,1,2,0,4,3,1,4,TRUE
+8e0540a9-ab5d-5e7f-8ed2-417e3e1568a9,1986 FIFA Men's World Cup,1,group stage,Group B,3,3aa56241-3868-505a-ac6a-753aefa79cc2,Belgium,BEL,3,1,1,1,5,5,0,3,TRUE
+8e0540a9-ab5d-5e7f-8ed2-417e3e1568a9,1986 FIFA Men's World Cup,1,group stage,Group B,4,0483a910-5880-55a5-abb2-5da0215a7d70,Iraq,IRQ,3,0,0,3,1,4,-3,0,FALSE
+8e0540a9-ab5d-5e7f-8ed2-417e3e1568a9,1986 FIFA Men's World Cup,1,group stage,Group C,1,6c983d26-03e1-5649-a13f-42b61e101a0e,Soviet Union,SUN,3,2,1,0,9,1,8,5,TRUE
+8e0540a9-ab5d-5e7f-8ed2-417e3e1568a9,1986 FIFA Men's World Cup,1,group stage,Group C,2,3d11f07c-c004-508d-9001-6f944119b2b0,France,FRA,3,2,1,0,5,1,4,5,TRUE
+8e0540a9-ab5d-5e7f-8ed2-417e3e1568a9,1986 FIFA Men's World Cup,1,group stage,Group C,3,f16b7d5c-db54-5b27-b827-e848a3035641,Hungary,HUN,3,1,0,2,2,9,-7,2,FALSE
+8e0540a9-ab5d-5e7f-8ed2-417e3e1568a9,1986 FIFA Men's World Cup,1,group stage,Group C,4,1234d812-2e40-561b-90a3-ed4f9e66bd63,Canada,CAN,3,0,0,3,0,5,-5,0,FALSE
+8e0540a9-ab5d-5e7f-8ed2-417e3e1568a9,1986 FIFA Men's World Cup,1,group stage,Group D,1,498c5353-84ca-5f1c-8d71-0ae02196227c,Brazil,BRA,3,3,0,0,5,0,5,6,TRUE
+8e0540a9-ab5d-5e7f-8ed2-417e3e1568a9,1986 FIFA Men's World Cup,1,group stage,Group D,2,5b16dd9d-d19c-5484-bac2-f9e932dddd29,Spain,ESP,3,2,0,1,5,2,3,4,TRUE
+8e0540a9-ab5d-5e7f-8ed2-417e3e1568a9,1986 FIFA Men's World Cup,1,group stage,Group D,3,641e565c-2f15-5697-b9f0-a09f9dcf1d99,Northern Ireland,NIR,3,0,1,2,2,6,-4,1,FALSE
+8e0540a9-ab5d-5e7f-8ed2-417e3e1568a9,1986 FIFA Men's World Cup,1,group stage,Group D,4,1e34dbe6-26e7-5736-947c-cb6c9428e165,Algeria,DZA,3,0,1,2,1,5,-4,1,FALSE
+8e0540a9-ab5d-5e7f-8ed2-417e3e1568a9,1986 FIFA Men's World Cup,1,group stage,Group E,1,dfb099cc-e7ea-5e4f-b492-bdbf6e8e179b,Denmark,DNK,3,3,0,0,9,1,8,6,TRUE
+8e0540a9-ab5d-5e7f-8ed2-417e3e1568a9,1986 FIFA Men's World Cup,1,group stage,Group E,2,adbcf28f-5f27-56bd-bca0-909cf77a8ae0,West Germany,DEU,3,1,1,1,3,4,-1,3,TRUE
+8e0540a9-ab5d-5e7f-8ed2-417e3e1568a9,1986 FIFA Men's World Cup,1,group stage,Group E,3,f8764a69-de29-59f5-8e79-715c4bf88a11,Uruguay,URY,3,0,2,1,2,7,-5,2,TRUE
+8e0540a9-ab5d-5e7f-8ed2-417e3e1568a9,1986 FIFA Men's World Cup,1,group stage,Group E,4,fc2ce361-82ed-537a-85f1-ff8f384d11b1,Scotland,SCO,3,0,1,2,1,3,-2,1,FALSE
+8e0540a9-ab5d-5e7f-8ed2-417e3e1568a9,1986 FIFA Men's World Cup,1,group stage,Group F,1,265f639f-c7d5-5ca2-b708-b0995f6c2b89,Morocco,MAR,3,1,2,0,3,1,2,4,TRUE
+8e0540a9-ab5d-5e7f-8ed2-417e3e1568a9,1986 FIFA Men's World Cup,1,group stage,Group F,2,43c1aac8-fa85-5e16-ba9c-4cfdcbc975b8,England,ENG,3,1,1,1,3,1,2,3,TRUE
+8e0540a9-ab5d-5e7f-8ed2-417e3e1568a9,1986 FIFA Men's World Cup,1,group stage,Group F,3,fc0455f9-aa03-5b3d-9b41-41854289e993,Poland,POL,3,1,1,1,1,3,-2,3,TRUE
+8e0540a9-ab5d-5e7f-8ed2-417e3e1568a9,1986 FIFA Men's World Cup,1,group stage,Group F,4,13eebf0f-eb49-5e70-97f9-84f0395ceff1,Portugal,PRT,3,1,0,2,2,4,-2,2,FALSE
+97242af1-4f11-5b96-b5f1-026e51f4a3c5,2023 FIFA Women's World Cup,1,group stage,Group A,1,a260026d-34b5-5fdf-8896-fd8997f096b9,Switzerland,CHE,3,1,2,0,2,0,2,5,TRUE
+97242af1-4f11-5b96-b5f1-026e51f4a3c5,2023 FIFA Women's World Cup,1,group stage,Group A,2,187544dc-4b46-5bf6-a079-e124899a9090,Norway,NOR,3,1,1,1,6,1,5,4,TRUE
+97242af1-4f11-5b96-b5f1-026e51f4a3c5,2023 FIFA Women's World Cup,1,group stage,Group A,3,11240419-821b-5fbb-bf15-4906f40e3951,New Zealand,NZL,3,1,1,1,1,1,0,4,FALSE
+97242af1-4f11-5b96-b5f1-026e51f4a3c5,2023 FIFA Women's World Cup,1,group stage,Group A,4,88af50ff-bf54-5c7f-a5e6-cbc7968ad7ad,Philippines,PHL,3,1,0,2,1,8,-7,3,FALSE
+97242af1-4f11-5b96-b5f1-026e51f4a3c5,2023 FIFA Women's World Cup,1,group stage,Group B,1,2d9898be-ff8f-55ef-a86e-167bdeaf3cc6,Australia,AUS,3,2,0,1,7,3,4,6,TRUE
+97242af1-4f11-5b96-b5f1-026e51f4a3c5,2023 FIFA Women's World Cup,1,group stage,Group B,2,f201a6b5-a9f6-5612-947b-a6a57d2e7e18,Nigeria,NGA,3,1,2,0,3,2,1,5,TRUE
+97242af1-4f11-5b96-b5f1-026e51f4a3c5,2023 FIFA Women's World Cup,1,group stage,Group B,3,1234d812-2e40-561b-90a3-ed4f9e66bd63,Canada,CAN,3,1,1,1,2,5,-3,4,FALSE
+97242af1-4f11-5b96-b5f1-026e51f4a3c5,2023 FIFA Women's World Cup,1,group stage,Group B,4,e39c6163-70b0-5f66-b2d7-540b785eee94,Republic of Ireland,IRL,3,0,1,2,1,3,-2,1,FALSE
+97242af1-4f11-5b96-b5f1-026e51f4a3c5,2023 FIFA Women's World Cup,1,group stage,Group C,1,230373b7-3a16-506a-b5f6-acc37d7e801d,Japan,JPN,3,3,0,0,11,0,11,9,TRUE
+97242af1-4f11-5b96-b5f1-026e51f4a3c5,2023 FIFA Women's World Cup,1,group stage,Group C,2,5b16dd9d-d19c-5484-bac2-f9e932dddd29,Spain,ESP,3,2,0,1,8,4,4,6,TRUE
+97242af1-4f11-5b96-b5f1-026e51f4a3c5,2023 FIFA Women's World Cup,1,group stage,Group C,3,3c6a11b7-f75d-55d5-9b7b-fe69a4f46ece,Zambia,ZMB,3,1,0,2,3,11,-8,3,FALSE
+97242af1-4f11-5b96-b5f1-026e51f4a3c5,2023 FIFA Women's World Cup,1,group stage,Group C,4,8dd855bb-0dbb-576b-837a-ad9f8d770c86,Costa Rica,CRI,3,0,0,3,1,8,-7,0,FALSE
+97242af1-4f11-5b96-b5f1-026e51f4a3c5,2023 FIFA Women's World Cup,1,group stage,Group D,1,43c1aac8-fa85-5e16-ba9c-4cfdcbc975b8,England,ENG,3,3,0,0,8,1,7,9,TRUE
+97242af1-4f11-5b96-b5f1-026e51f4a3c5,2023 FIFA Women's World Cup,1,group stage,Group D,2,dfb099cc-e7ea-5e4f-b492-bdbf6e8e179b,Denmark,DNK,3,2,0,1,3,1,2,6,TRUE
+97242af1-4f11-5b96-b5f1-026e51f4a3c5,2023 FIFA Women's World Cup,1,group stage,Group D,3,93542d8e-8aca-5c07-ad21-5c493fdf083e,China,CHN,3,1,0,2,2,7,-5,3,FALSE
+97242af1-4f11-5b96-b5f1-026e51f4a3c5,2023 FIFA Women's World Cup,1,group stage,Group D,4,3a57ba00-89d9-50ec-b7f0-c37c9920a2fa,Haiti,HTI,3,0,0,3,0,4,-4,0,FALSE
+97242af1-4f11-5b96-b5f1-026e51f4a3c5,2023 FIFA Women's World Cup,1,group stage,Group E,1,d522b940-a152-5cc7-bcb3-89e28a1ce459,Netherlands,NLD,3,2,1,0,9,1,8,7,TRUE
+97242af1-4f11-5b96-b5f1-026e51f4a3c5,2023 FIFA Women's World Cup,1,group stage,Group E,2,10913c23-6023-563d-94df-9b4fb66c3432,United States,USA,3,1,2,0,4,1,3,5,TRUE
+97242af1-4f11-5b96-b5f1-026e51f4a3c5,2023 FIFA Women's World Cup,1,group stage,Group E,3,13eebf0f-eb49-5e70-97f9-84f0395ceff1,Portugal,PRT,3,1,1,1,2,1,1,4,FALSE
+97242af1-4f11-5b96-b5f1-026e51f4a3c5,2023 FIFA Women's World Cup,1,group stage,Group E,4,858b02ea-33d2-5241-9fda-d431df455f31,Vietnam,VNM,3,0,0,3,0,12,-12,0,FALSE
+97242af1-4f11-5b96-b5f1-026e51f4a3c5,2023 FIFA Women's World Cup,1,group stage,Group F,1,3d11f07c-c004-508d-9001-6f944119b2b0,France,FRA,3,2,1,0,8,4,4,7,TRUE
+97242af1-4f11-5b96-b5f1-026e51f4a3c5,2023 FIFA Women's World Cup,1,group stage,Group F,2,13a7a10d-674d-5be2-bdfa-a0e18b0b6b04,Jamaica,JAM,3,1,2,0,1,0,1,5,TRUE
+97242af1-4f11-5b96-b5f1-026e51f4a3c5,2023 FIFA Women's World Cup,1,group stage,Group F,3,498c5353-84ca-5f1c-8d71-0ae02196227c,Brazil,BRA,3,1,1,1,5,2,3,4,FALSE
+97242af1-4f11-5b96-b5f1-026e51f4a3c5,2023 FIFA Women's World Cup,1,group stage,Group F,4,835977dc-ae64-5928-9bd2-421d65fcb745,Panama,PAN,3,0,0,3,3,11,-8,0,FALSE
+97242af1-4f11-5b96-b5f1-026e51f4a3c5,2023 FIFA Women's World Cup,1,group stage,Group G,1,3611e724-8c08-5f63-b63d-e1cad6af784c,Sweden,SWE,3,3,0,0,9,1,8,9,TRUE
+97242af1-4f11-5b96-b5f1-026e51f4a3c5,2023 FIFA Women's World Cup,1,group stage,Group G,2,e77d250a-1cec-5627-adc4-3cf95c7c0972,South Africa,ZAF,3,1,1,1,6,6,0,4,TRUE
+97242af1-4f11-5b96-b5f1-026e51f4a3c5,2023 FIFA Women's World Cup,1,group stage,Group G,3,a42d3d6a-78dd-5ae6-8408-079a857a7c30,Italy,ITA,3,1,0,2,3,8,-5,3,FALSE
+97242af1-4f11-5b96-b5f1-026e51f4a3c5,2023 FIFA Women's World Cup,1,group stage,Group G,4,933a103d-d9d7-57a3-9c4a-fbc81d25a266,Argentina,ARG,3,0,1,2,2,5,-3,1,FALSE
+97242af1-4f11-5b96-b5f1-026e51f4a3c5,2023 FIFA Women's World Cup,1,group stage,Group H,1,3de13983-4604-5a8d-b39c-08d4f279a06b,Colombia,COL,3,2,0,1,4,2,2,6,TRUE
+97242af1-4f11-5b96-b5f1-026e51f4a3c5,2023 FIFA Women's World Cup,1,group stage,Group H,2,265f639f-c7d5-5ca2-b708-b0995f6c2b89,Morocco,MAR,3,2,0,1,2,6,-4,6,TRUE
+97242af1-4f11-5b96-b5f1-026e51f4a3c5,2023 FIFA Women's World Cup,1,group stage,Group H,3,eff0a856-a340-5ec8-84e8-121552da2cda,Germany,DEU,3,1,1,1,8,3,5,4,FALSE
+97242af1-4f11-5b96-b5f1-026e51f4a3c5,2023 FIFA Women's World Cup,1,group stage,Group H,4,83f65ffa-c76e-5ace-8c09-c87d141a3916,South Korea,KOR,3,0,1,2,1,4,-3,1,FALSE
+980713b4-f72a-5fb3-a406-6de227728b1d,1982 FIFA Men's World Cup,1,first group stage,Group 1,1,fc0455f9-aa03-5b3d-9b41-41854289e993,Poland,POL,3,1,2,0,5,1,4,4,TRUE
+980713b4-f72a-5fb3-a406-6de227728b1d,1982 FIFA Men's World Cup,1,first group stage,Group 1,2,a42d3d6a-78dd-5ae6-8408-079a857a7c30,Italy,ITA,3,0,3,0,2,2,0,3,TRUE
+980713b4-f72a-5fb3-a406-6de227728b1d,1982 FIFA Men's World Cup,1,first group stage,Group 1,3,eb88a8cc-be5e-5116-8926-ba595504709a,Cameroon,CMR,3,0,3,0,1,1,0,3,FALSE
+980713b4-f72a-5fb3-a406-6de227728b1d,1982 FIFA Men's World Cup,1,first group stage,Group 1,4,db3abc88-7f89-5183-bc6d-ea6fa7c361d9,Peru,PER,3,0,2,1,2,6,-4,2,FALSE
+980713b4-f72a-5fb3-a406-6de227728b1d,1982 FIFA Men's World Cup,1,first group stage,Group 2,1,adbcf28f-5f27-56bd-bca0-909cf77a8ae0,West Germany,DEU,3,2,0,1,6,3,3,4,TRUE
+980713b4-f72a-5fb3-a406-6de227728b1d,1982 FIFA Men's World Cup,1,first group stage,Group 2,2,8e63ee49-fbde-5478-a093-1a6a679cc27f,Austria,AUT,3,2,0,1,3,1,2,4,TRUE
+980713b4-f72a-5fb3-a406-6de227728b1d,1982 FIFA Men's World Cup,1,first group stage,Group 2,3,1e34dbe6-26e7-5736-947c-cb6c9428e165,Algeria,DZA,3,2,0,1,5,5,0,4,FALSE
+980713b4-f72a-5fb3-a406-6de227728b1d,1982 FIFA Men's World Cup,1,first group stage,Group 2,4,879c1298-9904-5b96-8f25-5e7d455ae2ec,Chile,CHL,3,0,0,3,3,8,-5,0,FALSE
+980713b4-f72a-5fb3-a406-6de227728b1d,1982 FIFA Men's World Cup,1,first group stage,Group 3,1,3aa56241-3868-505a-ac6a-753aefa79cc2,Belgium,BEL,3,2,1,0,3,1,2,5,TRUE
+980713b4-f72a-5fb3-a406-6de227728b1d,1982 FIFA Men's World Cup,1,first group stage,Group 3,2,933a103d-d9d7-57a3-9c4a-fbc81d25a266,Argentina,ARG,3,2,0,1,6,2,4,4,TRUE
+980713b4-f72a-5fb3-a406-6de227728b1d,1982 FIFA Men's World Cup,1,first group stage,Group 3,3,f16b7d5c-db54-5b27-b827-e848a3035641,Hungary,HUN,3,1,1,1,12,6,6,3,FALSE
+980713b4-f72a-5fb3-a406-6de227728b1d,1982 FIFA Men's World Cup,1,first group stage,Group 3,4,535a7e23-4bf9-5e96-ac76-48241d246817,El Salvador,SLV,3,0,0,3,1,13,-12,0,FALSE
+980713b4-f72a-5fb3-a406-6de227728b1d,1982 FIFA Men's World Cup,1,first group stage,Group 4,1,43c1aac8-fa85-5e16-ba9c-4cfdcbc975b8,England,ENG,3,3,0,0,6,1,5,6,TRUE
+980713b4-f72a-5fb3-a406-6de227728b1d,1982 FIFA Men's World Cup,1,first group stage,Group 4,2,3d11f07c-c004-508d-9001-6f944119b2b0,France,FRA,3,1,1,1,6,5,1,3,TRUE
+980713b4-f72a-5fb3-a406-6de227728b1d,1982 FIFA Men's World Cup,1,first group stage,Group 4,3,cf23603f-09d6-52e6-9c7e-fb8db4554297,Czechoslovakia,CSK,3,0,2,1,2,4,-2,2,FALSE
+980713b4-f72a-5fb3-a406-6de227728b1d,1982 FIFA Men's World Cup,1,first group stage,Group 4,4,b106b715-3121-50e4-a0a0-1166ddede37e,Kuwait,KWT,3,0,1,2,2,6,-4,1,FALSE
+980713b4-f72a-5fb3-a406-6de227728b1d,1982 FIFA Men's World Cup,1,first group stage,Group 5,1,641e565c-2f15-5697-b9f0-a09f9dcf1d99,Northern Ireland,NIR,3,1,2,0,2,1,1,4,TRUE
+980713b4-f72a-5fb3-a406-6de227728b1d,1982 FIFA Men's World Cup,1,first group stage,Group 5,2,5b16dd9d-d19c-5484-bac2-f9e932dddd29,Spain,ESP,3,1,1,1,3,3,0,3,TRUE
+980713b4-f72a-5fb3-a406-6de227728b1d,1982 FIFA Men's World Cup,1,first group stage,Group 5,3,9a9be60e-89da-590c-95a8-6e5802b5deb5,Yugoslavia,YUG,3,1,1,1,2,2,0,3,FALSE
+980713b4-f72a-5fb3-a406-6de227728b1d,1982 FIFA Men's World Cup,1,first group stage,Group 5,4,9b432d9b-a19d-5672-901e-2884a641784b,Honduras,HND,3,0,2,1,2,3,-1,2,FALSE
+980713b4-f72a-5fb3-a406-6de227728b1d,1982 FIFA Men's World Cup,1,first group stage,Group 6,1,498c5353-84ca-5f1c-8d71-0ae02196227c,Brazil,BRA,3,3,0,0,10,2,8,6,TRUE
+980713b4-f72a-5fb3-a406-6de227728b1d,1982 FIFA Men's World Cup,1,first group stage,Group 6,2,6c983d26-03e1-5649-a13f-42b61e101a0e,Soviet Union,SUN,3,1,1,1,6,4,2,3,TRUE
+980713b4-f72a-5fb3-a406-6de227728b1d,1982 FIFA Men's World Cup,1,first group stage,Group 6,3,fc2ce361-82ed-537a-85f1-ff8f384d11b1,Scotland,SCO,3,1,1,1,8,8,0,3,FALSE
+980713b4-f72a-5fb3-a406-6de227728b1d,1982 FIFA Men's World Cup,1,first group stage,Group 6,4,11240419-821b-5fbb-bf15-4906f40e3951,New Zealand,NZL,3,0,0,3,2,12,-10,0,FALSE
+980713b4-f72a-5fb3-a406-6de227728b1d,1982 FIFA Men's World Cup,2,second group stage,Group A,1,fc0455f9-aa03-5b3d-9b41-41854289e993,Poland,POL,2,1,1,0,3,0,3,3,TRUE
+980713b4-f72a-5fb3-a406-6de227728b1d,1982 FIFA Men's World Cup,2,second group stage,Group A,2,6c983d26-03e1-5649-a13f-42b61e101a0e,Soviet Union,SUN,2,1,1,0,1,0,1,3,FALSE
+980713b4-f72a-5fb3-a406-6de227728b1d,1982 FIFA Men's World Cup,2,second group stage,Group A,3,3aa56241-3868-505a-ac6a-753aefa79cc2,Belgium,BEL,2,0,0,2,0,4,-4,0,FALSE
+980713b4-f72a-5fb3-a406-6de227728b1d,1982 FIFA Men's World Cup,2,second group stage,Group B,1,adbcf28f-5f27-56bd-bca0-909cf77a8ae0,West Germany,DEU,2,1,1,0,2,1,1,3,TRUE
+980713b4-f72a-5fb3-a406-6de227728b1d,1982 FIFA Men's World Cup,2,second group stage,Group B,2,43c1aac8-fa85-5e16-ba9c-4cfdcbc975b8,England,ENG,2,0,2,0,0,0,0,2,FALSE
+980713b4-f72a-5fb3-a406-6de227728b1d,1982 FIFA Men's World Cup,2,second group stage,Group B,3,5b16dd9d-d19c-5484-bac2-f9e932dddd29,Spain,ESP,2,0,1,1,1,2,-1,1,FALSE
+980713b4-f72a-5fb3-a406-6de227728b1d,1982 FIFA Men's World Cup,2,second group stage,Group C,1,a42d3d6a-78dd-5ae6-8408-079a857a7c30,Italy,ITA,2,2,0,0,5,3,2,4,TRUE
+980713b4-f72a-5fb3-a406-6de227728b1d,1982 FIFA Men's World Cup,2,second group stage,Group C,2,498c5353-84ca-5f1c-8d71-0ae02196227c,Brazil,BRA,2,1,0,1,5,4,1,2,FALSE
+980713b4-f72a-5fb3-a406-6de227728b1d,1982 FIFA Men's World Cup,2,second group stage,Group C,3,933a103d-d9d7-57a3-9c4a-fbc81d25a266,Argentina,ARG,2,0,0,2,2,5,-3,0,FALSE
+980713b4-f72a-5fb3-a406-6de227728b1d,1982 FIFA Men's World Cup,2,second group stage,Group D,1,3d11f07c-c004-508d-9001-6f944119b2b0,France,FRA,2,2,0,0,5,1,4,4,TRUE
+980713b4-f72a-5fb3-a406-6de227728b1d,1982 FIFA Men's World Cup,2,second group stage,Group D,2,8e63ee49-fbde-5478-a093-1a6a679cc27f,Austria,AUT,2,0,1,1,2,3,-1,1,FALSE
+980713b4-f72a-5fb3-a406-6de227728b1d,1982 FIFA Men's World Cup,2,second group stage,Group D,3,641e565c-2f15-5697-b9f0-a09f9dcf1d99,Northern Ireland,NIR,2,0,1,1,3,6,-3,1,FALSE
+989bb40b-e4d2-554d-b25d-51c776e801e2,2022 FIFA Men's World Cup,1,group stage,Group A,1,d522b940-a152-5cc7-bcb3-89e28a1ce459,Netherlands,NLD,3,2,1,0,5,1,4,7,TRUE
+989bb40b-e4d2-554d-b25d-51c776e801e2,2022 FIFA Men's World Cup,1,group stage,Group A,2,fdb9a8af-2b8d-518b-b0ab-a0118cd58de2,Senegal,SEN,3,2,0,1,5,4,1,6,TRUE
+989bb40b-e4d2-554d-b25d-51c776e801e2,2022 FIFA Men's World Cup,1,group stage,Group A,3,2179a8d7-c7ed-5c0c-b6a6-8e6eeef52657,Ecuador,ECU,3,1,1,1,4,3,1,4,FALSE
+989bb40b-e4d2-554d-b25d-51c776e801e2,2022 FIFA Men's World Cup,1,group stage,Group A,4,42c04ec6-0345-52bc-8d8a-5d51bd89ad16,Qatar,QAT,3,0,0,3,1,7,-6,0,FALSE
+989bb40b-e4d2-554d-b25d-51c776e801e2,2022 FIFA Men's World Cup,1,group stage,Group B,1,43c1aac8-fa85-5e16-ba9c-4cfdcbc975b8,England,ENG,3,2,1,0,9,2,7,7,TRUE
+989bb40b-e4d2-554d-b25d-51c776e801e2,2022 FIFA Men's World Cup,1,group stage,Group B,2,10913c23-6023-563d-94df-9b4fb66c3432,United States,USA,3,1,2,0,2,1,1,5,TRUE
+989bb40b-e4d2-554d-b25d-51c776e801e2,2022 FIFA Men's World Cup,1,group stage,Group B,3,f22d85b4-6cde-5f4e-8119-b3b69a2ba879,Iran,IRN,3,1,0,2,4,7,-3,3,FALSE
+989bb40b-e4d2-554d-b25d-51c776e801e2,2022 FIFA Men's World Cup,1,group stage,Group B,4,172bbcf1-8dd9-50ac-ba34-b51c641a833e,Wales,WAL,3,0,1,2,1,6,-5,1,FALSE
+989bb40b-e4d2-554d-b25d-51c776e801e2,2022 FIFA Men's World Cup,1,group stage,Group C,1,933a103d-d9d7-57a3-9c4a-fbc81d25a266,Argentina,ARG,3,2,0,1,5,2,3,6,TRUE
+989bb40b-e4d2-554d-b25d-51c776e801e2,2022 FIFA Men's World Cup,1,group stage,Group C,2,fc0455f9-aa03-5b3d-9b41-41854289e993,Poland,POL,3,1,1,1,2,2,0,4,TRUE
+989bb40b-e4d2-554d-b25d-51c776e801e2,2022 FIFA Men's World Cup,1,group stage,Group C,3,c832b30c-2750-5a24-a66f-cf9ea7c20a5c,Mexico,MEX,3,1,1,1,2,3,-1,4,FALSE
+989bb40b-e4d2-554d-b25d-51c776e801e2,2022 FIFA Men's World Cup,1,group stage,Group C,4,8cca4b99-7e47-5808-9e58-9803329fa50a,Saudi Arabia,SAU,3,1,0,2,3,5,-2,3,FALSE
+989bb40b-e4d2-554d-b25d-51c776e801e2,2022 FIFA Men's World Cup,1,group stage,Group D,1,3d11f07c-c004-508d-9001-6f944119b2b0,France,FRA,3,2,0,1,6,3,3,6,TRUE
+989bb40b-e4d2-554d-b25d-51c776e801e2,2022 FIFA Men's World Cup,1,group stage,Group D,2,2d9898be-ff8f-55ef-a86e-167bdeaf3cc6,Australia,AUS,3,2,0,1,3,4,-1,6,TRUE
+989bb40b-e4d2-554d-b25d-51c776e801e2,2022 FIFA Men's World Cup,1,group stage,Group D,3,b627769a-7468-5b82-85ee-a38f3d71a3c6,Tunisia,TUN,3,1,1,1,1,1,0,4,FALSE
+989bb40b-e4d2-554d-b25d-51c776e801e2,2022 FIFA Men's World Cup,1,group stage,Group D,4,dfb099cc-e7ea-5e4f-b492-bdbf6e8e179b,Denmark,DNK,3,0,1,2,1,3,-2,1,FALSE
+989bb40b-e4d2-554d-b25d-51c776e801e2,2022 FIFA Men's World Cup,1,group stage,Group E,1,230373b7-3a16-506a-b5f6-acc37d7e801d,Japan,JPN,3,2,0,1,4,3,1,6,TRUE
+989bb40b-e4d2-554d-b25d-51c776e801e2,2022 FIFA Men's World Cup,1,group stage,Group E,2,5b16dd9d-d19c-5484-bac2-f9e932dddd29,Spain,ESP,3,1,1,1,9,3,6,4,TRUE
+989bb40b-e4d2-554d-b25d-51c776e801e2,2022 FIFA Men's World Cup,1,group stage,Group E,3,eff0a856-a340-5ec8-84e8-121552da2cda,Germany,DEU,3,1,1,1,6,5,1,4,FALSE
+989bb40b-e4d2-554d-b25d-51c776e801e2,2022 FIFA Men's World Cup,1,group stage,Group E,4,8dd855bb-0dbb-576b-837a-ad9f8d770c86,Costa Rica,CRI,3,1,0,2,3,11,-8,3,FALSE
+989bb40b-e4d2-554d-b25d-51c776e801e2,2022 FIFA Men's World Cup,1,group stage,Group F,1,265f639f-c7d5-5ca2-b708-b0995f6c2b89,Morocco,MAR,3,2,1,0,4,1,3,7,TRUE
+989bb40b-e4d2-554d-b25d-51c776e801e2,2022 FIFA Men's World Cup,1,group stage,Group F,2,0db8bc49-3546-517c-af2c-7abd04ae2214,Croatia,HRV,3,1,2,0,4,1,3,5,TRUE
+989bb40b-e4d2-554d-b25d-51c776e801e2,2022 FIFA Men's World Cup,1,group stage,Group F,3,3aa56241-3868-505a-ac6a-753aefa79cc2,Belgium,BEL,3,1,1,1,1,2,-1,4,FALSE
+989bb40b-e4d2-554d-b25d-51c776e801e2,2022 FIFA Men's World Cup,1,group stage,Group F,4,1234d812-2e40-561b-90a3-ed4f9e66bd63,Canada,CAN,3,0,0,3,2,7,-5,0,FALSE
+989bb40b-e4d2-554d-b25d-51c776e801e2,2022 FIFA Men's World Cup,1,group stage,Group G,1,498c5353-84ca-5f1c-8d71-0ae02196227c,Brazil,BRA,3,2,0,1,3,1,2,6,TRUE
+989bb40b-e4d2-554d-b25d-51c776e801e2,2022 FIFA Men's World Cup,1,group stage,Group G,2,a260026d-34b5-5fdf-8896-fd8997f096b9,Switzerland,CHE,3,2,0,1,4,3,1,6,TRUE
+989bb40b-e4d2-554d-b25d-51c776e801e2,2022 FIFA Men's World Cup,1,group stage,Group G,3,eb88a8cc-be5e-5116-8926-ba595504709a,Cameroon,CMR,3,1,1,1,4,4,0,4,FALSE
+989bb40b-e4d2-554d-b25d-51c776e801e2,2022 FIFA Men's World Cup,1,group stage,Group G,4,8fcb57c5-f39b-5302-9aed-c645120d5a91,Serbia,SRB,3,0,1,2,5,8,-3,1,FALSE
+989bb40b-e4d2-554d-b25d-51c776e801e2,2022 FIFA Men's World Cup,1,group stage,Group H,1,13eebf0f-eb49-5e70-97f9-84f0395ceff1,Portugal,PRT,3,2,0,1,6,4,2,6,TRUE
+989bb40b-e4d2-554d-b25d-51c776e801e2,2022 FIFA Men's World Cup,1,group stage,Group H,2,83f65ffa-c76e-5ace-8c09-c87d141a3916,South Korea,KOR,3,1,1,1,4,4,0,4,TRUE
+989bb40b-e4d2-554d-b25d-51c776e801e2,2022 FIFA Men's World Cup,1,group stage,Group H,3,f8764a69-de29-59f5-8e79-715c4bf88a11,Uruguay,URY,3,1,1,1,2,2,0,4,FALSE
+989bb40b-e4d2-554d-b25d-51c776e801e2,2022 FIFA Men's World Cup,1,group stage,Group H,4,55f8040d-0098-5415-abdf-66098ef3bbee,Ghana,GHA,3,1,0,2,5,7,-2,3,FALSE
+a3355eb2-b9f4-5e9c-92d3-dc9cb37177b6,2010 FIFA Men's World Cup,1,group stage,Group A,1,f8764a69-de29-59f5-8e79-715c4bf88a11,Uruguay,URY,3,2,1,0,4,0,4,7,TRUE
+a3355eb2-b9f4-5e9c-92d3-dc9cb37177b6,2010 FIFA Men's World Cup,1,group stage,Group A,2,c832b30c-2750-5a24-a66f-cf9ea7c20a5c,Mexico,MEX,3,1,1,1,3,2,1,4,TRUE
+a3355eb2-b9f4-5e9c-92d3-dc9cb37177b6,2010 FIFA Men's World Cup,1,group stage,Group A,3,e77d250a-1cec-5627-adc4-3cf95c7c0972,South Africa,ZAF,3,1,1,1,3,5,-2,4,FALSE
+a3355eb2-b9f4-5e9c-92d3-dc9cb37177b6,2010 FIFA Men's World Cup,1,group stage,Group A,4,3d11f07c-c004-508d-9001-6f944119b2b0,France,FRA,3,0,1,2,1,4,-3,1,FALSE
+a3355eb2-b9f4-5e9c-92d3-dc9cb37177b6,2010 FIFA Men's World Cup,1,group stage,Group B,1,933a103d-d9d7-57a3-9c4a-fbc81d25a266,Argentina,ARG,3,3,0,0,7,1,6,9,TRUE
+a3355eb2-b9f4-5e9c-92d3-dc9cb37177b6,2010 FIFA Men's World Cup,1,group stage,Group B,2,83f65ffa-c76e-5ace-8c09-c87d141a3916,South Korea,KOR,3,1,1,1,5,6,-1,4,TRUE
+a3355eb2-b9f4-5e9c-92d3-dc9cb37177b6,2010 FIFA Men's World Cup,1,group stage,Group B,3,f23d02ab-e48a-541b-a3d5-efb12f628f6c,Greece,GRC,3,1,0,2,2,5,-3,3,FALSE
+a3355eb2-b9f4-5e9c-92d3-dc9cb37177b6,2010 FIFA Men's World Cup,1,group stage,Group B,4,f201a6b5-a9f6-5612-947b-a6a57d2e7e18,Nigeria,NGA,3,0,1,2,3,5,-2,1,FALSE
+a3355eb2-b9f4-5e9c-92d3-dc9cb37177b6,2010 FIFA Men's World Cup,1,group stage,Group C,1,10913c23-6023-563d-94df-9b4fb66c3432,United States,USA,3,1,2,0,4,3,1,5,TRUE
+a3355eb2-b9f4-5e9c-92d3-dc9cb37177b6,2010 FIFA Men's World Cup,1,group stage,Group C,2,43c1aac8-fa85-5e16-ba9c-4cfdcbc975b8,England,ENG,3,1,2,0,2,1,1,5,TRUE
+a3355eb2-b9f4-5e9c-92d3-dc9cb37177b6,2010 FIFA Men's World Cup,1,group stage,Group C,3,9c7ec48d-3d9a-501e-b202-7f5c4fc96909,Slovenia,SVN,3,1,1,1,3,3,0,4,FALSE
+a3355eb2-b9f4-5e9c-92d3-dc9cb37177b6,2010 FIFA Men's World Cup,1,group stage,Group C,4,1e34dbe6-26e7-5736-947c-cb6c9428e165,Algeria,DZA,3,0,1,2,0,2,-2,1,FALSE
+a3355eb2-b9f4-5e9c-92d3-dc9cb37177b6,2010 FIFA Men's World Cup,1,group stage,Group D,1,eff0a856-a340-5ec8-84e8-121552da2cda,Germany,DEU,3,2,0,1,5,1,4,6,TRUE
+a3355eb2-b9f4-5e9c-92d3-dc9cb37177b6,2010 FIFA Men's World Cup,1,group stage,Group D,2,55f8040d-0098-5415-abdf-66098ef3bbee,Ghana,GHA,3,1,1,1,2,2,0,4,TRUE
+a3355eb2-b9f4-5e9c-92d3-dc9cb37177b6,2010 FIFA Men's World Cup,1,group stage,Group D,3,2d9898be-ff8f-55ef-a86e-167bdeaf3cc6,Australia,AUS,3,1,1,1,3,6,-3,4,FALSE
+a3355eb2-b9f4-5e9c-92d3-dc9cb37177b6,2010 FIFA Men's World Cup,1,group stage,Group D,4,8fcb57c5-f39b-5302-9aed-c645120d5a91,Serbia,SRB,3,1,0,2,2,3,-1,3,FALSE
+a3355eb2-b9f4-5e9c-92d3-dc9cb37177b6,2010 FIFA Men's World Cup,1,group stage,Group E,1,d522b940-a152-5cc7-bcb3-89e28a1ce459,Netherlands,NLD,3,3,0,0,5,1,4,9,TRUE
+a3355eb2-b9f4-5e9c-92d3-dc9cb37177b6,2010 FIFA Men's World Cup,1,group stage,Group E,2,230373b7-3a16-506a-b5f6-acc37d7e801d,Japan,JPN,3,2,0,1,4,2,2,6,TRUE
+a3355eb2-b9f4-5e9c-92d3-dc9cb37177b6,2010 FIFA Men's World Cup,1,group stage,Group E,3,dfb099cc-e7ea-5e4f-b492-bdbf6e8e179b,Denmark,DNK,3,1,0,2,3,6,-3,3,FALSE
+a3355eb2-b9f4-5e9c-92d3-dc9cb37177b6,2010 FIFA Men's World Cup,1,group stage,Group E,4,eb88a8cc-be5e-5116-8926-ba595504709a,Cameroon,CMR,3,0,0,3,2,5,-3,0,FALSE
+a3355eb2-b9f4-5e9c-92d3-dc9cb37177b6,2010 FIFA Men's World Cup,1,group stage,Group F,1,9678d2a4-5323-5082-b115-575366fb384a,Paraguay,PRY,3,1,2,0,3,1,2,5,TRUE
+a3355eb2-b9f4-5e9c-92d3-dc9cb37177b6,2010 FIFA Men's World Cup,1,group stage,Group F,2,2eeac718-4c7f-5065-aedd-5250910b0c78,Slovakia,SVK,3,1,1,1,4,5,-1,4,TRUE
+a3355eb2-b9f4-5e9c-92d3-dc9cb37177b6,2010 FIFA Men's World Cup,1,group stage,Group F,3,11240419-821b-5fbb-bf15-4906f40e3951,New Zealand,NZL,3,0,3,0,2,2,0,3,FALSE
+a3355eb2-b9f4-5e9c-92d3-dc9cb37177b6,2010 FIFA Men's World Cup,1,group stage,Group F,4,a42d3d6a-78dd-5ae6-8408-079a857a7c30,Italy,ITA,3,0,2,1,4,5,-1,2,FALSE
+a3355eb2-b9f4-5e9c-92d3-dc9cb37177b6,2010 FIFA Men's World Cup,1,group stage,Group G,1,498c5353-84ca-5f1c-8d71-0ae02196227c,Brazil,BRA,3,2,1,0,5,2,3,7,TRUE
+a3355eb2-b9f4-5e9c-92d3-dc9cb37177b6,2010 FIFA Men's World Cup,1,group stage,Group G,2,13eebf0f-eb49-5e70-97f9-84f0395ceff1,Portugal,PRT,3,1,2,0,7,0,7,5,TRUE
+a3355eb2-b9f4-5e9c-92d3-dc9cb37177b6,2010 FIFA Men's World Cup,1,group stage,Group G,3,e31e86e8-0616-5e05-a842-dc8f67c29ca4,Ivory Coast,CIV,3,1,1,1,4,3,1,4,FALSE
+a3355eb2-b9f4-5e9c-92d3-dc9cb37177b6,2010 FIFA Men's World Cup,1,group stage,Group G,4,58ce2aac-d181-51c6-9f50-fc3e8643d0e1,North Korea,PRK,3,0,0,3,1,12,-11,0,FALSE
+a3355eb2-b9f4-5e9c-92d3-dc9cb37177b6,2010 FIFA Men's World Cup,1,group stage,Group H,1,5b16dd9d-d19c-5484-bac2-f9e932dddd29,Spain,ESP,3,2,0,1,4,2,2,6,TRUE
+a3355eb2-b9f4-5e9c-92d3-dc9cb37177b6,2010 FIFA Men's World Cup,1,group stage,Group H,2,879c1298-9904-5b96-8f25-5e7d455ae2ec,Chile,CHL,3,2,0,1,3,2,1,6,TRUE
+a3355eb2-b9f4-5e9c-92d3-dc9cb37177b6,2010 FIFA Men's World Cup,1,group stage,Group H,3,a260026d-34b5-5fdf-8896-fd8997f096b9,Switzerland,CHE,3,1,1,1,1,1,0,4,FALSE
+a3355eb2-b9f4-5e9c-92d3-dc9cb37177b6,2010 FIFA Men's World Cup,1,group stage,Group H,4,9b432d9b-a19d-5672-901e-2884a641784b,Honduras,HND,3,0,1,2,0,3,-3,1,FALSE
+c18a4889-5b51-5337-bc1a-a0731c1d97eb,2002 FIFA Men's World Cup,1,group stage,Group A,1,dfb099cc-e7ea-5e4f-b492-bdbf6e8e179b,Denmark,DNK,3,2,1,0,5,2,3,7,TRUE
+c18a4889-5b51-5337-bc1a-a0731c1d97eb,2002 FIFA Men's World Cup,1,group stage,Group A,2,fdb9a8af-2b8d-518b-b0ab-a0118cd58de2,Senegal,SEN,3,1,2,0,5,4,1,5,TRUE
+c18a4889-5b51-5337-bc1a-a0731c1d97eb,2002 FIFA Men's World Cup,1,group stage,Group A,3,f8764a69-de29-59f5-8e79-715c4bf88a11,Uruguay,URY,3,0,2,1,4,5,-1,2,FALSE
+c18a4889-5b51-5337-bc1a-a0731c1d97eb,2002 FIFA Men's World Cup,1,group stage,Group A,4,3d11f07c-c004-508d-9001-6f944119b2b0,France,FRA,3,0,1,2,0,3,-3,1,FALSE
+c18a4889-5b51-5337-bc1a-a0731c1d97eb,2002 FIFA Men's World Cup,1,group stage,Group B,1,5b16dd9d-d19c-5484-bac2-f9e932dddd29,Spain,ESP,3,3,0,0,9,4,5,9,TRUE
+c18a4889-5b51-5337-bc1a-a0731c1d97eb,2002 FIFA Men's World Cup,1,group stage,Group B,2,9678d2a4-5323-5082-b115-575366fb384a,Paraguay,PRY,3,1,1,1,6,6,0,4,TRUE
+c18a4889-5b51-5337-bc1a-a0731c1d97eb,2002 FIFA Men's World Cup,1,group stage,Group B,3,e77d250a-1cec-5627-adc4-3cf95c7c0972,South Africa,ZAF,3,1,1,1,5,5,0,4,FALSE
+c18a4889-5b51-5337-bc1a-a0731c1d97eb,2002 FIFA Men's World Cup,1,group stage,Group B,4,9c7ec48d-3d9a-501e-b202-7f5c4fc96909,Slovenia,SVN,3,0,0,3,2,7,-5,0,FALSE
+c18a4889-5b51-5337-bc1a-a0731c1d97eb,2002 FIFA Men's World Cup,1,group stage,Group C,1,498c5353-84ca-5f1c-8d71-0ae02196227c,Brazil,BRA,3,3,0,0,11,3,8,9,TRUE
+c18a4889-5b51-5337-bc1a-a0731c1d97eb,2002 FIFA Men's World Cup,1,group stage,Group C,2,d1c45d05-d0bd-55b8-b370-dfa64d998bcc,Turkey,TUR,3,1,1,1,5,3,2,4,TRUE
+c18a4889-5b51-5337-bc1a-a0731c1d97eb,2002 FIFA Men's World Cup,1,group stage,Group C,3,8dd855bb-0dbb-576b-837a-ad9f8d770c86,Costa Rica,CRI,3,1,1,1,5,6,-1,4,FALSE
+c18a4889-5b51-5337-bc1a-a0731c1d97eb,2002 FIFA Men's World Cup,1,group stage,Group C,4,93542d8e-8aca-5c07-ad21-5c493fdf083e,China,CHN,3,0,0,3,0,9,-9,0,FALSE
+c18a4889-5b51-5337-bc1a-a0731c1d97eb,2002 FIFA Men's World Cup,1,group stage,Group D,1,83f65ffa-c76e-5ace-8c09-c87d141a3916,South Korea,KOR,3,2,1,0,4,1,3,7,TRUE
+c18a4889-5b51-5337-bc1a-a0731c1d97eb,2002 FIFA Men's World Cup,1,group stage,Group D,2,10913c23-6023-563d-94df-9b4fb66c3432,United States,USA,3,1,1,1,5,6,-1,4,TRUE
+c18a4889-5b51-5337-bc1a-a0731c1d97eb,2002 FIFA Men's World Cup,1,group stage,Group D,3,13eebf0f-eb49-5e70-97f9-84f0395ceff1,Portugal,PRT,3,1,0,2,6,4,2,3,FALSE
+c18a4889-5b51-5337-bc1a-a0731c1d97eb,2002 FIFA Men's World Cup,1,group stage,Group D,4,fc0455f9-aa03-5b3d-9b41-41854289e993,Poland,POL,3,1,0,2,3,7,-4,3,FALSE
+c18a4889-5b51-5337-bc1a-a0731c1d97eb,2002 FIFA Men's World Cup,1,group stage,Group E,1,eff0a856-a340-5ec8-84e8-121552da2cda,Germany,DEU,3,2,1,0,11,1,10,7,TRUE
+c18a4889-5b51-5337-bc1a-a0731c1d97eb,2002 FIFA Men's World Cup,1,group stage,Group E,2,e39c6163-70b0-5f66-b2d7-540b785eee94,Republic of Ireland,IRL,3,1,2,0,5,2,3,5,TRUE
+c18a4889-5b51-5337-bc1a-a0731c1d97eb,2002 FIFA Men's World Cup,1,group stage,Group E,3,eb88a8cc-be5e-5116-8926-ba595504709a,Cameroon,CMR,3,1,1,1,2,3,-1,4,FALSE
+c18a4889-5b51-5337-bc1a-a0731c1d97eb,2002 FIFA Men's World Cup,1,group stage,Group E,4,8cca4b99-7e47-5808-9e58-9803329fa50a,Saudi Arabia,SAU,3,0,0,3,0,12,-12,0,FALSE
+c18a4889-5b51-5337-bc1a-a0731c1d97eb,2002 FIFA Men's World Cup,1,group stage,Group F,1,3611e724-8c08-5f63-b63d-e1cad6af784c,Sweden,SWE,3,1,2,0,4,3,1,5,TRUE
+c18a4889-5b51-5337-bc1a-a0731c1d97eb,2002 FIFA Men's World Cup,1,group stage,Group F,2,43c1aac8-fa85-5e16-ba9c-4cfdcbc975b8,England,ENG,3,1,2,0,2,1,1,5,TRUE
+c18a4889-5b51-5337-bc1a-a0731c1d97eb,2002 FIFA Men's World Cup,1,group stage,Group F,3,933a103d-d9d7-57a3-9c4a-fbc81d25a266,Argentina,ARG,3,1,1,1,2,2,0,4,FALSE
+c18a4889-5b51-5337-bc1a-a0731c1d97eb,2002 FIFA Men's World Cup,1,group stage,Group F,4,f201a6b5-a9f6-5612-947b-a6a57d2e7e18,Nigeria,NGA,3,0,1,2,1,3,-2,1,FALSE
+c18a4889-5b51-5337-bc1a-a0731c1d97eb,2002 FIFA Men's World Cup,1,group stage,Group G,1,c832b30c-2750-5a24-a66f-cf9ea7c20a5c,Mexico,MEX,3,2,1,0,4,2,2,7,TRUE
+c18a4889-5b51-5337-bc1a-a0731c1d97eb,2002 FIFA Men's World Cup,1,group stage,Group G,2,a42d3d6a-78dd-5ae6-8408-079a857a7c30,Italy,ITA,3,1,1,1,4,3,1,4,TRUE
+c18a4889-5b51-5337-bc1a-a0731c1d97eb,2002 FIFA Men's World Cup,1,group stage,Group G,3,0db8bc49-3546-517c-af2c-7abd04ae2214,Croatia,HRV,3,1,0,2,2,3,-1,3,FALSE
+c18a4889-5b51-5337-bc1a-a0731c1d97eb,2002 FIFA Men's World Cup,1,group stage,Group G,4,2179a8d7-c7ed-5c0c-b6a6-8e6eeef52657,Ecuador,ECU,3,1,0,2,2,4,-2,3,FALSE
+c18a4889-5b51-5337-bc1a-a0731c1d97eb,2002 FIFA Men's World Cup,1,group stage,Group H,1,230373b7-3a16-506a-b5f6-acc37d7e801d,Japan,JPN,3,2,1,0,5,2,3,7,TRUE
+c18a4889-5b51-5337-bc1a-a0731c1d97eb,2002 FIFA Men's World Cup,1,group stage,Group H,2,3aa56241-3868-505a-ac6a-753aefa79cc2,Belgium,BEL,3,1,2,0,6,5,1,5,TRUE
+c18a4889-5b51-5337-bc1a-a0731c1d97eb,2002 FIFA Men's World Cup,1,group stage,Group H,3,6eb0485e-97e8-57e7-bf93-6c300f3e003a,Russia,RUS,3,1,0,2,4,4,0,3,FALSE
+c18a4889-5b51-5337-bc1a-a0731c1d97eb,2002 FIFA Men's World Cup,1,group stage,Group H,4,b627769a-7468-5b82-85ee-a38f3d71a3c6,Tunisia,TUN,3,0,1,2,1,5,-4,1,FALSE
+cb194f04-c36a-5525-a51a-2219d44c0be3,1991 FIFA Women's World Cup,1,group stage,Group A,1,93542d8e-8aca-5c07-ad21-5c493fdf083e,China,CHN,3,2,1,0,10,3,7,5,TRUE
+cb194f04-c36a-5525-a51a-2219d44c0be3,1991 FIFA Women's World Cup,1,group stage,Group A,2,187544dc-4b46-5bf6-a079-e124899a9090,Norway,NOR,3,2,0,1,6,5,1,4,TRUE
+cb194f04-c36a-5525-a51a-2219d44c0be3,1991 FIFA Women's World Cup,1,group stage,Group A,3,dfb099cc-e7ea-5e4f-b492-bdbf6e8e179b,Denmark,DNK,3,1,1,1,6,4,2,3,TRUE
+cb194f04-c36a-5525-a51a-2219d44c0be3,1991 FIFA Women's World Cup,1,group stage,Group A,4,11240419-821b-5fbb-bf15-4906f40e3951,New Zealand,NZL,3,0,0,3,1,11,-10,0,FALSE
+cb194f04-c36a-5525-a51a-2219d44c0be3,1991 FIFA Women's World Cup,1,group stage,Group B,1,10913c23-6023-563d-94df-9b4fb66c3432,United States,USA,3,3,0,0,11,2,9,6,TRUE
+cb194f04-c36a-5525-a51a-2219d44c0be3,1991 FIFA Women's World Cup,1,group stage,Group B,2,3611e724-8c08-5f63-b63d-e1cad6af784c,Sweden,SWE,3,2,0,1,12,3,9,4,TRUE
+cb194f04-c36a-5525-a51a-2219d44c0be3,1991 FIFA Women's World Cup,1,group stage,Group B,3,498c5353-84ca-5f1c-8d71-0ae02196227c,Brazil,BRA,3,1,0,2,1,7,-6,2,FALSE
+cb194f04-c36a-5525-a51a-2219d44c0be3,1991 FIFA Women's World Cup,1,group stage,Group B,4,230373b7-3a16-506a-b5f6-acc37d7e801d,Japan,JPN,3,0,0,3,0,12,-12,0,FALSE
+cb194f04-c36a-5525-a51a-2219d44c0be3,1991 FIFA Women's World Cup,1,group stage,Group C,1,eff0a856-a340-5ec8-84e8-121552da2cda,Germany,DEU,3,3,0,0,9,0,9,6,TRUE
+cb194f04-c36a-5525-a51a-2219d44c0be3,1991 FIFA Women's World Cup,1,group stage,Group C,2,a42d3d6a-78dd-5ae6-8408-079a857a7c30,Italy,ITA,3,2,0,1,6,2,4,4,TRUE
+cb194f04-c36a-5525-a51a-2219d44c0be3,1991 FIFA Women's World Cup,1,group stage,Group C,3,bb4bcbfb-67ac-5582-b11f-3e60fa83af7f,Chinese Taipei,TWN,3,1,0,2,2,8,-6,2,TRUE
+cb194f04-c36a-5525-a51a-2219d44c0be3,1991 FIFA Women's World Cup,1,group stage,Group C,4,f201a6b5-a9f6-5612-947b-a6a57d2e7e18,Nigeria,NGA,3,0,0,3,0,7,-7,0,FALSE
+d52279b1-f4bd-5228-862f-a0a23d6cd16d,2006 FIFA Men's World Cup,1,group stage,Group A,1,eff0a856-a340-5ec8-84e8-121552da2cda,Germany,DEU,3,3,0,0,8,2,6,9,TRUE
+d52279b1-f4bd-5228-862f-a0a23d6cd16d,2006 FIFA Men's World Cup,1,group stage,Group A,2,2179a8d7-c7ed-5c0c-b6a6-8e6eeef52657,Ecuador,ECU,3,2,0,1,5,3,2,6,TRUE
+d52279b1-f4bd-5228-862f-a0a23d6cd16d,2006 FIFA Men's World Cup,1,group stage,Group A,3,fc0455f9-aa03-5b3d-9b41-41854289e993,Poland,POL,3,1,0,2,2,4,-2,3,FALSE
+d52279b1-f4bd-5228-862f-a0a23d6cd16d,2006 FIFA Men's World Cup,1,group stage,Group A,4,8dd855bb-0dbb-576b-837a-ad9f8d770c86,Costa Rica,CRI,3,0,0,3,3,9,-6,0,FALSE
+d52279b1-f4bd-5228-862f-a0a23d6cd16d,2006 FIFA Men's World Cup,1,group stage,Group B,1,43c1aac8-fa85-5e16-ba9c-4cfdcbc975b8,England,ENG,3,2,1,0,5,2,3,7,TRUE
+d52279b1-f4bd-5228-862f-a0a23d6cd16d,2006 FIFA Men's World Cup,1,group stage,Group B,2,3611e724-8c08-5f63-b63d-e1cad6af784c,Sweden,SWE,3,1,2,0,3,2,1,5,TRUE
+d52279b1-f4bd-5228-862f-a0a23d6cd16d,2006 FIFA Men's World Cup,1,group stage,Group B,3,9678d2a4-5323-5082-b115-575366fb384a,Paraguay,PRY,3,1,0,2,2,2,0,3,FALSE
+d52279b1-f4bd-5228-862f-a0a23d6cd16d,2006 FIFA Men's World Cup,1,group stage,Group B,4,017c48cb-b97e-5de7-b7cd-7df9586d9d34,Trinidad and Tobago,TTO,3,0,1,2,0,4,-4,1,FALSE
+d52279b1-f4bd-5228-862f-a0a23d6cd16d,2006 FIFA Men's World Cup,1,group stage,Group C,1,933a103d-d9d7-57a3-9c4a-fbc81d25a266,Argentina,ARG,3,2,1,0,8,1,7,7,TRUE
+d52279b1-f4bd-5228-862f-a0a23d6cd16d,2006 FIFA Men's World Cup,1,group stage,Group C,2,d522b940-a152-5cc7-bcb3-89e28a1ce459,Netherlands,NLD,3,2,1,0,3,1,2,7,TRUE
+d52279b1-f4bd-5228-862f-a0a23d6cd16d,2006 FIFA Men's World Cup,1,group stage,Group C,3,e31e86e8-0616-5e05-a842-dc8f67c29ca4,Ivory Coast,CIV,3,1,0,2,5,6,-1,3,FALSE
+d52279b1-f4bd-5228-862f-a0a23d6cd16d,2006 FIFA Men's World Cup,1,group stage,Group C,4,ed749800-82e2-5bb8-a684-8bdf061d889d,Serbia and Montenegro,SCG,3,0,0,3,2,10,-8,0,FALSE
+d52279b1-f4bd-5228-862f-a0a23d6cd16d,2006 FIFA Men's World Cup,1,group stage,Group D,1,13eebf0f-eb49-5e70-97f9-84f0395ceff1,Portugal,PRT,3,3,0,0,5,1,4,9,TRUE
+d52279b1-f4bd-5228-862f-a0a23d6cd16d,2006 FIFA Men's World Cup,1,group stage,Group D,2,c832b30c-2750-5a24-a66f-cf9ea7c20a5c,Mexico,MEX,3,1,1,1,4,3,1,4,TRUE
+d52279b1-f4bd-5228-862f-a0a23d6cd16d,2006 FIFA Men's World Cup,1,group stage,Group D,3,153c6112-4054-5bec-b238-3f80b76f05c6,Angola,AGO,3,0,2,1,1,2,-1,2,FALSE
+d52279b1-f4bd-5228-862f-a0a23d6cd16d,2006 FIFA Men's World Cup,1,group stage,Group D,4,f22d85b4-6cde-5f4e-8119-b3b69a2ba879,Iran,IRN,3,0,1,2,2,6,-4,1,FALSE
+d52279b1-f4bd-5228-862f-a0a23d6cd16d,2006 FIFA Men's World Cup,1,group stage,Group E,1,a42d3d6a-78dd-5ae6-8408-079a857a7c30,Italy,ITA,3,2,1,0,5,1,4,7,TRUE
+d52279b1-f4bd-5228-862f-a0a23d6cd16d,2006 FIFA Men's World Cup,1,group stage,Group E,2,55f8040d-0098-5415-abdf-66098ef3bbee,Ghana,GHA,3,2,0,1,4,3,1,6,TRUE
+d52279b1-f4bd-5228-862f-a0a23d6cd16d,2006 FIFA Men's World Cup,1,group stage,Group E,3,ad708552-b621-5809-9ae6-02de989608b3,Czech Republic,CZE,3,1,0,2,3,4,-1,3,FALSE
+d52279b1-f4bd-5228-862f-a0a23d6cd16d,2006 FIFA Men's World Cup,1,group stage,Group E,4,10913c23-6023-563d-94df-9b4fb66c3432,United States,USA,3,0,1,2,2,6,-4,1,FALSE
+d52279b1-f4bd-5228-862f-a0a23d6cd16d,2006 FIFA Men's World Cup,1,group stage,Group F,1,498c5353-84ca-5f1c-8d71-0ae02196227c,Brazil,BRA,3,3,0,0,7,1,6,9,TRUE
+d52279b1-f4bd-5228-862f-a0a23d6cd16d,2006 FIFA Men's World Cup,1,group stage,Group F,2,2d9898be-ff8f-55ef-a86e-167bdeaf3cc6,Australia,AUS,3,1,1,1,5,5,0,4,TRUE
+d52279b1-f4bd-5228-862f-a0a23d6cd16d,2006 FIFA Men's World Cup,1,group stage,Group F,3,0db8bc49-3546-517c-af2c-7abd04ae2214,Croatia,HRV,3,0,2,1,2,3,-1,2,FALSE
+d52279b1-f4bd-5228-862f-a0a23d6cd16d,2006 FIFA Men's World Cup,1,group stage,Group F,4,230373b7-3a16-506a-b5f6-acc37d7e801d,Japan,JPN,3,0,1,2,2,7,-5,1,FALSE
+d52279b1-f4bd-5228-862f-a0a23d6cd16d,2006 FIFA Men's World Cup,1,group stage,Group G,1,a260026d-34b5-5fdf-8896-fd8997f096b9,Switzerland,CHE,3,2,1,0,4,0,4,7,TRUE
+d52279b1-f4bd-5228-862f-a0a23d6cd16d,2006 FIFA Men's World Cup,1,group stage,Group G,2,3d11f07c-c004-508d-9001-6f944119b2b0,France,FRA,3,1,2,0,3,1,2,5,TRUE
+d52279b1-f4bd-5228-862f-a0a23d6cd16d,2006 FIFA Men's World Cup,1,group stage,Group G,3,83f65ffa-c76e-5ace-8c09-c87d141a3916,South Korea,KOR,3,1,1,1,3,4,-1,4,FALSE
+d52279b1-f4bd-5228-862f-a0a23d6cd16d,2006 FIFA Men's World Cup,1,group stage,Group G,4,1f887746-2115-54a3-a7da-7b8a619f858e,Togo,TGO,3,0,0,3,1,6,-5,0,FALSE
+d52279b1-f4bd-5228-862f-a0a23d6cd16d,2006 FIFA Men's World Cup,1,group stage,Group H,1,5b16dd9d-d19c-5484-bac2-f9e932dddd29,Spain,ESP,3,3,0,0,8,1,7,9,TRUE
+d52279b1-f4bd-5228-862f-a0a23d6cd16d,2006 FIFA Men's World Cup,1,group stage,Group H,2,27b5664b-2e3e-52cd-a1df-0f1e60869c68,Ukraine,UKR,3,2,0,1,5,4,1,6,TRUE
+d52279b1-f4bd-5228-862f-a0a23d6cd16d,2006 FIFA Men's World Cup,1,group stage,Group H,3,b627769a-7468-5b82-85ee-a38f3d71a3c6,Tunisia,TUN,3,0,1,2,3,6,-3,1,FALSE
+d52279b1-f4bd-5228-862f-a0a23d6cd16d,2006 FIFA Men's World Cup,1,group stage,Group H,4,8cca4b99-7e47-5808-9e58-9803329fa50a,Saudi Arabia,SAU,3,0,1,2,2,7,-5,1,FALSE
+eae9dec6-fcb0-5343-8f9b-c07e3895e50a,2007 FIFA Women's World Cup,1,group stage,Group A,1,eff0a856-a340-5ec8-84e8-121552da2cda,Germany,DEU,3,2,1,0,13,0,13,7,TRUE
+eae9dec6-fcb0-5343-8f9b-c07e3895e50a,2007 FIFA Women's World Cup,1,group stage,Group A,2,43c1aac8-fa85-5e16-ba9c-4cfdcbc975b8,England,ENG,3,1,2,0,8,3,5,5,TRUE
+eae9dec6-fcb0-5343-8f9b-c07e3895e50a,2007 FIFA Women's World Cup,1,group stage,Group A,3,230373b7-3a16-506a-b5f6-acc37d7e801d,Japan,JPN,3,1,1,1,3,4,-1,4,FALSE
+eae9dec6-fcb0-5343-8f9b-c07e3895e50a,2007 FIFA Women's World Cup,1,group stage,Group A,4,933a103d-d9d7-57a3-9c4a-fbc81d25a266,Argentina,ARG,3,0,0,3,1,18,-17,0,FALSE
+eae9dec6-fcb0-5343-8f9b-c07e3895e50a,2007 FIFA Women's World Cup,1,group stage,Group B,1,10913c23-6023-563d-94df-9b4fb66c3432,United States,USA,3,2,1,0,5,2,3,7,TRUE
+eae9dec6-fcb0-5343-8f9b-c07e3895e50a,2007 FIFA Women's World Cup,1,group stage,Group B,2,58ce2aac-d181-51c6-9f50-fc3e8643d0e1,North Korea,PRK,3,1,1,1,5,4,1,4,TRUE
+eae9dec6-fcb0-5343-8f9b-c07e3895e50a,2007 FIFA Women's World Cup,1,group stage,Group B,3,3611e724-8c08-5f63-b63d-e1cad6af784c,Sweden,SWE,3,1,1,1,3,4,-1,4,FALSE
+eae9dec6-fcb0-5343-8f9b-c07e3895e50a,2007 FIFA Women's World Cup,1,group stage,Group B,4,f201a6b5-a9f6-5612-947b-a6a57d2e7e18,Nigeria,NGA,3,0,1,2,1,4,-3,1,FALSE
+eae9dec6-fcb0-5343-8f9b-c07e3895e50a,2007 FIFA Women's World Cup,1,group stage,Group C,1,187544dc-4b46-5bf6-a079-e124899a9090,Norway,NOR,3,2,1,0,10,4,6,7,TRUE
+eae9dec6-fcb0-5343-8f9b-c07e3895e50a,2007 FIFA Women's World Cup,1,group stage,Group C,2,2d9898be-ff8f-55ef-a86e-167bdeaf3cc6,Australia,AUS,3,1,2,0,7,4,3,5,TRUE
+eae9dec6-fcb0-5343-8f9b-c07e3895e50a,2007 FIFA Women's World Cup,1,group stage,Group C,3,1234d812-2e40-561b-90a3-ed4f9e66bd63,Canada,CAN,3,1,1,1,7,4,3,4,FALSE
+eae9dec6-fcb0-5343-8f9b-c07e3895e50a,2007 FIFA Women's World Cup,1,group stage,Group C,4,55f8040d-0098-5415-abdf-66098ef3bbee,Ghana,GHA,3,0,0,3,3,15,-12,0,FALSE
+eae9dec6-fcb0-5343-8f9b-c07e3895e50a,2007 FIFA Women's World Cup,1,group stage,Group D,1,498c5353-84ca-5f1c-8d71-0ae02196227c,Brazil,BRA,3,3,0,0,10,0,10,9,TRUE
+eae9dec6-fcb0-5343-8f9b-c07e3895e50a,2007 FIFA Women's World Cup,1,group stage,Group D,2,93542d8e-8aca-5c07-ad21-5c493fdf083e,China,CHN,3,2,0,1,5,6,-1,6,TRUE
+eae9dec6-fcb0-5343-8f9b-c07e3895e50a,2007 FIFA Women's World Cup,1,group stage,Group D,3,dfb099cc-e7ea-5e4f-b492-bdbf6e8e179b,Denmark,DNK,3,1,0,2,4,4,0,3,FALSE
+eae9dec6-fcb0-5343-8f9b-c07e3895e50a,2007 FIFA Women's World Cup,1,group stage,Group D,4,11240419-821b-5fbb-bf15-4906f40e3951,New Zealand,NZL,3,0,0,3,0,9,-9,0,FALSE
+f97aa139-2102-5d5d-adbe-eb5f91a07de6,1962 FIFA Men's World Cup,1,group stage,Group 1,1,6c983d26-03e1-5649-a13f-42b61e101a0e,Soviet Union,SUN,3,2,1,0,8,5,3,5,TRUE
+f97aa139-2102-5d5d-adbe-eb5f91a07de6,1962 FIFA Men's World Cup,1,group stage,Group 1,2,9a9be60e-89da-590c-95a8-6e5802b5deb5,Yugoslavia,YUG,3,2,0,1,8,3,5,4,TRUE
+f97aa139-2102-5d5d-adbe-eb5f91a07de6,1962 FIFA Men's World Cup,1,group stage,Group 1,3,f8764a69-de29-59f5-8e79-715c4bf88a11,Uruguay,URY,3,1,0,2,4,6,-2,2,FALSE
+f97aa139-2102-5d5d-adbe-eb5f91a07de6,1962 FIFA Men's World Cup,1,group stage,Group 1,4,3de13983-4604-5a8d-b39c-08d4f279a06b,Colombia,COL,3,0,1,2,5,11,-6,1,FALSE
+f97aa139-2102-5d5d-adbe-eb5f91a07de6,1962 FIFA Men's World Cup,1,group stage,Group 2,1,adbcf28f-5f27-56bd-bca0-909cf77a8ae0,West Germany,DEU,3,2,1,0,4,1,3,5,TRUE
+f97aa139-2102-5d5d-adbe-eb5f91a07de6,1962 FIFA Men's World Cup,1,group stage,Group 2,2,879c1298-9904-5b96-8f25-5e7d455ae2ec,Chile,CHL,3,2,0,1,5,3,2,4,TRUE
+f97aa139-2102-5d5d-adbe-eb5f91a07de6,1962 FIFA Men's World Cup,1,group stage,Group 2,3,a42d3d6a-78dd-5ae6-8408-079a857a7c30,Italy,ITA,3,1,1,1,3,2,1,3,FALSE
+f97aa139-2102-5d5d-adbe-eb5f91a07de6,1962 FIFA Men's World Cup,1,group stage,Group 2,4,a260026d-34b5-5fdf-8896-fd8997f096b9,Switzerland,CHE,3,0,0,3,2,8,-6,0,FALSE
+f97aa139-2102-5d5d-adbe-eb5f91a07de6,1962 FIFA Men's World Cup,1,group stage,Group 3,1,498c5353-84ca-5f1c-8d71-0ae02196227c,Brazil,BRA,3,2,1,0,4,1,3,5,TRUE
+f97aa139-2102-5d5d-adbe-eb5f91a07de6,1962 FIFA Men's World Cup,1,group stage,Group 3,2,cf23603f-09d6-52e6-9c7e-fb8db4554297,Czechoslovakia,CSK,3,1,1,1,2,3,-1,3,TRUE
+f97aa139-2102-5d5d-adbe-eb5f91a07de6,1962 FIFA Men's World Cup,1,group stage,Group 3,3,c832b30c-2750-5a24-a66f-cf9ea7c20a5c,Mexico,MEX,3,1,0,2,3,4,-1,2,FALSE
+f97aa139-2102-5d5d-adbe-eb5f91a07de6,1962 FIFA Men's World Cup,1,group stage,Group 3,4,5b16dd9d-d19c-5484-bac2-f9e932dddd29,Spain,ESP,3,1,0,2,2,3,-1,2,FALSE
+f97aa139-2102-5d5d-adbe-eb5f91a07de6,1962 FIFA Men's World Cup,1,group stage,Group 4,1,f16b7d5c-db54-5b27-b827-e848a3035641,Hungary,HUN,3,2,1,0,8,2,6,5,TRUE
+f97aa139-2102-5d5d-adbe-eb5f91a07de6,1962 FIFA Men's World Cup,1,group stage,Group 4,2,43c1aac8-fa85-5e16-ba9c-4cfdcbc975b8,England,ENG,3,1,1,1,4,3,1,3,TRUE
+f97aa139-2102-5d5d-adbe-eb5f91a07de6,1962 FIFA Men's World Cup,1,group stage,Group 4,3,933a103d-d9d7-57a3-9c4a-fbc81d25a266,Argentina,ARG,3,1,1,1,2,3,-1,3,FALSE
+f97aa139-2102-5d5d-adbe-eb5f91a07de6,1962 FIFA Men's World Cup,1,group stage,Group 4,4,f4b41163-3c82-5e1e-af54-e7ecc8a15135,Bulgaria,BGR,3,0,1,2,1,7,-6,1,FALSE
+fbe31e5e-d2a1-50dd-a5ca-93784ee9f889,1998 FIFA Men's World Cup,1,group stage,Group A,1,498c5353-84ca-5f1c-8d71-0ae02196227c,Brazil,BRA,3,2,0,1,6,3,3,6,TRUE
+fbe31e5e-d2a1-50dd-a5ca-93784ee9f889,1998 FIFA Men's World Cup,1,group stage,Group A,2,187544dc-4b46-5bf6-a079-e124899a9090,Norway,NOR,3,1,2,0,5,4,1,5,TRUE
+fbe31e5e-d2a1-50dd-a5ca-93784ee9f889,1998 FIFA Men's World Cup,1,group stage,Group A,3,265f639f-c7d5-5ca2-b708-b0995f6c2b89,Morocco,MAR,3,1,1,1,5,5,0,4,FALSE
+fbe31e5e-d2a1-50dd-a5ca-93784ee9f889,1998 FIFA Men's World Cup,1,group stage,Group A,4,fc2ce361-82ed-537a-85f1-ff8f384d11b1,Scotland,SCO,3,0,1,2,2,6,-4,1,FALSE
+fbe31e5e-d2a1-50dd-a5ca-93784ee9f889,1998 FIFA Men's World Cup,1,group stage,Group B,1,a42d3d6a-78dd-5ae6-8408-079a857a7c30,Italy,ITA,3,2,1,0,7,3,4,7,TRUE
+fbe31e5e-d2a1-50dd-a5ca-93784ee9f889,1998 FIFA Men's World Cup,1,group stage,Group B,2,879c1298-9904-5b96-8f25-5e7d455ae2ec,Chile,CHL,3,0,3,0,4,4,0,3,TRUE
+fbe31e5e-d2a1-50dd-a5ca-93784ee9f889,1998 FIFA Men's World Cup,1,group stage,Group B,3,8e63ee49-fbde-5478-a093-1a6a679cc27f,Austria,AUT,3,0,2,1,3,4,-1,2,FALSE
+fbe31e5e-d2a1-50dd-a5ca-93784ee9f889,1998 FIFA Men's World Cup,1,group stage,Group B,4,eb88a8cc-be5e-5116-8926-ba595504709a,Cameroon,CMR,3,0,2,1,2,5,-3,2,FALSE
+fbe31e5e-d2a1-50dd-a5ca-93784ee9f889,1998 FIFA Men's World Cup,1,group stage,Group C,1,3d11f07c-c004-508d-9001-6f944119b2b0,France,FRA,3,3,0,0,9,1,8,9,TRUE
+fbe31e5e-d2a1-50dd-a5ca-93784ee9f889,1998 FIFA Men's World Cup,1,group stage,Group C,2,dfb099cc-e7ea-5e4f-b492-bdbf6e8e179b,Denmark,DNK,3,1,1,1,3,3,0,4,TRUE
+fbe31e5e-d2a1-50dd-a5ca-93784ee9f889,1998 FIFA Men's World Cup,1,group stage,Group C,3,e77d250a-1cec-5627-adc4-3cf95c7c0972,South Africa,ZAF,3,0,2,1,3,6,-3,2,FALSE
+fbe31e5e-d2a1-50dd-a5ca-93784ee9f889,1998 FIFA Men's World Cup,1,group stage,Group C,4,8cca4b99-7e47-5808-9e58-9803329fa50a,Saudi Arabia,SAU,3,0,1,2,2,7,-5,1,FALSE
+fbe31e5e-d2a1-50dd-a5ca-93784ee9f889,1998 FIFA Men's World Cup,1,group stage,Group D,1,f201a6b5-a9f6-5612-947b-a6a57d2e7e18,Nigeria,NGA,3,2,0,1,5,5,0,6,TRUE
+fbe31e5e-d2a1-50dd-a5ca-93784ee9f889,1998 FIFA Men's World Cup,1,group stage,Group D,2,9678d2a4-5323-5082-b115-575366fb384a,Paraguay,PRY,3,1,2,0,3,1,2,5,TRUE
+fbe31e5e-d2a1-50dd-a5ca-93784ee9f889,1998 FIFA Men's World Cup,1,group stage,Group D,3,5b16dd9d-d19c-5484-bac2-f9e932dddd29,Spain,ESP,3,1,1,1,8,4,4,4,FALSE
+fbe31e5e-d2a1-50dd-a5ca-93784ee9f889,1998 FIFA Men's World Cup,1,group stage,Group D,4,f4b41163-3c82-5e1e-af54-e7ecc8a15135,Bulgaria,BGR,3,0,1,2,1,7,-6,1,FALSE
+fbe31e5e-d2a1-50dd-a5ca-93784ee9f889,1998 FIFA Men's World Cup,1,group stage,Group E,1,d522b940-a152-5cc7-bcb3-89e28a1ce459,Netherlands,NLD,3,1,2,0,7,2,5,5,TRUE
+fbe31e5e-d2a1-50dd-a5ca-93784ee9f889,1998 FIFA Men's World Cup,1,group stage,Group E,2,c832b30c-2750-5a24-a66f-cf9ea7c20a5c,Mexico,MEX,3,1,2,0,7,5,2,5,TRUE
+fbe31e5e-d2a1-50dd-a5ca-93784ee9f889,1998 FIFA Men's World Cup,1,group stage,Group E,3,3aa56241-3868-505a-ac6a-753aefa79cc2,Belgium,BEL,3,0,3,0,3,3,0,3,FALSE
+fbe31e5e-d2a1-50dd-a5ca-93784ee9f889,1998 FIFA Men's World Cup,1,group stage,Group E,4,83f65ffa-c76e-5ace-8c09-c87d141a3916,South Korea,KOR,3,0,1,2,2,9,-7,1,FALSE
+fbe31e5e-d2a1-50dd-a5ca-93784ee9f889,1998 FIFA Men's World Cup,1,group stage,Group F,1,eff0a856-a340-5ec8-84e8-121552da2cda,Germany,DEU,3,2,1,0,6,2,4,7,TRUE
+fbe31e5e-d2a1-50dd-a5ca-93784ee9f889,1998 FIFA Men's World Cup,1,group stage,Group F,2,9a9be60e-89da-590c-95a8-6e5802b5deb5,Yugoslavia,YUG,3,2,1,0,4,2,2,7,TRUE
+fbe31e5e-d2a1-50dd-a5ca-93784ee9f889,1998 FIFA Men's World Cup,1,group stage,Group F,3,f22d85b4-6cde-5f4e-8119-b3b69a2ba879,Iran,IRN,3,1,0,2,2,4,-2,3,FALSE
+fbe31e5e-d2a1-50dd-a5ca-93784ee9f889,1998 FIFA Men's World Cup,1,group stage,Group F,4,10913c23-6023-563d-94df-9b4fb66c3432,United States,USA,3,0,0,3,1,5,-4,0,FALSE
+fbe31e5e-d2a1-50dd-a5ca-93784ee9f889,1998 FIFA Men's World Cup,1,group stage,Group G,1,da4d79d5-3e18-54b9-916c-997fdef9a796,Romania,ROU,3,2,1,0,4,2,2,7,TRUE
+fbe31e5e-d2a1-50dd-a5ca-93784ee9f889,1998 FIFA Men's World Cup,1,group stage,Group G,2,43c1aac8-fa85-5e16-ba9c-4cfdcbc975b8,England,ENG,3,2,0,1,5,2,3,6,TRUE
+fbe31e5e-d2a1-50dd-a5ca-93784ee9f889,1998 FIFA Men's World Cup,1,group stage,Group G,3,3de13983-4604-5a8d-b39c-08d4f279a06b,Colombia,COL,3,1,0,2,1,3,-2,3,FALSE
+fbe31e5e-d2a1-50dd-a5ca-93784ee9f889,1998 FIFA Men's World Cup,1,group stage,Group G,4,b627769a-7468-5b82-85ee-a38f3d71a3c6,Tunisia,TUN,3,0,1,2,1,4,-3,1,FALSE
+fbe31e5e-d2a1-50dd-a5ca-93784ee9f889,1998 FIFA Men's World Cup,1,group stage,Group H,1,933a103d-d9d7-57a3-9c4a-fbc81d25a266,Argentina,ARG,3,3,0,0,7,0,7,9,TRUE
+fbe31e5e-d2a1-50dd-a5ca-93784ee9f889,1998 FIFA Men's World Cup,1,group stage,Group H,2,0db8bc49-3546-517c-af2c-7abd04ae2214,Croatia,HRV,3,2,0,1,4,2,2,6,TRUE
+fbe31e5e-d2a1-50dd-a5ca-93784ee9f889,1998 FIFA Men's World Cup,1,group stage,Group H,3,13a7a10d-674d-5be2-bdfa-a0e18b0b6b04,Jamaica,JAM,3,1,0,2,3,9,-6,3,FALSE
+fbe31e5e-d2a1-50dd-a5ca-93784ee9f889,1998 FIFA Men's World Cup,1,group stage,Group H,4,230373b7-3a16-506a-b5f6-acc37d7e801d,Japan,JPN,3,0,0,3,1,4,-3,0,FALSE
