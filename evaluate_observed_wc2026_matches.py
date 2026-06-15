@@ -419,8 +419,9 @@ def write_markdown_report(
             rendered += f" ({summary['bootstrap_confidence_level']:.0%} CI {interval})"
         return rendered
 
+    model_name = Path(str(summary.get("model_file", "World Cup model"))).stem
     lines = [
-        "# V11 observed World Cup evaluation",
+        f"# {model_name} observed World Cup evaluation",
         "",
         f"- Matches: {summary['n_matches']}",
         f"- Result accuracy: {format_metric('result_accuracy', summary['result_accuracy'], True)}",
@@ -797,7 +798,10 @@ def main():
                 (result_probs[label] - float(label == actual_result)) ** 2
                 for label in RESULT_LABELS
             )
-            predicted_result = max(result_probs, key=result_probs.get)
+            predicted_result = pred.get(
+                "predicted_result",
+                max(result_probs, key=result_probs.get),
+            )
 
             row = {
                 "match_id": r["match_id"],
@@ -840,6 +844,8 @@ def main():
                 "host_a": host_a,
                 "host_b": host_b,
             }
+            for key, value in pred.get("v13_adjustments", {}).items():
+                row[f"model_adjustment_{key}"] = value
 
             events = pred.get("event_predictions", {})
             for event in (
@@ -887,6 +893,12 @@ def main():
                     row[f"actual_box_{event_name}_b"] = r.get(actual_b_column, np.nan)
 
             rows.append(row)
+            update_after_match = getattr(model, "update_after_match", None)
+            if callable(update_after_match):
+                update_details = update_after_match(team_a, team_b, ga, gb)
+                if isinstance(update_details, dict):
+                    for key, value in update_details.items():
+                        row[f"post_match_{key}"] = value
 
         eval_df = validate_prediction_frame(pd.DataFrame(rows))
 

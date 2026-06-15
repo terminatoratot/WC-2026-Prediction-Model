@@ -39,11 +39,21 @@ def score_text(item: dict) -> str:
 
 
 def build_comparison(args: argparse.Namespace) -> pd.DataFrame:
-    observed = pd.read_csv(args.observed).head(args.matches).copy()
+    observed = pd.read_csv(args.observed)
     required = {"match_id", "team_a", "team_b", "goals_a", "goals_b"}
     missing = sorted(required - set(observed.columns))
     if missing:
         raise ValueError(f"Observed file is missing columns: {missing}")
+
+    excluded_count = 0
+    if args.max_observed_goals_per_team is not None:
+        outlier = (
+            observed["goals_a"].gt(args.max_observed_goals_per_team)
+            | observed["goals_b"].gt(args.max_observed_goals_per_team)
+        )
+        excluded_count = int(outlier.sum())
+        observed = observed.loc[~outlier]
+    observed = observed.head(args.matches).copy()
 
     wc = load_model_module(args.model_file)
     kwargs = {
@@ -109,7 +119,12 @@ def build_comparison(args: argparse.Namespace) -> pd.DataFrame:
                 ],
             }
         )
-    return pd.DataFrame(rows)
+    comparison = pd.DataFrame(rows)
+    comparison.attrs["excluded_count"] = excluded_count
+    comparison.attrs["max_observed_goals_per_team"] = (
+        args.max_observed_goals_per_team
+    )
+    return comparison
 
 
 def draw_scoreline_chart(comparison: pd.DataFrame, output_path: Path) -> None:
@@ -144,11 +159,19 @@ def draw_scoreline_chart(comparison: pd.DataFrame, output_path: Path) -> None:
         va="top",
     )
     hits = int(comparison["actual_in_top_2"].sum())
+    excluded_count = int(comparison.attrs.get("excluded_count", 0))
+    max_observed_goals = comparison.attrs.get("max_observed_goals_per_team")
+    sample_text = f"{count} observed matches"
+    if max_observed_goals is not None:
+        sample_text += (
+            f" after excluding {excluded_count} with a team scoring "
+            f"more than {max_observed_goals}"
+        )
     fig.text(
         0.06,
         0.895,
         (
-            f"First {count} observed matches     "
+            f"{sample_text}     "
             f"Top-two exact-score coverage: {hits}/{count} ({hits / count:.0%})"
         ),
         fontsize=11.5,
@@ -329,17 +352,32 @@ def main() -> None:
         help="Use the first N observed rows (default: 7).",
     )
     parser.add_argument(
+        "--max-observed-goals-per-team",
+        type=int,
+        help=(
+            "Exclude matches where either team scored more than this number "
+            "of goals."
+        ),
+    )
+    parser.add_argument(
         "--output-dir", default="observed_eval_v11_with_current"
     )
     args = parser.parse_args()
 
     if args.matches < 1:
         raise ValueError("--matches must be at least 1")
+    if (
+        args.max_observed_goals_per_team is not None
+        and args.max_observed_goals_per_team < 0
+    ):
+        raise ValueError("--max-observed-goals-per-team cannot be negative")
     output_dir = Path(args.output_dir)
     output_dir.mkdir(parents=True, exist_ok=True)
 
     comparison = build_comparison(args)
     suffix = f"{len(comparison)}_matches"
+    if args.max_observed_goals_per_team is not None:
+        suffix += f"_max_{args.max_observed_goals_per_team}_goals"
     csv_path = output_dir / f"v11_top_two_scoreline_comparison_{suffix}.csv"
     plot_path = output_dir / f"v11_top_two_scoreline_comparison_{suffix}.png"
     comparison.to_csv(csv_path, index=False)
