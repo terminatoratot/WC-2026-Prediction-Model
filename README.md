@@ -49,6 +49,15 @@ python v11_wcq_results_model.py \
 Use `--host-a` or `--host-b` when one team has home advantage. Add `--knockout`
 for a knockout-stage match.
 
+To use V13 for W/D/L with V11 exact scores:
+
+```bash
+python v13_live_signal_model.py \
+  --team-a Belgium \
+  --team-b Egypt \
+  --outdir outputs_v13_belgium_egypt
+```
+
 The script uses the files in `data/` by default, so no extra data arguments are
 needed for the included dataset.
 
@@ -92,16 +101,21 @@ data.
 
 ```bash
 python evaluate_observed_wc2026_matches.py \
-  --model-file v11_wcq_results_model.py \
-  --outdir observed_eval_outputs
+  --model-file v13_live_signal_model.py \
+  --outdir observed_eval_v13_hybrid
 ```
 
 The evaluation script creates match-level predictions, scoring metrics,
 calibration tables, confidence intervals, plots, and a Markdown report.
+`v13_live_signal_model.py` uses V13 for W/D/L probabilities and the result
+decision. Exact scores and score-derived markets use V11's expected goals with
+its calibrated Poisson/Dixon-Coles score policy, which retained better observed
+top-two score coverage than the experimental unreweighted score matrix.
 
 ## Main files
 
 - `v11_wcq_results_model.py` - model training, prediction, and backtesting
+- `v13_live_signal_model.py` - V13 W/D/L with V11 Poisson/Dixon-Coles scores
 - `build_current_team_features.py` - builds the current team feature table
 - `evaluate_observed_wc2026_matches.py` - evaluates saved or newly generated predictions
 - `compare_v11_top_scorelines.py` - compares leading scoreline predictions
@@ -114,4 +128,3 @@ Football predictions are uncertain. A high win probability does not mean a
 result is guaranteed, and exact-score probabilities are especially sensitive to
 small changes in expected goals. The output is best read as a range of possible
 outcomes rather than a fixed forecast.
-
