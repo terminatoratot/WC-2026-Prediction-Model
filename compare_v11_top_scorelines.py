@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Plot actual scores against V11's two most likely scorelines."""
+"""Plot actual scores against a model's two most likely scorelines."""
 
 from __future__ import annotations
 
@@ -36,6 +36,22 @@ def load_model_module(model_file: str):
 
 def score_text(item: dict) -> str:
     return f"{int(item['team_a_goals'])}-{int(item['team_b_goals'])}"
+
+
+def result_label(goals_a: int, goals_b: int) -> str:
+    if goals_a > goals_b:
+        return "team_a_win"
+    if goals_a == goals_b:
+        return "draw"
+    return "team_b_win"
+
+
+def result_text(result: str, team_a: str, team_b: str) -> str:
+    return {
+        "team_a_win": team_a,
+        "draw": "Draw",
+        "team_b_win": team_b,
+    }[result]
 
 
 def build_comparison(args: argparse.Namespace) -> pd.DataFrame:
@@ -85,9 +101,17 @@ def build_comparison(args: argparse.Namespace) -> pd.DataFrame:
             knockout=str(row.get("stage", "")).strip().lower() != "group stage",
         )
         top_one, top_two = prediction["top_scorelines"][:2]
-        actual = f"{int(row['goals_a'])}-{int(row['goals_b'])}"
+        goals_a = int(row["goals_a"])
+        goals_b = int(row["goals_b"])
+        actual = f"{goals_a}-{goals_b}"
         first = score_text(top_one)
         second = score_text(top_two)
+        actual_result = result_label(goals_a, goals_b)
+        result_probabilities = prediction["result_probabilities"]
+        predicted_result = prediction.get(
+            "predicted_result",
+            max(result_probabilities, key=result_probabilities.get),
+        )
         rows.append(
             {
                 "observed_order": int(observed_order) + 1,
@@ -110,30 +134,50 @@ def build_comparison(args: argparse.Namespace) -> pd.DataFrame:
                     ),
                     0.0,
                 ),
-                "team_a_win_probability": prediction["result_probabilities"][
-                    "team_a_win"
-                ],
-                "draw_probability": prediction["result_probabilities"]["draw"],
-                "team_b_win_probability": prediction["result_probabilities"][
-                    "team_b_win"
-                ],
+                "actual_result": actual_result,
+                "actual_result_label": result_text(
+                    actual_result,
+                    display_a,
+                    display_b,
+                ),
+                "predicted_result": predicted_result,
+                "predicted_result_label": result_text(
+                    predicted_result,
+                    display_a,
+                    display_b,
+                ),
+                "outcome_correct": predicted_result == actual_result,
+                "predicted_result_probability": float(
+                    result_probabilities[predicted_result]
+                ),
+                "actual_result_probability": float(
+                    result_probabilities[actual_result]
+                ),
+                "team_a_win_probability": result_probabilities["team_a_win"],
+                "draw_probability": result_probabilities["draw"],
+                "team_b_win_probability": result_probabilities["team_b_win"],
             }
         )
+        update_after_match = getattr(model, "update_after_match", None)
+        if callable(update_after_match):
+            update_after_match(team_a, team_b, goals_a, goals_b)
+
     comparison = pd.DataFrame(rows)
     comparison.attrs["excluded_count"] = excluded_count
     comparison.attrs["max_observed_goals_per_team"] = (
         args.max_observed_goals_per_team
     )
+    comparison.attrs["model_label"] = args.model_label
     return comparison
 
 
 def draw_scoreline_chart(comparison: pd.DataFrame, output_path: Path) -> None:
     """Draw a clean, compact scoreline comparison."""
     count = len(comparison)
-    fig, ax = plt.subplots(figsize=(16, max(7.2, count * 0.82 + 2.2)))
+    fig, ax = plt.subplots(figsize=(19, max(7.2, count * 0.82 + 2.2)))
     fig.patch.set_facecolor("#ffffff")
     ax.set_facecolor("#ffffff")
-    ax.set_xlim(0, 16)
+    ax.set_xlim(0, 19)
     ax.set_ylim(-0.8, count + 0.75)
     ax.axis("off")
 
@@ -148,17 +192,19 @@ def draw_scoreline_chart(comparison: pd.DataFrame, output_path: Path) -> None:
     red = "#b91c1c"
     pale_red = "#fee2e2"
     divider = "#e2e8f0"
+    model_label = comparison.attrs.get("model_label", "Model")
 
     fig.text(
         0.06,
         0.94,
-        "Actual scores vs V11's two leading forecasts",
+        f"Actual scores vs two leading forecasts: {model_label}",
         fontsize=20,
         fontweight="bold",
         color=navy,
         va="top",
     )
     hits = int(comparison["actual_in_top_2"].sum())
+    outcome_hits = int(comparison["outcome_correct"].sum())
     excluded_count = int(comparison.attrs.get("excluded_count", 0))
     max_observed_goals = comparison.attrs.get("max_observed_goals_per_team")
     sample_text = f"{count} observed matches"
@@ -173,6 +219,8 @@ def draw_scoreline_chart(comparison: pd.DataFrame, output_path: Path) -> None:
         (
             f"{sample_text}     "
             f"Top-two exact-score coverage: {hits}/{count} ({hits / count:.0%})"
+            f"     Correct outcomes: {outcome_hits}/{count} "
+            f"({outcome_hits / count:.0%})"
         ),
         fontsize=11.5,
         color=muted,
@@ -185,6 +233,7 @@ def draw_scoreline_chart(comparison: pd.DataFrame, output_path: Path) -> None:
         (7.15, "Most likely"),
         (10.55, "Second most likely"),
         (14.25, "Coverage"),
+        (16.75, "Outcome"),
     ]
     y_header = count + 0.15
     for x, label in headers:
@@ -197,13 +246,13 @@ def draw_scoreline_chart(comparison: pd.DataFrame, output_path: Path) -> None:
             color=muted,
             va="center",
         )
-    ax.plot([0.2, 15.75], [count - 0.22, count - 0.22], color=divider, linewidth=1)
+    ax.plot([0.2, 18.75], [count - 0.22, count - 0.22], color=divider, linewidth=1)
 
     for display_index, row in comparison.reset_index(drop=True).iterrows():
         y = count - 0.8 - display_index
         if display_index % 2 == 1:
             ax.axhspan(y - 0.39, y + 0.39, color="#f8fafc", zorder=0)
-        ax.plot([0.2, 15.75], [y - 0.41, y - 0.41], color=divider, linewidth=0.75)
+        ax.plot([0.2, 18.75], [y - 0.41, y - 0.41], color=divider, linewidth=0.75)
 
         ax.text(
             0.25,
@@ -303,12 +352,45 @@ def draw_scoreline_chart(comparison: pd.DataFrame, output_path: Path) -> None:
             va="center",
         )
 
+        if row.outcome_correct:
+            outcome_text, outcome_color, outcome_bg = "Correct", green, pale_green
+        else:
+            outcome_text, outcome_color, outcome_bg = "Wrong", red, pale_red
+        ax.text(
+            16.95,
+            y + 0.07,
+            outcome_text,
+            fontsize=10,
+            fontweight="bold",
+            color=outcome_color,
+            ha="center",
+            va="center",
+            bbox={
+                "boxstyle": "round,pad=0.3",
+                "facecolor": outcome_bg,
+                "edgecolor": "none",
+            },
+        )
+        ax.text(
+            16.95,
+            y - 0.23,
+            (
+                f"Pred: {row.predicted_result_label} "
+                f"({row.predicted_result_probability:.0%})"
+            ),
+            fontsize=8.4,
+            color=muted,
+            ha="center",
+            va="center",
+        )
+
     ax.text(
         0.25,
         -0.62,
         (
             "Coverage indicates whether the actual exact score ranked first, "
-            "second, or outside V11's two most likely scorelines."
+            "second, or outside the two most likely exact scorelines. "
+            "Outcome uses the model's W/D/L decision."
         ),
         fontsize=9.2,
         color=muted,
@@ -323,6 +405,11 @@ def main() -> None:
     parser = argparse.ArgumentParser()
     parser.add_argument(
         "--model-file", default=str(PROJECT_DIR / "v11_wcq_results_model.py")
+    )
+    parser.add_argument(
+        "--model-label",
+        default="V11",
+        help="Model name displayed in the chart title (default: V11).",
     )
     parser.add_argument(
         "--worldcupsai-zip", default=str(DATA_DIR / "worldcupsai.zip")
@@ -362,6 +449,11 @@ def main() -> None:
     parser.add_argument(
         "--output-dir", default="observed_eval_v11_with_current"
     )
+    parser.add_argument(
+        "--output-prefix",
+        default="v11",
+        help="Prefix used for generated CSV and PNG filenames (default: v11).",
+    )
     args = parser.parse_args()
 
     if args.matches < 1:
@@ -378,8 +470,14 @@ def main() -> None:
     suffix = f"{len(comparison)}_matches"
     if args.max_observed_goals_per_team is not None:
         suffix += f"_max_{args.max_observed_goals_per_team}_goals"
-    csv_path = output_dir / f"v11_top_two_scoreline_comparison_{suffix}.csv"
-    plot_path = output_dir / f"v11_top_two_scoreline_comparison_{suffix}.png"
+    csv_path = (
+        output_dir
+        / f"{args.output_prefix}_top_two_scoreline_comparison_{suffix}.csv"
+    )
+    plot_path = (
+        output_dir
+        / f"{args.output_prefix}_top_two_scoreline_comparison_{suffix}.png"
+    )
     comparison.to_csv(csv_path, index=False)
     draw_scoreline_chart(comparison, plot_path)
 

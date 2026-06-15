@@ -1,26 +1,67 @@
 {
   "n_matches": 12,
   "result_accuracy": 0.5833333333333334,
-  "mean_result_log_loss": 1.040860848809799,
+  "mean_result_log_loss": 1.0408608488097992,
   "mean_result_brier": 0.6343652807515089,
   "mean_result_rps": 0.19956995401875896,
   "mean_goal_mae": 0.9962822909493773,
   "mean_goal_rmse": 1.4795331306001576,
   "mean_goal_difference_abs_error": 1.6449299118221903,
-  "mean_exact_score_log_loss": 3.1701573689274984,
+  "mean_exact_score_log_loss": 3.1556869532677916,
   "mean_actual_result_probability": 0.3821123001960652,
-  "mean_exact_score_probability": 0.06640673739481395,
-  "exact_score_accuracy": 0.16666666666666666,
+  "mean_exact_score_probability": 0.06741611428756374,
+  "exact_score_accuracy": 0.25,
   "top_2_result_accuracy": 0.8333333333333334,
   "model_type": "ensemble",
   "model_file": "v13_live_signal_model.py",
   "uniform_baseline_log_loss": 1.0986122886681098,
   "uniform_baseline_brier": 0.6666666666666666,
-  "log_loss_skill_vs_uniform": 0.05256762595321507,
+  "log_loss_skill_vs_uniform": 0.05256762595321485,
   "brier_skill_vs_uniform": 0.048452078872736615,
-  "bootstrap_samples": 0,
+  "bootstrap_samples": 5000,
   "bootstrap_confidence_level": 0.95,
-  "bootstrap_confidence_intervals": {},
+  "bootstrap_confidence_intervals": {
+    "result_accuracy": {
+      "lower": 0.3333333333333333,
+      "upper": 0.8333333333333334,
+      "confidence": 0.95
+    },
+    "mean_result_log_loss": {
+      "lower": 0.8165194071139075,
+      "upper": 1.258518835524466,
+      "confidence": 0.95
+    },
+    "mean_result_brier": {
+      "lower": 0.4706181657917817,
+      "upper": 0.7927066589599229,
+      "confidence": 0.95
+    },
+    "mean_result_rps": {
+      "lower": 0.15287316677029933,
+      "upper": 0.2488102546191099,
+      "confidence": 0.95
+    },
+    "mean_goal_mae": {
+      "lower": 0.6806225260494295,
+      "upper": 1.3568621438419302,
+      "confidence": 0.95
+    },
+    "mean_goal_rmse": {
+      "lower": 0.8322733965026651,
+      "upper": 2.008830822289357,
+      "confidence": 0.95
+    },
+    "mean_goal_difference_abs_error": {
+      "lower": 0.8852655864826006,
+      "upper": 2.4721866313138983,
+      "confidence": 0.95
+    },
+    "mean_exact_score_log_loss": {
+      "lower": 2.4995610388615526,
+      "upper": 3.9073319897822834,
+      "confidence": 0.95
+    }
+  },
   "box_event_metrics": {
     "shots": {
       "n_team_observations": 24,

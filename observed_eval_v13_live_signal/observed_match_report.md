@@ -1,13 +1,13 @@
 # v13_live_signal_model observed World Cup evaluation
 
 - Matches: 12
-- Result accuracy: 58.3%
-- Result log loss: 1.041
-- Three-way Brier score: 0.634
-- Ranked probability score: 0.200
-- Goal MAE: 0.996
-- Goal RMSE: 1.480
-- Exact-score accuracy: 16.7%
+- Result accuracy: 58.3% (95% CI 33.3% to 83.3%)
+- Result log loss: 1.041 (95% CI 0.817 to 1.259)
+- Three-way Brier score: 0.634 (95% CI 0.471 to 0.793)
+- Ranked probability score: 0.200 (95% CI 0.153 to 0.249)
+- Goal MAE: 0.996 (95% CI 0.681 to 1.357)
+- Goal RMSE: 1.480 (95% CI 0.832 to 2.009)
+- Exact-score accuracy: 25.0%
 - Log-loss skill vs uniform forecast: 5.3%
 
 Bootstrap intervals measure sampling uncertainty across this observed match set. With a small number of matches, they should be expected to be wide.

@@ -1,13 +1,16 @@
 #!/usr/bin/env python3
-"""V11 with live Elo updates and calibrated prediction post-processing."""
+"""V13 W/D/L decisions with V11 Poisson/Dixon-Coles exact scores."""
 
 from __future__ import annotations
 
-import math
+import argparse
+import json
 from dataclasses import dataclass
-from typing import Any, Dict, Tuple
+from pathlib import Path
+from typing import Any, Dict
 
 import numpy as np
+import pandas as pd
 
 import v11_wcq_results_model as v11
 
@@ -20,50 +23,11 @@ class V13Config:
     draw_decision_threshold: float = 0.2147
     close_elo_gap: float = 100.0
     close_match_draw_target: float = 0.218045
+    # Retained for callers using the earlier V13 config. Score widening is
+    # disabled while the hybrid model uses V11 exact-score probabilities.
     large_elo_gap: float = 200.0
     large_mismatch_goal_std_scale: float = 1.10
     live_elo_k: float = 24.0
-
-
-def _negative_binomial_pmf(k: int, mean: float, std_scale: float) -> float:
-    """Return an overdispersed count PMF with the requested Poisson SD scale."""
-    mean = max(float(mean), 1e-9)
-    if std_scale <= 1.0:
-        return math.exp(-mean) * mean**k / math.factorial(k)
-
-    variance = std_scale**2 * mean
-    shape = mean**2 / max(variance - mean, 1e-12)
-    success_probability = shape / (shape + mean)
-    return math.exp(
-        math.lgamma(k + shape)
-        - math.lgamma(shape)
-        - math.lgamma(k + 1)
-        + shape * math.log(success_probability)
-        + k * math.log1p(-success_probability)
-    )
-
-
-def _overdispersed_score_matrix(
-    lambda_a: float,
-    lambda_b: float,
-    max_goals: int,
-    std_scale: float,
-) -> Dict[Tuple[int, int], float]:
-    probabilities_a = [
-        _negative_binomial_pmf(goals, lambda_a, std_scale)
-        for goals in range(max_goals + 1)
-    ]
-    probabilities_b = [
-        _negative_binomial_pmf(goals, lambda_b, std_scale)
-        for goals in range(max_goals + 1)
-    ]
-    matrix = {
-        (goals_a, goals_b): probabilities_a[goals_a] * probabilities_b[goals_b]
-        for goals_a in range(max_goals + 1)
-        for goals_b in range(max_goals + 1)
-    }
-    total = sum(matrix.values())
-    return {score: probability / total for score, probability in matrix.items()}
 
 
 def _redistribute_draw_probability(
@@ -85,65 +49,6 @@ def _redistribute_draw_probability(
         "team_b_win": (1.0 - target_draw)
         * result_probabilities["team_b_win"]
         / non_draw_total,
-    }
-
-
-def _score_outputs(
-    score_probabilities: Dict[Tuple[int, int], float],
-    max_goals: int,
-) -> Dict[str, Any]:
-    top = sorted(
-        [
-            {
-                "team_a_goals": goals_a,
-                "team_b_goals": goals_b,
-                "probability": probability,
-            }
-            for (goals_a, goals_b), probability in score_probabilities.items()
-        ],
-        key=lambda item: item["probability"],
-        reverse=True,
-    )[:15]
-    spreads = {
-        str(goal_difference): sum(
-            probability
-            for (goals_a, goals_b), probability in score_probabilities.items()
-            if goals_a - goals_b == goal_difference
-        )
-        for goal_difference in range(-max_goals, max_goals + 1)
-    }
-    totals = {
-        str(total_goals): sum(
-            probability
-            for (goals_a, goals_b), probability in score_probabilities.items()
-            if goals_a + goals_b == total_goals
-        )
-        for total_goals in range(2 * max_goals + 1)
-    }
-    over_under = {}
-    for line in (0.5, 1.5, 2.5, 3.5, 4.5):
-        under = sum(
-            probability
-            for (goals_a, goals_b), probability in score_probabilities.items()
-            if goals_a + goals_b < line
-        )
-        over_under[f"over_{line}"] = 1.0 - under
-        over_under[f"under_{line}"] = under
-    return {
-        "top_scorelines": top,
-        "scoreline_probabilities": [
-            {
-                "team_a_goals": goals_a,
-                "team_b_goals": goals_b,
-                "probability": probability,
-            }
-            for (goals_a, goals_b), probability in sorted(
-                score_probabilities.items()
-            )
-        ],
-        "spread_probabilities": spreads,
-        "total_goal_probabilities": totals,
-        "over_under_probabilities": over_under,
     }
 
 
@@ -193,29 +98,9 @@ class V13LiveSignalModel:
                 self.config.close_match_draw_target,
             )
 
-        variance_widened = elo_gap > self.config.large_elo_gap
-        if variance_widened:
-            score_matrix = _overdispersed_score_matrix(
-                prediction["lambda_a"],
-                prediction["lambda_b"],
-                max_goals,
-                self.config.large_mismatch_goal_std_scale,
-            )
-        else:
-            score_matrix = {
-                (
-                    int(item["team_a_goals"]),
-                    int(item["team_b_goals"]),
-                ): float(item["probability"])
-                for item in prediction["scoreline_probabilities"]
-            }
-
-        score_matrix = v11.reweight_score_matrix_to_results(
-            score_matrix,
-            adjusted_results,
-        )
-        prediction.update(_score_outputs(score_matrix, max_goals))
-        prediction["result_probabilities"] = v11.result_probs(score_matrix)
+        # Keep V11's full score policy because it produced better observed
+        # top-two coverage than the experimental unreweighted score matrix.
+        prediction["result_probabilities"] = adjusted_results
 
         draw_signal = float(prediction["draw_model_probability"])
         if draw_signal >= self.config.draw_decision_threshold:
@@ -235,17 +120,25 @@ class V13LiveSignalModel:
             "draw_decision_threshold": self.config.draw_decision_threshold,
             "draw_boost_applied": draw_boost_applied,
             "close_match_draw_target": self.config.close_match_draw_target,
-            "variance_widened": variance_widened,
-            "goal_std_scale": (
-                self.config.large_mismatch_goal_std_scale
-                if variance_widened
-                else 1.0
-            ),
+            "variance_widened": False,
+            "goal_std_scale": 1.0,
             "live_elo_k": self.config.live_elo_k,
+            "wdl_model": "v13",
+            "exact_score_model": "v11_poisson_dixon_coles_reweighted",
+            "exact_score_dixon_coles_rho": prediction.get(
+                "calibration_notes",
+                {},
+            ).get("dixon_coles_rho"),
+            "exact_score_result_reweighting": True,
         }
         prediction["calibration_notes"] = {
             **prediction.get("calibration_notes", {}),
             "v13": prediction["v13_adjustments"],
+            "hybrid_model_policy": (
+                "V13 supplies W/D/L probabilities and the result decision; "
+                "V11 supplies its calibrated Poisson/Dixon-Coles exact-score "
+                "distribution and all score-derived markets."
+            ),
         }
         return prediction
 
@@ -306,3 +199,120 @@ def build_from_zip(
         recency_min_weight=recency_min_weight,
     )
     return V13LiveSignalModel(base_model), data
+
+
+def main() -> None:
+    project_dir = Path(__file__).resolve().parent
+    data_dir = project_dir / "data"
+    parser = argparse.ArgumentParser(
+        description="Run a V13 W/D/L and V11 exact-score match prediction."
+    )
+    parser.add_argument("--team-a", required=True)
+    parser.add_argument("--team-b", required=True)
+    parser.add_argument("--host-a", action="store_true")
+    parser.add_argument("--host-b", action="store_true")
+    parser.add_argument("--knockout", action="store_true")
+    parser.add_argument(
+        "--model",
+        default="ensemble",
+        choices=[
+            "ensemble",
+            "hgb",
+            "rf",
+            "poisson",
+            "lightgbm",
+            "xgboost",
+            "catboost",
+        ],
+    )
+    parser.add_argument("--outdir", default="outputs_v13_prediction")
+    parser.add_argument(
+        "--worldcupsai-zip",
+        default=str(data_dir / "worldcupsai.zip"),
+    )
+    parser.add_argument(
+        "--team-train",
+        default=str(data_dir / "current_team_features_2026.csv"),
+    )
+    parser.add_argument("--team-test")
+    parser.add_argument(
+        "--box-data",
+        default=str(data_dir / "FIFAallMatchBoxData.csv"),
+    )
+    parser.add_argument(
+        "--results-data",
+        default=str(data_dir / "results.csv"),
+    )
+    parser.add_argument(
+        "--former-names",
+        default=str(data_dir / "former_names.csv"),
+    )
+    parser.add_argument("--prediction-year", type=int, default=2026)
+    parser.add_argument("--no-plots", action="store_true")
+    args = parser.parse_args()
+
+    output_dir = v11.unique_output_dir(args.outdir)
+    output_dir.mkdir(parents=True, exist_ok=True)
+    model, _ = build_from_zip(
+        args.worldcupsai_zip,
+        train_csv=args.team_train,
+        test_csv=args.team_test,
+        model_type=args.model,
+        box_csv=args.box_data,
+        results_csv=args.results_data,
+        former_names_csv=args.former_names,
+        prediction_year=args.prediction_year,
+    )
+    prediction = model.predict(
+        args.team_a,
+        args.team_b,
+        host_a=args.host_a,
+        host_b=args.host_b,
+        knockout=args.knockout,
+    )
+
+    (output_dir / "single_match_prediction.json").write_text(
+        json.dumps(prediction, indent=2)
+    )
+    pd.DataFrame(prediction["top_scorelines"]).to_csv(
+        output_dir / "scoreline_probabilities_top.csv",
+        index=False,
+    )
+    pd.DataFrame(prediction["scoreline_probabilities"]).to_csv(
+        output_dir / "scoreline_probabilities.csv",
+        index=False,
+    )
+    (output_dir / "model_summary.json").write_text(
+        json.dumps(
+            {
+                "wdl_model": "v13",
+                "exact_score_model": (
+                    "v11_poisson_dixon_coles_reweighted"
+                ),
+                "model_type": args.model,
+                "team_a": prediction["team_a"],
+                "team_b": prediction["team_b"],
+            },
+            indent=2,
+        )
+    )
+    if not args.no_plots:
+        v11.plot_prediction_outputs(prediction, output_dir)
+
+    print(
+        json.dumps(
+            {
+                "result_probabilities": prediction["result_probabilities"],
+                "predicted_result": prediction["predicted_result"],
+                "lambda_a": prediction["lambda_a"],
+                "lambda_b": prediction["lambda_b"],
+                "top_scorelines": prediction["top_scorelines"][:5],
+                "output_dir": str(output_dir),
+            },
+            indent=2,
+        )
+    )
+
+
+if __name__ == "__main__":
+    main()
