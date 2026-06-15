@@ -1,0 +1,7 @@
+{
+  "adjusted_confidence (higher better)": "lineup",
+  "individual_goal_diff (lower better)": "baseline",
+  "accuracy (higher better)": "baseline",
+  "rps (lower better)": "lineup",
+  "logloss (lower better)": "lineup"
+}

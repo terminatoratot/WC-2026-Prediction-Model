@@ -1,0 +1,9 @@
+{
+  "n_matches": 12,
+  "n_lineup_covered": 12,
+  "adjusted_confidence (higher better)": "lineup",
+  "individual_goal_diff (lower better)": "lineup",
+  "accuracy (higher better)": "lineup",
+  "rps (lower better)": "lineup",
+  "logloss (lower better)": "lineup"
+}
