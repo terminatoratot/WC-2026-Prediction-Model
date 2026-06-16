@@ -3,7 +3,9 @@ pandas
 scipy
 scikit-learn
 matplotlib
+catboost
+pymc
+arviz
 # Optional:
 # lightgbm
 # xgboost
-# catboost

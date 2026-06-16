@@ -1,7 +1,0 @@
-{
-  "wdl_model": "v13",
-  "exact_score_model": "v11_poisson_dixon_coles_reweighted",
-  "model_type": "ensemble",
-  "team_a": "Belgium",
-  "team_b": "Egypt"
-}

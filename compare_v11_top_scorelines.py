@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Plot actual scores against a model's two most likely scorelines."""
+"""Plot actual scores against a model's leading scorelines."""
 
 from __future__ import annotations
 
@@ -36,6 +36,28 @@ def load_model_module(model_file: str):
 
 def score_text(item: dict) -> str:
     return f"{int(item['team_a_goals'])}-{int(item['team_b_goals'])}"
+
+
+def rank_word(rank: int) -> str:
+    words = {
+        1: "one",
+        2: "two",
+        3: "three",
+        4: "four",
+        5: "five",
+    }
+    return words.get(rank, str(rank))
+
+
+def ordinal_text(rank: int) -> str:
+    words = {
+        1: "Most likely",
+        2: "Second most likely",
+        3: "Third most likely",
+        4: "Fourth most likely",
+        5: "Fifth most likely",
+    }
+    return words.get(rank, f"Rank {rank}")
 
 
 def result_label(goals_a: int, goals_b: int) -> str:
@@ -100,32 +122,40 @@ def build_comparison(args: argparse.Namespace) -> pd.DataFrame:
             host_b=team_b in HOSTS_2026,
             knockout=str(row.get("stage", "")).strip().lower() != "group stage",
         )
-        top_one, top_two = prediction["top_scorelines"][:2]
+        top_scorelines = prediction["top_scorelines"][: args.top_n]
+        if len(top_scorelines) < args.top_n:
+            raise ValueError(
+                f"Prediction for {team_a} vs {team_b} returned only "
+                f"{len(top_scorelines)} scorelines, fewer than --top-n {args.top_n}"
+            )
         goals_a = int(row["goals_a"])
         goals_b = int(row["goals_b"])
         actual = f"{goals_a}-{goals_b}"
-        first = score_text(top_one)
-        second = score_text(top_two)
+        top_texts = [score_text(item) for item in top_scorelines]
         actual_result = result_label(goals_a, goals_b)
         result_probabilities = prediction["result_probabilities"]
         predicted_result = prediction.get(
             "predicted_result",
             max(result_probabilities, key=result_probabilities.get),
         )
-        rows.append(
+        output_row = {
+            "observed_order": int(observed_order) + 1,
+            "match_id": row["match_id"],
+            "team_a": display_a,
+            "team_b": display_b,
+            "actual_score": actual,
+        }
+        for rank, (scoreline, item) in enumerate(
+            zip(top_texts, top_scorelines),
+            start=1,
+        ):
+            output_row[f"top_{rank}_scoreline"] = scoreline
+            output_row[f"top_{rank}_probability"] = float(item["probability"])
+        for rank, scoreline in enumerate(top_texts, start=1):
+            output_row[f"actual_is_top_{rank}"] = actual == scoreline
+        output_row[f"actual_in_top_{args.top_n}"] = actual in set(top_texts)
+        output_row.update(
             {
-                "observed_order": int(observed_order) + 1,
-                "match_id": row["match_id"],
-                "team_a": display_a,
-                "team_b": display_b,
-                "actual_score": actual,
-                "top_1_scoreline": first,
-                "top_1_probability": float(top_one["probability"]),
-                "top_2_scoreline": second,
-                "top_2_probability": float(top_two["probability"]),
-                "actual_is_top_1": actual == first,
-                "actual_is_top_2": actual == second,
-                "actual_in_top_2": actual in {first, second},
                 "actual_score_probability": next(
                     (
                         float(item["probability"])
@@ -158,6 +188,7 @@ def build_comparison(args: argparse.Namespace) -> pd.DataFrame:
                 "team_b_win_probability": result_probabilities["team_b_win"],
             }
         )
+        rows.append(output_row)
         update_after_match = getattr(model, "update_after_match", None)
         if callable(update_after_match):
             update_after_match(team_a, team_b, goals_a, goals_b)
@@ -168,16 +199,22 @@ def build_comparison(args: argparse.Namespace) -> pd.DataFrame:
         args.max_observed_goals_per_team
     )
     comparison.attrs["model_label"] = args.model_label
+    comparison.attrs["top_n"] = args.top_n
     return comparison
 
 
 def draw_scoreline_chart(comparison: pd.DataFrame, output_path: Path) -> None:
     """Draw a clean, compact scoreline comparison."""
     count = len(comparison)
-    fig, ax = plt.subplots(figsize=(19, max(7.2, count * 0.82 + 2.2)))
+    top_n = int(comparison.attrs.get("top_n", 2))
+    score_xs = [7.15 + 3.4 * index for index in range(top_n)]
+    coverage_x = score_xs[-1] + 3.7
+    outcome_x = coverage_x + 2.45
+    x_limit = outcome_x + 1.85
+    fig, ax = plt.subplots(figsize=(x_limit, max(7.2, count * 0.82 + 2.2)))
     fig.patch.set_facecolor("#ffffff")
     ax.set_facecolor("#ffffff")
-    ax.set_xlim(0, 19)
+    ax.set_xlim(0, x_limit)
     ax.set_ylim(-0.8, count + 0.75)
     ax.axis("off")
 
@@ -191,19 +228,22 @@ def draw_scoreline_chart(comparison: pd.DataFrame, output_path: Path) -> None:
     pale_amber = "#fef3c7"
     red = "#b91c1c"
     pale_red = "#fee2e2"
+    purple = "#7c3aed"
     divider = "#e2e8f0"
     model_label = comparison.attrs.get("model_label", "Model")
+    top_label = f"top-{rank_word(top_n)}"
+    coverage_column = f"actual_in_top_{top_n}"
 
     fig.text(
         0.06,
         0.94,
-        f"Actual scores vs two leading forecasts: {model_label}",
+        f"Actual scores vs {top_label} forecasts: {model_label}",
         fontsize=20,
         fontweight="bold",
         color=navy,
         va="top",
     )
-    hits = int(comparison["actual_in_top_2"].sum())
+    hits = int(comparison[coverage_column].sum())
     outcome_hits = int(comparison["outcome_correct"].sum())
     excluded_count = int(comparison.attrs.get("excluded_count", 0))
     max_observed_goals = comparison.attrs.get("max_observed_goals_per_team")
@@ -218,7 +258,8 @@ def draw_scoreline_chart(comparison: pd.DataFrame, output_path: Path) -> None:
         0.895,
         (
             f"{sample_text}     "
-            f"Top-two exact-score coverage: {hits}/{count} ({hits / count:.0%})"
+            f"{top_label.title()} exact-score coverage: {hits}/{count} "
+            f"({hits / count:.0%})"
             f"     Correct outcomes: {outcome_hits}/{count} "
             f"({outcome_hits / count:.0%})"
         ),
@@ -227,14 +268,9 @@ def draw_scoreline_chart(comparison: pd.DataFrame, output_path: Path) -> None:
         va="top",
     )
 
-    headers = [
-        (0.25, "Match"),
-        (5.25, "Actual"),
-        (7.15, "Most likely"),
-        (10.55, "Second most likely"),
-        (14.25, "Coverage"),
-        (16.75, "Outcome"),
-    ]
+    headers = [(0.25, "Match"), (5.25, "Actual")]
+    headers.extend((x, ordinal_text(rank)) for rank, x in enumerate(score_xs, start=1))
+    headers.extend([(coverage_x - 0.3, "Coverage"), (outcome_x - 0.2, "Outcome")])
     y_header = count + 0.15
     for x, label in headers:
         ax.text(
@@ -246,13 +282,23 @@ def draw_scoreline_chart(comparison: pd.DataFrame, output_path: Path) -> None:
             color=muted,
             va="center",
         )
-    ax.plot([0.2, 18.75], [count - 0.22, count - 0.22], color=divider, linewidth=1)
+    ax.plot(
+        [0.2, x_limit - 0.25],
+        [count - 0.22, count - 0.22],
+        color=divider,
+        linewidth=1,
+    )
 
     for display_index, row in comparison.reset_index(drop=True).iterrows():
         y = count - 0.8 - display_index
         if display_index % 2 == 1:
             ax.axhspan(y - 0.39, y + 0.39, color="#f8fafc", zorder=0)
-        ax.plot([0.2, 18.75], [y - 0.41, y - 0.41], color=divider, linewidth=0.75)
+        ax.plot(
+            [0.2, x_limit - 0.25],
+            [y - 0.41, y - 0.41],
+            color=divider,
+            linewidth=0.75,
+        )
 
         ax.text(
             0.25,
@@ -272,10 +318,20 @@ def draw_scoreline_chart(comparison: pd.DataFrame, output_path: Path) -> None:
             va="center",
         )
 
-        if row.actual_is_top_1:
+        actual_rank = next(
+            (
+                rank
+                for rank in range(1, top_n + 1)
+                if bool(row[f"actual_is_top_{rank}"])
+            ),
+            None,
+        )
+        if actual_rank == 1:
             status_text, status_color, status_bg = "Top 1", green, pale_green
-        elif row.actual_is_top_2:
+        elif actual_rank == 2:
             status_text, status_color, status_bg = "Top 2", amber, pale_amber
+        elif actual_rank is not None:
+            status_text, status_color, status_bg = f"Top {actual_rank}", blue, pale_blue
         else:
             status_text, status_color, status_bg = "Outside", red, pale_red
 
@@ -295,10 +351,11 @@ def draw_scoreline_chart(comparison: pd.DataFrame, output_path: Path) -> None:
             },
         )
 
-        for x, score, probability, bar_color in [
-            (7.15, row.top_1_scoreline, row.top_1_probability, blue),
-            (10.55, row.top_2_scoreline, row.top_2_probability, "#60a5fa"),
-        ]:
+        bar_colors = [blue, "#60a5fa", purple, "#14b8a6", "#f97316"]
+        for rank, x in enumerate(score_xs, start=1):
+            score = row[f"top_{rank}_scoreline"]
+            probability = float(row[f"top_{rank}_probability"])
+            bar_color = bar_colors[(rank - 1) % len(bar_colors)]
             ax.text(
                 x,
                 y + 0.10,
@@ -328,7 +385,7 @@ def draw_scoreline_chart(comparison: pd.DataFrame, output_path: Path) -> None:
             )
 
         ax.text(
-            14.55,
+            coverage_x,
             y + 0.07,
             status_text,
             fontsize=10,
@@ -343,7 +400,7 @@ def draw_scoreline_chart(comparison: pd.DataFrame, output_path: Path) -> None:
             },
         )
         ax.text(
-            14.55,
+            coverage_x,
             y - 0.23,
             f"Actual: {row.actual_score_probability:.1%}",
             fontsize=8.6,
@@ -357,7 +414,7 @@ def draw_scoreline_chart(comparison: pd.DataFrame, output_path: Path) -> None:
         else:
             outcome_text, outcome_color, outcome_bg = "Wrong", red, pale_red
         ax.text(
-            16.95,
+            outcome_x,
             y + 0.07,
             outcome_text,
             fontsize=10,
@@ -372,7 +429,7 @@ def draw_scoreline_chart(comparison: pd.DataFrame, output_path: Path) -> None:
             },
         )
         ax.text(
-            16.95,
+            outcome_x,
             y - 0.23,
             (
                 f"Pred: {row.predicted_result_label} "
@@ -388,8 +445,8 @@ def draw_scoreline_chart(comparison: pd.DataFrame, output_path: Path) -> None:
         0.25,
         -0.62,
         (
-            "Coverage indicates whether the actual exact score ranked first, "
-            "second, or outside the two most likely exact scorelines. "
+            "Coverage indicates whether the actual exact score landed in "
+            f"the displayed {top_label} exact scorelines or outside them. "
             "Outcome uses the model's W/D/L decision."
         ),
         fontsize=9.2,
@@ -439,6 +496,12 @@ def main() -> None:
         help="Use the first N observed rows (default: 7).",
     )
     parser.add_argument(
+        "--top-n",
+        type=int,
+        default=2,
+        help="Number of leading exact scorelines to compare (default: 2).",
+    )
+    parser.add_argument(
         "--max-observed-goals-per-team",
         type=int,
         help=(
@@ -447,7 +510,7 @@ def main() -> None:
         ),
     )
     parser.add_argument(
-        "--output-dir", default="observed_eval_v11_with_current"
+        "--output-dir", default="observed_eval/observed_eval_v11_with_current"
     )
     parser.add_argument(
         "--output-prefix",
@@ -458,6 +521,8 @@ def main() -> None:
 
     if args.matches < 1:
         raise ValueError("--matches must be at least 1")
+    if args.top_n < 1:
+        raise ValueError("--top-n must be at least 1")
     if (
         args.max_observed_goals_per_team is not None
         and args.max_observed_goals_per_team < 0
@@ -470,13 +535,12 @@ def main() -> None:
     suffix = f"{len(comparison)}_matches"
     if args.max_observed_goals_per_team is not None:
         suffix += f"_max_{args.max_observed_goals_per_team}_goals"
-    csv_path = (
-        output_dir
-        / f"{args.output_prefix}_top_two_scoreline_comparison_{suffix}.csv"
+    top_filename = f"top_{rank_word(args.top_n)}"
+    csv_path = output_dir / (
+        f"{args.output_prefix}_{top_filename}_scoreline_comparison_{suffix}.csv"
     )
-    plot_path = (
-        output_dir
-        / f"{args.output_prefix}_top_two_scoreline_comparison_{suffix}.png"
+    plot_path = output_dir / (
+        f"{args.output_prefix}_{top_filename}_scoreline_comparison_{suffix}.png"
     )
     comparison.to_csv(csv_path, index=False)
     draw_scoreline_chart(comparison, plot_path)

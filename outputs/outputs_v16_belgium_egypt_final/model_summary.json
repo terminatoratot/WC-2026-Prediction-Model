@@ -1,0 +1,278 @@
+{
+  "version": "v16-pymc-bivariate",
+  "team_a": "Belgium",
+  "team_b": "Egypt",
+  "training_data": {
+    "world_cup_rows": 964,
+    "continental_rows": 3251,
+    "world_cup_external_matches": 856,
+    "international_timeline_rows": 49405,
+    "results_as_of": "2026-06-10",
+    "pymc_hierarchy": {
+      "snapshots": [
+        "2002-01-01",
+        "2006-01-01",
+        "2010-01-01",
+        "2014-01-01",
+        "2018-01-01",
+        "2022-01-01",
+        "2026-01-01",
+        "2026-06-11"
+      ],
+      "draws": 800,
+      "tune": 800,
+      "chains": 4,
+      "lookback_years": 12,
+      "cache_dir": "/Users/rajeevagrawal/Downloads/world_cup_advanced_model_package/data/v16_pymc_cache",
+      "snapshot_diagnostics": {
+        "2002-01-01": {
+          "max_rhat": 1.02,
+          "min_ess_bulk": 243.0,
+          "min_ess_tail": 500.0,
+          "divergences": 0
+        },
+        "2006-01-01": {
+          "max_rhat": 1.01,
+          "min_ess_bulk": 245.0,
+          "min_ess_tail": 423.0,
+          "divergences": 0
+        },
+        "2010-01-01": {
+          "max_rhat": 1.03,
+          "min_ess_bulk": 135.0,
+          "min_ess_tail": 209.0,
+          "divergences": 0
+        },
+        "2014-01-01": {
+          "max_rhat": 1.02,
+          "min_ess_bulk": 236.0,
+          "min_ess_tail": 423.0,
+          "divergences": 0
+        },
+        "2018-01-01": {
+          "max_rhat": 1.03,
+          "min_ess_bulk": 169.0,
+          "min_ess_tail": 344.0,
+          "divergences": 0
+        },
+        "2022-01-01": {
+          "max_rhat": 1.01,
+          "min_ess_bulk": 240.0,
+          "min_ess_tail": 415.0,
+          "divergences": 0
+        },
+        "2026-01-01": {
+          "max_rhat": 1.02,
+          "min_ess_bulk": 232.0,
+          "min_ess_tail": 454.0,
+          "divergences": 0
+        },
+        "2026-06-11": {
+          "max_rhat": 1.03,
+          "min_ess_bulk": 229.0,
+          "min_ess_tail": 413.0,
+          "divergences": 0
+        }
+      }
+    },
+    "forward_calibration": {
+      "temperature": 0.883068433352833,
+      "stage_parameters": {
+        "group": {
+          "covariance": 0.04515211849360465,
+          "zero_inflation": 0.03194249808375399,
+          "matches": 240,
+          "exact_score_log_loss": 2.837199969630323
+        },
+        "knockout": {
+          "covariance": 0.1689727710546118,
+          "zero_inflation": 0.0,
+          "matches": 80,
+          "exact_score_log_loss": 2.842843367767064
+        }
+      },
+      "fold_years": [
+        2006,
+        2010,
+        2014,
+        2018,
+        2022
+      ],
+      "matches": 320,
+      "calibration_table": [
+        {
+          "label": "draw",
+          "bin": "(-0.001, 0.1]",
+          "predictions": 1,
+          "mean_probability": 0.09043305922488565,
+          "observed_rate": 0.0
+        },
+        {
+          "label": "draw",
+          "bin": "(0.1, 0.2]",
+          "predictions": 79,
+          "mean_probability": 0.17109741913409227,
+          "observed_rate": 0.17721518987341772
+        },
+        {
+          "label": "draw",
+          "bin": "(0.2, 0.3]",
+          "predictions": 221,
+          "mean_probability": 0.24643105708966265,
+          "observed_rate": 0.248868778280543
+        },
+        {
+          "label": "draw",
+          "bin": "(0.3, 0.4]",
+          "predictions": 19,
+          "mean_probability": 0.31705921407719534,
+          "observed_rate": 0.15789473684210525
+        },
+        {
+          "label": "team_a_win",
+          "bin": "(-0.001, 0.1]",
+          "predictions": 9,
+          "mean_probability": 0.07206454135785187,
+          "observed_rate": 0.2222222222222222
+        },
+        {
+          "label": "team_a_win",
+          "bin": "(0.1, 0.2]",
+          "predictions": 39,
+          "mean_probability": 0.14835038004264015,
+          "observed_rate": 0.07692307692307693
+        },
+        {
+          "label": "team_a_win",
+          "bin": "(0.2, 0.3]",
+          "predictions": 45,
+          "mean_probability": 0.25398237336913027,
+          "observed_rate": 0.2222222222222222
+        },
+        {
+          "label": "team_a_win",
+          "bin": "(0.3, 0.4]",
+          "predictions": 47,
+          "mean_probability": 0.34480184975146216,
+          "observed_rate": 0.3404255319148936
+        },
+        {
+          "label": "team_a_win",
+          "bin": "(0.4, 0.5]",
+          "predictions": 40,
+          "mean_probability": 0.45069179369207674,
+          "observed_rate": 0.425
+        },
+        {
+          "label": "team_a_win",
+          "bin": "(0.5, 0.6]",
+          "predictions": 52,
+          "mean_probability": 0.5476196467269757,
+          "observed_rate": 0.5192307692307693
+        },
+        {
+          "label": "team_a_win",
+          "bin": "(0.6, 0.7]",
+          "predictions": 57,
+          "mean_probability": 0.6507119364380998,
+          "observed_rate": 0.7192982456140351
+        },
+        {
+          "label": "team_a_win",
+          "bin": "(0.7, 0.8]",
+          "predictions": 26,
+          "mean_probability": 0.7373557960272082,
+          "observed_rate": 0.7307692307692307
+        },
+        {
+          "label": "team_a_win",
+          "bin": "(0.8, 0.9]",
+          "predictions": 5,
+          "mean_probability": 0.8241244931173746,
+          "observed_rate": 0.6
+        },
+        {
+          "label": "team_b_win",
+          "bin": "(-0.001, 0.1]",
+          "predictions": 26,
+          "mean_probability": 0.07249784208684643,
+          "observed_rate": 0.038461538461538464
+        },
+        {
+          "label": "team_b_win",
+          "bin": "(0.1, 0.2]",
+          "predictions": 79,
+          "mean_probability": 0.14549145370187513,
+          "observed_rate": 0.1518987341772152
+        },
+        {
+          "label": "team_b_win",
+          "bin": "(0.2, 0.3]",
+          "predictions": 59,
+          "mean_probability": 0.24080846496088787,
+          "observed_rate": 0.3050847457627119
+        },
+        {
+          "label": "team_b_win",
+          "bin": "(0.3, 0.4]",
+          "predictions": 42,
+          "mean_probability": 0.35270913591007624,
+          "observed_rate": 0.35714285714285715
+        },
+        {
+          "label": "team_b_win",
+          "bin": "(0.4, 0.5]",
+          "predictions": 44,
+          "mean_probability": 0.44463292387188336,
+          "observed_rate": 0.4318181818181818
+        },
+        {
+          "label": "team_b_win",
+          "bin": "(0.5, 0.6]",
+          "predictions": 30,
+          "mean_probability": 0.540019337495899,
+          "observed_rate": 0.5666666666666667
+        },
+        {
+          "label": "team_b_win",
+          "bin": "(0.6, 0.7]",
+          "predictions": 30,
+          "mean_probability": 0.6453635989585986,
+          "observed_rate": 0.7
+        },
+        {
+          "label": "team_b_win",
+          "bin": "(0.7, 0.8]",
+          "predictions": 9,
+          "mean_probability": 0.7301561936652007,
+          "observed_rate": 0.6666666666666666
+        },
+        {
+          "label": "team_b_win",
+          "bin": "(0.8, 0.9]",
+          "predictions": 1,
+          "mean_probability": 0.8550014297283351,
+          "observed_rate": 1.0
+        }
+      ]
+    }
+  },
+  "v16_adjustments": {
+    "wdl_temperature": 0.883068433352833,
+    "bayesian_goal_weight": 0.2,
+    "bivariate_covariance": 0.04515211849360465,
+    "zero_inflation": 0.03194249808375399,
+    "stage_parameter_set": "group",
+    "matrix_sum": 1.0,
+    "hierarchy_cutoff": "2026-06-11",
+    "hierarchy_matches": 11544,
+    "hierarchy_teams": 298,
+    "hierarchy_diagnostics": {
+      "max_rhat": 1.03,
+      "min_ess_bulk": 229.0,
+      "min_ess_tail": 413.0,
+      "divergences": 0
+    },
+    "pymc_sampler": "NUTS"
+  }
+}

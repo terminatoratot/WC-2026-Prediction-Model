@@ -1,0 +1,76 @@
+{
+  "n_matches": 12,
+  "result_accuracy": 0.5833333333333334,
+  "mean_result_log_loss": 1.0452279544430219,
+  "mean_result_brier": 0.637403857254662,
+  "mean_result_rps": 0.201067878614536,
+  "mean_goal_mae": 1.0095211933857509,
+  "mean_goal_rmse": 1.4985700952623984,
+  "mean_goal_difference_abs_error": 1.6993635388940618,
+  "mean_exact_score_log_loss": 3.1597007449921217,
+  "mean_actual_result_probability": 0.3798359126487201,
+  "mean_exact_score_probability": 0.06960528790176933,
+  "exact_score_accuracy": 0.25,
+  "top_2_result_accuracy": 0.8333333333333334,
+  "model_type": "ensemble",
+  "model_file": "v15_catboost_model.py",
+  "uniform_baseline_log_loss": 1.0986122886681098,
+  "uniform_baseline_brier": 0.6666666666666666,
+  "log_loss_skill_vs_uniform": 0.04859251509903262,
+  "brier_skill_vs_uniform": 0.04389421411800698,
+  "bootstrap_samples": 0,
+  "bootstrap_confidence_level": 0.95,
+  "bootstrap_confidence_intervals": {},
+  "box_event_metrics": {
+    "shots": {
+      "n_team_observations": 24,
+      "mae": 5.160751945448449,
+      "rmse": 6.309035994371337,
+      "bias": 1.0276882498847524,
+      "correlation": 0.39259482517283434
+    },
+    "shots_on_target": {
+      "n_team_observations": 24,
+      "mae": 1.9477626706597733,
+      "rmse": 2.283263638766824,
+      "bias": 0.6940589669560696,
+      "correlation": 0.563246663572085
+    },
+    "possession": {
+      "n_team_observations": 24,
+      "mae": 7.0263744884039925,
+      "rmse": 8.322913064197508,
+      "bias": 0.0,
+      "correlation": 0.7705431715330301
+    },
+    "fouls": {
+      "n_team_observations": 24,
+      "mae": 5.054467201745639,
+      "rmse": 5.859921275049367,
+      "bias": 3.175300535078972,
+      "correlation": 0.10655435338291877
+    },
+    "yellow_cards": {
+      "n_team_observations": 24,
+      "mae": 1.1390808566840762,
+      "rmse": 1.2952502602132685,
+      "bias": 0.35322683562361634,
+      "correlation": 0.3147553254789815
+    },
+    "red_cards": {
+      "n_team_observations": 24,
+      "mae": 0.2941857003762903,
+      "rmse": 0.7337525544326471,
+      "bias": -0.17664763295704303,
+      "correlation": 0.16762736067097506
+    }
+  },
+  "box_event_mae": {
+    "shots": 5.160751945448449,
+    "shots_on_target": 1.9477626706597733,
+    "possession": 7.0263744884039925,
+    "fouls": 5.054467201745639,
+    "yellow_cards": 1.1390808566840762,
+    "red_cards": 0.2941857003762903
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "n_matches": 12,
+  "result_accuracy": 0.5,
+  "mean_result_log_loss": 1.0222204097746248,
+  "mean_result_brier": 0.6271896449273305,
+  "mean_result_rps": 0.1991658152730589,
+  "mean_goal_mae": 0.8970149491940934,
+  "mean_goal_rmse": 1.3517574052995662,
+  "mean_goal_difference_abs_error": 1.534766474520186,
+  "mean_exact_score_log_loss": 3.0162691525370167,
+  "mean_actual_result_probability": 0.40414053315325543,
+  "mean_exact_score_probability": 0.0745715030669372,
+  "exact_score_accuracy": 0.08333333333333333,
+  "top_2_result_accuracy": 0.9166666666666666,
+  "model_type": "catboost",
+  "model_file": "v16_bayesian_bivariate_model.py",
+  "uniform_baseline_log_loss": 1.0986122886681098,
+  "uniform_baseline_brier": 0.6666666666666666,
+  "log_loss_skill_vs_uniform": 0.06953488476457681,
+  "brier_skill_vs_uniform": 0.05921553260900414,
+  "bootstrap_samples": 5000,
+  "bootstrap_confidence_level": 0.95,
+  "bootstrap_confidence_intervals": {
+    "result_accuracy": {
+      "lower": 0.25,
+      "upper": 0.75,
+      "confidence": 0.95
+    },
+    "mean_result_log_loss": {
+      "lower": 0.7520620469763437,
+      "upper": 1.2911438038919336,
+      "confidence": 0.95
+    },
+    "mean_result_brier": {
+      "lower": 0.4305176619977506,
+      "upper": 0.8202480666208011,
+      "confidence": 0.95
+    },
+    "mean_result_rps": {
+      "lower": 0.13340316462376317,
+      "upper": 0.2766009164013145,
+      "confidence": 0.95
+    },
+    "mean_goal_mae": {
+      "lower": 0.6156356381111876,
+      "upper": 1.2169690718137163,
+      "confidence": 0.95
+    },
+    "mean_goal_rmse": {
+      "lower": 0.7801858190940189,
+      "upper": 1.803495664847097,
+      "confidence": 0.95
+    },
+    "mean_goal_difference_abs_error": {
+      "lower": 0.928458477847654,
+      "upper": 2.1766964027429276,
+      "confidence": 0.95
+    },
+    "mean_exact_score_log_loss": {
+      "lower": 2.4222572284287365,
+      "upper": 3.718043314402336,
+      "confidence": 0.95
+    }
+  },
+  "box_event_metrics": {
+    "shots": {
+      "n_team_observations": 24,
+      "mae": 5.160751945448449,
+      "rmse": 6.309035994371337,
+      "bias": 1.0276882498847524,
+      "correlation": 0.39259482517283434
+    },
+    "shots_on_target": {
+      "n_team_observations": 24,
+      "mae": 1.9477626706597733,
+      "rmse": 2.283263638766824,
+      "bias": 0.6940589669560696,
+      "correlation": 0.563246663572085
+    },
+    "possession": {
+      "n_team_observations": 24,
+      "mae": 7.0263744884039925,
+      "rmse": 8.322913064197508,
+      "bias": 0.0,
+      "correlation": 0.7705431715330301
+    },
+    "fouls": {
+      "n_team_observations": 24,
+      "mae": 5.054467201745639,
+      "rmse": 5.859921275049367,
+      "bias": 3.175300535078972,
+      "correlation": 0.10655435338291877
+    },
+    "yellow_cards": {
+      "n_team_observations": 24,
+      "mae": 1.1390808566840762,
+      "rmse": 1.2952502602132685,
+      "bias": 0.35322683562361634,
+      "correlation": 0.3147553254789815
+    },
+    "red_cards": {
+      "n_team_observations": 24,
+      "mae": 0.2941857003762903,
+      "rmse": 0.7337525544326471,
+      "bias": -0.17664763295704303,
+      "correlation": 0.16762736067097506
+    }
+  },
+  "box_event_mae": {
+    "shots": 5.160751945448449,
+    "shots_on_target": 1.9477626706597733,
+    "possession": 7.0263744884039925,
+    "fouls": 5.054467201745639,
+    "yellow_cards": 1.1390808566840762,
+    "red_cards": 0.2941857003762903
+  }
+}

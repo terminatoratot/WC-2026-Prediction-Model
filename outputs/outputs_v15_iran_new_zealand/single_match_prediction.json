@@ -1,0 +1,960 @@
+{
+  "team_a": "IR Iran",
+  "team_b": "New Zealand",
+  "lambda_a": 2.286278868989796,
+  "lambda_b": 1.011969164422836,
+  "raw_lambda_a": 1.948821137383875,
+  "raw_lambda_b": 1.3398833020355916,
+  "goal_difference_model_prediction": 0.7208133576126539,
+  "current_strength_diff": 0.9849896034213931,
+  "result_probabilities": {
+    "team_a_win": 0.6324671847146826,
+    "draw": 0.2329419362913003,
+    "team_b_win": 0.13459087899401717
+  },
+  "draw_model_probability": 0.2420440075951421,
+  "top_scorelines": [
+    {
+      "team_a_goals": 1,
+      "team_b_goals": 1,
+      "probability": 0.10737638717037094
+    },
+    {
+      "team_a_goals": 2,
+      "team_b_goals": 1,
+      "probability": 0.0946468576926431
+    },
+    {
+      "team_a_goals": 2,
+      "team_b_goals": 0,
+      "probability": 0.0935274127118525
+    },
+    {
+      "team_a_goals": 1,
+      "team_b_goals": 0,
+      "probability": 0.07519263311428058
+    },
+    {
+      "team_a_goals": 3,
+      "team_b_goals": 1,
+      "probability": 0.07212970358632474
+    },
+    {
+      "team_a_goals": 3,
+      "team_b_goals": 0,
+      "probability": 0.07127658245146531
+    },
+    {
+      "team_a_goals": 2,
+      "team_b_goals": 2,
+      "probability": 0.05750710729109132
+    },
+    {
+      "team_a_goals": 0,
+      "team_b_goals": 0,
+      "probability": 0.05092610162772265
+    },
+    {
+      "team_a_goals": 4,
+      "team_b_goals": 1,
+      "probability": 0.041227154283977926
+    },
+    {
+      "team_a_goals": 4,
+      "team_b_goals": 0,
+      "probability": 0.040739536078148515
+    },
+    {
+      "team_a_goals": 1,
+      "team_b_goals": 2,
+      "probability": 0.03968820988881459
+    },
+    {
+      "team_a_goals": 3,
+      "team_b_goals": 2,
+      "probability": 0.03649651793415994
+    },
+    {
+      "team_a_goals": 0,
+      "team_b_goals": 1,
+      "probability": 0.02803296324800968
+    },
+    {
+      "team_a_goals": 4,
+      "team_b_goals": 2,
+      "probability": 0.020860304436144245
+    },
+    {
+      "team_a_goals": 5,
+      "team_b_goals": 1,
+      "probability": 0.018851354333608183
+    }
+  ],
+  "scoreline_probabilities": [
+    {
+      "team_a_goals": 0,
+      "team_b_goals": 0,
+      "probability": 0.05092610162772265
+    },
+    {
+      "team_a_goals": 0,
+      "team_b_goals": 1,
+      "probability": 0.02803296324800968
+    },
+    {
+      "team_a_goals": 0,
+      "team_b_goals": 2,
+      "probability": 0.01735930398829738
+    },
+    {
+      "team_a_goals": 0,
+      "team_b_goals": 3,
+      "probability": 0.005855693450666435
+    },
+    {
+      "team_a_goals": 0,
+      "team_b_goals": 4,
+      "probability": 0.0014814453020967953
+    },
+    {
+      "team_a_goals": 0,
+      "team_b_goals": 5,
+      "probability": 0.00029983539290020616
+    },
+    {
+      "team_a_goals": 0,
+      "team_b_goals": 6,
+      "probability": 5.0570695336269044e-05
+    },
+    {
+      "team_a_goals": 0,
+      "team_b_goals": 7,
+      "probability": 7.3108549005322815e-06
+    },
+    {
+      "team_a_goals": 0,
+      "team_b_goals": 8,
+      "probability": 9.247949656135318e-07
+    },
+    {
+      "team_a_goals": 0,
+      "team_b_goals": 9,
+      "probability": 1.0398488762381904e-07
+    },
+    {
+      "team_a_goals": 0,
+      "team_b_goals": 10,
+      "probability": 1.0522949984127843e-08
+    },
+    {
+      "team_a_goals": 1,
+      "team_b_goals": 0,
+      "probability": 0.07519263311428058
+    },
+    {
+      "team_a_goals": 1,
+      "team_b_goals": 1,
+      "probability": 0.10737638717037094
+    },
+    {
+      "team_a_goals": 1,
+      "team_b_goals": 2,
+      "probability": 0.03968820988881459
+    },
+    {
+      "team_a_goals": 1,
+      "team_b_goals": 3,
+      "probability": 0.013387748199540615
+    },
+    {
+      "team_a_goals": 1,
+      "team_b_goals": 4,
+      "probability": 0.0033869970897481075
+    },
+    {
+      "team_a_goals": 1,
+      "team_b_goals": 5,
+      "probability": 0.0006855073229629944
+    },
+    {
+      "team_a_goals": 1,
+      "team_b_goals": 6,
+      "probability": 0.00011561871213743273
+    },
+    {
+      "team_a_goals": 1,
+      "team_b_goals": 7,
+      "probability": 1.671465307333745e-05
+    },
+    {
+      "team_a_goals": 1,
+      "team_b_goals": 8,
+      "probability": 2.1143391880303624e-06
+    },
+    {
+      "team_a_goals": 1,
+      "team_b_goals": 9,
+      "probability": 2.3773845126861601e-07
+    },
+    {
+      "team_a_goals": 1,
+      "team_b_goals": 10,
+      "probability": 2.405839818814799e-08
+    },
+    {
+      "team_a_goals": 2,
+      "team_b_goals": 0,
+      "probability": 0.0935274127118525
+    },
+    {
+      "team_a_goals": 2,
+      "team_b_goals": 1,
+      "probability": 0.0946468576926431
+    },
+    {
+      "team_a_goals": 2,
+      "team_b_goals": 2,
+      "probability": 0.05750710729109132
+    },
+    {
+      "team_a_goals": 2,
+      "team_b_goals": 3,
+      "probability": 0.015304062905982949
+    },
+    {
+      "team_a_goals": 2,
+      "team_b_goals": 4,
+      "probability": 0.003871809937810517
+    },
+    {
+      "team_a_goals": 2,
+      "team_b_goals": 5,
+      "probability": 0.0007836304535140287
+    },
+    {
+      "team_a_goals": 2,
+      "team_b_goals": 6,
+      "probability": 0.00013216830920981324
+    },
+    {
+      "team_a_goals": 2,
+      "team_b_goals": 7,
+      "probability": 1.9107179062033384e-05
+    },
+    {
+      "team_a_goals": 2,
+      "team_b_goals": 8,
+      "probability": 2.41698450373543e-06
+    },
+    {
+      "team_a_goals": 2,
+      "team_b_goals": 9,
+      "probability": 2.717681987408986e-07
+    },
+    {
+      "team_a_goals": 2,
+      "team_b_goals": 10,
+      "probability": 2.750210369965258e-08
+    },
+    {
+      "team_a_goals": 3,
+      "team_b_goals": 0,
+      "probability": 0.07127658245146531
+    },
+    {
+      "team_a_goals": 3,
+      "team_b_goals": 1,
+      "probability": 0.07212970358632474
+    },
+    {
+      "team_a_goals": 3,
+      "team_b_goals": 2,
+      "probability": 0.03649651793415994
+    },
+    {
+      "team_a_goals": 3,
+      "team_b_goals": 3,
+      "probability": 0.014783439716556063
+    },
+    {
+      "team_a_goals": 3,
+      "team_b_goals": 4,
+      "probability": 0.002950679081853627
+    },
+    {
+      "team_a_goals": 3,
+      "team_b_goals": 5,
+      "probability": 0.0005971992489886716
+    },
+    {
+      "team_a_goals": 3,
+      "team_b_goals": 6,
+      "probability": 0.00010072453749883515
+    },
+    {
+      "team_a_goals": 3,
+      "team_b_goals": 7,
+      "probability": 1.4561446578510401e-05
+    },
+    {
+      "team_a_goals": 3,
+      "team_b_goals": 8,
+      "probability": 1.8419668658553674e-06
+    },
+    {
+      "team_a_goals": 3,
+      "team_b_goals": 9,
+      "probability": 2.071126300149119e-07
+    },
+    {
+      "team_a_goals": 3,
+      "team_b_goals": 10,
+      "probability": 2.0959159513760595e-08
+    },
+    {
+      "team_a_goals": 4,
+      "team_b_goals": 0,
+      "probability": 0.040739536078148515
+    },
+    {
+      "team_a_goals": 4,
+      "team_b_goals": 1,
+      "probability": 0.041227154283977926
+    },
+    {
+      "team_a_goals": 4,
+      "team_b_goals": 2,
+      "probability": 0.020860304436144245
+    },
+    {
+      "team_a_goals": 4,
+      "team_b_goals": 3,
+      "probability": 0.007036661616616956
+    },
+    {
+      "team_a_goals": 4,
+      "team_b_goals": 4,
+      "probability": 0.002137725775703958
+    },
+    {
+      "team_a_goals": 4,
+      "team_b_goals": 5,
+      "probability": 0.0003413410058848439
+    },
+    {
+      "team_a_goals": 4,
+      "team_b_goals": 6,
+      "probability": 5.757109541808927e-05
+    },
+    {
+      "team_a_goals": 4,
+      "team_b_goals": 7,
+      "probability": 8.322881903593021e-06
+    },
+    {
+      "team_a_goals": 4,
+      "team_b_goals": 8,
+      "probability": 1.052812480696122e-06
+    },
+    {
+      "team_a_goals": 4,
+      "team_b_goals": 9,
+      "probability": 1.1837930737599869e-07
+    },
+    {
+      "team_a_goals": 4,
+      "team_b_goals": 10,
+      "probability": 1.1979620877024318e-08
+    },
+    {
+      "team_a_goals": 5,
+      "team_b_goals": 0,
+      "probability": 0.018628388093583678
+    },
+    {
+      "team_a_goals": 5,
+      "team_b_goals": 1,
+      "probability": 0.018851354333608183
+    },
+    {
+      "team_a_goals": 5,
+      "team_b_goals": 2,
+      "probability": 0.00953849464661014
+    },
+    {
+      "team_a_goals": 5,
+      "team_b_goals": 3,
+      "probability": 0.003217554152460586
+    },
+    {
+      "team_a_goals": 5,
+      "team_b_goals": 4,
+      "probability": 0.0008140163967876908
+    },
+    {
+      "team_a_goals": 5,
+      "team_b_goals": 5,
+      "probability": 0.00019783743235847972
+    },
+    {
+      "team_a_goals": 5,
+      "team_b_goals": 6,
+      "probability": 2.6324715783794558e-05
+    },
+    {
+      "team_a_goals": 5,
+      "team_b_goals": 7,
+      "probability": 3.8056858050564597e-06
+    },
+    {
+      "team_a_goals": 5,
+      "team_b_goals": 8,
+      "probability": 4.814045855248545e-07
+    },
+    {
+      "team_a_goals": 5,
+      "team_b_goals": 9,
+      "probability": 5.412962179587876e-08
+    },
+    {
+      "team_a_goals": 5,
+      "team_b_goals": 10,
+      "probability": 5.4777508139299435e-09
+    },
+    {
+      "team_a_goals": 6,
+      "team_b_goals": 0,
+      "probability": 0.007098281676950245
+    },
+    {
+      "team_a_goals": 6,
+      "team_b_goals": 1,
+      "probability": 0.007183242177461265
+    },
+    {
+      "team_a_goals": 6,
+      "team_b_goals": 2,
+      "probability": 0.0036346097920861744
+    },
+    {
+      "team_a_goals": 6,
+      "team_b_goals": 3,
+      "probability": 0.001226037678100168
+    },
+    {
+      "team_a_goals": 6,
+      "team_b_goals": 4,
+      "probability": 0.000310178081164485
+    },
+    {
+      "team_a_goals": 6,
+      "team_b_goals": 5,
+      "probability": 6.277813072366054e-05
+    },
+    {
+      "team_a_goals": 6,
+      "team_b_goals": 6,
+      "probability": 1.2714592563947748e-05
+    },
+    {
+      "team_a_goals": 6,
+      "team_b_goals": 7,
+      "probability": 1.4501431730191668e-06
+    },
+    {
+      "team_a_goals": 6,
+      "team_b_goals": 8,
+      "probability": 1.834375218867109e-07
+    },
+    {
+      "team_a_goals": 6,
+      "team_b_goals": 9,
+      "probability": 2.0625901749721174e-08
+    },
+    {
+      "team_a_goals": 6,
+      "team_b_goals": 10,
+      "probability": 2.0872776559132804e-09
+    },
+    {
+      "team_a_goals": 7,
+      "team_b_goals": 0,
+      "probability": 0.002318378772021256
+    },
+    {
+      "team_a_goals": 7,
+      "team_b_goals": 1,
+      "probability": 0.0023461278287379905
+    },
+    {
+      "team_a_goals": 7,
+      "team_b_goals": 2,
+      "probability": 0.0011871045092385734
+    },
+    {
+      "team_a_goals": 7,
+      "team_b_goals": 3,
+      "probability": 0.00040043771943224665
+    },
+    {
+      "team_a_goals": 7,
+      "team_b_goals": 4,
+      "probability": 0.00010130765608430908
+    },
+    {
+      "team_a_goals": 7,
+      "team_b_goals": 5,
+      "probability": 2.0504044815454877e-05
+    },
+    {
+      "team_a_goals": 7,
+      "team_b_goals": 6,
+      "probability": 3.4582435165307073e-06
+    },
+    {
+      "team_a_goals": 7,
+      "team_b_goals": 7,
+      "probability": 6.00347697874302e-07
+    },
+    {
+      "team_a_goals": 7,
+      "team_b_goals": 8,
+      "probability": 5.991276143849146e-08
+    },
+    {
+      "team_a_goals": 7,
+      "team_b_goals": 9,
+      "probability": 6.736651903463881e-09
+    },
+    {
+      "team_a_goals": 7,
+      "team_b_goals": 10,
+      "probability": 6.817283997755836e-10
+    },
+    {
+      "team_a_goals": 8,
+      "team_b_goals": 0,
+      "probability": 0.0006625575495983383
+    },
+    {
+      "team_a_goals": 8,
+      "team_b_goals": 1,
+      "probability": 0.0006704878098490721
+    },
+    {
+      "team_a_goals": 8,
+      "team_b_goals": 2,
+      "probability": 0.00033925649434433144
+    },
+    {
+      "team_a_goals": 8,
+      "team_b_goals": 3,
+      "probability": 0.00011443903703555123
+    },
+    {
+      "team_a_goals": 8,
+      "team_b_goals": 4,
+      "probability": 2.8952194171555167e-05
+    },
+    {
+      "team_a_goals": 8,
+      "team_b_goals": 5,
+      "probability": 5.85974554879928e-06
+    },
+    {
+      "team_a_goals": 8,
+      "team_b_goals": 6,
+      "probability": 9.883136344581398e-07
+    },
+    {
+      "team_a_goals": 8,
+      "team_b_goals": 7,
+      "probability": 1.428775604071857e-07
+    },
+    {
+      "team_a_goals": 8,
+      "team_b_goals": 8,
+      "probability": 2.1702979359620304e-08
+    },
+    {
+      "team_a_goals": 8,
+      "team_b_goals": 9,
+      "probability": 1.9252331118286693e-09
+    },
+    {
+      "team_a_goals": 8,
+      "team_b_goals": 10,
+      "probability": 1.9482765434964306e-10
+    },
+    {
+      "team_a_goals": 9,
+      "team_b_goals": 0,
+      "probability": 0.0001683101472373713
+    },
+    {
+      "team_a_goals": 9,
+      "team_b_goals": 1,
+      "probability": 0.0001703246790636871
+    },
+    {
+      "team_a_goals": 9,
+      "team_b_goals": 2,
+      "probability": 8.618166157633359e-05
+    },
+    {
+      "team_a_goals": 9,
+      "team_b_goals": 3,
+      "probability": 2.9071061351324642e-05
+    },
+    {
+      "team_a_goals": 9,
+      "team_b_goals": 4,
+      "probability": 7.354754416146243e-06
+    },
+    {
+      "team_a_goals": 9,
+      "team_b_goals": 5,
+      "probability": 1.4885569362085362e-06
+    },
+    {
+      "team_a_goals": 9,
+      "team_b_goals": 6,
+      "probability": 2.5106228648846146e-07
+    },
+    {
+      "team_a_goals": 9,
+      "team_b_goals": 7,
+      "probability": 3.6295327467973564e-08
+    },
+    {
+      "team_a_goals": 9,
+      "team_b_goals": 8,
+      "probability": 4.5912190262773045e-09
+    },
+    {
+      "team_a_goals": 9,
+      "team_b_goals": 9,
+      "probability": 6.199131089977875e-10
+    },
+    {
+      "team_a_goals": 9,
+      "team_b_goals": 10,
+      "probability": 4.949226102604859e-11
+    },
+    {
+      "team_a_goals": 10,
+      "team_b_goals": 0,
+      "probability": 3.848039330653625e-05
+    },
+    {
+      "team_a_goals": 10,
+      "team_b_goals": 1,
+      "probability": 3.894097146107757e-05
+    },
+    {
+      "team_a_goals": 10,
+      "team_b_goals": 2,
+      "probability": 1.9703531175640088e-05
+    },
+    {
+      "team_a_goals": 10,
+      "team_b_goals": 3,
+      "probability": 6.646455326663934e-06
+    },
+    {
+      "team_a_goals": 10,
+      "team_b_goals": 4,
+      "probability": 1.6815019608244504e-06
+    },
+    {
+      "team_a_goals": 10,
+      "team_b_goals": 5,
+      "probability": 3.4032562685417613e-07
+    },
+    {
+      "team_a_goals": 10,
+      "team_b_goals": 6,
+      "probability": 5.7399840039883056e-08
+    },
+    {
+      "team_a_goals": 10,
+      "team_b_goals": 7,
+      "probability": 8.29812402330927e-09
+    },
+    {
+      "team_a_goals": 10,
+      "team_b_goals": 8,
+      "probability": 1.0496807042681687e-09
+    },
+    {
+      "team_a_goals": 10,
+      "team_b_goals": 9,
+      "probability": 1.1802716724544814e-10
+    },
+    {
+      "team_a_goals": 10,
+      "team_b_goals": 10,
+      "probability": 1.4342580695259859e-11
+    }
+  ],
+  "spread_probabilities": {
+    "-10": 1.0522949984127843e-08,
+    "-9": 1.2804328581196703e-07,
+    "-8": 1.1900355205818004e-06,
+    "-7": 9.717921446817303e-06,
+    "-6": 6.992142516423387e-05,
+    "-5": 0.00043652710802371755,
+    "-4": 0.002314791410228261,
+    "-3": 0.010135871125546673,
+    "-2": 0.03527762852486178,
+    "-1": 0.08634509287698931,
+    "0": 0.23294193629130028,
+    "1": 0.21425307071553507,
+    "2": 0.19006668267140464,
+    "3": 0.12337569582219717,
+    "4": 0.06365643607422293,
+    "5": 0.02712086889736207,
+    "6": 0.009814418563344716,
+    "7": 0.0030816946987733255,
+    "8": 0.0008525857598376655,
+    "9": 0.00020725111869844887,
+    "10": 3.848039330653625e-05
+  },
+  "total_goal_probabilities": {
+    "0": 0.05092610162772265,
+    "1": 0.10322559636229026,
+    "2": 0.21826310387052084,
+    "3": 0.21146734348358945,
+    "4": 0.18524554045720198,
+    "5": 0.11534295570035281,
+    "6": 0.06620126811936852,
+    "7": 0.029934016315115237,
+    "8": 0.012745582104824483,
+    "9": 0.004529347587734242,
+    "10": 0.001531312587571354,
+    "11": 0.000440432848031104,
+    "12": 0.00011603853709738966,
+    "13": 2.5390085033573945e-05,
+    "14": 5.008266993925042e-06,
+    "15": 8.202818877519658e-07,
+    "16": 1.242220764268541e-07,
+    "17": 1.5496304561190826e-08,
+    "18": 1.864421467615599e-09,
+    "19": 1.6751942827149674e-10,
+    "20": 1.4342580695259859e-11
+  },
+  "over_under_probabilities": {
+    "over_0.5": 0.9490738983722773,
+    "under_0.5": 0.05092610162772265,
+    "over_1.5": 0.8458483020099871,
+    "under_1.5": 0.1541516979900129,
+    "over_2.5": 0.6275851981394662,
+    "under_2.5": 0.3724148018605337,
+    "over_3.5": 0.4161178546558768,
+    "under_3.5": 0.5838821453441232,
+    "over_4.5": 0.23087231419867482,
+    "under_4.5": 0.7691276858013252
+  },
+  "event_predictions": {
+    "yellow_cards": {
+      "expected_IR Iran": 1.7057289997787022,
+      "expected_New Zealand": 1.3567187276129653
+    },
+    "red_cards": {
+      "expected_IR Iran": 0.032381330653517025,
+      "expected_New Zealand": 0.03024564359441152
+    },
+    "second_yellow_cards": {
+      "expected_IR Iran": 0.001,
+      "expected_New Zealand": 0.06072651616549312
+    },
+    "sending_offs": {
+      "expected_IR Iran": 0.051849004831786706,
+      "expected_New Zealand": 0.03809105130628852
+    },
+    "penalty_goals": {
+      "expected_IR Iran": 0.2501159171288178,
+      "expected_New Zealand": 0.27810105435449667
+    },
+    "penalty_kicks": {
+      "expected_IR Iran": 0.06513895823102582,
+      "expected_New Zealand": 0.033854151682329574
+    },
+    "penalty_kicks_converted": {
+      "expected_IR Iran": 0.06526573871811404,
+      "expected_New Zealand": 0.031226331648491597
+    },
+    "own_goals": {
+      "expected_IR Iran": 0.18629920969881308,
+      "expected_New Zealand": 0.04723995445984122
+    },
+    "substitutions": {
+      "expected_IR Iran": 6.700623814188727,
+      "expected_New Zealand": 7.040280525671304
+    },
+    "box_shots": {
+      "expected_IR Iran": 8.666666666666666,
+      "expected_New Zealand": 5.666666666666667
+    },
+    "box_shots_on_target": {
+      "expected_IR Iran": 4.0,
+      "expected_New Zealand": 1.0
+    },
+    "box_possession": {
+      "expected_IR Iran": 46.18473895582329,
+      "expected_New Zealand": 53.81526104417671
+    },
+    "box_fouls": {
+      "expected_IR Iran": 16.333333333333332,
+      "expected_New Zealand": 20.333333333333332
+    },
+    "box_saves": {
+      "expected_IR Iran": 4.222222222222222,
+      "expected_New Zealand": 3.6666666666666665
+    },
+    "box_yellow_cards": {
+      "expected_IR Iran": 2.111111111111111,
+      "expected_New Zealand": 2.0
+    },
+    "box_red_cards": {
+      "expected_IR Iran": 0.0,
+      "expected_New Zealand": 0.0
+    }
+  },
+  "calibration_notes": {
+    "draw_calibration": "balanced binary draw model with chronological holdout calibration",
+    "draw_model_weight": 0.75,
+    "dixon_coles_rho": -0.08,
+    "temperature": 1.08,
+    "current_strength_k": 0.1,
+    "goal_diff_blend": 0.3,
+    "recency_half_life_years": 16.0,
+    "recency_min_weight": 0.1,
+    "qualification_influence": 1.0,
+    "exact_score_policy": "derived from calibrated expected goals; not optimized directly",
+    "hybrid_model_policy": "V15 uses the highest CatBoost-enhanced W/D/L probability as its result decision and blends a separate player-aware CatBoost goal head into expected goals and exact scores. Player profiles do not alter W/D/L probabilities.",
+    "v15": {
+      "pre_match_elo_gap": 116.16257702982102,
+      "draw_signal": 0.2420440075951421,
+      "draw_decision_threshold": 0.2147,
+      "draw_boost_applied": false,
+      "close_match_draw_target": 0.218045,
+      "variance_widened": false,
+      "goal_std_scale": 1.0,
+      "live_elo_k": 24.0,
+      "wdl_model": "v15_catboost",
+      "exact_score_model": "v11_poisson_dixon_coles_reweighted",
+      "exact_score_dixon_coles_rho": -0.08,
+      "exact_score_result_reweighting": true,
+      "learned_model_family": "sklearn_catboost_ensemble",
+      "catboost_goal_models": true,
+      "catboost_goal_difference_model": true,
+      "catboost_result_model": true,
+      "catboost_draw_model": false,
+      "catboost_event_models": true,
+      "player_profile_features": true,
+      "player_profile_goal_weight": 0.25,
+      "baseline_lambda_a": 2.342298781567452,
+      "baseline_lambda_b": 0.9337826962780436,
+      "player_lambda_a": 2.1182191312568275,
+      "player_lambda_b": 1.246528568857213,
+      "player_profiles_affect_wdl": false,
+      "result_decision_rule": "probability_argmax",
+      "v13_draw_threshold_decision": "draw",
+      "expanded_training_data": {
+        "world_cup_rows": 964,
+        "continental_rows": 3251,
+        "world_cup_external_matches": 856,
+        "international_timeline_rows": 49405,
+        "results_as_of": "2026-06-10",
+        "continental_stage_features": false,
+        "continental_stage_feature_reason": "results.csv has no round or stage column"
+      }
+    }
+  },
+  "predicted_result": "team_a_win",
+  "player_profiles": {
+    "team_a": {
+      "overall_mean": 71.23076923076923,
+      "top11_overall_mean": 74.81818181818181,
+      "top5_overall_mean": 78.0,
+      "gk_overall": 68.0,
+      "defense_overall": 68.0,
+      "midfield_overall": 71.0,
+      "attack_overall": 78.0,
+      "potential_mean": 71.61538461538461,
+      "value_log_sum": 18.37568338848188,
+      "age_mean": 29.399594587479598,
+      "rating_count": 26.0,
+      "team": "IR Iran",
+      "squad_size": 26,
+      "matched_players": 2,
+      "match_coverage": 0.07692307692307693,
+      "mean_name_match_score": 0.9444444444444444,
+      "caps_mean": 45.23076923076923,
+      "caps_sum": 1176.0,
+      "international_goals_sum": 148.0,
+      "rating_date": "2025-09-19"
+    },
+    "team_b": {
+      "overall_mean": 67.90384615384616,
+      "top11_overall_mean": 71.0909090909091,
+      "top5_overall_mean": 74.0,
+      "gk_overall": 71.0,
+      "defense_overall": 70.0,
+      "midfield_overall": 70.0,
+      "attack_overall": 72.66666666666667,
+      "potential_mean": 71.36538461538461,
+      "value_log_sum": 17.9031661488141,
+      "age_mean": 26.926341283630812,
+      "rating_count": 26.0,
+      "team": "New Zealand",
+      "squad_size": 26,
+      "matched_players": 21,
+      "match_coverage": 0.8076923076923077,
+      "mean_name_match_score": 0.9960317460317459,
+      "caps_mean": 32.0,
+      "caps_sum": 832.0,
+      "international_goals_sum": 106.0,
+      "rating_date": "2025-09-19"
+    }
+  },
+  "v15_adjustments": {
+    "pre_match_elo_gap": 116.16257702982102,
+    "draw_signal": 0.2420440075951421,
+    "draw_decision_threshold": 0.2147,
+    "draw_boost_applied": false,
+    "close_match_draw_target": 0.218045,
+    "variance_widened": false,
+    "goal_std_scale": 1.0,
+    "live_elo_k": 24.0,
+    "wdl_model": "v15_catboost",
+    "exact_score_model": "v11_poisson_dixon_coles_reweighted",
+    "exact_score_dixon_coles_rho": -0.08,
+    "exact_score_result_reweighting": true,
+    "learned_model_family": "sklearn_catboost_ensemble",
+    "catboost_goal_models": true,
+    "catboost_goal_difference_model": true,
+    "catboost_result_model": true,
+    "catboost_draw_model": false,
+    "catboost_event_models": true,
+    "player_profile_features": true,
+    "player_profile_goal_weight": 0.25,
+    "baseline_lambda_a": 2.342298781567452,
+    "baseline_lambda_b": 0.9337826962780436,
+    "player_lambda_a": 2.1182191312568275,
+    "player_lambda_b": 1.246528568857213,
+    "player_profiles_affect_wdl": false,
+    "result_decision_rule": "probability_argmax",
+    "v13_draw_threshold_decision": "draw",
+    "expanded_training_data": {
+      "world_cup_rows": 964,
+      "continental_rows": 3251,
+      "world_cup_external_matches": 856,
+      "international_timeline_rows": 49405,
+      "results_as_of": "2026-06-10",
+      "continental_stage_features": false,
+      "continental_stage_feature_reason": "results.csv has no round or stage column"
+    }
+  }
+}

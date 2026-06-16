@@ -1,0 +1,23 @@
+{
+  "version": "v15-catboost",
+  "learned_model_family": "sklearn_catboost_ensemble",
+  "wdl_model": "v15_catboost",
+  "exact_score_model": "catboost_enhanced_goals_with_v11_score_conversion",
+  "team_a": "France",
+  "team_b": "Senegal",
+  "player_ratings_source": "/Users/rajeevagrawal/Downloads/world_cup_advanced_model_package/data/player_ratings_international.csv",
+  "declared_squads_source": "/Users/rajeevagrawal/Downloads/world_cup_advanced_model_package/data/world_cup_2026_declared_squads.csv",
+  "expanded_training_data": {
+    "world_cup_rows": 964,
+    "continental_rows": 3251,
+    "world_cup_external_matches": 856,
+    "international_timeline_rows": 49405,
+    "results_as_of": "2026-06-10",
+    "continental_stage_features": false,
+    "continental_stage_feature_reason": "results.csv has no round or stage column"
+  },
+  "player_profile_match_coverage": {
+    "team_a": 0.7307692307692307,
+    "team_b": 0.7307692307692307
+  }
+}

@@ -179,6 +179,24 @@ def build_year_recency_weights(
     return pd.Series(weights, index=frame.index, dtype=float)
 
 
+def combine_training_weights(
+    frame: pd.DataFrame,
+    recency_weights: pd.Series,
+) -> pd.Series:
+    """Combine recency with an optional per-row tournament prestige."""
+    weights = recency_weights.astype(float).copy()
+    if "prestige_weight" in frame.columns:
+        prestige = pd.to_numeric(
+            frame["prestige_weight"],
+            errors="coerce",
+        ).fillna(1.0)
+        weights = weights * prestige.clip(lower=0.01)
+    mean_weight = float(weights.mean())
+    if not np.isfinite(mean_weight) or mean_weight <= 0:
+        return pd.Series(1.0, index=frame.index, dtype=float)
+    return weights / mean_weight
+
+
 def fit_with_sample_weight(
     model: Any,
     X: pd.DataFrame,
@@ -1300,6 +1318,11 @@ class StrongWorldCupModel:
             "qual_abs_draw_rate_diff",
             "qual_expected_total",
             "qual_min_matches_seen",
+            "continental_abs_gd_diff",
+            "continental_mean_draw_rate",
+            "continental_abs_draw_rate_diff",
+            "continental_expected_total",
+            "continental_min_matches_seen",
         ]
         self.draw_feature_cols = [column for column in candidates if column in frame]
         if not self.draw_feature_cols:
@@ -1312,6 +1335,7 @@ class StrongWorldCupModel:
             self.recency_half_life_years,
             self.recency_min_weight,
         )
+        weights = combine_training_weights(ordered, weights)
         split = max(int(len(ordered) * 0.80), 1)
         if (
             split < len(ordered)
@@ -1375,6 +1399,7 @@ class StrongWorldCupModel:
             self.recency_half_life_years,
             self.recency_min_weight,
         )
+        sample_weight = combine_training_weights(frame, sample_weight)
         weight_array = sample_weight.to_numpy()
         self.recency_weight_summary = {
             "half_life_years": self.recency_half_life_years,
@@ -1424,28 +1449,43 @@ class StrongWorldCupModel:
         self._fit_draw_model(frame)
 
         for ev in event_cols:
+            valid = frame[f"{ev}_a"].notna() & frame[f"{ev}_b"].notna()
+            if not valid.any():
+                continue
+            event_X = X.loc[valid]
+            event_weight = sample_weight.loc[valid]
             if self.model_type == "ensemble":
                 ma_models = self._named_regressors()
                 mb_models = self._named_regressors()
                 for _, model, _ in ma_models:
                     fit_with_sample_weight(
                         model,
-                        X,
-                        frame[f"{ev}_a"],
-                        sample_weight,
+                        event_X,
+                        frame.loc[valid, f"{ev}_a"],
+                        event_weight,
                     )
                 for _, model, _ in mb_models:
                     fit_with_sample_weight(
                         model,
-                        X,
-                        frame[f"{ev}_b"],
-                        sample_weight,
+                        event_X,
+                        frame.loc[valid, f"{ev}_b"],
+                        event_weight,
                     )
                 self.event_models[ev] = (ma_models, mb_models)
             else:
                 ma, mb = self._regressor(), self._regressor()
-                fit_with_sample_weight(ma, X, frame[f"{ev}_a"], sample_weight)
-                fit_with_sample_weight(mb, X, frame[f"{ev}_b"], sample_weight)
+                fit_with_sample_weight(
+                    ma,
+                    event_X,
+                    frame.loc[valid, f"{ev}_a"],
+                    event_weight,
+                )
+                fit_with_sample_weight(
+                    mb,
+                    event_X,
+                    frame.loc[valid, f"{ev}_b"],
+                    event_weight,
+                )
                 self.event_models[ev] = (ma, mb)
 
         self._cache_latest_team_stats(frame)
@@ -2535,7 +2575,7 @@ def main():
     ap.add_argument("--host-b", action="store_true")
     ap.add_argument("--knockout", action="store_true")
     ap.add_argument("--model", default="ensemble", choices=["ensemble", "hgb", "rf", "poisson", "lightgbm", "xgboost", "catboost"])
-    ap.add_argument("--outdir", default="outputs_v11_wcq_v9_base")
+    ap.add_argument("--outdir", default="outputs/outputs_v11_wcq_v9_base")
     ap.add_argument(
         "--recency-half-life-years",
         type=float,

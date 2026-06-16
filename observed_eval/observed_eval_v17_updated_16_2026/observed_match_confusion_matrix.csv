@@ -1,0 +1,4 @@
+actual_result,team_a_win,draw,team_b_win
+team_a_win,5,0,2
+draw,6,0,2
+team_b_win,0,0,1

@@ -1,0 +1,467 @@
+{
+  "version": "v16.2-pymc-bivariate-draw-scaled",
+  "team_a": "Belgium",
+  "team_b": "Egypt",
+  "training_data": {
+    "world_cup_rows": 964,
+    "continental_rows": 3251,
+    "world_cup_external_matches": 856,
+    "international_timeline_rows": 49405,
+    "results_as_of": "2026-06-10",
+    "pymc_hierarchy": {
+      "snapshots": [
+        "2002-01-01",
+        "2006-01-01",
+        "2010-01-01",
+        "2014-01-01",
+        "2018-01-01",
+        "2022-01-01",
+        "2026-01-01",
+        "2026-06-11"
+      ],
+      "draws": 800,
+      "tune": 800,
+      "chains": 4,
+      "lookback_years": 12,
+      "recency_half_life_years": 16.0,
+      "cache_dir": "/Users/rajeevagrawal/Downloads/world_cup_advanced_model_package/data/v16_pymc_cache",
+      "snapshot_diagnostics": {
+        "2002-01-01": {
+          "max_rhat": 1.02,
+          "min_ess_bulk": 251.0,
+          "min_ess_tail": 512.0,
+          "divergences": 0
+        },
+        "2006-01-01": {
+          "max_rhat": 1.01,
+          "min_ess_bulk": 165.0,
+          "min_ess_tail": 291.0,
+          "divergences": 0
+        },
+        "2010-01-01": {
+          "max_rhat": 1.02,
+          "min_ess_bulk": 211.0,
+          "min_ess_tail": 416.0,
+          "divergences": 0
+        },
+        "2014-01-01": {
+          "max_rhat": 1.02,
+          "min_ess_bulk": 235.0,
+          "min_ess_tail": 444.0,
+          "divergences": 0
+        },
+        "2018-01-01": {
+          "max_rhat": 1.01,
+          "min_ess_bulk": 233.0,
+          "min_ess_tail": 309.0,
+          "divergences": 0
+        },
+        "2022-01-01": {
+          "max_rhat": 1.02,
+          "min_ess_bulk": 248.0,
+          "min_ess_tail": 427.0,
+          "divergences": 0
+        },
+        "2026-01-01": {
+          "max_rhat": 1.02,
+          "min_ess_bulk": 222.0,
+          "min_ess_tail": 466.0,
+          "divergences": 0
+        },
+        "2026-06-11": {
+          "max_rhat": 1.05,
+          "min_ess_bulk": 134.0,
+          "min_ess_tail": 247.0,
+          "divergences": 0
+        }
+      }
+    },
+    "forward_calibration": {
+      "score_calibration_schema": "v16.2-blend70-group-draw-scale-v1",
+      "temperature": 0.9112777465221858,
+      "selected_bayes_goal_weight": 0.6,
+      "best_goal_rmse_weight": 0.55,
+      "blend_grid": [
+        0.0,
+        0.05,
+        0.1,
+        0.15,
+        0.2,
+        0.25,
+        0.3,
+        0.35,
+        0.4,
+        0.45,
+        0.5,
+        0.55,
+        0.6,
+        0.65,
+        0.7
+      ],
+      "group_draw_scale_grid": [
+        1.0,
+        1.05,
+        1.1,
+        1.15,
+        1.2,
+        1.25
+      ],
+      "stage_parameters": {
+        "group": {
+          "covariance": 0.041324027572765855,
+          "zero_inflation": 0.0026050914777720124,
+          "draw_score_scale": 1.0,
+          "result_reweight_strength": 0.09276989796389658,
+          "matches": 240,
+          "exact_score_log_loss": 2.8287886595273735,
+          "draw_scale_grid_results": [
+            {
+              "draw_score_scale": 1.0,
+              "exact_score_log_loss": 2.8287886595273735
+            },
+            {
+              "draw_score_scale": 1.05,
+              "exact_score_log_loss": 2.830531910617715
+            },
+            {
+              "draw_score_scale": 1.1,
+              "exact_score_log_loss": 2.8325517836181393
+            },
+            {
+              "draw_score_scale": 1.15,
+              "exact_score_log_loss": 2.8348156220113707
+            },
+            {
+              "draw_score_scale": 1.2,
+              "exact_score_log_loss": 2.8372950639267875
+            },
+            {
+              "draw_score_scale": 1.25,
+              "exact_score_log_loss": 2.8399653601052752
+            }
+          ]
+        },
+        "knockout": {
+          "covariance": 0.14276297851500183,
+          "zero_inflation": 0.0,
+          "draw_score_scale": 1.0,
+          "result_reweight_strength": 0.7941895114529789,
+          "matches": 80,
+          "exact_score_log_loss": 2.8463025906367094,
+          "draw_scale_grid_results": [
+            {
+              "draw_score_scale": 1.0,
+              "exact_score_log_loss": 2.8463025906367094
+            }
+          ]
+        }
+      },
+      "grid_results": [
+        {
+          "bayes_goal_weight": 0.0,
+          "goal_rmse": 1.1723931128610068,
+          "exact_score_log_loss": 2.853409819580021,
+          "group_draw_score_scale": 1.0,
+          "group_exact_score_log_loss": 2.847123798338572,
+          "knockout_exact_score_log_loss": 2.8722678833043673
+        },
+        {
+          "bayes_goal_weight": 0.05,
+          "goal_rmse": 1.169999335512566,
+          "exact_score_log_loss": 2.85017611214206,
+          "group_draw_score_scale": 1.0,
+          "group_exact_score_log_loss": 2.843897992384382,
+          "knockout_exact_score_log_loss": 2.869010471415094
+        },
+        {
+          "bayes_goal_weight": 0.1,
+          "goal_rmse": 1.167838921347789,
+          "exact_score_log_loss": 2.847205721313994,
+          "group_draw_score_scale": 1.0,
+          "group_exact_score_log_loss": 2.8409646298804034,
+          "knockout_exact_score_log_loss": 2.865928995614767
+        },
+        {
+          "bayes_goal_weight": 0.15,
+          "goal_rmse": 1.1659131676195646,
+          "exact_score_log_loss": 2.844505872153738,
+          "group_draw_score_scale": 1.0,
+          "group_exact_score_log_loss": 2.838326734588288,
+          "knockout_exact_score_log_loss": 2.863043284850088
+        },
+        {
+          "bayes_goal_weight": 0.2,
+          "goal_rmse": 1.164223238791257,
+          "exact_score_log_loss": 2.8420798845312674,
+          "group_draw_score_scale": 1.0,
+          "group_exact_score_log_loss": 2.835988372526228,
+          "knockout_exact_score_log_loss": 2.860354420546387
+        },
+        {
+          "bayes_goal_weight": 0.25,
+          "goal_rmse": 1.1627701630819047,
+          "exact_score_log_loss": 2.839931998885215,
+          "group_draw_score_scale": 1.0,
+          "group_exact_score_log_loss": 2.8339545903600536,
+          "knockout_exact_score_log_loss": 2.857864224460699
+        },
+        {
+          "bayes_goal_weight": 0.3,
+          "goal_rmse": 1.161554829383629,
+          "exact_score_log_loss": 2.83806735208102,
+          "group_draw_score_scale": 1.0,
+          "group_exact_score_log_loss": 2.8322313796318284,
+          "knockout_exact_score_log_loss": 2.855575269428596
+        },
+        {
+          "bayes_goal_weight": 0.35,
+          "goal_rmse": 1.1605779845724893,
+          "exact_score_log_loss": 2.8364919634785397,
+          "group_draw_score_scale": 1.0,
+          "group_exact_score_log_loss": 2.8308256603665813,
+          "knockout_exact_score_log_loss": 2.8534908728144144
+        },
+        {
+          "bayes_goal_weight": 0.4,
+          "goal_rmse": 1.1598402312315472,
+          "exact_score_log_loss": 2.8352127291775715,
+          "group_draw_score_scale": 1.0,
+          "group_exact_score_log_loss": 2.829745279916808,
+          "knockout_exact_score_log_loss": 2.851615076959863
+        },
+        {
+          "bayes_goal_weight": 0.45,
+          "goal_rmse": 1.1593420258022022,
+          "exact_score_log_loss": 2.834237423925161,
+          "group_draw_score_scale": 1.0,
+          "group_exact_score_log_loss": 2.8289990245180707,
+          "knockout_exact_score_log_loss": 2.849952622146432
+        },
+        {
+          "bayes_goal_weight": 0.5,
+          "goal_rmse": 1.1590836771769573,
+          "exact_score_log_loss": 2.833574711083551,
+          "group_draw_score_scale": 1.0,
+          "group_exact_score_log_loss": 2.8285966422069038,
+          "knockout_exact_score_log_loss": 2.8485089177134935
+        },
+        {
+          "bayes_goal_weight": 0.55,
+          "goal_rmse": 1.1590653457436977,
+          "exact_score_log_loss": 2.833233796389939,
+          "group_draw_score_scale": 1.0,
+          "group_exact_score_log_loss": 2.828548389950197,
+          "knockout_exact_score_log_loss": 2.847290015709165
+        },
+        {
+          "bayes_goal_weight": 0.6,
+          "goal_rmse": 1.1592870428883673,
+          "exact_score_log_loss": 2.833167142304707,
+          "group_draw_score_scale": 1.0,
+          "group_exact_score_log_loss": 2.8287886595273735,
+          "knockout_exact_score_log_loss": 2.8463025906367094
+        },
+        {
+          "bayes_goal_weight": 0.65,
+          "goal_rmse": 1.1597486309596363,
+          "exact_score_log_loss": 2.833337285184894,
+          "group_draw_score_scale": 1.0,
+          "group_exact_score_log_loss": 2.829265071083439,
+          "knockout_exact_score_log_loss": 2.8455539274892603
+        },
+        {
+          "bayes_goal_weight": 0.7,
+          "goal_rmse": 1.1604498236958132,
+          "exact_score_log_loss": 2.8337484027245425,
+          "group_draw_score_scale": 1.0,
+          "group_exact_score_log_loss": 2.829980563897981,
+          "knockout_exact_score_log_loss": 2.845051919204227
+        }
+      ],
+      "fold_years": [
+        2006,
+        2010,
+        2014,
+        2018,
+        2022
+      ],
+      "matches": 320,
+      "calibration_table": [
+        {
+          "label": "draw",
+          "bin": "(-0.001, 0.1]",
+          "predictions": 1,
+          "mean_probability": 0.09134169835100261,
+          "observed_rate": 0.0
+        },
+        {
+          "label": "draw",
+          "bin": "(0.1, 0.2]",
+          "predictions": 67,
+          "mean_probability": 0.17050916776710154,
+          "observed_rate": 0.1791044776119403
+        },
+        {
+          "label": "draw",
+          "bin": "(0.2, 0.3]",
+          "predictions": 234,
+          "mean_probability": 0.24644749322439075,
+          "observed_rate": 0.23931623931623933
+        },
+        {
+          "label": "draw",
+          "bin": "(0.3, 0.4]",
+          "predictions": 18,
+          "mean_probability": 0.3168557170207287,
+          "observed_rate": 0.2222222222222222
+        },
+        {
+          "label": "team_a_win",
+          "bin": "(-0.001, 0.1]",
+          "predictions": 6,
+          "mean_probability": 0.0688396594706409,
+          "observed_rate": 0.3333333333333333
+        },
+        {
+          "label": "team_a_win",
+          "bin": "(0.1, 0.2]",
+          "predictions": 40,
+          "mean_probability": 0.155018569353606,
+          "observed_rate": 0.075
+        },
+        {
+          "label": "team_a_win",
+          "bin": "(0.2, 0.3]",
+          "predictions": 51,
+          "mean_probability": 0.24890926320623297,
+          "observed_rate": 0.19607843137254902
+        },
+        {
+          "label": "team_a_win",
+          "bin": "(0.3, 0.4]",
+          "predictions": 46,
+          "mean_probability": 0.35213741325618664,
+          "observed_rate": 0.41304347826086957
+        },
+        {
+          "label": "team_a_win",
+          "bin": "(0.4, 0.5]",
+          "predictions": 40,
+          "mean_probability": 0.4478298352911355,
+          "observed_rate": 0.4
+        },
+        {
+          "label": "team_a_win",
+          "bin": "(0.5, 0.6]",
+          "predictions": 49,
+          "mean_probability": 0.5488073517017829,
+          "observed_rate": 0.4897959183673469
+        },
+        {
+          "label": "team_a_win",
+          "bin": "(0.6, 0.7]",
+          "predictions": 59,
+          "mean_probability": 0.6511483154220163,
+          "observed_rate": 0.7796610169491526
+        },
+        {
+          "label": "team_a_win",
+          "bin": "(0.7, 0.8]",
+          "predictions": 26,
+          "mean_probability": 0.7371693028654163,
+          "observed_rate": 0.6153846153846154
+        },
+        {
+          "label": "team_a_win",
+          "bin": "(0.8, 0.9]",
+          "predictions": 3,
+          "mean_probability": 0.8326755409934935,
+          "observed_rate": 0.6666666666666666
+        },
+        {
+          "label": "team_b_win",
+          "bin": "(-0.001, 0.1]",
+          "predictions": 27,
+          "mean_probability": 0.07548759146611562,
+          "observed_rate": 0.07407407407407407
+        },
+        {
+          "label": "team_b_win",
+          "bin": "(0.1, 0.2]",
+          "predictions": 82,
+          "mean_probability": 0.1475607456214265,
+          "observed_rate": 0.17073170731707318
+        },
+        {
+          "label": "team_b_win",
+          "bin": "(0.2, 0.3]",
+          "predictions": 55,
+          "mean_probability": 0.24780583448516377,
+          "observed_rate": 0.2727272727272727
+        },
+        {
+          "label": "team_b_win",
+          "bin": "(0.3, 0.4]",
+          "predictions": 42,
+          "mean_probability": 0.35336547561124704,
+          "observed_rate": 0.35714285714285715
+        },
+        {
+          "label": "team_b_win",
+          "bin": "(0.4, 0.5]",
+          "predictions": 45,
+          "mean_probability": 0.45072607738847736,
+          "observed_rate": 0.4444444444444444
+        },
+        {
+          "label": "team_b_win",
+          "bin": "(0.5, 0.6]",
+          "predictions": 35,
+          "mean_probability": 0.5479690522429971,
+          "observed_rate": 0.5142857142857142
+        },
+        {
+          "label": "team_b_win",
+          "bin": "(0.6, 0.7]",
+          "predictions": 26,
+          "mean_probability": 0.6420375817088032,
+          "observed_rate": 0.8076923076923077
+        },
+        {
+          "label": "team_b_win",
+          "bin": "(0.7, 0.8]",
+          "predictions": 7,
+          "mean_probability": 0.7286712075834316,
+          "observed_rate": 0.5714285714285714
+        },
+        {
+          "label": "team_b_win",
+          "bin": "(0.8, 0.9]",
+          "predictions": 1,
+          "mean_probability": 0.8549379522912826,
+          "observed_rate": 1.0
+        }
+      ]
+    }
+  },
+  "v16_adjustments": {
+    "wdl_temperature": 0.9112777465221858,
+    "bayesian_goal_weight": 0.6,
+    "bivariate_covariance": 0.041324027572765855,
+    "zero_inflation": 0.0026050914777720124,
+    "draw_score_scale": 1.0,
+    "result_reweight_strength": 0.09276989796389658,
+    "stage_parameter_set": "group",
+    "matrix_sum": 1.0,
+    "hierarchy_cutoff": "2026-06-11",
+    "hierarchy_matches": 11544,
+    "hierarchy_teams": 298,
+    "hierarchy_diagnostics": {
+      "max_rhat": 1.05,
+      "min_ess_bulk": 134.0,
+      "min_ess_tail": 247.0,
+      "divergences": 0
+    },
+    "pymc_sampler": "NUTS"
+  }
+}

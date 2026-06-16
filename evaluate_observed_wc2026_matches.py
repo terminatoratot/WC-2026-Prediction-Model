@@ -8,12 +8,12 @@ errors, bootstrap confidence intervals, plots, and a Markdown report.
 Full v11 evaluation:
     python evaluate_observed_wc2026_matches.py \
       --model-file v11_wcq_results_model.py \
-      --outdir observed_eval_v11_comprehensive
+      --outdir observed_eval/observed_eval_v11_comprehensive
 
 Regenerate reports from saved predictions without fitting v11:
     python evaluate_observed_wc2026_matches.py \
-      --predictions-input observed_eval_v11_comprehensive/observed_match_predictions.csv \
-      --outdir observed_eval_v11_report
+      --predictions-input observed_eval/observed_eval_v11_comprehensive/observed_match_predictions.csv \
+      --outdir observed_eval/observed_eval_v11_report
 """
 
 from __future__ import annotations
@@ -697,7 +697,7 @@ def main():
         "--former-names", default=str(DATA_DIR / "former_names.csv")
     )
     ap.add_argument("--model", default="ensemble")
-    ap.add_argument("--outdir", default="observed_eval_outputs")
+    ap.add_argument("--outdir", default="observed_eval/observed_eval_outputs")
     ap.add_argument("--max-goals", type=int, default=10)
     ap.add_argument(
         "--predictions-input",

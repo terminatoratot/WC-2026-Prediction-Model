@@ -18,6 +18,31 @@ import v11_wcq_results_model as v11
 canon_team = v11.canon_team
 
 
+class V13SklearnWorldCupModel(v11.StrongWorldCupModel):
+    """Preserve V13's original ensemble when optional boosters are installed."""
+
+    def _named_regressors(self):
+        return [
+            item
+            for item in super()._named_regressors()
+            if item[0] in {"rf", "hgb", "poisson"}
+        ]
+
+    def _named_diff_regressors(self):
+        return [
+            item
+            for item in super()._named_diff_regressors()
+            if item[0] in {"ridge", "rf", "hgb"}
+        ]
+
+    def _named_classifiers(self):
+        return [
+            item
+            for item in super()._named_classifiers()
+            if item[0] in {"rf", "hgb", "logistic"}
+        ]
+
+
 @dataclass(frozen=True)
 class V13Config:
     draw_decision_threshold: float = 0.2147
@@ -183,20 +208,58 @@ def build_from_zip(
     recency_half_life_years=16.0,
     recency_min_weight=0.10,
 ):
-    base_model, data = v11.build_from_zip(
+    loader = v11.WorldCupSAILoader(
         zip_path,
-        train_csv=train_csv,
-        test_csv=test_csv,
-        model_type=model_type,
-        box_csv=box_csv,
-        results_csv=results_csv,
-        former_names_csv=former_names_csv,
-        prediction_year=prediction_year,
+        Path(str(zip_path) + "_extracted"),
+    )
+    matches = loader.load_matches()
+    current = v11.load_current_team_features(train_csv, test_csv)
+    box = v11.load_kaggle_box_data(box_csv)
+    qualification_results = v11.load_world_cup_qualification_results(
+        results_csv,
+        former_names_csv,
+    )
+    qualifier_source = (
+        qualification_results if not qualification_results.empty else box
+    )
+    historical_current = pd.DataFrame(columns=["team"])
+    frame, features, events = v11.build_rolling_features(
+        matches,
+        historical_current,
+        qualifier_box=qualifier_source,
+        qualifier_fallback_box=box,
         qualifier_blend_start_year=qualifier_blend_start_year,
         qualifier_full_weight_year=qualifier_full_weight_year,
         qualifier_minimum_influence=qualifier_minimum_influence,
-        recency_half_life_years=recency_half_life_years,
-        recency_min_weight=recency_min_weight,
+    )
+    model_class = (
+        V13SklearnWorldCupModel
+        if model_type == "ensemble"
+        else v11.StrongWorldCupModel
+    )
+    base_model = (
+        model_class(
+            model_type=model_type,
+            recency_half_life_years=recency_half_life_years,
+            recency_min_weight=recency_min_weight,
+        )
+        .fit(frame, features, events, current)
+        .set_box_data(box)
+        .set_qualifier_data(
+            qualifier_source,
+            fallback_box=box,
+            prediction_year=prediction_year,
+            blend_start_year=qualifier_blend_start_year,
+            full_weight_year=qualifier_full_weight_year,
+            minimum_influence=qualifier_minimum_influence,
+        )
+    )
+    data = v11.DataBundle(
+        matches=matches,
+        team_current=current,
+        training_frame=frame,
+        event_columns=events,
+        box_frame=box,
     )
     return V13LiveSignalModel(base_model), data
 
@@ -225,7 +288,7 @@ def main() -> None:
             "catboost",
         ],
     )
-    parser.add_argument("--outdir", default="outputs_v13_prediction")
+    parser.add_argument("--outdir", default="outputs/outputs_v13_prediction")
     parser.add_argument(
         "--worldcupsai-zip",
         default=str(data_dir / "worldcupsai.zip"),

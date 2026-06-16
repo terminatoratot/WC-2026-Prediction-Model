@@ -1,0 +1,8 @@
+{
+  "version": "v15-catboost",
+  "learned_model_family": "catboost",
+  "wdl_model": "v15_catboost",
+  "exact_score_model": "catboost_expected_goals_with_v11_score_conversion",
+  "team_a": "Belgium",
+  "team_b": "Egypt"
+}

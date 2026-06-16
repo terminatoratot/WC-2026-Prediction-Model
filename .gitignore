@@ -2,3 +2,5 @@
 __pycache__/
 *.py[cod]
 .DS_Store
+data/v16_pytensor_cache/
+data/v16_pymc_cache/

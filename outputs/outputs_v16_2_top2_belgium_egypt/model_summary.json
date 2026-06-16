@@ -1,0 +1,547 @@
+{
+  "version": "v16.2-pymc-bivariate-top2-tuned",
+  "team_a": "Belgium",
+  "team_b": "Egypt",
+  "training_data": {
+    "world_cup_rows": 964,
+    "continental_rows": 3251,
+    "world_cup_external_matches": 856,
+    "international_timeline_rows": 49405,
+    "results_as_of": "2026-06-10",
+    "pymc_hierarchy": {
+      "snapshots": [
+        "2002-01-01",
+        "2006-01-01",
+        "2010-01-01",
+        "2014-01-01",
+        "2018-01-01",
+        "2022-01-01",
+        "2026-01-01",
+        "2026-06-11"
+      ],
+      "draws": 800,
+      "tune": 800,
+      "chains": 4,
+      "lookback_years": 12,
+      "recency_half_life_years": 16.0,
+      "cache_dir": "/Users/rajeevagrawal/Downloads/world_cup_advanced_model_package/data/v16_pymc_cache",
+      "snapshot_diagnostics": {
+        "2002-01-01": {
+          "max_rhat": 1.02,
+          "min_ess_bulk": 251.0,
+          "min_ess_tail": 512.0,
+          "divergences": 0
+        },
+        "2006-01-01": {
+          "max_rhat": 1.01,
+          "min_ess_bulk": 165.0,
+          "min_ess_tail": 291.0,
+          "divergences": 0
+        },
+        "2010-01-01": {
+          "max_rhat": 1.02,
+          "min_ess_bulk": 211.0,
+          "min_ess_tail": 416.0,
+          "divergences": 0
+        },
+        "2014-01-01": {
+          "max_rhat": 1.02,
+          "min_ess_bulk": 235.0,
+          "min_ess_tail": 444.0,
+          "divergences": 0
+        },
+        "2018-01-01": {
+          "max_rhat": 1.01,
+          "min_ess_bulk": 233.0,
+          "min_ess_tail": 309.0,
+          "divergences": 0
+        },
+        "2022-01-01": {
+          "max_rhat": 1.02,
+          "min_ess_bulk": 248.0,
+          "min_ess_tail": 427.0,
+          "divergences": 0
+        },
+        "2026-01-01": {
+          "max_rhat": 1.02,
+          "min_ess_bulk": 222.0,
+          "min_ess_tail": 466.0,
+          "divergences": 0
+        },
+        "2026-06-11": {
+          "max_rhat": 1.05,
+          "min_ess_bulk": 134.0,
+          "min_ess_tail": 247.0,
+          "divergences": 0
+        }
+      }
+    },
+    "forward_calibration": {
+      "score_calibration_schema": "v16.2-top2-blend70-draw-scale-v1",
+      "temperature": 0.911277746522192,
+      "selected_bayes_goal_weight": 0.55,
+      "score_selection_objective": "exact_score_top2_rate",
+      "best_goal_rmse_weight": 0.55,
+      "best_exact_score_log_loss_weight": 0.55,
+      "blend_grid": [
+        0.0,
+        0.05,
+        0.1,
+        0.15,
+        0.2,
+        0.25,
+        0.3,
+        0.35,
+        0.4,
+        0.45,
+        0.5,
+        0.55,
+        0.6,
+        0.65,
+        0.7
+      ],
+      "group_draw_scale_grid": [
+        1.0,
+        1.05,
+        1.1,
+        1.15,
+        1.2,
+        1.25
+      ],
+      "stage_parameters": {
+        "group": {
+          "covariance": 0.03733500667971471,
+          "zero_inflation": 0.002455980031034182,
+          "draw_score_scale": 1.0,
+          "result_reweight_strength": 0.007826142239728363,
+          "matches": 240,
+          "exact_score_log_loss": 2.828548389950242,
+          "exact_score_top2_hits": 59,
+          "exact_score_top2_rate": 0.24583333333333332,
+          "draw_scale_grid_results": [
+            {
+              "draw_score_scale": 1.0,
+              "exact_score_log_loss": 2.828548389950242,
+              "exact_score_top2_hits": 59,
+              "exact_score_top2_rate": 0.24583333333333332
+            },
+            {
+              "draw_score_scale": 1.05,
+              "exact_score_log_loss": 2.8304436899141185,
+              "exact_score_top2_hits": 58,
+              "exact_score_top2_rate": 0.24166666666666667
+            },
+            {
+              "draw_score_scale": 1.1,
+              "exact_score_log_loss": 2.8326714146229715,
+              "exact_score_top2_hits": 57,
+              "exact_score_top2_rate": 0.2375
+            },
+            {
+              "draw_score_scale": 1.15,
+              "exact_score_log_loss": 2.835191912403394,
+              "exact_score_top2_hits": 57,
+              "exact_score_top2_rate": 0.2375
+            },
+            {
+              "draw_score_scale": 1.2,
+              "exact_score_log_loss": 2.837970947813014,
+              "exact_score_top2_hits": 53,
+              "exact_score_top2_rate": 0.22083333333333333
+            },
+            {
+              "draw_score_scale": 1.25,
+              "exact_score_log_loss": 2.840978802256835,
+              "exact_score_top2_hits": 53,
+              "exact_score_top2_rate": 0.22083333333333333
+            }
+          ]
+        },
+        "knockout": {
+          "covariance": 0.14773517336165407,
+          "zero_inflation": 0.0,
+          "draw_score_scale": 1.0,
+          "result_reweight_strength": 0.7868723565351454,
+          "matches": 80,
+          "exact_score_log_loss": 2.847290015708833,
+          "exact_score_top2_hits": 19,
+          "exact_score_top2_rate": 0.2375,
+          "draw_scale_grid_results": [
+            {
+              "draw_score_scale": 1.0,
+              "exact_score_log_loss": 2.847290015708833,
+              "exact_score_top2_hits": 19,
+              "exact_score_top2_rate": 0.2375
+            }
+          ]
+        }
+      },
+      "grid_results": [
+        {
+          "bayes_goal_weight": 0.0,
+          "goal_rmse": 1.1723931128610068,
+          "exact_score_log_loss": 2.8547055662825427,
+          "exact_score_top2_hits": 77,
+          "exact_score_top2_rate": 0.240625,
+          "group_draw_score_scale": 1.05,
+          "group_exact_score_log_loss": 2.8488514606091684,
+          "group_exact_score_top2_rate": 0.24583333333333332,
+          "knockout_exact_score_log_loss": 2.8722678833026647,
+          "knockout_exact_score_top2_rate": 0.225
+        },
+        {
+          "bayes_goal_weight": 0.05,
+          "goal_rmse": 1.169999335512566,
+          "exact_score_log_loss": 2.851481127578197,
+          "exact_score_top2_hits": 78,
+          "exact_score_top2_rate": 0.24375,
+          "group_draw_score_scale": 1.05,
+          "group_exact_score_log_loss": 2.8456380129657837,
+          "group_exact_score_top2_rate": 0.24583333333333332,
+          "knockout_exact_score_log_loss": 2.869010471415437,
+          "knockout_exact_score_top2_rate": 0.2375
+        },
+        {
+          "bayes_goal_weight": 0.1,
+          "goal_rmse": 1.167838921347789,
+          "exact_score_log_loss": 2.8485202825902194,
+          "exact_score_top2_hits": 78,
+          "exact_score_top2_rate": 0.24375,
+          "group_draw_score_scale": 1.05,
+          "group_exact_score_log_loss": 2.842717378248707,
+          "group_exact_score_top2_rate": 0.24583333333333332,
+          "knockout_exact_score_log_loss": 2.8659289956147562,
+          "knockout_exact_score_top2_rate": 0.2375
+        },
+        {
+          "bayes_goal_weight": 0.15,
+          "goal_rmse": 1.1659131676195646,
+          "exact_score_log_loss": 2.84450587215372,
+          "exact_score_top2_hits": 76,
+          "exact_score_top2_rate": 0.2375,
+          "group_draw_score_scale": 1.0,
+          "group_exact_score_log_loss": 2.838326734588266,
+          "group_exact_score_top2_rate": 0.24583333333333332,
+          "knockout_exact_score_log_loss": 2.8630432848500815,
+          "knockout_exact_score_top2_rate": 0.2125
+        },
+        {
+          "bayes_goal_weight": 0.2,
+          "goal_rmse": 1.164223238791257,
+          "exact_score_log_loss": 2.8420798845312807,
+          "exact_score_top2_hits": 76,
+          "exact_score_top2_rate": 0.2375,
+          "group_draw_score_scale": 1.0,
+          "group_exact_score_log_loss": 2.8359883725262263,
+          "group_exact_score_top2_rate": 0.24583333333333332,
+          "knockout_exact_score_log_loss": 2.860354420546443,
+          "knockout_exact_score_top2_rate": 0.2125
+        },
+        {
+          "bayes_goal_weight": 0.25,
+          "goal_rmse": 1.1627701630819047,
+          "exact_score_log_loss": 2.8412779742641,
+          "exact_score_top2_hits": 77,
+          "exact_score_top2_rate": 0.240625,
+          "group_draw_score_scale": 1.05,
+          "group_exact_score_log_loss": 2.8357492241985134,
+          "group_exact_score_top2_rate": 0.25,
+          "knockout_exact_score_log_loss": 2.8578642244608607,
+          "knockout_exact_score_top2_rate": 0.2125
+        },
+        {
+          "bayes_goal_weight": 0.3,
+          "goal_rmse": 1.1615548293836289,
+          "exact_score_log_loss": 2.839425158031859,
+          "exact_score_top2_hits": 77,
+          "exact_score_top2_rate": 0.240625,
+          "group_draw_score_scale": 1.05,
+          "group_exact_score_log_loss": 2.8340417875662838,
+          "group_exact_score_top2_rate": 0.25,
+          "knockout_exact_score_log_loss": 2.855575269428585,
+          "knockout_exact_score_top2_rate": 0.2125
+        },
+        {
+          "bayes_goal_weight": 0.35,
+          "goal_rmse": 1.1605779845724893,
+          "exact_score_log_loss": 2.8364919634785406,
+          "exact_score_top2_hits": 77,
+          "exact_score_top2_rate": 0.240625,
+          "group_draw_score_scale": 1.0,
+          "group_exact_score_log_loss": 2.8308256603665836,
+          "group_exact_score_top2_rate": 0.25,
+          "knockout_exact_score_log_loss": 2.8534908728144117,
+          "knockout_exact_score_top2_rate": 0.2125
+        },
+        {
+          "bayes_goal_weight": 0.4,
+          "goal_rmse": 1.1598402312315472,
+          "exact_score_log_loss": 2.835212729177092,
+          "exact_score_top2_hits": 78,
+          "exact_score_top2_rate": 0.24375,
+          "group_draw_score_scale": 1.0,
+          "group_exact_score_log_loss": 2.829745279916809,
+          "group_exact_score_top2_rate": 0.24583333333333332,
+          "knockout_exact_score_log_loss": 2.851615076957942,
+          "knockout_exact_score_top2_rate": 0.2375
+        },
+        {
+          "bayes_goal_weight": 0.45,
+          "goal_rmse": 1.1593420258022022,
+          "exact_score_log_loss": 2.834237423925242,
+          "exact_score_top2_hits": 78,
+          "exact_score_top2_rate": 0.24375,
+          "group_draw_score_scale": 1.0,
+          "group_exact_score_log_loss": 2.8289990245180707,
+          "group_exact_score_top2_rate": 0.24583333333333332,
+          "knockout_exact_score_log_loss": 2.849952622146755,
+          "knockout_exact_score_top2_rate": 0.2375
+        },
+        {
+          "bayes_goal_weight": 0.5,
+          "goal_rmse": 1.1590836771769573,
+          "exact_score_log_loss": 2.8335747110835348,
+          "exact_score_top2_hits": 77,
+          "exact_score_top2_rate": 0.240625,
+          "group_draw_score_scale": 1.0,
+          "group_exact_score_log_loss": 2.828596642206926,
+          "group_exact_score_top2_rate": 0.24166666666666667,
+          "knockout_exact_score_log_loss": 2.8485089177133602,
+          "knockout_exact_score_top2_rate": 0.2375
+        },
+        {
+          "bayes_goal_weight": 0.55,
+          "goal_rmse": 1.1590653457436977,
+          "exact_score_log_loss": 2.83323379638989,
+          "exact_score_top2_hits": 78,
+          "exact_score_top2_rate": 0.24375,
+          "group_draw_score_scale": 1.0,
+          "group_exact_score_log_loss": 2.828548389950242,
+          "group_exact_score_top2_rate": 0.24583333333333332,
+          "knockout_exact_score_log_loss": 2.847290015708833,
+          "knockout_exact_score_top2_rate": 0.2375
+        },
+        {
+          "bayes_goal_weight": 0.6,
+          "goal_rmse": 1.1592870428883673,
+          "exact_score_log_loss": 2.834474574638455,
+          "exact_score_top2_hits": 77,
+          "exact_score_top2_rate": 0.240625,
+          "group_draw_score_scale": 1.05,
+          "group_exact_score_log_loss": 2.8305319026390285,
+          "group_exact_score_top2_rate": 0.24583333333333332,
+          "knockout_exact_score_log_loss": 2.8463025906367356,
+          "knockout_exact_score_top2_rate": 0.225
+        },
+        {
+          "bayes_goal_weight": 0.65,
+          "goal_rmse": 1.1597486309596363,
+          "exact_score_log_loss": 2.833337285184822,
+          "exact_score_top2_hits": 76,
+          "exact_score_top2_rate": 0.2375,
+          "group_draw_score_scale": 1.0,
+          "group_exact_score_log_loss": 2.8292650710833422,
+          "group_exact_score_top2_rate": 0.24166666666666667,
+          "knockout_exact_score_log_loss": 2.8455539274892616,
+          "knockout_exact_score_top2_rate": 0.225
+        },
+        {
+          "bayes_goal_weight": 0.7,
+          "goal_rmse": 1.1604498236958132,
+          "exact_score_log_loss": 2.8337484027245976,
+          "exact_score_top2_hits": 77,
+          "exact_score_top2_rate": 0.240625,
+          "group_draw_score_scale": 1.0,
+          "group_exact_score_log_loss": 2.829980563898019,
+          "group_exact_score_top2_rate": 0.25,
+          "knockout_exact_score_log_loss": 2.8450519192043346,
+          "knockout_exact_score_top2_rate": 0.2125
+        }
+      ],
+      "fold_years": [
+        2006,
+        2010,
+        2014,
+        2018,
+        2022
+      ],
+      "matches": 320,
+      "calibration_table": [
+        {
+          "label": "draw",
+          "bin": "(-0.001, 0.1]",
+          "predictions": 1,
+          "mean_probability": 0.0913416983510037,
+          "observed_rate": 0.0
+        },
+        {
+          "label": "draw",
+          "bin": "(0.1, 0.2]",
+          "predictions": 67,
+          "mean_probability": 0.1705091677671026,
+          "observed_rate": 0.1791044776119403
+        },
+        {
+          "label": "draw",
+          "bin": "(0.2, 0.3]",
+          "predictions": 234,
+          "mean_probability": 0.2464474932243914,
+          "observed_rate": 0.23931623931623933
+        },
+        {
+          "label": "draw",
+          "bin": "(0.3, 0.4]",
+          "predictions": 18,
+          "mean_probability": 0.31685571702072884,
+          "observed_rate": 0.2222222222222222
+        },
+        {
+          "label": "team_a_win",
+          "bin": "(-0.001, 0.1]",
+          "predictions": 6,
+          "mean_probability": 0.06883965947064176,
+          "observed_rate": 0.3333333333333333
+        },
+        {
+          "label": "team_a_win",
+          "bin": "(0.1, 0.2]",
+          "predictions": 40,
+          "mean_probability": 0.15501856935360697,
+          "observed_rate": 0.075
+        },
+        {
+          "label": "team_a_win",
+          "bin": "(0.2, 0.3]",
+          "predictions": 51,
+          "mean_probability": 0.24890926320623358,
+          "observed_rate": 0.19607843137254902
+        },
+        {
+          "label": "team_a_win",
+          "bin": "(0.3, 0.4]",
+          "predictions": 46,
+          "mean_probability": 0.35213741325618647,
+          "observed_rate": 0.41304347826086957
+        },
+        {
+          "label": "team_a_win",
+          "bin": "(0.4, 0.5]",
+          "predictions": 40,
+          "mean_probability": 0.4478298352911347,
+          "observed_rate": 0.4
+        },
+        {
+          "label": "team_a_win",
+          "bin": "(0.5, 0.6]",
+          "predictions": 49,
+          "mean_probability": 0.5488073517017814,
+          "observed_rate": 0.4897959183673469
+        },
+        {
+          "label": "team_a_win",
+          "bin": "(0.6, 0.7]",
+          "predictions": 59,
+          "mean_probability": 0.6511483154220145,
+          "observed_rate": 0.7796610169491526
+        },
+        {
+          "label": "team_a_win",
+          "bin": "(0.7, 0.8]",
+          "predictions": 26,
+          "mean_probability": 0.7371693028654142,
+          "observed_rate": 0.6153846153846154
+        },
+        {
+          "label": "team_a_win",
+          "bin": "(0.8, 0.9]",
+          "predictions": 3,
+          "mean_probability": 0.8326755409934915,
+          "observed_rate": 0.6666666666666666
+        },
+        {
+          "label": "team_b_win",
+          "bin": "(-0.001, 0.1]",
+          "predictions": 27,
+          "mean_probability": 0.07548759146611655,
+          "observed_rate": 0.07407407407407407
+        },
+        {
+          "label": "team_b_win",
+          "bin": "(0.1, 0.2]",
+          "predictions": 82,
+          "mean_probability": 0.14756074562142746,
+          "observed_rate": 0.17073170731707318
+        },
+        {
+          "label": "team_b_win",
+          "bin": "(0.2, 0.3]",
+          "predictions": 55,
+          "mean_probability": 0.24780583448516438,
+          "observed_rate": 0.2727272727272727
+        },
+        {
+          "label": "team_b_win",
+          "bin": "(0.3, 0.4]",
+          "predictions": 42,
+          "mean_probability": 0.353365475611247,
+          "observed_rate": 0.35714285714285715
+        },
+        {
+          "label": "team_b_win",
+          "bin": "(0.4, 0.5]",
+          "predictions": 45,
+          "mean_probability": 0.4507260773884766,
+          "observed_rate": 0.4444444444444444
+        },
+        {
+          "label": "team_b_win",
+          "bin": "(0.5, 0.6]",
+          "predictions": 35,
+          "mean_probability": 0.5479690522429956,
+          "observed_rate": 0.5142857142857142
+        },
+        {
+          "label": "team_b_win",
+          "bin": "(0.6, 0.7]",
+          "predictions": 26,
+          "mean_probability": 0.6420375817088012,
+          "observed_rate": 0.8076923076923077
+        },
+        {
+          "label": "team_b_win",
+          "bin": "(0.7, 0.8]",
+          "predictions": 7,
+          "mean_probability": 0.7286712075834295,
+          "observed_rate": 0.5714285714285714
+        },
+        {
+          "label": "team_b_win",
+          "bin": "(0.8, 0.9]",
+          "predictions": 1,
+          "mean_probability": 0.8549379522912808,
+          "observed_rate": 1.0
+        }
+      ]
+    }
+  },
+  "v16_adjustments": {
+    "wdl_temperature": 0.911277746522192,
+    "bayesian_goal_weight": 0.55,
+    "bivariate_covariance": 0.03733500667971471,
+    "zero_inflation": 0.002455980031034182,
+    "draw_score_scale": 1.0,
+    "result_reweight_strength": 0.007826142239728363,
+    "stage_parameter_set": "group",
+    "matrix_sum": 1.0,
+    "hierarchy_cutoff": "2026-06-11",
+    "hierarchy_matches": 11544,
+    "hierarchy_teams": 298,
+    "hierarchy_diagnostics": {
+      "max_rhat": 1.05,
+      "min_ess_bulk": 134.0,
+      "min_ess_tail": 247.0,
+      "divergences": 0
+    },
+    "pymc_sampler": "NUTS"
+  }
+}

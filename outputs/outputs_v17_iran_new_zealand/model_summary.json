@@ -1,0 +1,34 @@
+{
+  "version": "v17-recency-all-matches",
+  "learned_model_family": "sklearn_catboost_ensemble",
+  "wdl_model": "v17_catboost",
+  "exact_score_model": "v15_catboost_goals_with_all_match_recency_training",
+  "team_a": "IR Iran",
+  "team_b": "New Zealand",
+  "player_ratings_source": "/Users/rajeevagrawal/Downloads/world_cup_advanced_model_package/data/player_ratings_international.csv",
+  "declared_squads_source": "/Users/rajeevagrawal/Downloads/world_cup_advanced_model_package/data/world_cup_2026_declared_squads.csv",
+  "expanded_training_data": {
+    "world_cup_rows": 964,
+    "international_training_rows": 48441,
+    "world_cup_external_matches": 856,
+    "international_timeline_rows": 49405,
+    "training_rows_by_tournament_type": {
+      "FRIENDLY": 18388,
+      "QUALIFIER": 15928,
+      "OTHER": 10874,
+      "WC": 964,
+      "COPA": 869,
+      "AFCON": 845,
+      "GOLD": 589,
+      "AFCCUP": 421,
+      "EURO": 388,
+      "OTHER_CONTINENTAL": 139
+    },
+    "training_policy": "Train on curated prior World Cups plus every non-WC international available before the cutoff; evaluate/backtest only World Cups.",
+    "results_as_of": "2026-06-10",
+    "recency_half_life_years": 6.0,
+    "recency_min_weight": 0.03,
+    "continental_stage_features": false,
+    "continental_stage_feature_reason": "results.csv has tournament names but no round or stage column"
+  }
+}

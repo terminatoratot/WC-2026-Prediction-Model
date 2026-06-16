@@ -1,0 +1,14 @@
+{
+  "version": "v15-catboost",
+  "learned_model_family": "sklearn_catboost_ensemble",
+  "wdl_model": "v15_catboost",
+  "exact_score_model": "catboost_enhanced_goals_with_v11_score_conversion",
+  "team_a": "Belgium",
+  "team_b": "Egypt",
+  "player_ratings_source": "/Users/rajeevagrawal/Downloads/world_cup_advanced_model_package/data/player_ratings_international.csv",
+  "declared_squads_source": "/Users/rajeevagrawal/Downloads/world_cup_advanced_model_package/data/world_cup_2026_declared_squads.csv",
+  "player_profile_match_coverage": {
+    "team_a": 0.5,
+    "team_b": 0.19230769230769232
+  }
+}
