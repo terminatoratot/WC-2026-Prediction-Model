@@ -1,0 +1,1794 @@
+source_league,source_season,date,round,home_team,score,away_team,venue,game_id
+INT-European Championship,2024,2024-06-14,Group stage,Germany,5–1,Scotland,Allianz Arena (Neutral Site),bd775264
+INT-European Championship,2024,2024-06-15,Group stage,Hungary,1–3,Switzerland,RheinEnergieSTADION (Neutral Site),c15ec4e7
+INT-European Championship,2024,2024-06-15,Group stage,Italy,2–1,Albania,Signal Iduna Park (Neutral Site),4891e62c
+INT-European Championship,2024,2024-06-15,Group stage,Spain,3–0,Croatia,Olympiastadion Berlin (Neutral Site),b996c4de
+INT-European Championship,2024,2024-06-16,Group stage,Poland,1–2,Netherlands,Volksparkstadion (Neutral Site),923de563
+INT-European Championship,2024,2024-06-16,Group stage,Serbia,0–1,England,Veltins-Arena (Neutral Site),94c752b7
+INT-European Championship,2024,2024-06-16,Group stage,Slovenia,1–1,Denmark,MHPArena (Neutral Site),e58cc259
+INT-European Championship,2024,2024-06-17,Group stage,Austria,0–1,France,Merkur Spielarena (Neutral Site),3d8961eb
+INT-European Championship,2024,2024-06-17,Group stage,Belgium,0–1,Slovakia,Deutsche Bank Park (Neutral Site),5bda83ea
+INT-European Championship,2024,2024-06-17,Group stage,Romania,3–0,Ukraine,Allianz Arena (Neutral Site),67c17ad9
+INT-European Championship,2024,2024-06-18,Group stage,Portugal,2–1,Czechia,Red Bull Arena (Neutral Site),5e8192b8
+INT-European Championship,2024,2024-06-18,Group stage,Türkiye,3–1,Georgia,Signal Iduna Park (Neutral Site),36e9e40e
+INT-European Championship,2024,2024-06-19,Group stage,Croatia,2–2,Albania,Volksparkstadion (Neutral Site),30406358
+INT-European Championship,2024,2024-06-19,Group stage,Germany,2–0,Hungary,MHPArena (Neutral Site),248233a8
+INT-European Championship,2024,2024-06-19,Group stage,Scotland,1–1,Switzerland,RheinEnergieSTADION (Neutral Site),5ef87a15
+INT-European Championship,2024,2024-06-20,Group stage,Denmark,1–1,England,Deutsche Bank Park (Neutral Site),6cfeccb2
+INT-European Championship,2024,2024-06-20,Group stage,Slovenia,1–1,Serbia,Allianz Arena (Neutral Site),874a95ef
+INT-European Championship,2024,2024-06-20,Group stage,Spain,1–0,Italy,Veltins-Arena (Neutral Site),3f7c6e94
+INT-European Championship,2024,2024-06-21,Group stage,Netherlands,0–0,France,Red Bull Arena (Neutral Site),ad8d106c
+INT-European Championship,2024,2024-06-21,Group stage,Poland,1–3,Austria,Olympiastadion Berlin (Neutral Site),298d4d8f
+INT-European Championship,2024,2024-06-21,Group stage,Slovakia,1–2,Ukraine,Merkur Spielarena (Neutral Site),73849328
+INT-European Championship,2024,2024-06-22,Group stage,Belgium,2–0,Romania,RheinEnergieSTADION (Neutral Site),e0d67eb9
+INT-European Championship,2024,2024-06-22,Group stage,Georgia,1–1,Czechia,Volksparkstadion (Neutral Site),aab219f9
+INT-European Championship,2024,2024-06-22,Group stage,Türkiye,0–3,Portugal,Signal Iduna Park (Neutral Site),5448c54c
+INT-European Championship,2024,2024-06-23,Group stage,Scotland,0–1,Hungary,MHPArena (Neutral Site),2351343a
+INT-European Championship,2024,2024-06-23,Group stage,Switzerland,1–1,Germany,Deutsche Bank Park (Neutral Site),14e2c55d
+INT-European Championship,2024,2024-06-24,Group stage,Albania,0–1,Spain,Merkur Spielarena (Neutral Site),fde83534
+INT-European Championship,2024,2024-06-24,Group stage,Croatia,1–1,Italy,Red Bull Arena (Neutral Site),015e81b4
+INT-European Championship,2024,2024-06-25,Group stage,Denmark,0–0,Serbia,Allianz Arena (Neutral Site),5c5484a4
+INT-European Championship,2024,2024-06-25,Group stage,England,0–0,Slovenia,RheinEnergieSTADION (Neutral Site),7f111a22
+INT-European Championship,2024,2024-06-25,Group stage,France,1–1,Poland,Signal Iduna Park (Neutral Site),c410511b
+INT-European Championship,2024,2024-06-25,Group stage,Netherlands,2–3,Austria,Olympiastadion Berlin (Neutral Site),031f8ef3
+INT-European Championship,2024,2024-06-26,Group stage,Czechia,1–2,Türkiye,Volksparkstadion (Neutral Site),8824c255
+INT-European Championship,2024,2024-06-26,Group stage,Georgia,2–0,Portugal,Veltins-Arena (Neutral Site),24322b1d
+INT-European Championship,2024,2024-06-26,Group stage,Slovakia,1–1,Romania,Deutsche Bank Park (Neutral Site),00199be7
+INT-European Championship,2024,2024-06-26,Group stage,Ukraine,0–0,Belgium,MHPArena (Neutral Site),2f0d1c11
+INT-European Championship,2024,2024-06-29,Round of 16,Germany,2–0,Denmark,Signal Iduna Park (Neutral Site),c7429dd6
+INT-European Championship,2024,2024-06-29,Round of 16,Switzerland,2–0,Italy,Olympiastadion Berlin (Neutral Site),9b4d5970
+INT-European Championship,2024,2024-06-30,Round of 16,England,2–1,Slovakia,Veltins-Arena (Neutral Site),2b26dc4f
+INT-European Championship,2024,2024-06-30,Round of 16,Spain,4–1,Georgia,RheinEnergieSTADION (Neutral Site),87e35d10
+INT-European Championship,2024,2024-07-01,Round of 16,France,1–0,Belgium,Merkur Spielarena (Neutral Site),ffae1046
+INT-European Championship,2024,2024-07-01,Round of 16,Portugal,(3) 0–0 (0),Slovenia,Deutsche Bank Park (Neutral Site),fd6c3c0d
+INT-European Championship,2024,2024-07-02,Round of 16,Austria,1–2,Türkiye,Red Bull Arena (Neutral Site),f575ef3e
+INT-European Championship,2024,2024-07-02,Round of 16,Romania,0–3,Netherlands,Allianz Arena (Neutral Site),82b4d2f5
+INT-European Championship,2024,2024-07-05,Quarter-finals,Portugal,(3) 0–0 (5),France,Volksparkstadion (Neutral Site),8e55d3ab
+INT-European Championship,2024,2024-07-05,Quarter-finals,Spain,2–1,Germany,MHPArena (Neutral Site),0baf4cfa
+INT-European Championship,2024,2024-07-06,Quarter-finals,England,(5) 1–1 (3),Switzerland,Merkur Spielarena (Neutral Site),54e21415
+INT-European Championship,2024,2024-07-06,Quarter-finals,Netherlands,2–1,Türkiye,Olympiastadion Berlin (Neutral Site),e8c79df4
+INT-European Championship,2024,2024-07-09,Semi-finals,Spain,2–1,France,Allianz Arena (Neutral Site),34d4d9d2
+INT-European Championship,2024,2024-07-10,Semi-finals,Netherlands,1–2,England,Signal Iduna Park (Neutral Site),dbff0752
+INT-European Championship,2024,2024-07-14,Final,Spain,2–1,England,Olympiastadion Berlin (Neutral Site),e307ecc0
+INT-Copa America,2024,2024-06-20,Group stage,Argentina,2–0,Canada,Mercedes-Benz Stadium (Neutral Site),09240291
+INT-Copa America,2024,2024-06-21,Group stage,Peru,0–0,Chile,AT&T Stadium (Neutral Site),bd3495a6
+INT-Copa America,2024,2024-06-22,Group stage,Ecuador,1–2,Venezuela,Levi's Stadium (Neutral Site),6bdbfc68
+INT-Copa America,2024,2024-06-22,Group stage,Mexico,1–0,Jamaica,NRG Stadium (Neutral Site),652c8ecd
+INT-Copa America,2024,2024-06-23,Group stage,United States,2–0,Bolivia,AT&T Stadium (Neutral Site),f4baac63
+INT-Copa America,2024,2024-06-23,Group stage,Uruguay,3–1,Panama,Hard Rock Stadium (Neutral Site),504e7c6b
+INT-Copa America,2024,2024-06-24,Group stage,Brazil,0–0,Costa Rica,SoFi Stadium (Neutral Site),9e7417ae
+INT-Copa America,2024,2024-06-24,Group stage,Colombia,2–1,Paraguay,NRG Stadium (Neutral Site),5b537cd5
+INT-Copa America,2024,2024-06-25,Group stage,Chile,0–1,Argentina,MetLife Stadium (Neutral Site),0207ba60
+INT-Copa America,2024,2024-06-25,Group stage,Peru,0–1,Canada,Children's Mercy Park (Neutral Site),56faeaf9
+INT-Copa America,2024,2024-06-26,Group stage,Ecuador,3–1,Jamaica,Allegiant Stadium (Neutral Site),db1a96ef
+INT-Copa America,2024,2024-06-26,Group stage,Venezuela,1–0,Mexico,SoFi Stadium (Neutral Site),434eeeb4
+INT-Copa America,2024,2024-06-27,Group stage,Panama,2–1,United States,Mercedes-Benz Stadium (Neutral Site),eb5b0b7b
+INT-Copa America,2024,2024-06-27,Group stage,Uruguay,5–0,Bolivia,MetLife Stadium (Neutral Site),873350d2
+INT-Copa America,2024,2024-06-28,Group stage,Colombia,3–0,Costa Rica,State Farm Stadium (Neutral Site),a79510cb
+INT-Copa America,2024,2024-06-28,Group stage,Paraguay,1–4,Brazil,Allegiant Stadium (Neutral Site),db2faedf
+INT-Copa America,2024,2024-06-29,Group stage,Argentina,2–0,Peru,Hard Rock Stadium (Neutral Site),0f761088
+INT-Copa America,2024,2024-06-29,Group stage,Canada,0–0,Chile,Inter&Co Stadium (Neutral Site),01a7c36f
+INT-Copa America,2024,2024-06-30,Group stage,Jamaica,0–3,Venezuela,Q2 Stadium (Neutral Site),8e6f1f63
+INT-Copa America,2024,2024-06-30,Group stage,Mexico,0–0,Ecuador,State Farm Stadium (Neutral Site),1e4d784d
+INT-Copa America,2024,2024-07-01,Group stage,Bolivia,1–3,Panama,Inter&Co Stadium (Neutral Site),9ab02fd0
+INT-Copa America,2024,2024-07-01,Group stage,United States,0–1,Uruguay,GEHA Field at Arrowhead Stadium (Neutral Site),3597f034
+INT-Copa America,2024,2024-07-02,Group stage,Brazil,1–1,Colombia,Levi's Stadium (Neutral Site),438b034c
+INT-Copa America,2024,2024-07-02,Group stage,Costa Rica,2–1,Paraguay,Q2 Stadium (Neutral Site),c6ecd916
+INT-Copa America,2024,2024-07-04,Quarter-finals,Argentina,(4) 1–1 (2),Ecuador,NRG Stadium (Neutral Site),be34c6db
+INT-Copa America,2024,2024-07-05,Quarter-finals,Venezuela,(3) 1–1 (4),Canada,AT&T Stadium (Neutral Site),ca63b471
+INT-Copa America,2024,2024-07-06,Quarter-finals,Colombia,5–0,Panama,State Farm Stadium (Neutral Site),1cf59899
+INT-Copa America,2024,2024-07-06,Quarter-finals,Uruguay,(4) 0–0 (2),Brazil,Allegiant Stadium (Neutral Site),c63a9e9c
+INT-Copa America,2024,2024-07-09,Semi-finals,Argentina,2–0,Canada,MetLife Stadium (Neutral Site),4803e5f9
+INT-Copa America,2024,2024-07-10,Semi-finals,Uruguay,0–1,Colombia,Bank of America Stadium (Neutral Site),08d6e96b
+INT-Copa America,2024,2024-07-13,Third-place match,Canada,(3) 2–2 (4),Uruguay,Bank of America Stadium (Neutral Site),2466e9ff
+INT-Copa America,2024,2024-07-14,Final,Argentina,1–0,Colombia,Hard Rock Stadium (Neutral Site),39b037a9
+INT-Africa Cup of Nations,2023,2024-01-13,Group stage,Côte d'Ivoire,2–0,Guinea-Bissau,Stade Olympique Alassane Ouattara d'Ebim... (Neutral Site),42104bec
+INT-Africa Cup of Nations,2023,2024-01-14,Group stage,Egypt,2–2,Mozambique,Stade Félix Houphouët-Boigny (Neutral Site),b4accf41
+INT-Africa Cup of Nations,2023,2024-01-14,Group stage,Ghana,1–2,Cabo Verde,Stade Félix Houphouët-Boigny (Neutral Site),be716202
+INT-Africa Cup of Nations,2023,2024-01-14,Group stage,Nigeria,1–1,Equ. Guinea,Stade Olympique Alassane Ouattara d'Ebim... (Neutral Site),e99d7cd8
+INT-Africa Cup of Nations,2023,2024-01-15,Group stage,Algeria,1–1,Angola,Stade de la Paix (Neutral Site),e0c0a109
+INT-Africa Cup of Nations,2023,2024-01-15,Group stage,Cameroon,1–1,Guinea,Stade Charles Konan Banny de Yamoussoukr... (Neutral Site),8f5f1477
+INT-Africa Cup of Nations,2023,2024-01-15,Group stage,Senegal,3–0,Gambia,Stade Charles Konan Banny de Yamoussoukr... (Neutral Site),c6f1452c
+INT-Africa Cup of Nations,2023,2024-01-16,Group stage,Burkina Faso,1–0,Mauritania,Stade de la Paix (Neutral Site),ddb9173c
+INT-Africa Cup of Nations,2023,2024-01-16,Group stage,Mali,2–0,South Africa,Stade Amadou Gon Coulibaly (Neutral Site),a42f6f20
+INT-Africa Cup of Nations,2023,2024-01-16,Group stage,Tunisia,0–1,Namibia,Stade Amadou Gon Coulibaly (Neutral Site),93540241
+INT-Africa Cup of Nations,2023,2024-01-17,Group stage,Congo DR,1–1,Zambia,Stade Laurent Pokou (Neutral Site),279c99c1
+INT-Africa Cup of Nations,2023,2024-01-17,Group stage,Morocco,3–0,Tanzania,Stade Laurent Pokou (Neutral Site),020f8c71
+INT-Africa Cup of Nations,2023,2024-01-18,Group stage,Côte d'Ivoire,0–1,Nigeria,Stade Olympique Alassane Ouattara d'Ebim... (Neutral Site),32eaeb87
+INT-Africa Cup of Nations,2023,2024-01-18,Group stage,Egypt,2–2,Ghana,Stade Félix Houphouët-Boigny (Neutral Site),4335f5ee
+INT-Africa Cup of Nations,2023,2024-01-18,Group stage,Equ. Guinea,4–2,Guinea-Bissau,Stade Olympique Alassane Ouattara d'Ebim... (Neutral Site),d559ba2a
+INT-Africa Cup of Nations,2023,2024-01-19,Group stage,Cabo Verde,3–0,Mozambique,Stade Félix Houphouët-Boigny (Neutral Site),fabf3af0
+INT-Africa Cup of Nations,2023,2024-01-19,Group stage,Guinea,1–0,Gambia,Stade Charles Konan Banny de Yamoussoukr... (Neutral Site),85ffd4a1
+INT-Africa Cup of Nations,2023,2024-01-19,Group stage,Senegal,3–1,Cameroon,Stade Charles Konan Banny de Yamoussoukr... (Neutral Site),c1764f4c
+INT-Africa Cup of Nations,2023,2024-01-20,Group stage,Algeria,2–2,Burkina Faso,Stade de la Paix (Neutral Site),fbf933fe
+INT-Africa Cup of Nations,2023,2024-01-20,Group stage,Mauritania,2–3,Angola,Stade de la Paix (Neutral Site),7a38451f
+INT-Africa Cup of Nations,2023,2024-01-20,Group stage,Tunisia,1–1,Mali,Stade Amadou Gon Coulibaly (Neutral Site),cf6c1af5
+INT-Africa Cup of Nations,2023,2024-01-21,Group stage,Morocco,1–1,Congo DR,Stade Laurent Pokou (Neutral Site),2f260b7c
+INT-Africa Cup of Nations,2023,2024-01-21,Group stage,South Africa,4–0,Namibia,Stade Amadou Gon Coulibaly (Neutral Site),9140d792
+INT-Africa Cup of Nations,2023,2024-01-21,Group stage,Zambia,1–1,Tanzania,Stade Laurent Pokou (Neutral Site),a053f3ab
+INT-Africa Cup of Nations,2023,2024-01-22,Group stage,Cabo Verde,2–2,Egypt,Stade Félix Houphouët-Boigny (Neutral Site),509931aa
+INT-Africa Cup of Nations,2023,2024-01-22,Group stage,Equ. Guinea,4–0,Côte d'Ivoire,Stade Olympique Alassane Ouattara d'Ebim... (Neutral Site),e4ab20d2
+INT-Africa Cup of Nations,2023,2024-01-22,Group stage,Guinea-Bissau,0–1,Nigeria,Stade Félix Houphouët-Boigny (Neutral Site),aa5cbdfe
+INT-Africa Cup of Nations,2023,2024-01-22,Group stage,Mozambique,2–2,Ghana,Stade Olympique Alassane Ouattara d'Ebim... (Neutral Site),90297e1c
+INT-Africa Cup of Nations,2023,2024-01-23,Group stage,Angola,2–0,Burkina Faso,Stade Charles Konan Banny de Yamoussoukr... (Neutral Site),2f5f5d75
+INT-Africa Cup of Nations,2023,2024-01-23,Group stage,Gambia,2–3,Cameroon,Stade de la Paix (Neutral Site),4158e2e5
+INT-Africa Cup of Nations,2023,2024-01-23,Group stage,Guinea,0–2,Senegal,Stade Charles Konan Banny de Yamoussoukr... (Neutral Site),ac94db0b
+INT-Africa Cup of Nations,2023,2024-01-23,Group stage,Mauritania,1–0,Algeria,Stade de la Paix (Neutral Site),11d63f92
+INT-Africa Cup of Nations,2023,2024-01-24,Group stage,Namibia,0–0,Mali,Stade Laurent Pokou (Neutral Site),af50dffe
+INT-Africa Cup of Nations,2023,2024-01-24,Group stage,South Africa,0–0,Tunisia,Stade Amadou Gon Coulibaly (Neutral Site),529e14d2
+INT-Africa Cup of Nations,2023,2024-01-24,Group stage,Tanzania,0–0,Congo DR,Stade Amadou Gon Coulibaly (Neutral Site),a558cd14
+INT-Africa Cup of Nations,2023,2024-01-24,Group stage,Zambia,0–1,Morocco,Stade Laurent Pokou (Neutral Site),1114524d
+INT-Africa Cup of Nations,2023,2024-01-27,Round of 16,Angola,3–0,Namibia,Stade de la Paix (Neutral Site),96faf157
+INT-Africa Cup of Nations,2023,2024-01-27,Round of 16,Nigeria,2–0,Cameroon,Stade Félix Houphouët-Boigny (Neutral Site),15074054
+INT-Africa Cup of Nations,2023,2024-01-28,Round of 16,Egypt,(7) 1–1 (8),Congo DR,Stade Laurent Pokou (Neutral Site),9f36f6bd
+INT-Africa Cup of Nations,2023,2024-01-28,Round of 16,Equ. Guinea,0–1,Guinea,Stade Olympique Alassane Ouattara d'Ebim... (Neutral Site),9f7b1511
+INT-Africa Cup of Nations,2023,2024-01-29,Round of 16,Cabo Verde,1–0,Mauritania,Stade Félix Houphouët-Boigny (Neutral Site),2d7909df
+INT-Africa Cup of Nations,2023,2024-01-29,Round of 16,Senegal,(4) 1–1 (5),Côte d'Ivoire,Stade Charles Konan Banny de Yamoussoukr... (Neutral Site),b32d646d
+INT-Africa Cup of Nations,2023,2024-01-30,Round of 16,Mali,2–1,Burkina Faso,Stade Amadou Gon Coulibaly (Neutral Site),bdadd648
+INT-Africa Cup of Nations,2023,2024-01-30,Round of 16,Morocco,0–2,South Africa,Stade Laurent Pokou (Neutral Site),3ec95ed2
+INT-Africa Cup of Nations,2023,2024-02-02,Quarter-finals,Congo DR,3–1,Guinea,Stade Olympique Alassane Ouattara d'Ebim... (Neutral Site),dc2411b9
+INT-Africa Cup of Nations,2023,2024-02-02,Quarter-finals,Nigeria,1–0,Angola,Stade Félix Houphouët-Boigny (Neutral Site),6a0bd9a3
+INT-Africa Cup of Nations,2023,2024-02-03,Quarter-finals,Cabo Verde,(1) 0–0 (2),South Africa,Stade Charles Konan Banny de Yamoussoukr... (Neutral Site),175be3f8
+INT-Africa Cup of Nations,2023,2024-02-03,Quarter-finals,Mali,1–2,Côte d'Ivoire,Stade de la Paix (Neutral Site),fe799789
+INT-Africa Cup of Nations,2023,2024-02-07,Semi-finals,Côte d'Ivoire,1–0,Congo DR,Stade Olympique Alassane Ouattara d'Ebim... (Neutral Site),083c7e30
+INT-Africa Cup of Nations,2023,2024-02-07,Semi-finals,Nigeria,(4) 1–1 (2),South Africa,Stade de la Paix (Neutral Site),9a30d019
+INT-Africa Cup of Nations,2023,2024-02-10,Third-place match,South Africa,(6) 0–0 (5),Congo DR,Stade Félix Houphouët-Boigny (Neutral Site),6530ea40
+INT-Africa Cup of Nations,2023,2024-02-11,Final,Nigeria,1–2,Côte d'Ivoire,Stade Olympique Alassane Ouattara d'Ebim... (Neutral Site),799cf803
+INT-Africa Cup of Nations,2025,2025-12-21,Group stage,Morocco,2–0,Comoros,Stade Prince Moulay Abdallah (Neutral Site),420fec3d
+INT-Africa Cup of Nations,2025,2025-12-22,Group stage,Egypt,2–1,Zimbabwe,Grand Stade d'Agadir (Neutral Site),19fda49b
+INT-Africa Cup of Nations,2025,2025-12-22,Group stage,Mali,1–1,Zambia,Stade Mohamed V (Neutral Site),8244986d
+INT-Africa Cup of Nations,2025,2025-12-22,Group stage,South Africa,2–1,Angola,Grand Stade de Marrakech (Neutral Site),9e50c0b7
+INT-Africa Cup of Nations,2025,2025-12-23,Group stage,Congo DR,1–0,Benin,Al Medina Stadium (Neutral Site),ffd23862
+INT-Africa Cup of Nations,2025,2025-12-23,Group stage,Nigeria,2–1,Tanzania,Complexe Sportif de Fès (Neutral Site),6d80c3f2
+INT-Africa Cup of Nations,2025,2025-12-23,Group stage,Senegal,3–0,Botswana,Stade Ibn Batouta (Neutral Site),4a718af7
+INT-Africa Cup of Nations,2025,2025-12-23,Group stage,Tunisia,3–1,Uganda,Stade Olympique de Rabat (Neutral Site),d6f3fb16
+INT-Africa Cup of Nations,2025,2025-12-24,Group stage,Algeria,3–0,Sudan,Stade Prince Héritier Moulay Hassan (Neutral Site),fda2a92e
+INT-Africa Cup of Nations,2025,2025-12-24,Group stage,Burkina Faso,2–1,Equ. Guinea,Stade Mohamed V (Neutral Site),00e408a0
+INT-Africa Cup of Nations,2025,2025-12-24,Group stage,Cameroon,1–0,Gabon,Grand Stade d'Agadir (Neutral Site),9197de96
+INT-Africa Cup of Nations,2025,2025-12-24,Group stage,Côte d'Ivoire,1–0,Mozambique,Grand Stade de Marrakech (Neutral Site),e7768161
+INT-Africa Cup of Nations,2025,2025-12-26,Group stage,Angola,1–1,Zimbabwe,Grand Stade de Marrakech (Neutral Site),58f5338f
+INT-Africa Cup of Nations,2025,2025-12-26,Group stage,Egypt,1–0,South Africa,Grand Stade d'Agadir (Neutral Site),d1ffd1e7
+INT-Africa Cup of Nations,2025,2025-12-26,Group stage,Morocco,1–1,Mali,Stade Prince Moulay Abdallah (Neutral Site),73b73ae8
+INT-Africa Cup of Nations,2025,2025-12-26,Group stage,Zambia,0–0,Comoros,Stade Mohamed V (Neutral Site),cc7012a0
+INT-Africa Cup of Nations,2025,2025-12-27,Group stage,Benin,1–0,Botswana,Stade Olympique de Rabat (Neutral Site),8c91e4cd
+INT-Africa Cup of Nations,2025,2025-12-27,Group stage,Nigeria,3–2,Tunisia,Complexe Sportif de Fès (Neutral Site),ad2dc803
+INT-Africa Cup of Nations,2025,2025-12-27,Group stage,Senegal,1–1,Congo DR,Stade Ibn Batouta (Neutral Site),49c13efb
+INT-Africa Cup of Nations,2025,2025-12-27,Group stage,Uganda,1–1,Tanzania,Al Medina Stadium (Neutral Site),f117f941
+INT-Africa Cup of Nations,2025,2025-12-28,Group stage,Algeria,1–0,Burkina Faso,Stade Prince Héritier Moulay Hassan (Neutral Site),bd7a4048
+INT-Africa Cup of Nations,2025,2025-12-28,Group stage,Côte d'Ivoire,1–1,Cameroon,Grand Stade de Marrakech (Neutral Site),99232bae
+INT-Africa Cup of Nations,2025,2025-12-28,Group stage,Equ. Guinea,0–1,Sudan,Stade Mohamed V (Neutral Site),ea895186
+INT-Africa Cup of Nations,2025,2025-12-28,Group stage,Gabon,2–3,Mozambique,Grand Stade d'Agadir (Neutral Site),7f6ff05f
+INT-Africa Cup of Nations,2025,2025-12-29,Group stage,Angola,0–0,Egypt,Grand Stade d'Agadir (Neutral Site),a61c88d2
+INT-Africa Cup of Nations,2025,2025-12-29,Group stage,Comoros,0–0,Mali,Stade Mohamed V (Neutral Site),b79ed078
+INT-Africa Cup of Nations,2025,2025-12-29,Group stage,Zambia,0–3,Morocco,Stade Prince Moulay Abdallah (Neutral Site),f405318c
+INT-Africa Cup of Nations,2025,2025-12-29,Group stage,Zimbabwe,2–3,South Africa,Grand Stade de Marrakech (Neutral Site),4c8906d7
+INT-Africa Cup of Nations,2025,2025-12-30,Group stage,Benin,0–3,Senegal,Stade Ibn Batouta (Neutral Site),e5a08793
+INT-Africa Cup of Nations,2025,2025-12-30,Group stage,Botswana,0–3,Congo DR,Al Medina Stadium (Neutral Site),1e307ed3
+INT-Africa Cup of Nations,2025,2025-12-30,Group stage,Tanzania,1–1,Tunisia,Stade Olympique de Rabat (Neutral Site),97bb8282
+INT-Africa Cup of Nations,2025,2025-12-30,Group stage,Uganda,1–3,Nigeria,Complexe Sportif de Fès (Neutral Site),1067d5f0
+INT-Africa Cup of Nations,2025,2025-12-31,Group stage,Equ. Guinea,1–3,Algeria,Stade Prince Héritier Moulay Hassan (Neutral Site),4a9327de
+INT-Africa Cup of Nations,2025,2025-12-31,Group stage,Gabon,2–3,Côte d'Ivoire,Grand Stade de Marrakech (Neutral Site),3b401691
+INT-Africa Cup of Nations,2025,2025-12-31,Group stage,Mozambique,1–2,Cameroon,Grand Stade d'Agadir (Neutral Site),162cbd69
+INT-Africa Cup of Nations,2025,2025-12-31,Group stage,Sudan,0–2,Burkina Faso,Stade Mohamed V (Neutral Site),60433c95
+INT-Africa Cup of Nations,2025,2026-01-03,Round of 16,Mali,(3) 1–1 (2),Tunisia,Stade Mohamed V (Neutral Site),20335594
+INT-Africa Cup of Nations,2025,2026-01-03,Round of 16,Senegal,3–1,Sudan,Stade Ibn Batouta (Neutral Site),fbcbdd4a
+INT-Africa Cup of Nations,2025,2026-01-04,Round of 16,Morocco,1–0,Tanzania,Stade Prince Moulay Abdallah (Neutral Site),e679ba54
+INT-Africa Cup of Nations,2025,2026-01-04,Round of 16,South Africa,1–2,Cameroon,Al Medina Stadium (Neutral Site),1a5397bd
+INT-Africa Cup of Nations,2025,2026-01-05,Round of 16,Egypt,3–1,Benin,Grand Stade d'Agadir (Neutral Site),737e9d9e
+INT-Africa Cup of Nations,2025,2026-01-05,Round of 16,Nigeria,4–0,Mozambique,Complexe Sportif de Fès (Neutral Site),9443d6c5
+INT-Africa Cup of Nations,2025,2026-01-06,Round of 16,Algeria,1–0,Congo DR,Stade Prince Héritier Moulay Hassan (Neutral Site),9f5cf4af
+INT-Africa Cup of Nations,2025,2026-01-06,Round of 16,Côte d'Ivoire,3–0,Burkina Faso,Grand Stade de Marrakech (Neutral Site),d1ac9d4c
+INT-Africa Cup of Nations,2025,2026-01-09,Quarter-finals,Cameroon,0–2,Morocco,Stade Prince Moulay Abdallah (Neutral Site),7ae5c9d7
+INT-Africa Cup of Nations,2025,2026-01-09,Quarter-finals,Mali,0–1,Senegal,Stade Ibn Batouta (Neutral Site),53a5612c
+INT-Africa Cup of Nations,2025,2026-01-10,Quarter-finals,Algeria,0–2,Nigeria,Grand Stade de Marrakech (Neutral Site),f0e85fd8
+INT-Africa Cup of Nations,2025,2026-01-10,Quarter-finals,Egypt,3–2,Côte d'Ivoire,Grand Stade d'Agadir (Neutral Site),d1d6bf04
+INT-Africa Cup of Nations,2025,2026-01-14,Semi-finals,Nigeria,(2) 0–0 (4),Morocco,Stade Prince Moulay Abdallah (Neutral Site),d76ec9b7
+INT-Africa Cup of Nations,2025,2026-01-14,Semi-finals,Senegal,1–0,Egypt,Stade Ibn Batouta (Neutral Site),08cb03cf
+INT-Africa Cup of Nations,2025,2026-01-17,Third-place match,Egypt,(2) 0–0 (4),Nigeria,Stade Mohamed V (Neutral Site),6a7be374
+INT-Africa Cup of Nations,2025,2026-01-18,Final,Senegal,1–0,Morocco,Stade Prince Moulay Abdallah (Neutral Site),e7ababc1
+INT-CONCACAF Gold Cup,2023,2023-06-24,Group stage,United States,1–1,Jamaica,Soldier Field (Neutral Site),2ec267fb
+INT-CONCACAF Gold Cup,2023,2023-06-25,Group stage,Haiti,2–1,Qatar,NRG Stadium (Neutral Site),ffc8be25
+INT-CONCACAF Gold Cup,2023,2023-06-25,Group stage,Mexico,4–0,Honduras,NRG Stadium (Neutral Site),3aa8e5c2
+INT-CONCACAF Gold Cup,2023,2023-06-25,Group stage,Trin & Tobago,3–0,St. Kitts & Nevis,DRV PNK Stadium (Neutral Site),f9b849a7
+INT-CONCACAF Gold Cup,2023,2023-06-26,Group stage,Costa Rica,1–2,Panama,DRV PNK Stadium (Neutral Site),e48cc2c0
+INT-CONCACAF Gold Cup,2023,2023-06-26,Group stage,El Salvador,1–2,Martinique,DRV PNK Stadium (Neutral Site),11ecc45b
+INT-CONCACAF Gold Cup,2023,2023-06-27,Group stage,Canada,2–2,Guadeloupe,BMO Field (Neutral Site),311cae3d
+INT-CONCACAF Gold Cup,2023,2023-06-27,Group stage,Guatemala,1–0,Cuba,DRV PNK Stadium (Neutral Site),5bb8dba5
+INT-CONCACAF Gold Cup,2023,2023-06-28,Group stage,Jamaica,4–1,Trin & Tobago,Citypark (Neutral Site),b1b16bef
+INT-CONCACAF Gold Cup,2023,2023-06-28,Group stage,St. Kitts & Nevis,0–6,United States,Citypark (Neutral Site),e9794333
+INT-CONCACAF Gold Cup,2023,2023-06-29,Group stage,Haiti,1–3,Mexico,State Farm Stadium (Neutral Site),9d68d61a
+INT-CONCACAF Gold Cup,2023,2023-06-30,Group stage,El Salvador,0–0,Costa Rica,Red Bull Arena (Neutral Site),f39503b3
+INT-CONCACAF Gold Cup,2023,2023-06-30,Group stage,Martinique,1–2,Panama,Red Bull Arena (Neutral Site),5af5ecfb
+INT-CONCACAF Gold Cup,2023,2023-06-30,Group stage,Qatar,1–1,Honduras,State Farm Stadium (Neutral Site),02088980
+INT-CONCACAF Gold Cup,2023,2023-07-01,Group stage,Cuba,1–4,Guadeloupe,Shell Energy Stadium (Neutral Site),29b542e9
+INT-CONCACAF Gold Cup,2023,2023-07-01,Group stage,Guatemala,0–0,Canada,Shell Energy Stadium (Neutral Site),e000f4d0
+INT-CONCACAF Gold Cup,2023,2023-07-02,Group stage,Honduras,2–1,Haiti,Bank of America Stadium (Neutral Site),2ac47cb8
+INT-CONCACAF Gold Cup,2023,2023-07-02,Group stage,Jamaica,5–0,St. Kitts & Nevis,Levi's Stadium (Neutral Site),aba56882
+INT-CONCACAF Gold Cup,2023,2023-07-02,Group stage,Mexico,0–1,Qatar,Levi's Stadium (Neutral Site),9f03baf0
+INT-CONCACAF Gold Cup,2023,2023-07-02,Group stage,United States,6–0,Trin & Tobago,Bank of America Stadium (Neutral Site),375cc93b
+INT-CONCACAF Gold Cup,2023,2023-07-04,Group stage,Canada,4–2,Cuba,Shell Energy Stadium (Neutral Site),6206941e
+INT-CONCACAF Gold Cup,2023,2023-07-04,Group stage,Costa Rica,6–4,Martinique,Red Bull Arena (Neutral Site),1bea0ecf
+INT-CONCACAF Gold Cup,2023,2023-07-04,Group stage,Guadeloupe,2–3,Guatemala,Red Bull Arena (Neutral Site),80a5fe55
+INT-CONCACAF Gold Cup,2023,2023-07-04,Group stage,Panama,2–2,El Salvador,Shell Energy Stadium (Neutral Site),465ab1b4
+INT-CONCACAF Gold Cup,2023,2023-07-08,Quarter-finals,Mexico,2–0,Costa Rica,AT&T Stadium (Neutral Site),63cfb108
+INT-CONCACAF Gold Cup,2023,2023-07-08,Quarter-finals,Panama,4–0,Qatar,AT&T Stadium (Neutral Site),da7340c9
+INT-CONCACAF Gold Cup,2023,2023-07-09,Quarter-finals,Guatemala,0–1,Jamaica,TQL Stadium (Neutral Site),8f223328
+INT-CONCACAF Gold Cup,2023,2023-07-09,Quarter-finals,United States,(3) 2–2 (2),Canada,TQL Stadium (Neutral Site),c60b4cc3
+INT-CONCACAF Gold Cup,2023,2023-07-12,Semi-finals,Jamaica,0–3,Mexico,Allegiant Stadium (Neutral Site),0befaa69
+INT-CONCACAF Gold Cup,2023,2023-07-12,Semi-finals,United States,(4) 1–1 (5),Panama,Snapdragon Stadium (Neutral Site),80b3c928
+INT-CONCACAF Gold Cup,2023,2023-07-16,Final,Mexico,1–0,Panama,SoFi Stadium (Neutral Site),661dd94b
+INT-CONCACAF Gold Cup,2025,2025-06-14,Group stage,Mexico,3–2,Dominican Rep.,SoFi Stadium (Neutral Site),032336c2
+INT-CONCACAF Gold Cup,2025,2025-06-15,Group stage,Costa Rica,4–3,Suriname,Snapdragon Stadium (Neutral Site),2c2a43c7
+INT-CONCACAF Gold Cup,2025,2025-06-15,Group stage,Haiti,0–1,Saudi Arabia,Snapdragon Stadium (Neutral Site),def62fd7
+INT-CONCACAF Gold Cup,2025,2025-06-15,Group stage,United States,5–0,Trin & Tobago,PayPal Park (Neutral Site),7576e6c0
+INT-CONCACAF Gold Cup,2025,2025-06-16,Group stage,Jamaica,0–1,Guatemala,Dignity Health Sports Park (Neutral Site),4058e37e
+INT-CONCACAF Gold Cup,2025,2025-06-16,Group stage,Panama,5–2,Guadeloupe,Dignity Health Sports Park (Neutral Site),853e44bf
+INT-CONCACAF Gold Cup,2025,2025-06-17,Group stage,Canada,6–0,Honduras,BC Place Stadium (Neutral Site),5394707c
+INT-CONCACAF Gold Cup,2025,2025-06-17,Group stage,Curaçao,0–0,El Salvador,PayPal Park (Neutral Site),9fcf0273
+INT-CONCACAF Gold Cup,2025,2025-06-18,Group stage,Costa Rica,2–1,Dominican Rep.,AT&T Stadium (Neutral Site),ad86ebda
+INT-CONCACAF Gold Cup,2025,2025-06-18,Group stage,Suriname,0–2,Mexico,AT&T Stadium (Neutral Site),156e335f
+INT-CONCACAF Gold Cup,2025,2025-06-19,Group stage,Saudi Arabia,0–1,United States,Q2 Stadium (Neutral Site),7ad35ca2
+INT-CONCACAF Gold Cup,2025,2025-06-19,Group stage,Trin & Tobago,1–1,Haiti,Shell Energy Stadium (Neutral Site),ded402b6
+INT-CONCACAF Gold Cup,2025,2025-06-20,Group stage,Guatemala,0–1,Panama,Q2 Stadium (Neutral Site),23a98e8c
+INT-CONCACAF Gold Cup,2025,2025-06-20,Group stage,Jamaica,2–1,Guadeloupe,PayPal Park (Neutral Site),a1523b4c
+INT-CONCACAF Gold Cup,2025,2025-06-21,Group stage,Curaçao,1–1,Canada,Shell Energy Stadium (Neutral Site),b59b0775
+INT-CONCACAF Gold Cup,2025,2025-06-21,Group stage,Honduras,2–0,El Salvador,Shell Energy Stadium (Neutral Site),f9d7207a
+INT-CONCACAF Gold Cup,2025,2025-06-22,Group stage,Dominican Rep.,0–0,Suriname,AT&T Stadium (Neutral Site),fe42e33e
+INT-CONCACAF Gold Cup,2025,2025-06-22,Group stage,Mexico,0–0,Costa Rica,Allegiant Stadium (Neutral Site),fe51f1f1
+INT-CONCACAF Gold Cup,2025,2025-06-22,Group stage,Saudi Arabia,1–1,Trin & Tobago,Allegiant Stadium (Neutral Site),78dfe615
+INT-CONCACAF Gold Cup,2025,2025-06-22,Group stage,United States,2–1,Haiti,AT&T Stadium (Neutral Site),94f436b0
+INT-CONCACAF Gold Cup,2025,2025-06-24,Group stage,Canada,2–0,El Salvador,Shell Energy Stadium (Neutral Site),1f648796
+INT-CONCACAF Gold Cup,2025,2025-06-24,Group stage,Guadeloupe,2–3,Guatemala,Shell Energy Stadium (Neutral Site),13a76dfe
+INT-CONCACAF Gold Cup,2025,2025-06-24,Group stage,Honduras,2–1,Curaçao,PayPal Park (Neutral Site),2e2aeaf1
+INT-CONCACAF Gold Cup,2025,2025-06-24,Group stage,Panama,4–1,Jamaica,Q2 Stadium (Neutral Site),11acc79b
+INT-CONCACAF Gold Cup,2025,2025-06-28,Quarter-finals,Mexico,2–0,Saudi Arabia,State Farm Stadium (Neutral Site),0ddc176b
+INT-CONCACAF Gold Cup,2025,2025-06-28,Quarter-finals,Panama,(4) 1–1 (5),Honduras,State Farm Stadium (Neutral Site),c93f7aed
+INT-CONCACAF Gold Cup,2025,2025-06-29,Quarter-finals,Canada,(5) 1–1 (6),Guatemala,Huntington Bank Stadium (Neutral Site),7f3f63fc
+INT-CONCACAF Gold Cup,2025,2025-06-29,Quarter-finals,United States,(4) 2–2 (3),Costa Rica,Huntington Bank Stadium (Neutral Site),20035769
+INT-CONCACAF Gold Cup,2025,2025-07-02,Semi-finals,Mexico,1–0,Honduras,Levi's Stadium (Neutral Site),046f5558
+INT-CONCACAF Gold Cup,2025,2025-07-02,Semi-finals,United States,2–1,Guatemala,Energizer Park (Neutral Site),9f090891
+INT-CONCACAF Gold Cup,2025,2025-07-06,Final,United States,1–2,Mexico,NRG Stadium (Neutral Site),76d971d4
+INT-AFC Asian Cup,2023,2024-01-12,Group stage,Qatar,3–0,Lebanon,Lusail Iconic Stadium (Neutral Site),906f510c
+INT-AFC Asian Cup,2023,2024-01-13,Group stage,Australia,2–0,India,Ahmed bin Ali Stadium (Neutral Site),93f4461f
+INT-AFC Asian Cup,2023,2024-01-13,Group stage,China PR,0–0,Tajikistan,Abdullah bin Khalifa Stadium (Neutral Site),2ab2f3f2
+INT-AFC Asian Cup,2023,2024-01-13,Group stage,Uzbekistan,0–0,Syria,Jassim bin Hamad Stadium (Neutral Site),549be9da
+INT-AFC Asian Cup,2023,2024-01-14,Group stage,IR Iran,4–1,Palestine,Education City Stadium (Neutral Site),43ef75c8
+INT-AFC Asian Cup,2023,2024-01-14,Group stage,Japan,4–2,Vietnam,Al Thumama Stadium (Neutral Site),7f84f12f
+INT-AFC Asian Cup,2023,2024-01-14,Group stage,UAE,3–1,Hong Kong,Khalifa International Stadium (Neutral Site),fa81d4b7
+INT-AFC Asian Cup,2023,2024-01-15,Group stage,Indonesia,1–3,Iraq,Ahmed bin Ali Stadium (Neutral Site),54d8de12
+INT-AFC Asian Cup,2023,2024-01-15,Group stage,Korea Republic,3–1,Bahrain,Jassim bin Hamad Stadium (Neutral Site),61f04936
+INT-AFC Asian Cup,2023,2024-01-15,Group stage,Malaysia,0–4,Jordan,Al Janoub Stadium (Neutral Site),39f4cf51
+INT-AFC Asian Cup,2023,2024-01-16,Group stage,Saudi Arabia,2–1,Oman,Khalifa International Stadium (Neutral Site),ee13b5ef
+INT-AFC Asian Cup,2023,2024-01-16,Group stage,Thailand,2–0,Kyrgyz Republic,Abdullah bin Khalifa Stadium (Neutral Site),a9ba3840
+INT-AFC Asian Cup,2023,2024-01-17,Group stage,Lebanon,0–0,China PR,Al Thumama Stadium (Neutral Site),81df6144
+INT-AFC Asian Cup,2023,2024-01-17,Group stage,Tajikistan,0–1,Qatar,Al Bayt Stadium (Neutral Site),285cea0a
+INT-AFC Asian Cup,2023,2024-01-18,Group stage,India,0–3,Uzbekistan,Ahmed bin Ali Stadium (Neutral Site),79f0c273
+INT-AFC Asian Cup,2023,2024-01-18,Group stage,Palestine,1–1,UAE,Al Janoub Stadium (Neutral Site),02e5de0c
+INT-AFC Asian Cup,2023,2024-01-18,Group stage,Syria,0–1,Australia,Jassim bin Hamad Stadium (Neutral Site),4ddb6a15
+INT-AFC Asian Cup,2023,2024-01-19,Group stage,Hong Kong,0–1,IR Iran,Khalifa International Stadium (Neutral Site),2fad6ac0
+INT-AFC Asian Cup,2023,2024-01-19,Group stage,Iraq,2–1,Japan,Education City Stadium (Neutral Site),02a6c8dc
+INT-AFC Asian Cup,2023,2024-01-19,Group stage,Vietnam,0–1,Indonesia,Abdullah bin Khalifa Stadium (Neutral Site),b938c735
+INT-AFC Asian Cup,2023,2024-01-20,Group stage,Bahrain,1–0,Malaysia,Jassim bin Hamad Stadium (Neutral Site),6948aaa4
+INT-AFC Asian Cup,2023,2024-01-20,Group stage,Jordan,2–2,Korea Republic,Al Thumama Stadium (Neutral Site),ccc3108d
+INT-AFC Asian Cup,2023,2024-01-21,Group stage,Kyrgyz Republic,0–2,Saudi Arabia,Ahmed bin Ali Stadium (Neutral Site),e4a0aa33
+INT-AFC Asian Cup,2023,2024-01-21,Group stage,Oman,0–0,Thailand,Abdullah bin Khalifa Stadium (Neutral Site),6b6b83a6
+INT-AFC Asian Cup,2023,2024-01-22,Group stage,Qatar,1–0,China PR,Khalifa International Stadium (Neutral Site),9d1a8511
+INT-AFC Asian Cup,2023,2024-01-22,Group stage,Tajikistan,2–1,Lebanon,Jassim bin Hamad Stadium (Neutral Site),bc77947e
+INT-AFC Asian Cup,2023,2024-01-23,Group stage,Australia,1–1,Uzbekistan,Al Janoub Stadium (Neutral Site),74a860a7
+INT-AFC Asian Cup,2023,2024-01-23,Group stage,Hong Kong,0–3,Palestine,Abdullah bin Khalifa Stadium (Neutral Site),fc5aabc3
+INT-AFC Asian Cup,2023,2024-01-23,Group stage,IR Iran,2–1,UAE,Education City Stadium (Neutral Site),5cf8c3bf
+INT-AFC Asian Cup,2023,2024-01-23,Group stage,Syria,1–0,India,Al Bayt Stadium (Neutral Site),44b2a8d3
+INT-AFC Asian Cup,2023,2024-01-24,Group stage,Iraq,3–2,Vietnam,Jassim bin Hamad Stadium (Neutral Site),3ac66d3c
+INT-AFC Asian Cup,2023,2024-01-24,Group stage,Japan,3–1,Indonesia,Al Thumama Stadium (Neutral Site),33b918a9
+INT-AFC Asian Cup,2023,2024-01-25,Group stage,Jordan,0–1,Bahrain,Khalifa International Stadium (Neutral Site),5cd780f0
+INT-AFC Asian Cup,2023,2024-01-25,Group stage,Korea Republic,3–3,Malaysia,Al Janoub Stadium (Neutral Site),f2aa0cb3
+INT-AFC Asian Cup,2023,2024-01-25,Group stage,Kyrgyz Republic,1–1,Oman,Abdullah bin Khalifa Stadium (Neutral Site),45ab5c0d
+INT-AFC Asian Cup,2023,2024-01-25,Group stage,Saudi Arabia,0–0,Thailand,Education City Stadium (Neutral Site),17935c65
+INT-AFC Asian Cup,2023,2024-01-28,Round of 16,Australia,4–0,Indonesia,Jassim bin Hamad Stadium (Neutral Site),fb51597f
+INT-AFC Asian Cup,2023,2024-01-28,Round of 16,Tajikistan,(5) 1–1 (3),UAE,Ahmed bin Ali Stadium (Neutral Site),5177fe6f
+INT-AFC Asian Cup,2023,2024-01-29,Round of 16,Iraq,2–3,Jordan,Khalifa International Stadium (Neutral Site),bf8bf153
+INT-AFC Asian Cup,2023,2024-01-29,Round of 16,Qatar,2–1,Palestine,Al Bayt Stadium (Neutral Site),d74a77ae
+INT-AFC Asian Cup,2023,2024-01-30,Round of 16,Saudi Arabia,(2) 1–1 (4),Korea Republic,Education City Stadium (Neutral Site),12d616de
+INT-AFC Asian Cup,2023,2024-01-30,Round of 16,Uzbekistan,2–1,Thailand,Al Janoub Stadium (Neutral Site),ef95c0f6
+INT-AFC Asian Cup,2023,2024-01-31,Round of 16,Bahrain,1–3,Japan,Al Thumama Stadium (Neutral Site),da51c1ed
+INT-AFC Asian Cup,2023,2024-01-31,Round of 16,IR Iran,(5) 1–1 (3),Syria,Abdullah bin Khalifa Stadium (Neutral Site),5c9c0cc6
+INT-AFC Asian Cup,2023,2024-02-02,Quarter-finals,Australia,1–2,Korea Republic,Education City Stadium (Neutral Site),6fdc7d22
+INT-AFC Asian Cup,2023,2024-02-02,Quarter-finals,Tajikistan,0–1,Jordan,Ahmed bin Ali Stadium (Neutral Site),668338ea
+INT-AFC Asian Cup,2023,2024-02-03,Quarter-finals,IR Iran,2–1,Japan,Education City Stadium (Neutral Site),c0d73f9e
+INT-AFC Asian Cup,2023,2024-02-03,Quarter-finals,Qatar,(3) 1–1 (2),Uzbekistan,Al Bayt Stadium (Neutral Site),b8d781b2
+INT-AFC Asian Cup,2023,2024-02-06,Semi-finals,Jordan,2–0,Korea Republic,Ahmed bin Ali Stadium (Neutral Site),31bdfbdb
+INT-AFC Asian Cup,2023,2024-02-07,Semi-finals,IR Iran,2–3,Qatar,Al Thumama Stadium (Neutral Site),ce5d1f62
+INT-AFC Asian Cup,2023,2024-02-10,Final,Jordan,1–3,Qatar,Lusail Iconic Stadium (Neutral Site),6d9230c5
+INT-Nations League,2022-2023,2022-06-01,League A,Poland,2–1,Wales,Tarczyński Arena Wrocław,394edf43
+INT-Nations League,2022-2023,2022-06-02,League B,Albania,,Russia,Air Albania Stadium,b0dd3b78
+INT-Nations League,2022-2023,2022-06-02,League C,Bulgaria,1–1,N. Macedonia,Huvepharma Arena,2c8a7e46
+INT-Nations League,2022-2023,2022-06-02,League C,Cyprus,0–2,Kosovo,AEK Arena - George Karapatakis,c31a445e
+INT-Nations League,2022-2023,2022-06-02,League A,Czechia,2–1,Switzerland,Fortuna Arena,be12e86b
+INT-Nations League,2022-2023,2022-06-02,League D,Estonia,2–0,San Marino,A. Le Coq Arena,9f596016
+INT-Nations League,2022-2023,2022-06-02,League C,Georgia,4–0,Gibraltar,Boris Paichadzis Dinamo Arena,5670b679
+INT-Nations League,2022-2023,2022-06-02,League B,Israel,2–2,Iceland,Sammy Ofer Stadium,0bb73cbc
+INT-Nations League,2022-2023,2022-06-02,League C,Northern Ireland,0–1,Greece,Windsor Park,dc9d54cb
+INT-Nations League,2022-2023,2022-06-02,League B,Serbia,0–1,Norway,Stadion Rajko Mitić,38f8cfa3
+INT-Nations League,2022-2023,2022-06-02,League B,Slovenia,0–2,Sweden,Stadion Stožice,3ab70ba8
+INT-Nations League,2022-2023,2022-06-02,League A,Spain,1–1,Portugal,Estadio Benito Villamarín,2ab716f3
+INT-Nations League,2022-2023,2022-06-03,League C,Belarus,0–1,Slovakia,City Arena Trnava,6ddc23c1
+INT-Nations League,2022-2023,2022-06-03,League A,Belgium,1–4,Netherlands,Stade Roi Baudouin,7d99f83e
+INT-Nations League,2022-2023,2022-06-03,League A,Croatia,0–3,Austria,Stadion Gradski vrt,d20f1af0
+INT-Nations League,2022-2023,2022-06-03,League A,France,1–2,Denmark,Stade de France,aea31bd3
+INT-Nations League,2022-2023,2022-06-03,League C,Kazakhstan,2–0,Azerbaijan,Astana Arena,6dab8d5b
+INT-Nations League,2022-2023,2022-06-03,League D,Latvia,3–0,Andorra,Daugavas Stadionā,ba437b00
+INT-Nations League,2022-2023,2022-06-03,League D,Liechtenstein,0–2,Moldova,Rheinpark Stadion,23a45cbb
+INT-Nations League,2022-2023,2022-06-04,League B,Armenia,1–0,Rep. of Ireland,Vazgen Sargsyan anvan Hanrapetakan Marza...,dbf9c552
+INT-Nations League,2022-2023,2022-06-04,League B,Finland,1–1,Bosnia–Herz,Helsingin olympiastadion,897f086f
+INT-Nations League,2022-2023,2022-06-04,League A,Hungary,1–0,England,Puskás Aréna,058c813b
+INT-Nations League,2022-2023,2022-06-04,League A,Italy,1–1,Germany,Stadio Renato Dall'Ara,e1bf62bc
+INT-Nations League,2022-2023,2022-06-04,League C,Lithuania,0–2,Luxembourg,Vilniaus LFF stadionas,2535ba01
+INT-Nations League,2022-2023,2022-06-04,League B,Montenegro,2–0,Romania,Stadion Pod Goricom,13d7d559
+INT-Nations League,2022-2023,2022-06-04,League C,Türkiye,4–0,Faroe Islands,Başakşehir Fatih Terim Stadium,7952910d
+INT-Nations League,2022-2023,2022-06-05,League C,Bulgaria,2–5,Georgia,Huvepharma Arena,1787eaf7
+INT-Nations League,2022-2023,2022-06-05,League C,Cyprus,0–0,Northern Ireland,AEK Arena - George Karapatakis,09092853
+INT-Nations League,2022-2023,2022-06-05,League A,Czechia,2–2,Spain,Fortuna Arena,3287891e
+INT-Nations League,2022-2023,2022-06-05,League C,Gibraltar,0–2,N. Macedonia,Victoria Stadium,86114bb6
+INT-Nations League,2022-2023,2022-06-05,League C,Kosovo,0–1,Greece,Stadiumi Fadil Vokrri,cea8363a
+INT-Nations League,2022-2023,2022-06-05,League A,Portugal,4–0,Switzerland,Estádio José Alvalade,385fb965
+INT-Nations League,2022-2023,2022-06-05,League D,San Marino,0–2,Malta,San Marino Stadium,9d23d3d0
+INT-Nations League,2022-2023,2022-06-05,League B,Serbia,4–1,Slovenia,Stadion Rajko Mitić,ff0b081b
+INT-Nations League,2022-2023,2022-06-05,League B,Sweden,1–2,Norway,Friends Arena,078a5c2a
+INT-Nations League,2022-2023,2022-06-06,League D,Andorra,0–0,Moldova,Estadi Nacional,281f8c80
+INT-Nations League,2022-2023,2022-06-06,League A,Austria,1–2,Denmark,Ernst-Happel-Stadion,25555100
+INT-Nations League,2022-2023,2022-06-06,League C,Belarus,0–0,Azerbaijan,Stadion Karađorđe,4d0a232d
+INT-Nations League,2022-2023,2022-06-06,League A,Croatia,1–1,France,Gradski stadion u Poljudu,ed55a4a2
+INT-Nations League,2022-2023,2022-06-06,League B,Iceland,1–1,Albania,Laugardalsvöllur,900fa2e3
+INT-Nations League,2022-2023,2022-06-06,League B,Israel,,Russia,Sammy Ofer Stadium,f47244ca
+INT-Nations League,2022-2023,2022-06-06,League D,Latvia,1–0,Liechtenstein,Daugavas Stadionā,57705b1c
+INT-Nations League,2022-2023,2022-06-06,League C,Slovakia,0–1,Kazakhstan,City Arena Trnava,63514caf
+INT-Nations League,2022-2023,2022-06-07,League B,Bosnia–Herz,1–0,Romania,Stadion Bilino Polje,dd675669
+INT-Nations League,2022-2023,2022-06-07,League C,Faroe Islands,0–1,Luxembourg,Tórsvøllur,3b22a794
+INT-Nations League,2022-2023,2022-06-07,League B,Finland,2–0,Montenegro,Helsingin olympiastadion,a38b4ecf
+INT-Nations League,2022-2023,2022-06-07,League A,Germany,1–1,England,Allianz Arena,d7df9e02
+INT-Nations League,2022-2023,2022-06-07,League A,Italy,2–1,Hungary,Stadio Dino Manuzzi,af1cb853
+INT-Nations League,2022-2023,2022-06-07,League C,Lithuania,0–6,Türkiye,Vilniaus LFF stadionas,12b76021
+INT-Nations League,2022-2023,2022-06-08,League A,Belgium,6–1,Poland,Stade Roi Baudouin,574e523f
+INT-Nations League,2022-2023,2022-06-08,League B,Rep. of Ireland,0–1,Ukraine,Aviva Stadium,62e4af43
+INT-Nations League,2022-2023,2022-06-08,League B,Scotland,2–0,Armenia,Hampden Park,79b2fd6d
+INT-Nations League,2022-2023,2022-06-08,League A,Wales,1–2,Netherlands,Cardiff City Stadium,280538f0
+INT-Nations League,2022-2023,2022-06-09,League C,Gibraltar,1–1,Bulgaria,Victoria Stadium,53e9e2bb
+INT-Nations League,2022-2023,2022-06-09,League C,Greece,3–0,Cyprus,Panthessaliko Stadio,744e2ddb
+INT-Nations League,2022-2023,2022-06-09,League C,Kosovo,3–2,Northern Ireland,Stadiumi Fadil Vokrri,d5220cb3
+INT-Nations League,2022-2023,2022-06-09,League D,Malta,1–2,Estonia,Ta'Qali National Stadium,66994ece
+INT-Nations League,2022-2023,2022-06-09,League C,N. Macedonia,0–3,Georgia,Nationala Arena Toše Proeski,bfb06f53
+INT-Nations League,2022-2023,2022-06-09,League B,Norway,0–0,Slovenia,Ullevaal Stadion,47f96e4c
+INT-Nations League,2022-2023,2022-06-09,League A,Portugal,2–0,Czechia,Estádio José Alvalade,6feadc08
+INT-Nations League,2022-2023,2022-06-09,League B,Sweden,0–1,Serbia,Friends Arena,8ca438af
+INT-Nations League,2022-2023,2022-06-09,League A,Switzerland,0–1,Spain,Stade de Genève,ef1c7234
+INT-Nations League,2022-2023,2022-06-10,League B,Albania,1–2,Israel,Air Albania Stadium,96fa7953
+INT-Nations League,2022-2023,2022-06-10,League D,Andorra,2–1,Liechtenstein,Estadi Nacional,a95f5392
+INT-Nations League,2022-2023,2022-06-10,League A,Austria,1–1,France,Ernst-Happel-Stadion,67a0082b
+INT-Nations League,2022-2023,2022-06-10,League C,Azerbaijan,0–1,Slovakia,Liv Bona Dea Arena,16a74132
+INT-Nations League,2022-2023,2022-06-10,League C,Belarus,1–1,Kazakhstan,Stadion Karađorđe,bffa1368
+INT-Nations League,2022-2023,2022-06-10,League A,Denmark,0–1,Croatia,Parken,f355343d
+INT-Nations League,2022-2023,2022-06-10,League D,Moldova,2–4,Latvia,Stadionul Zimbru,07d1e2e2
+INT-Nations League,2022-2023,2022-06-10,League B,Russia,,Iceland,VTB Arena,6eb4feb0
+INT-Nations League,2022-2023,2022-06-11,League A,England,0–0,Italy,Molineux Stadium,c75dc433
+INT-Nations League,2022-2023,2022-06-11,League C,Faroe Islands,2–1,Lithuania,Tórsvøllur,6ecac2f7
+INT-Nations League,2022-2023,2022-06-11,League A,Hungary,1–1,Germany,Puskás Aréna,d9799b68
+INT-Nations League,2022-2023,2022-06-11,League C,Luxembourg,0–2,Türkiye,Stade de Luxembourg,50ef7954
+INT-Nations League,2022-2023,2022-06-11,League B,Montenegro,1–1,Bosnia–Herz,Stadion Pod Goricom,98c13bb4
+INT-Nations League,2022-2023,2022-06-11,League A,Netherlands,2–2,Poland,Stadion Feijenoord,5e169ad9
+INT-Nations League,2022-2023,2022-06-11,League B,Rep. of Ireland,3–0,Scotland,Aviva Stadium,afa016d5
+INT-Nations League,2022-2023,2022-06-11,League B,Romania,1–0,Finland,Stadionul Rapid-Giulești,7714dcd8
+INT-Nations League,2022-2023,2022-06-11,League B,Ukraine,3–0,Armenia,Stadion Miejski im. Władysława Króla,badf9738
+INT-Nations League,2022-2023,2022-06-11,League A,Wales,1–1,Belgium,Cardiff City Stadium,510eb1dc
+INT-Nations League,2022-2023,2022-06-12,League C,Georgia,0–0,Bulgaria,Boris Paichadzis Dinamo Arena,94af0cd2
+INT-Nations League,2022-2023,2022-06-12,League C,Greece,2–0,Kosovo,Panthessaliko Stadio,c2c955a6
+INT-Nations League,2022-2023,2022-06-12,League D,Malta,1–0,San Marino,Ta'Qali National Stadium,88fbe0e8
+INT-Nations League,2022-2023,2022-06-12,League C,N. Macedonia,4–0,Gibraltar,Nationala Arena Toše Proeski,38964101
+INT-Nations League,2022-2023,2022-06-12,League C,Northern Ireland,2–2,Cyprus,Windsor Park,16aa0b77
+INT-Nations League,2022-2023,2022-06-12,League B,Norway,3–2,Sweden,Ullevaal Stadion,ec43fde1
+INT-Nations League,2022-2023,2022-06-12,League B,Slovenia,2–2,Serbia,Stadion Stožice,f0468c70
+INT-Nations League,2022-2023,2022-06-12,League A,Spain,2–0,Czechia,Estadio La Rosaleda,6f7c35cc
+INT-Nations League,2022-2023,2022-06-12,League A,Switzerland,1–0,Portugal,Stade de Genève,e8e61115
+INT-Nations League,2022-2023,2022-06-13,League C,Azerbaijan,2–0,Belarus,Liv Bona Dea Arena,39c62aa6
+INT-Nations League,2022-2023,2022-06-13,League A,Denmark,2–0,Austria,Parken,3e1c6432
+INT-Nations League,2022-2023,2022-06-13,League A,France,0–1,Croatia,Stade de France,98166a08
+INT-Nations League,2022-2023,2022-06-13,League B,Iceland,2–2,Israel,Laugardalsvöllur,48d78632
+INT-Nations League,2022-2023,2022-06-13,League C,Kazakhstan,2–1,Slovakia,Astana Arena,73b1d84c
+INT-Nations League,2022-2023,2022-06-13,League B,Russia,,Albania,VTB Arena,5675201a
+INT-Nations League,2022-2023,2022-06-14,League B,Armenia,1–4,Scotland,Vazgen Sargsyan anvan Hanrapetakan Marza...,3bb25187
+INT-Nations League,2022-2023,2022-06-14,League B,Bosnia–Herz,3–2,Finland,Stadion Bilino Polje,b1d60e30
+INT-Nations League,2022-2023,2022-06-14,League A,England,0–4,Hungary,Molineux Stadium,c8aefffb
+INT-Nations League,2022-2023,2022-06-14,League A,Germany,5–2,Italy,Stadion im Borussia-Park,22d66d31
+INT-Nations League,2022-2023,2022-06-14,League D,Liechtenstein,0–2,Latvia,Rheinpark Stadion,99ff36ca
+INT-Nations League,2022-2023,2022-06-14,League C,Luxembourg,2–2,Faroe Islands,Stade de Luxembourg,b5b9e08f
+INT-Nations League,2022-2023,2022-06-14,League D,Moldova,2–1,Andorra,Stadionul Zimbru,32ea4dae
+INT-Nations League,2022-2023,2022-06-14,League A,Netherlands,3–2,Wales,Stadion Feijenoord,6e6d4c86
+INT-Nations League,2022-2023,2022-06-14,League A,Poland,0–1,Belgium,Stadion Narodowy,387360ac
+INT-Nations League,2022-2023,2022-06-14,League B,Romania,0–3,Montenegro,Stadionul Rapid-Giulești,28843ed7
+INT-Nations League,2022-2023,2022-06-14,League C,Türkiye,2–0,Lithuania,Başakşehir Fatih Terim Stadium,b97efd92
+INT-Nations League,2022-2023,2022-06-14,League B,Ukraine,1–1,Rep. of Ireland,Stadion Miejski im. Władysława Króla,586b9efa
+INT-Nations League,2022-2023,2022-09-21,League B,Scotland,3–0,Ukraine,Hampden Park,02c0bdee
+INT-Nations League,2022-2023,2022-09-22,League A,Belgium,2–1,Wales,Stade Roi Baudouin,1bb5921e
+INT-Nations League,2022-2023,2022-09-22,League A,Croatia,2–1,Denmark,Stadion Maksimir,bf36eb5a
+INT-Nations League,2022-2023,2022-09-22,League A,France,2–0,Austria,Stade de France,3e2444d4
+INT-Nations League,2022-2023,2022-09-22,League C,Kazakhstan,2–1,Belarus,Astana Arena,373c92e5
+INT-Nations League,2022-2023,2022-09-22,League D,Latvia,1–2,Moldova,Daugavas Stadionā,9d820bc0
+INT-Nations League,2022-2023,2022-09-22,League D,Liechtenstein,0–2,Andorra,Rheinpark Stadion,10d52914
+INT-Nations League,2022-2023,2022-09-22,League C,Lithuania,1–1,Faroe Islands,Vilniaus LFF stadionas,1ccec507
+INT-Nations League,2022-2023,2022-09-22,League A,Poland,0–2,Netherlands,Stadion Narodowy,5f3f2975
+INT-Nations League,2022-2023,2022-09-22,League C,Slovakia,1–2,Azerbaijan,City Arena Trnava,8a01fcfd
+INT-Nations League,2022-2023,2022-09-22,League C,Türkiye,3–3,Luxembourg,Başakşehir Fatih Terim Stadium,64c5639f
+INT-Nations League,2022-2023,2022-09-23,League B,Bosnia–Herz,1–0,Montenegro,Stadion Bilino Polje,51ca7135
+INT-Nations League,2022-2023,2022-09-23,League C,Bulgaria,5–1,Gibraltar,Huvepharma Arena,993d2737
+INT-Nations League,2022-2023,2022-09-23,League D,Estonia,2–1,Malta,A. Le Coq Arena,9bb536f0
+INT-Nations League,2022-2023,2022-09-23,League B,Finland,1–1,Romania,Helsingin olympiastadion,1b07208b
+INT-Nations League,2022-2023,2022-09-23,League C,Georgia,2–0,N. Macedonia,Boris Paichadzis Dinamo Arena,e4d48ef8
+INT-Nations League,2022-2023,2022-09-23,League A,Germany,0–1,Hungary,Red Bull Arena,9adbf770
+INT-Nations League,2022-2023,2022-09-23,League A,Italy,1–0,England,Stadio Giuseppe Meazza,5b0ffbe3
+INT-Nations League,2022-2023,2022-09-24,League B,Armenia,0–5,Ukraine,Vazgen Sargsyan anvan Hanrapetakan Marza...,8a165925
+INT-Nations League,2022-2023,2022-09-24,League C,Cyprus,1–0,Greece,AEK Arena - George Karapatakis,b3e09d87
+INT-Nations League,2022-2023,2022-09-24,League A,Czechia,0–4,Portugal,Fortuna Arena,b2354354
+INT-Nations League,2022-2023,2022-09-24,League B,Iceland,,Russia,,5f85d13f
+INT-Nations League,2022-2023,2022-09-24,League B,Israel,2–1,Albania,Bloomfield Stadium,8f2553d9
+INT-Nations League,2022-2023,2022-09-24,League C,Northern Ireland,2–1,Kosovo,Windsor Park,c7aa63a4
+INT-Nations League,2022-2023,2022-09-24,League B,Scotland,2–1,Rep. of Ireland,Hampden Park,91116ac6
+INT-Nations League,2022-2023,2022-09-24,League B,Serbia,4–1,Sweden,Stadion Rajko Mitić,cd05f322
+INT-Nations League,2022-2023,2022-09-24,League B,Slovenia,2–1,Norway,Stadion Stožice,6f180e07
+INT-Nations League,2022-2023,2022-09-24,League A,Spain,1–2,Switzerland,Estadio de la Romareda,b0b7d557
+INT-Nations League,2022-2023,2022-09-25,League D,Andorra,1–1,Latvia,Estadi Nacional,e92484b5
+INT-Nations League,2022-2023,2022-09-25,League A,Austria,1–3,Croatia,Ernst-Happel-Stadion,a8e4fa86
+INT-Nations League,2022-2023,2022-09-25,League C,Azerbaijan,3–0,Kazakhstan,Liv Bona Dea Arena,fe4b05b2
+INT-Nations League,2022-2023,2022-09-25,League A,Denmark,2–0,France,Parken,470a0ec5
+INT-Nations League,2022-2023,2022-09-25,League C,Faroe Islands,2–1,Türkiye,Tórsvøllur,474f1534
+INT-Nations League,2022-2023,2022-09-25,League C,Luxembourg,1–0,Lithuania,Stade de Luxembourg,29bf360b
+INT-Nations League,2022-2023,2022-09-25,League D,Moldova,2–0,Liechtenstein,Stadionul Zimbru,d6921f79
+INT-Nations League,2022-2023,2022-09-25,League A,Netherlands,1–0,Belgium,Johan Cruyff ArenA,8603c472
+INT-Nations League,2022-2023,2022-09-25,League C,Slovakia,1–1,Belarus,City Arena Trnava,2e165781
+INT-Nations League,2022-2023,2022-09-25,League A,Wales,0–1,Poland,Cardiff City Stadium,cfe4212b
+INT-Nations League,2022-2023,2022-09-26,League A,England,3–3,Germany,Wembley Stadium connected by EE,03055401
+INT-Nations League,2022-2023,2022-09-26,League C,Gibraltar,1–2,Georgia,Victoria Stadium,cdc6db85
+INT-Nations League,2022-2023,2022-09-26,League A,Hungary,0–2,Italy,Puskás Aréna,0417c72a
+INT-Nations League,2022-2023,2022-09-26,League B,Montenegro,0–2,Finland,Stadion Pod Goricom,256ca507
+INT-Nations League,2022-2023,2022-09-26,League C,N. Macedonia,0–1,Bulgaria,Nationala Arena Toše Proeski,d0760204
+INT-Nations League,2022-2023,2022-09-26,League B,Romania,4–1,Bosnia–Herz,Stadionul Rapid-Giulești,a809ee7a
+INT-Nations League,2022-2023,2022-09-26,League D,San Marino,0–4,Estonia,San Marino Stadium,5dcaf660
+INT-Nations League,2022-2023,2022-09-27,League B,Albania,1–1,Iceland,Air Albania Stadium,3c9d48cc
+INT-Nations League,2022-2023,2022-09-27,League C,Greece,3–1,Northern Ireland,Stadio Georgios Kamaras,16b18323
+INT-Nations League,2022-2023,2022-09-27,League C,Kosovo,5–1,Cyprus,Stadiumi Fadil Vokrri,b3162260
+INT-Nations League,2022-2023,2022-09-27,League B,Norway,0–2,Serbia,Ullevaal Stadion,cc3df009
+INT-Nations League,2022-2023,2022-09-27,League A,Portugal,0–1,Spain,Estádio Municipal de Braga,ea9d78a0
+INT-Nations League,2022-2023,2022-09-27,League B,Rep. of Ireland,3–2,Armenia,Aviva Stadium,50b6bc37
+INT-Nations League,2022-2023,2022-09-27,League B,Russia,,Israel,,83777f81
+INT-Nations League,2022-2023,2022-09-27,League B,Sweden,1–1,Slovenia,Friends Arena,10ca1cc0
+INT-Nations League,2022-2023,2022-09-27,League A,Switzerland,2–1,Czechia,Kybunpark,5b5be7fd
+INT-Nations League,2022-2023,2022-09-27,League B,Ukraine,0–0,Scotland,Stadion Miejski Legii Warszawa im. Marsz...,eef3dcca
+INT-Nations League,2022-2023,2023-06-14,Semi-finals,Netherlands,2–4,Croatia,Stadion Feijenoord (Neutral Site),2a8e87f7
+INT-Nations League,2022-2023,2023-06-15,Semi-finals,Spain,2–1,Italy,De Grolsch Veste (Neutral Site),d5acf882
+INT-Nations League,2022-2023,2023-06-18,Final,Croatia,(4) 0–0 (5),Spain,Stadion Feijenoord (Neutral Site),c7cc0ff5
+INT-Nations League,2022-2023,2023-06-18,Third-place match,Netherlands,2–3,Italy,De Grolsch Veste (Neutral Site),4d58a135
+INT-Nations League,2022-2023,2024-03-21,League C — Relegation play-outs,Gibraltar,0–1,Lithuania,Estádio Algarve,a2db99ca
+INT-Nations League,2022-2023,2024-03-26,League C — Relegation play-outs,Lithuania,1–0,Gibraltar,S. Dariaus ir S. Girėno stadionas,f39402d5
+INT-Nations League,2024-2025,2024-09-05,League C,Azerbaijan,1–3,Sweden,Tofiq Bəhramov adına Respublika stadionu,d7295078
+INT-Nations League,2024-2025,2024-09-05,League C,Belarus,0–0,Bulgaria,ZTE-Aréna,8f62b4da
+INT-Nations League,2024-2025,2024-09-05,League A,Denmark,2–0,Switzerland,Parken,ff1921ef
+INT-Nations League,2024-2025,2024-09-05,League C,Estonia,0–1,Slovakia,A. Le Coq Arena,0045c1ec
+INT-Nations League,2024-2025,2024-09-05,League C,Northern Ireland,2–0,Luxembourg,Windsor Park,9044b6b4
+INT-Nations League,2024-2025,2024-09-05,League A,Portugal,2–1,Croatia,Estádio do Sport Lisboa e Benfica,b1395eab
+INT-Nations League,2024-2025,2024-09-05,League D,San Marino,1–0,Liechtenstein,San Marino Stadium,1d498549
+INT-Nations League,2024-2025,2024-09-05,League A,Scotland,2–3,Poland,Barclays Hampden,5012845b
+INT-Nations League,2024-2025,2024-09-05,League A,Serbia,0–0,Spain,Stadion Rajko Mitić,5469aa22
+INT-Nations League,2024-2025,2024-09-06,League A,Belgium,3–1,Israel,Nagyerdei Stadion,ac93e343
+INT-Nations League,2024-2025,2024-09-06,League A,France,1–3,Italy,Parc des Princes,e026f499
+INT-Nations League,2024-2025,2024-09-06,League B,Iceland,2–0,Montenegro,Laugardalsvöllur,85d0979d
+INT-Nations League,2024-2025,2024-09-06,League B,Kazakhstan,0–0,Norway,Qazhymuqan Muńaıtpasov Ortalyq Stadıon,4f6ed7fb
+INT-Nations League,2024-2025,2024-09-06,League C,Kosovo,0–3,Romania,Stadiumi Fadil Vokrri,8e533928
+INT-Nations League,2024-2025,2024-09-06,League C,Lithuania,0–1,Cyprus,S. Dariaus ir S. Girėno stadionas,4ed81436
+INT-Nations League,2024-2025,2024-09-06,League B,Slovenia,1–1,Austria,Stadion Stožice,acb9b9f1
+INT-Nations League,2024-2025,2024-09-06,League B,Wales,0–0,Türkiye,Cardiff City Stadium,428967aa
+INT-Nations League,2024-2025,2024-09-07,League C,Armenia,4–1,Latvia,Vazgen Sargsyan anvan Hanrapetakan Marza...,145b9dd4
+INT-Nations League,2024-2025,2024-09-07,League C,Faroe Islands,1–1,N. Macedonia,Tórsvøllur,bc8480ba
+INT-Nations League,2024-2025,2024-09-07,League B,Georgia,4–1,Czechia,Mikheil Meskhis Sakhelobis Stadioni,29e9a73b
+INT-Nations League,2024-2025,2024-09-07,League A,Germany,5–0,Hungary,Merkur Spielarena,578633f8
+INT-Nations League,2024-2025,2024-09-07,League B,Greece,3–0,Finland,Stadio Georgios Karaiskáki,f160bcd4
+INT-Nations League,2024-2025,2024-09-07,League D,Moldova,2–0,Malta,Stadionul Zimbru,bd47422e
+INT-Nations League,2024-2025,2024-09-07,League A,Netherlands,5–2,Bosnia–Herz,Philips Stadion,bd90111d
+INT-Nations League,2024-2025,2024-09-07,League B,Rep. of Ireland,0–2,England,Aviva Stadium,aba0cc5d
+INT-Nations League,2024-2025,2024-09-07,League B,Ukraine,1–2,Albania,epet Arena,9d24ef92
+INT-Nations League,2024-2025,2024-09-08,League C,Bulgaria,1–0,Northern Ireland,Stadion Hristo Botev,147c3207
+INT-Nations League,2024-2025,2024-09-08,League A,Croatia,1–0,Poland,Opus Arena,41f44fc4
+INT-Nations League,2024-2025,2024-09-08,League A,Denmark,2–0,Serbia,Parken,5e88d38b
+INT-Nations League,2024-2025,2024-09-08,League D,Gibraltar,2–2,Liechtenstein,Europa Point Stadium,19fa4318
+INT-Nations League,2024-2025,2024-09-08,League C,Luxembourg,0–1,Belarus,Stade de Luxembourg,be8c2ae9
+INT-Nations League,2024-2025,2024-09-08,League A,Portugal,2–1,Scotland,Estádio do Sport Lisboa e Benfica,42d30c0a
+INT-Nations League,2024-2025,2024-09-08,League C,Slovakia,2–0,Azerbaijan,Košická Futbalová Aréna,c9c4207d
+INT-Nations League,2024-2025,2024-09-08,League C,Sweden,3–0,Estonia,Strawberry Arena,e9e4d56d
+INT-Nations League,2024-2025,2024-09-08,League A,Switzerland,1–4,Spain,Stade de Genève,74ac9e75
+INT-Nations League,2024-2025,2024-09-09,League C,Cyprus,0–4,Kosovo,AEK Arena - George Karapatakis,18676bfe
+INT-Nations League,2024-2025,2024-09-09,League A,France,2–0,Belgium,Groupama Stadium,73d91865
+INT-Nations League,2024-2025,2024-09-09,League A,Israel,1–2,Italy,Bozsik Aréna,ab56011d
+INT-Nations League,2024-2025,2024-09-09,League B,Montenegro,1–2,Wales,Stadion Kraj Bistrice,088294db
+INT-Nations League,2024-2025,2024-09-09,League B,Norway,2–1,Austria,Ullevaal Stadion,8079f7a0
+INT-Nations League,2024-2025,2024-09-09,League C,Romania,3–1,Lithuania,Stadionul Steaua,d267f048
+INT-Nations League,2024-2025,2024-09-09,League B,Slovenia,3–0,Kazakhstan,Stadion Stožice,8e343560
+INT-Nations League,2024-2025,2024-09-09,League B,Türkiye,3–1,Iceland,Gürsel Aksel Stadyumu,2ef67a51
+INT-Nations League,2024-2025,2024-09-10,League B,Albania,0–1,Georgia,Air Albania Stadium,2b5c7fb7
+INT-Nations League,2024-2025,2024-09-10,League D,Andorra,0–1,Malta,Estadi Nacional,64da6a10
+INT-Nations League,2024-2025,2024-09-10,League B,Czechia,3–2,Ukraine,Fortuna Arena,30e09c04
+INT-Nations League,2024-2025,2024-09-10,League B,England,2–0,Finland,Wembley Stadium connected by EE,615b20a6
+INT-Nations League,2024-2025,2024-09-10,League A,Hungary,0–0,Bosnia–Herz,Puskás Aréna,b393caf4
+INT-Nations League,2024-2025,2024-09-10,League C,Latvia,1–0,Faroe Islands,Stadions Skonto,333eedbc
+INT-Nations League,2024-2025,2024-09-10,League C,N. Macedonia,2–0,Armenia,Nationala Arena Toše Proeski,d6382f96
+INT-Nations League,2024-2025,2024-09-10,League A,Netherlands,2–2,Germany,Johan Cruijff Arena,cff0335b
+INT-Nations League,2024-2025,2024-09-10,League B,Rep. of Ireland,0–2,Greece,Aviva Stadium,d400d7d2
+INT-Nations League,2024-2025,2024-10-10,League B,Austria,4–0,Kazakhstan,Raiffeisen Arena,1beb6797
+INT-Nations League,2024-2025,2024-10-10,League B,England,1–2,Greece,Wembley Stadium connected by EE,2f27c6be
+INT-Nations League,2024-2025,2024-10-10,League C,Faroe Islands,2–2,Armenia,Tórsvøllur,1797da2f
+INT-Nations League,2024-2025,2024-10-10,League B,Finland,1–2,Rep. of Ireland,Helsingin olympiastadion,6c9d2ccd
+INT-Nations League,2024-2025,2024-10-10,League D,Gibraltar,1–0,San Marino,Europa Point Stadium,c30587c4
+INT-Nations League,2024-2025,2024-10-10,League A,Israel,1–4,France,Bozsik Aréna,c26725a6
+INT-Nations League,2024-2025,2024-10-10,League A,Italy,2–2,Belgium,Stadio Olimpico,eaa1341d
+INT-Nations League,2024-2025,2024-10-10,League C,Latvia,0–3,N. Macedonia,Stadions Skonto,e9f70661
+INT-Nations League,2024-2025,2024-10-10,League D,Moldova,2–0,Andorra,Stadionul Zimbru,f4767f69
+INT-Nations League,2024-2025,2024-10-10,League B,Norway,3–0,Slovenia,Ullevaal Stadion,3479a950
+INT-Nations League,2024-2025,2024-10-11,League A,Bosnia–Herz,1–2,Germany,Stadion Bilino Polje,76d223c5
+INT-Nations League,2024-2025,2024-10-11,League B,Czechia,2–0,Albania,epet Arena,01249441
+INT-Nations League,2024-2025,2024-10-11,League C,Estonia,3–1,Azerbaijan,A. Le Coq Arena,cd78478c
+INT-Nations League,2024-2025,2024-10-11,League A,Hungary,1–1,Netherlands,Puskás Aréna,a6568fdd
+INT-Nations League,2024-2025,2024-10-11,League B,Iceland,2–2,Wales,Laugardalsvöllur,2ebaa4ac
+INT-Nations League,2024-2025,2024-10-11,League C,Slovakia,2–2,Sweden,Štadión Tehelné pole,990ea20e
+INT-Nations League,2024-2025,2024-10-11,League B,Türkiye,1–0,Montenegro,19 Mayıs Stadyumu,6bc96996
+INT-Nations League,2024-2025,2024-10-11,League B,Ukraine,1–0,Georgia,ENEA Stadion,71c265aa
+INT-Nations League,2024-2025,2024-10-12,League C,Belarus,0–0,Northern Ireland,ZTE-Aréna,cbe677f1
+INT-Nations League,2024-2025,2024-10-12,League C,Bulgaria,0–0,Luxembourg,Stadion Hristo Botev,38d9fe70
+INT-Nations League,2024-2025,2024-10-12,League A,Croatia,2–1,Scotland,Stadion Maksimir,cd7c6207
+INT-Nations League,2024-2025,2024-10-12,League C,Cyprus,0–3,Romania,AEK Arena - George Karapatakis,90b22488
+INT-Nations League,2024-2025,2024-10-12,League C,Lithuania,1–2,Kosovo,S. Dariaus ir S. Girėno stadionas,b97c7a9f
+INT-Nations League,2024-2025,2024-10-12,League A,Poland,1–3,Portugal,PGE Narodowy,cec72e66
+INT-Nations League,2024-2025,2024-10-12,League A,Serbia,2–0,Switzerland,Stadion Dubočica,0d174a93
+INT-Nations League,2024-2025,2024-10-12,League A,Spain,1–0,Denmark,Estadio Enrique Roca de Murcia,a2426b82
+INT-Nations League,2024-2025,2024-10-13,League C,Armenia,0–2,N. Macedonia,Vazgen Sargsyan anvan Hanrapetakan Marza...,c8723b33
+INT-Nations League,2024-2025,2024-10-13,League B,Austria,5–1,Norway,Raiffeisen Arena,b791849b
+INT-Nations League,2024-2025,2024-10-13,League C,Faroe Islands,1–1,Latvia,Tórsvøllur,2c5476ed
+INT-Nations League,2024-2025,2024-10-13,League B,Finland,1–3,England,Helsingin olympiastadion,79f19251
+INT-Nations League,2024-2025,2024-10-13,League B,Greece,2–0,Rep. of Ireland,Stadio Georgios Karaiskáki,fb9df48e
+INT-Nations League,2024-2025,2024-10-13,League B,Kazakhstan,0–1,Slovenia,Qazhymuqan Muńaıtpasov Ortalyq Stadıon,1f0bc9c5
+INT-Nations League,2024-2025,2024-10-13,League D,Liechtenstein,0–0,Gibraltar,Rheinpark Stadion,c7320707
+INT-Nations League,2024-2025,2024-10-13,League D,Malta,1–0,Moldova,Ta'Qali National Stadium,1db38ada
+INT-Nations League,2024-2025,2024-10-14,League C,Azerbaijan,1–3,Slovakia,Tofiq Bəhramov adına Respublika stadionu,15fa6c69
+INT-Nations League,2024-2025,2024-10-14,League A,Belgium,1–2,France,Stade Roi Baudouin,d3e9731b
+INT-Nations League,2024-2025,2024-10-14,League A,Bosnia–Herz,0–2,Hungary,Stadion Bilino Polje,f636a57f
+INT-Nations League,2024-2025,2024-10-14,League C,Estonia,0–3,Sweden,A. Le Coq Arena,e5b4f875
+INT-Nations League,2024-2025,2024-10-14,League B,Georgia,0–1,Albania,Mikheil Meskhis Sakhelobis Stadioni,e31a08e5
+INT-Nations League,2024-2025,2024-10-14,League A,Germany,1–0,Netherlands,Allianz Arena,dce73203
+INT-Nations League,2024-2025,2024-10-14,League B,Iceland,2–4,Türkiye,Laugardalsvöllur,84b12498
+INT-Nations League,2024-2025,2024-10-14,League A,Italy,4–1,Israel,Bluenergy Stadium,f3f459ce
+INT-Nations League,2024-2025,2024-10-14,League B,Ukraine,1–1,Czechia,Tarczyński Arena Wrocław,98a4edfc
+INT-Nations League,2024-2025,2024-10-14,League B,Wales,1–0,Montenegro,Cardiff City Stadium,14bbdadd
+INT-Nations League,2024-2025,2024-10-15,League C,Belarus,1–1,Luxembourg,Windsor Park,edc9cc9b
+INT-Nations League,2024-2025,2024-10-15,League C,Kosovo,3–0,Cyprus,Stadiumi Fadil Vokrri,dc904a6e
+INT-Nations League,2024-2025,2024-10-15,League C,Lithuania,1–2,Romania,ZTE-Aréna,19f3ac86
+INT-Nations League,2024-2025,2024-10-15,League C,Northern Ireland,5–0,Bulgaria,S. Dariaus ir S. Girėno stadionas,9d243958
+INT-Nations League,2024-2025,2024-10-15,League A,Poland,3–3,Croatia,PGE Narodowy,a6ab09a6
+INT-Nations League,2024-2025,2024-10-15,League A,Scotland,0–0,Portugal,Barclays Hampden,9f5ee33a
+INT-Nations League,2024-2025,2024-10-15,League A,Spain,3–0,Serbia,Estadio Enrique Roca de Murcia,b1e0a75a
+INT-Nations League,2024-2025,2024-10-15,League A,Switzerland,2–2,Denmark,Kybunpark,0a05da09
+INT-Nations League,2024-2025,2024-11-14,League C,Armenia,0–1,Faroe Islands,Vazgen Sargsyan anvan Hanrapetakan Marza...,af7a8a78
+INT-Nations League,2024-2025,2024-11-14,League A,Belgium,0–1,Italy,Stade Roi Baudouin,353866a7
+INT-Nations League,2024-2025,2024-11-14,League A,France,0–0,Israel,Stade de France,746e47c5
+INT-Nations League,2024-2025,2024-11-14,League B,Greece,0–3,England,Olympiako Stadio Spyros Louis,2a3a5d7a
+INT-Nations League,2024-2025,2024-11-14,League B,Kazakhstan,0–2,Austria,Qazhymuqan Muńaıtpasov Ortalyq Stadıon,0304ab99
+INT-Nations League,2024-2025,2024-11-14,League C,N. Macedonia,1–0,Latvia,Nationala Arena Toše Proeski,0efaf837
+INT-Nations League,2024-2025,2024-11-14,League B,Rep. of Ireland,1–0,Finland,Aviva Stadium,d77c40bc
+INT-Nations League,2024-2025,2024-11-14,League B,Slovenia,1–4,Norway,Stadion Stožice,b01ca58b
+INT-Nations League,2024-2025,2024-11-15,League C,Cyprus,2–1,Lithuania,AEK Arena - George Karapatakis,5e48575a
+INT-Nations League,2024-2025,2024-11-15,League A,Denmark,1–2,Spain,Parken,be1b73c9
+INT-Nations League,2024-2025,2024-11-15,League C,Luxembourg,0–1,Bulgaria,Stade de Luxembourg,01742712
+INT-Nations League,2024-2025,2024-11-15,League C,Northern Ireland,2–0,Belarus,Windsor Park,03ff20aa
+INT-Nations League,2024-2025,2024-11-15,League A,Portugal,5–1,Poland,Estádio do Dragão,f89d37a2
+INT-Nations League,2024-2025,2024-11-15,League C,Romania,3–0,Kosovo,Arena Naţională,e2c8959f
+INT-Nations League,2024-2025,2024-11-15,League D,San Marino,1–1,Gibraltar,San Marino Stadium,8a40f2ef
+INT-Nations League,2024-2025,2024-11-15,League A,Scotland,1–0,Croatia,Barclays Hampden,65a08452
+INT-Nations League,2024-2025,2024-11-15,League A,Switzerland,1–1,Serbia,Stadion Letzigrund,21619456
+INT-Nations League,2024-2025,2024-11-16,League B,Albania,0–0,Czechia,Air Albania Stadium,59967458
+INT-Nations League,2024-2025,2024-11-16,League D,Andorra,0–1,Moldova,Estadi Nacional,64ed1934
+INT-Nations League,2024-2025,2024-11-16,League C,Azerbaijan,0–0,Estonia,Şəhər Stadionu,9f9d67d8
+INT-Nations League,2024-2025,2024-11-16,League B,Georgia,1–1,Ukraine,Adjarabet Arena,4f362926
+INT-Nations League,2024-2025,2024-11-16,League A,Germany,7–0,Bosnia–Herz,Europa-Park Stadion,85e3cd4f
+INT-Nations League,2024-2025,2024-11-16,League B,Montenegro,0–2,Iceland,Stadion Pod Goricom,1442004f
+INT-Nations League,2024-2025,2024-11-16,League A,Netherlands,4–0,Hungary,Johan Cruijff Arena,c7b43315
+INT-Nations League,2024-2025,2024-11-16,League C,Sweden,2–1,Slovakia,Strawberry Arena,3bdacdc8
+INT-Nations League,2024-2025,2024-11-16,League B,Türkiye,0–0,Wales,RHG Enertürk Enerji Stadyumu,c20a251c
+INT-Nations League,2024-2025,2024-11-17,League B,Austria,1–1,Slovenia,Ernst-Happel-Stadion,3a41fc76
+INT-Nations League,2024-2025,2024-11-17,League B,England,5–0,Rep. of Ireland,Wembley Stadium connected by EE,90b203d7
+INT-Nations League,2024-2025,2024-11-17,League B,Finland,0–2,Greece,Helsingin olympiastadion,62f8bdcf
+INT-Nations League,2024-2025,2024-11-17,League A,Israel,1–0,Belgium,Bozsik Aréna,b6f568af
+INT-Nations League,2024-2025,2024-11-17,League A,Italy,1–3,France,Stadio Giuseppe Meazza,ab28fe88
+INT-Nations League,2024-2025,2024-11-17,League C,Latvia,1–2,Armenia,Stadions Skonto,ed4a46cc
+INT-Nations League,2024-2025,2024-11-17,League C,N. Macedonia,1–0,Faroe Islands,Nationala Arena Toše Proeski,1071d92a
+INT-Nations League,2024-2025,2024-11-17,League B,Norway,5–0,Kazakhstan,Ullevaal Stadion,df62fed9
+INT-Nations League,2024-2025,2024-11-18,League C,Bulgaria,1–1,Belarus,Stadion Hristo Botev,c3d04efe
+INT-Nations League,2024-2025,2024-11-18,League A,Croatia,1–1,Portugal,Gradski stadion u Poljudu,5c63d33c
+INT-Nations League,2024-2025,2024-11-18,League C,Kosovo,1–0,Lithuania,Stadiumi Fadil Vokrri,1f97e266
+INT-Nations League,2024-2025,2024-11-18,League D,Liechtenstein,1–3,San Marino,Rheinpark Stadion,6c2f6545
+INT-Nations League,2024-2025,2024-11-18,League C,Luxembourg,2–2,Northern Ireland,Stade de Luxembourg,e3a4f26c
+INT-Nations League,2024-2025,2024-11-18,League A,Poland,1–2,Scotland,PGE Narodowy,9aa61015
+INT-Nations League,2024-2025,2024-11-18,League C,Romania,4–1,Cyprus,Arena Naţională,1ff40ca8
+INT-Nations League,2024-2025,2024-11-18,League A,Serbia,0–0,Denmark,Stadion Dubočica,c7a846d1
+INT-Nations League,2024-2025,2024-11-18,League A,Spain,3–2,Switzerland,Estadio Enrique Roca de Murcia,d1bca41e
+INT-Nations League,2024-2025,2024-11-19,League B,Albania,1–2,Ukraine,Air Albania Stadium,0c28ad91
+INT-Nations League,2024-2025,2024-11-19,League A,Bosnia–Herz,1–1,Netherlands,Stadion Bilino Polje,701b7369
+INT-Nations League,2024-2025,2024-11-19,League B,Czechia,2–1,Georgia,Andrův stadion,24bd9bf0
+INT-Nations League,2024-2025,2024-11-19,League A,Hungary,1–1,Germany,Puskás Aréna,406858d5
+INT-Nations League,2024-2025,2024-11-19,League D,Malta,0–0,Andorra,Ta'Qali National Stadium,54e3358b
+INT-Nations League,2024-2025,2024-11-19,League B,Montenegro,3–1,Türkiye,Stadion Kraj Bistrice,4f82aa8e
+INT-Nations League,2024-2025,2024-11-19,League C,Slovakia,1–0,Estonia,City Arena Trnava,1113ab91
+INT-Nations League,2024-2025,2024-11-19,League C,Sweden,6–0,Azerbaijan,Strawberry Arena,99e9d145
+INT-Nations League,2024-2025,2024-11-19,League B,Wales,4–1,Iceland,Cardiff City Stadium,39baf2b9
+INT-Nations League,2024-2025,2025-03-20,Promotion/relegation play-offs — League B/C,Armenia,0–3,Georgia,Vazgen Sargsyan anvan Hanrapetakan Marza...,16a17d29
+INT-Nations League,2024-2025,2025-03-20,Promotion/relegation play-offs — League A/B,Austria,1–1,Serbia,Ernst-Happel-Stadion,6c7e5077
+INT-Nations League,2024-2025,2025-03-20,Promotion/relegation play-offs — League B/C,Bulgaria,1–2,Rep. of Ireland,Stadion Hristo Botev,8adf47c3
+INT-Nations League,2024-2025,2025-03-20,Quarter-finals,Croatia,2–0,France,Gradski stadion u Poljudu,5467a0ed
+INT-Nations League,2024-2025,2025-03-20,Quarter-finals,Denmark,1–0,Portugal,Parken,15c76960
+INT-Nations League,2024-2025,2025-03-20,Promotion/relegation play-offs — League A/B,Greece,0–1,Scotland,Stadio Georgios Karaiskáki,3da56d1e
+INT-Nations League,2024-2025,2025-03-20,Quarter-finals,Italy,1–2,Germany,Stadio Giuseppe Meazza,b9ea5f27
+INT-Nations League,2024-2025,2025-03-20,Promotion/relegation play-offs — League B/C,Kosovo,2–1,Iceland,Stadiumi Fadil Vokrri,0dd02c0f
+INT-Nations League,2024-2025,2025-03-20,Quarter-finals,Netherlands,2–2,Spain,Stadion Feijenoord,537bba86
+INT-Nations League,2024-2025,2025-03-20,Promotion/relegation play-offs — League B/C,Slovakia,0–0,Slovenia,Štadión Tehelné pole (old),cd1628ca
+INT-Nations League,2024-2025,2025-03-20,Promotion/relegation play-offs — League A/B,Türkiye,3–1,Hungary,RAMS Park,eae97b0f
+INT-Nations League,2024-2025,2025-03-20,Promotion/relegation play-offs — League A/B,Ukraine,3–1,Belgium,Estadio Enrique Roca de Murcia,0544dcdf
+INT-Nations League,2024-2025,2025-03-23,Promotion/relegation play-offs — League A/B,Belgium,3–0,Ukraine,Cegeka Arena,c58fef5d
+INT-Nations League,2024-2025,2025-03-23,Quarter-finals,France,(5) 2–0 (4),Croatia,Stade de France,5d5284f2
+INT-Nations League,2024-2025,2025-03-23,Promotion/relegation play-offs — League B/C,Georgia,6–1,Armenia,Boris Paichadzis Dinamo Arena,3bd2b14d
+INT-Nations League,2024-2025,2025-03-23,Quarter-finals,Germany,3–3,Italy,Signal Iduna Park,ceaa6b7c
+INT-Nations League,2024-2025,2025-03-23,Promotion/relegation play-offs — League A/B,Hungary,0–3,Türkiye,Puskás Aréna,f6da9a7d
+INT-Nations League,2024-2025,2025-03-23,Promotion/relegation play-offs — League B/C,Iceland,1–3,Kosovo,Estadio Enrique Roca de Murcia,d12df427
+INT-Nations League,2024-2025,2025-03-23,Quarter-finals,Portugal,5–2,Denmark,Estádio José Alvalade,0ecdafea
+INT-Nations League,2024-2025,2025-03-23,Promotion/relegation play-offs — League B/C,Rep. of Ireland,2–1,Bulgaria,Aviva Stadium,893fb912
+INT-Nations League,2024-2025,2025-03-23,Promotion/relegation play-offs — League A/B,Scotland,0–3,Greece,Barclays Hampden,6d9ef534
+INT-Nations League,2024-2025,2025-03-23,Promotion/relegation play-offs — League A/B,Serbia,2–0,Austria,Stadion Rajko Mitić,f26ea57e
+INT-Nations League,2024-2025,2025-03-23,Promotion/relegation play-offs — League B/C,Slovenia,1–0,Slovakia,Stadion Stožice,6ca4d4e9
+INT-Nations League,2024-2025,2025-03-23,Quarter-finals,Spain,(5) 3–3 (4),Netherlands,Estadio de Mestalla,12ea1c04
+INT-Nations League,2024-2025,2025-06-04,Semi-finals,Germany,1–2,Portugal,Allianz Arena (Neutral Site),766a31aa
+INT-Nations League,2024-2025,2025-06-05,Semi-finals,Spain,5–4,France,MHPArena (Neutral Site),cda3f996
+INT-Nations League,2024-2025,2025-06-08,Third-place match,Germany,0–2,France,MHPArena (Neutral Site),b04a7c2b
+INT-Nations League,2024-2025,2025-06-08,Final,Portugal,(5) 2–2 (3),Spain,Allianz Arena (Neutral Site),dc399ca6
+INT-Nations League,2024-2025,2026-03-26,Promotion/relegation play-offs — League C/D,Gibraltar,0–1,Latvia,Europa Point Stadium,d000df1f
+INT-Nations League,2024-2025,2026-03-26,Promotion/relegation play-offs — League C/D,Malta,0–2,Luxembourg,Ta'Qali National Stadium,20ecfe7c
+INT-Nations League,2024-2025,2026-03-31,Promotion/relegation play-offs — League C/D,Latvia,1–0,Gibraltar,Stadions Skonto,15af2ff9
+INT-Nations League,2024-2025,2026-03-31,Promotion/relegation play-offs — League C/D,Luxembourg,3–0,Malta,Stade de Luxembourg,d13bffa9
+INT-Friendlies,2022,2022-01-03,Friendly,Rwanda,3–0,Guinea,Stade Amahoro (Neutral Site),5a03143c
+INT-Friendlies,2022,2022-01-04,Friendly,Mauritania,1–1,Gabon,Maktoum bin Rashid Al Maktoum Stadium (Neutral Site),28cbd14c
+INT-Friendlies,2022,2022-01-05,Friendly,Algeria,3–0,Ghana,Education City Stadium (Neutral Site),6b6d0857
+INT-Friendlies,2022,2022-01-06,Friendly,Rwanda,0–2,Guinea,Stade Amahoro (Neutral Site),5f8a354d
+INT-Friendlies,2022,2022-01-12,Friendly,Iceland,1–1,Uganda,Titanic Deluxe Golf Belek (Neutral Site),da9d5ef7
+INT-Friendlies,2022,2022-01-15,Friendly,Korea Republic,5–1,Iceland,Titanic Mardan Stadyumu (Neutral Site),0cd9759e
+INT-Friendlies,2022,2022-01-16,Friendly,Colombia,2–1,Honduras,DRV PNK Stadium (Neutral Site),570866f0
+INT-Friendlies,2022,2022-01-16,Friendly,Peru,1–1,Panama,Estadio Nacional (Neutral Site),f21f9e13
+INT-Friendlies,2022,2022-01-20,Friendly,Peru,3–0,Jamaica,Estadio Nacional (Neutral Site),e883a2cc
+INT-Friendlies,2022,2022-01-21,Friendly,Bolivia,5–0,Trin & Tobago,Estadio Olímpico Patria (Neutral Site),1c609e6a
+INT-Friendlies,2022,2022-01-21,Friendly,Iraq,1–0,Uganda,Al Madina International Stadium (Neutral Site),863bb3ea
+INT-Friendlies,2022,2022-01-21,Friendly,Korea Republic,4–0,Moldova,Titanic Mardan Stadyumu (Neutral Site),35e9008d
+INT-Friendlies,2022,2022-01-27,Friendly,Bahrain,3–1,Uganda,Stād al-Bahrayn al-Watanī (Neutral Site),81c7e20b
+INT-Friendlies,2022,2022-01-27,Friendly,Indonesia,4–1,Timor-Leste,Stadion Kapten I Wayan Dipta (Neutral Site),e0e2bba1
+INT-Friendlies,2022,2022-01-27,Friendly,Uzbekistan,3–0,South Sudan,The Sevens Stadium (Neutral Site),0a7d3139
+INT-Friendlies,2022,2022-01-28,Friendly,Jordan,3–1,New Zealand,NYUAD Athletics Multi-use Field (Neutral Site),5d7b8576
+INT-Friendlies,2022,2022-01-29,Friendly,Kuwait,2–0,Libya,Jaber Al-Ahmad International Stadium (Neutral Site),21ad5678
+INT-Friendlies,2022,2022-01-29,Friendly,Nepal,1–0,Mauritius,Dasharath Rangasala (Neutral Site),df1fa5a3
+INT-Friendlies,2022,2022-01-29,Friendly,Nicaragua,4–0,Belize,Estadio Nacional de Fútbol (Neutral Site),400d5289
+INT-Friendlies,2022,2022-01-30,Friendly,Indonesia,3–0,Timor-Leste,Stadion Kapten I Wayan Dipta (Neutral Site),a7534b73
+INT-Friendlies,2022,2022-02-01,Friendly,Bahrain,1–0,Congo DR,Stād al-Bahrayn al-Watanī (Neutral Site),d3e04602
+INT-Friendlies,2022,2022-02-01,Friendly,Kuwait,0–2,Libya,Jaber Al-Ahmad International Stadium (Neutral Site),d8497a47
+INT-Friendlies,2022,2022-02-01,Friendly,Nepal,1–0,Mauritius,Dasharath Rangasala (Neutral Site),b74ac47e
+INT-Friendlies,2022,2022-02-01,Friendly,Nicaragua,1–1,Belize,Estadio Nacional de Fútbol (Neutral Site),1966c7eb
+INT-Friendlies,2022,2022-03-18,Friendly,Iraq,3–1,Zambia,Al Madina International Stadium (Neutral Site),846445b7
+INT-Friendlies,2022,2022-03-19,Friendly,Mauritius,0–0,Seychelles,Complexe Sportif de Côte d'Or (Neutral Site),fce6a3ef
+INT-Friendlies,2022,2022-03-23,Friendly,Bahrain,2–1,India,Sheikh Ali bin Mohammed Stadium (Neutral Site),7639e611
+INT-Friendlies,2022,2022-03-23,Friendly,Gibraltar,0–0,Grenada,Victoria Stadium (Neutral Site),2272c157
+INT-Friendlies,2022,2022-03-23,Friendly,Guinea-Bissau,3–0,Equ. Guinea,Estádio Municipal de Óbidos (Neutral Site),55a9fec6
+INT-Friendlies,2022,2022-03-23,Friendly,Laos,1–0,Mongolia,"Lao National Stadium, KM16 (Neutral Site)",ff92bd5c
+INT-Friendlies,2022,2022-03-23,Friendly,Malaysia,2–0,Philippines,National Stadium (Neutral Site),6d3de5c7
+INT-Friendlies,2022,2022-03-23,Friendly,Mozambique,1–1,Niger,Stade Cheikha Ould Boïdiya (Neutral Site),c5181c3e
+INT-Friendlies,2022,2022-03-23,Friendly,Tanzania,3–1,CAR,Benjamin Mkapa National Stadium (Neutral Site),86c9a585
+INT-Friendlies,2022,2022-03-24,Friendly,Armenia,1–0,Montenegro,Stepanakert Republican Stadium (Neutral Site),06e6e29d
+INT-Friendlies,2022,2022-03-24,Friendly,Guatemala,1–0,Cuba,Estadio Pensativo (Neutral Site),3d1576a3
+INT-Friendlies,2022,2022-03-24,Friendly,Hungary,0–1,Serbia,Puskás Aréna (Neutral Site),d8e02c5c
+INT-Friendlies,2022,2022-03-24,Friendly,Kosovo,5–0,Burkina Faso,Stadiumi Fadil Vokrri (Neutral Site),fc7f63ee
+INT-Friendlies,2022,2022-03-24,Friendly,Liberia,0–4,Benin,Titanic Mardan Stadyumu (Neutral Site),4ff295d9
+INT-Friendlies,2022,2022-03-24,Friendly,Maldives,2–0,Bangladesh,Galolhu Rasmee Dhandu Stadium (Neutral Site),502bee83
+INT-Friendlies,2022,2022-03-24,Friendly,Scotland,1–1,Poland,Hampden Park (Neutral Site),527784ab
+INT-Friendlies,2022,2022-03-24,Friendly,Thailand,2–0,Nepal,Chon Buri Stadium (Neutral Site),7e03d3e9
+INT-Friendlies,2022,2022-03-24,Friendly,Togo,3–0,Sierra Leone,Titanic Mardan Stadyumu (Neutral Site),79ae7877
+INT-Friendlies,2022,2022-03-25,Friendly,Andorra,1–0,St. Kitts & Nevis,Estadi Nacional (Neutral Site),59dbe020
+INT-Friendlies,2022,2022-03-25,Friendly,Bosnia–Herz,0–1,Georgia,Stadion Bilino Polje (Neutral Site),a0d23ab1
+INT-Friendlies,2022,2022-03-25,Friendly,Comoros,2–1,Ethiopia,Stade Omnisports d'Iconi-Malouzini (Neutral Site),518cab9e
+INT-Friendlies,2022,2022-03-25,Friendly,Congo,1–3,Zambia,Titanic Mardan Stadyumu (Neutral Site),f106c957
+INT-Friendlies,2022,2022-03-25,Friendly,France,2–1,Côte d'Ivoire,Orange Vélodrome (Neutral Site),85ebb18f
+INT-Friendlies,2022,2022-03-25,Friendly,Latvia,1–1,Kuwait,Ta'Qali National Stadium (Neutral Site),f61c7cf1
+INT-Friendlies,2022,2022-03-25,Friendly,Liechtenstein,0–6,Cabo Verde,Pinatar Arena Football Center (Neutral Site),c856dc0c
+INT-Friendlies,2022,2022-03-25,Friendly,Luxembourg,1–3,Northern Ireland,Stade de Luxembourg (Neutral Site),3101b20f
+INT-Friendlies,2022,2022-03-25,Friendly,Malta,1–0,Azerbaijan,Ta'Qali National Stadium (Neutral Site),400ea672
+INT-Friendlies,2022,2022-03-25,Friendly,Norway,2–0,Slovakia,Ullevaal Stadion (Neutral Site),3c898445
+INT-Friendlies,2022,2022-03-25,Friendly,Romania,0–1,Greece,Stadionul Steaua (Neutral Site),95fba888
+INT-Friendlies,2022,2022-03-25,Friendly,San Marino,1–2,Lithuania,San Marino Stadium (Neutral Site),334f99c7
+INT-Friendlies,2022,2022-03-25,Friendly,South Africa,0–0,Guinea,Guldensporenstadion (Neutral Site),883bd4ed
+INT-Friendlies,2022,2022-03-25,Friendly,Trin & Tobago,9–0,Barbados,Hasely Crawford Stadium (Neutral Site),37899fb1
+INT-Friendlies,2022,2022-03-25,Friendly,Uganda,(5) 1–1 (4),Tajikistan,Markaziy Stadion (Neutral Site),a1b10ac8
+INT-Friendlies,2022,2022-03-25,Friendly,Uzbekistan,3–1,Kyrgyz Republic,Markaziy Stadion (Neutral Site),fd13dae8
+INT-Friendlies,2022,2022-03-26,Friendly,Angola,3–2,Guinea-Bissau,Estádio Municipal de Rio Maior (Neutral Site),5ce836c3
+INT-Friendlies,2022,2022-03-26,Friendly,Belarus,3–0,India,Madinat 'Isa Stadium (Neutral Site),9762c1a0
+INT-Friendlies,2022,2022-03-26,Friendly,CAR,0–0,Sudan,Benjamin Mkapa National Stadium (Neutral Site),393e757d
+INT-Friendlies,2022,2022-03-26,Friendly,Croatia,1–1,Slovenia,Education City Stadium (Neutral Site),cde56311
+INT-Friendlies,2022,2022-03-26,Friendly,England,2–1,Switzerland,Wembley Stadium (Neutral Site),3a98668d
+INT-Friendlies,2022,2022-03-26,Friendly,Finland,1–1,Iceland,Estadio Enrique Roca de Murcia (Neutral Site),f50bf206
+INT-Friendlies,2022,2022-03-26,Friendly,Germany,2–0,Israel,PreZero Arena (Neutral Site),89c7397f
+INT-Friendlies,2022,2022-03-26,Friendly,Gibraltar,0–0,Faroe Islands,Victoria Stadium (Neutral Site),c6d18cd5
+INT-Friendlies,2022,2022-03-26,Friendly,Mauritania,2–1,Mozambique,Stade Cheikha Ould Boïdiya (Neutral Site),1a89a8af
+INT-Friendlies,2022,2022-03-26,Friendly,Netherlands,4–2,Denmark,Johan Cruyff ArenA (Neutral Site),4073d8ce
+INT-Friendlies,2022,2022-03-26,Friendly,Niger,1–2,Libya,Stade Cheikha Ould Boïdiya (Neutral Site),68afc56a
+INT-Friendlies,2022,2022-03-26,Friendly,Qatar,2–1,Bulgaria,Education City Stadium (Neutral Site),287e3d04
+INT-Friendlies,2022,2022-03-26,Friendly,Rep. of Ireland,2–2,Belgium,Aviva Stadium (Neutral Site),d0e916ef
+INT-Friendlies,2022,2022-03-26,Friendly,Singapore,2–1,Malaysia,National Stadium (Neutral Site),784d687f
+INT-Friendlies,2022,2022-03-26,Friendly,Spain,2–1,Albania,RCDE Stadium (Neutral Site),2e427819
+INT-Friendlies,2022,2022-03-27,Friendly,Barbados,0–5,Guyana,Hasely Crawford Stadium (Neutral Site),1bff4465
+INT-Friendlies,2022,2022-03-27,Friendly,Belize,0–3,Cuba,FFB Field (Neutral Site),8202169c
+INT-Friendlies,2022,2022-03-27,Friendly,Benin,2–1,Zambia,Titanic Mardan Stadyumu (Neutral Site),2199e4f3
+INT-Friendlies,2022,2022-03-27,Friendly,Guatemala,2–1,Haiti,DRV PNK Stadium (Neutral Site),9ad77d1d
+INT-Friendlies,2022,2022-03-27,Friendly,Laos,3–2,Brunei,"Lao National Stadium, KM16 (Neutral Site)",ee08a362
+INT-Friendlies,2022,2022-03-27,Friendly,Thailand,1–0,Suriname,BG Stadium (Neutral Site),39754669
+INT-Friendlies,2022,2022-03-28,Friendly,Andorra,1–0,Grenada,Estadi Nacional (Neutral Site),f78ee973
+INT-Friendlies,2022,2022-03-28,Friendly,Montenegro,1–0,Greece,Stadion Pod Goricom (Neutral Site),3a213d17
+INT-Friendlies,2022,2022-03-28,Friendly,San Marino,0–2,Cabo Verde,Pinatar Arena Football Center (Neutral Site),4e509e60
+INT-Friendlies,2022,2022-03-28,Friendly,Vanuatu,1–2,Fiji,Hamad bin Khalifa Stadium (Neutral Site),785afb45
+INT-Friendlies,2022,2022-03-29,Friendly,Albania,0–0,Georgia,Air Albania Stadium (Neutral Site),79fa024e
+INT-Friendlies,2022,2022-03-29,Friendly,Angola,0–0,Equ. Guinea,Estádio Municipal de Óbidos (Neutral Site),6fda79cd
+INT-Friendlies,2022,2022-03-29,Friendly,Austria,2–2,Scotland,Ernst-Happel-Stadion (Neutral Site),4586ab10
+INT-Friendlies,2022,2022-03-29,Friendly,Azerbaijan,0–1,Latvia,Ta'Qali National Stadium (Neutral Site),270cc657
+INT-Friendlies,2022,2022-03-29,Friendly,Bahrain,0–1,Belarus,Sheikh Ali bin Mohammed Stadium (Neutral Site),6536cb47
+INT-Friendlies,2022,2022-03-29,Friendly,Bangladesh,0–0,Mongolia,Sylhet District Stadium (Neutral Site),d9b5e88c
+INT-Friendlies,2022,2022-03-29,Friendly,Belgium,3–0,Burkina Faso,Lotto Park (Neutral Site),b668568a
+INT-Friendlies,2022,2022-03-29,Friendly,Bosnia–Herz,1–0,Luxembourg,Stadion Bilino Polje (Neutral Site),b6971213
+INT-Friendlies,2022,2022-03-29,Friendly,Congo,1–2,Sierra Leone,Titanic Mardan Stadyumu (Neutral Site),254d46d7
+INT-Friendlies,2022,2022-03-29,Friendly,Croatia,2–1,Bulgaria,Education City Stadium (Neutral Site),70605959
+INT-Friendlies,2022,2022-03-29,Friendly,Denmark,3–0,Serbia,Parken (Neutral Site),cfd42a80
+INT-Friendlies,2022,2022-03-29,Friendly,England,3–0,Côte d'Ivoire,Wembley Stadium (Neutral Site),ed214e41
+INT-Friendlies,2022,2022-03-29,Friendly,Finland,0–2,Slovakia,Estadio Enrique Roca de Murcia (Neutral Site),d9f720ce
+INT-Friendlies,2022,2022-03-29,Friendly,France,5–0,South Africa,Decathlon Arena - Stade Pierre-Mauroy (Neutral Site),4c80e834
+INT-Friendlies,2022,2022-03-29,Friendly,Israel,2–2,Romania,Winner Stadium (Neutral Site),b23de660
+INT-Friendlies,2022,2022-03-29,Friendly,Liberia,1–2,Burundi,Titanic Mardan Stadyumu (Neutral Site),87ae82db
+INT-Friendlies,2022,2022-03-29,Friendly,Liechtenstein,0–1,Faroe Islands,Pinatar Arena Football Center (Neutral Site),3f45bc06
+INT-Friendlies,2022,2022-03-29,Friendly,Malta,2–0,Kuwait,Ta'Qali National Stadium (Neutral Site),ded3f693
+INT-Friendlies,2022,2022-03-29,Friendly,Mauritania,2–0,Libya,Stade Cheikha Ould Boïdiya (Neutral Site),bd9618bb
+INT-Friendlies,2022,2022-03-29,Friendly,Netherlands,1–1,Germany,Johan Cruyff ArenA (Neutral Site),897dd6ae
+INT-Friendlies,2022,2022-03-29,Friendly,Northern Ireland,0–1,Hungary,Windsor Park (Neutral Site),1584b140
+INT-Friendlies,2022,2022-03-29,Friendly,Norway,9–0,Armenia,Ullevaal Stadion (Neutral Site),01fcd97f
+INT-Friendlies,2022,2022-03-29,Friendly,Qatar,0–0,Slovenia,Education City Stadium (Neutral Site),955577f5
+INT-Friendlies,2022,2022-03-29,Friendly,Rep. of Ireland,1–0,Lithuania,Aviva Stadium (Neutral Site),dd6abcf4
+INT-Friendlies,2022,2022-03-29,Friendly,Singapore,2–0,Philippines,National Stadium (Neutral Site),cc09ea26
+INT-Friendlies,2022,2022-03-29,Friendly,Spain,5–0,Iceland,Estadio Abanca-Riazor (Neutral Site),c2262bba
+INT-Friendlies,2022,2022-03-29,Friendly,Switzerland,1–1,Kosovo,Stadion Letzigrund (Neutral Site),4634b9ed
+INT-Friendlies,2022,2022-03-29,Friendly,Tajikistan,1–0,Kyrgyz Republic,Markaziy Stadion (Neutral Site),7f4c89e4
+INT-Friendlies,2022,2022-03-29,Friendly,Tanzania,1–1,Sudan,Benjamin Mkapa National Stadium (Neutral Site),520546b3
+INT-Friendlies,2022,2022-03-29,Friendly,Togo,1–1,Benin,Titanic Mardan Stadyumu (Neutral Site),98889041
+INT-Friendlies,2022,2022-03-29,Friendly,Trin & Tobago,1–1,Guyana,Hasely Crawford Stadium (Neutral Site),9ebafc02
+INT-Friendlies,2022,2022-03-29,Friendly,Türkiye,2–3,Italy,Konya Büyükşehir Stadı (Neutral Site),cbb8e2ff
+INT-Friendlies,2022,2022-03-29,Friendly,Uzbekistan,4–2,Uganda,Markaziy Stadion (Neutral Site),f8d6d003
+INT-Friendlies,2022,2022-03-29,Friendly,Wales,1–1,Czechia,Cardiff City Stadium (Neutral Site),0ace8939
+INT-Friendlies,2022,2022-04-27,Friendly,Mexico,0–0,Guatemala,Camping World Stadium (Neutral Site),db93baf0
+INT-Friendlies,2022,2022-05-12,Friendly,Bahamas,4–2,Turks & Caicos,Thomas A. Robinson National Stadium (Neutral Site),66312a5d
+INT-Friendlies,2022,2022-05-12,Friendly,Dominica,2–1,St. Vincent,Windsor Park Stadium (Neutral Site),71cfcb85
+INT-Friendlies,2022,2022-05-14,Friendly,Bahamas,1–2,Turks & Caicos,Thomas A. Robinson National Stadium (Neutral Site),8e081d0d
+INT-Friendlies,2022,2022-05-15,Friendly,Dominica,3–1,St. Vincent,Windsor Park Stadium (Neutral Site),0771a43e
+INT-Friendlies,2022,2022-05-27,Friendly,Bahrain,2–0,Myanmar,BG Training Center (Neutral Site),d1f0a713
+INT-Friendlies,2022,2022-05-27,Friendly,Malaysia,4–0,Brunei,Stadium Nasional Bukit Jalil (Neutral Site),6beb9a69
+INT-Friendlies,2022,2022-05-27,Friendly,Thailand,1–0,Turkmenistan,Sri Nakhon Lamduan Stadium (Neutral Site),23edfe6e
+INT-Friendlies,2022,2022-05-28,Friendly,Ethiopia,1–1,Lesotho,Adama Science and Technology University ... (Neutral Site),6fb3aa59
+INT-Friendlies,2022,2022-05-28,Friendly,Jordan,2–0,India,Suheim bin Hamad Stadium (Neutral Site),5af41333
+INT-Friendlies,2022,2022-05-28,Friendly,Mexico,2–1,Nigeria,AT&T Stadium (Neutral Site),307abd97
+INT-Friendlies,2022,2022-05-29,Friendly,UAE,1–1,Gambia,Zabeel Stadium (Neutral Site),a19ba514
+INT-Friendlies,2022,2022-05-30,Friendly,Ethiopia,1–1,Lesotho,Adama Science and Technology University ... (Neutral Site),74c8c414
+INT-Friendlies,2022,2022-05-31,Friendly,Thailand,1–2,Bahrain,BG Stadium (Neutral Site),f6fd9132
+INT-Friendlies,2022,2022-06-01,Friendly,Indonesia,0–0,Bangladesh,Stadion Si Jalak Harupat (Neutral Site),59564ea0
+INT-Friendlies,2022,2022-06-01,Friendly,Jordan,1–2,Australia,Al Janoub Stadium (Neutral Site),ff5d964a
+INT-Friendlies,2022,2022-06-01,Friendly,Kuwait,2–0,Singapore,Al Nahyan Stadium (Neutral Site),92f4c644
+INT-Friendlies,2022,2022-06-01,Friendly,Malaysia,2–0,Hong Kong,Stadium Nasional Bukit Jalil (Neutral Site),97930717
+INT-Friendlies,2022,2022-06-01,Friendly,Malta,0–1,Venezuela,Ta'Qali National Stadium (Neutral Site),716bcb21
+INT-Friendlies,2022,2022-06-01,Friendly,United States,3–0,Morocco,TQL Stadium (Neutral Site),1f428d10
+INT-Friendlies,2022,2022-06-01,Friendly,Vietnam,2–0,Afghanistan,Sân vận động Thống Nhất (Neutral Site),bcd7c112
+INT-Friendlies,2022,2022-06-02,Friendly,Ecuador,1–0,Nigeria,Red Bull Arena (Neutral Site),7a60aa51
+INT-Friendlies,2022,2022-06-02,Friendly,Japan,4–1,Paraguay,Sapporo Dome (Neutral Site),3dbdcb9f
+INT-Friendlies,2022,2022-06-02,Friendly,Korea Republic,1–5,Brazil,Seoul World Cup Stadium (Neutral Site),1ddc6610
+INT-Friendlies,2022,2022-06-02,Friendly,Mexico,0–3,Uruguay,State Farm Stadium (Neutral Site),471f58e1
+INT-Friendlies,2022,2022-06-05,Friendly,Argentina,5–0,Estonia,Estadio El Sadar (Neutral Site),9d35b76e
+INT-Friendlies,2022,2022-06-05,Friendly,Mexico,0–0,Ecuador,Soldier Field (Neutral Site),8dd4f5d5
+INT-Friendlies,2022,2022-06-05,Friendly,Peru,1–0,New Zealand,RCDE Stadium (Neutral Site),4e64b6ab
+INT-Friendlies,2022,2022-06-05,Friendly,Saudi Arabia,0–1,Colombia,Estadio Enrique Roca de Murcia (Neutral Site),a2a508d6
+INT-Friendlies,2022,2022-06-06,Friendly,Japan,0–1,Brazil,Japan National Stadium (Neutral Site),f3f835c8
+INT-Friendlies,2022,2022-06-06,Friendly,Korea Republic,2–0,Chile,Daejeon World Cup Stadium (Neutral Site),765d2fc8
+INT-Friendlies,2022,2022-06-09,Friendly,New Zealand,0–0,Oman,Education City Stadium (Neutral Site),971c0b95
+INT-Friendlies,2022,2022-06-09,Friendly,San Marino,0–1,Iceland,San Marino Stadium (Neutral Site),f8bda2e1
+INT-Friendlies,2022,2022-06-09,Friendly,Saudi Arabia,0–1,Venezuela,Estadio Enrique Roca de Murcia (Neutral Site),70cc839d
+INT-Friendlies,2022,2022-06-10,Friendly,Korea Republic,2–2,Paraguay,Suwon World Cup Stadium (Neutral Site),cc7e9a10
+INT-Friendlies,2022,2022-06-11,Friendly,Ecuador,1–0,Cabo Verde,DRV PNK Stadium (Neutral Site),3b6f39de
+INT-Friendlies,2022,2022-06-12,Friendly,IR Iran,1–2,Algeria,Suheim bin Hamad Stadium (Neutral Site),4759e0ec
+INT-Friendlies,2022,2022-06-13,Friendly,Albania,0–0,Estonia,Air Albania Stadium (Neutral Site),e73e3b9e
+INT-Friendlies,2022,2022-06-14,Friendly,Korea Republic,4–1,Egypt,Seoul World Cup Stadium (Neutral Site),893f4714
+INT-Friendlies,2022,2022-07-16,Friendly,Philippines,4–1,Timor-Leste,Stadion Kapten I Wayan Dipta (Neutral Site),0f777c97
+INT-Friendlies,2022,2022-07-18,Friendly,Mauritius,2–0,Seychelles,MFA Technical Center (Neutral Site),663ebb99
+INT-Friendlies,2022,2022-08-26,Friendly,Qatar,1–1,Jamaica,Hama Trucks Arena (Neutral Site),aee2e2a4
+INT-Friendlies,2022,2022-08-31,Friendly,Mexico,0–1,Paraguay,Mercedes-Benz Stadium (Neutral Site),30db455b
+INT-Friendlies,2022,2022-09-21,Friendly,Brunei,0–3,Maldives,Padang dan Balapan Kompleks Sukan NHB (Neutral Site),d7c3b802
+INT-Friendlies,2022,2022-09-21,Friendly,Hong Kong,2–0,Myanmar,Mong Kok Stadium (Neutral Site),695965a2
+INT-Friendlies,2022,2022-09-21,Friendly,Libya,0–0,Uganda,Martyrs of February Stadium (Neutral Site),e89487f1
+INT-Friendlies,2022,2022-09-21,Friendly,San Marino,0–0,Seychelles,San Marino Stadium (Neutral Site),48900be7
+INT-Friendlies,2022,2022-09-22,Friendly,Australia,1–0,New Zealand,Suncorp Stadium (Neutral Site),0421bf5a
+INT-Friendlies,2022,2022-09-22,Friendly,Cambodia,0–1,Bangladesh,Morodok Techo National Stadium (Neutral Site),150a81ac
+INT-Friendlies,2022,2022-09-22,Friendly,Iceland,1–0,Venezuela,motion_invest Arena (Neutral Site),0648e9ab
+INT-Friendlies,2022,2022-09-22,Friendly,Suriname,2–1,Nicaragua,Yanmar Stadion (Neutral Site),868bd944
+INT-Friendlies,2022,2022-09-22,Friendly,Tunisia,1–0,Comoros,Stade Omnisports du Chemin de Ronde (Neutral Site),261907b5
+INT-Friendlies,2022,2022-09-23,Friendly,Algeria,1–0,Guinea,Stade Olympique d'Oran (Neutral Site),9dccf363
+INT-Friendlies,2022,2022-09-23,Friendly,Argentina,3–0,Honduras,Hard Rock Stadium (Neutral Site),23561d05
+INT-Friendlies,2022,2022-09-23,Friendly,Bahrain,1–2,Cabo Verde,Stād al-Bahrayn al-Watanī (Neutral Site),36833eea
+INT-Friendlies,2022,2022-09-23,Friendly,Brazil,3–0,Ghana,Stade Océane (Neutral Site),756dc6e1
+INT-Friendlies,2022,2022-09-23,Friendly,Congo DR,0–1,Burkina Faso,Stade Père-Jégo (Neutral Site),32f52b80
+INT-Friendlies,2022,2022-09-23,Friendly,Egypt,3–0,Niger,Alexandria Stadium (Neutral Site),66e75a68
+INT-Friendlies,2022,2022-09-23,Friendly,IR Iran,1–0,Uruguay,NV Arena (Neutral Site),0542214a
+INT-Friendlies,2022,2022-09-23,Friendly,Japan,2–0,United States,Merkur Spielarena (Neutral Site),676aab42
+INT-Friendlies,2022,2022-09-23,Friendly,Korea Republic,2–2,Costa Rica,Goyang Stadium (Neutral Site),ce791cfe
+INT-Friendlies,2022,2022-09-23,Friendly,Mali,1–0,Zambia,Stade du 26 Mars (Neutral Site),7b358519
+INT-Friendlies,2022,2022-09-23,Friendly,Morocco,2–0,Chile,RCDE Stadium (Neutral Site),f9474a8e
+INT-Friendlies,2022,2022-09-23,Friendly,Qatar,0–2,Canada,Generali Arena (Neutral Site),3f1c3c83
+INT-Friendlies,2022,2022-09-23,Friendly,Rwanda,0–0,Equ. Guinea,Stade Municipal de Berrechid (Neutral Site),3056cd2d
+INT-Friendlies,2022,2022-09-23,Friendly,Saudi Arabia,0–0,Ecuador,Estadio Enrique Roca de Murcia (Neutral Site),6f61851c
+INT-Friendlies,2022,2022-09-23,Friendly,UAE,0–1,Paraguay,Hama Trucks Arena (Neutral Site),dea3ee73
+INT-Friendlies,2022,2022-09-23,Friendly,Uzbekistan,2–0,Cameroon,Goyang Stadium (Neutral Site),4642e7d0
+INT-Friendlies,2022,2022-09-24,Friendly,Colombia,4–1,Guatemala,Red Bull Arena (Neutral Site),ad1cadfb
+INT-Friendlies,2022,2022-09-24,Friendly,Congo,3–3,Madagascar,Stade El Bachir (Neutral Site),7e16525c
+INT-Friendlies,2022,2022-09-24,Friendly,Côte d'Ivoire,2–1,Togo,Stade Robert Diochon (Neutral Site),a7573103
+INT-Friendlies,2022,2022-09-24,Friendly,Grenada,1–3,St. Vincent,Lauriston Mini Stadium (Neutral Site),008249c2
+INT-Friendlies,2022,2022-09-24,Friendly,Hong Kong,0–0,Myanmar,Hong Kong Stadium (Neutral Site),c1c53e1d
+INT-Friendlies,2022,2022-09-24,Friendly,Indonesia,3–2,Curaçao,Stadion Gelora Bandung Lautan Api (Neutral Site),2daa9853
+INT-Friendlies,2022,2022-09-24,Friendly,Laos,1–3,Maldives,Padang dan Balapan Kompleks Sukan NHB (Neutral Site),38251480
+INT-Friendlies,2022,2022-09-24,Friendly,Mauritania,1–0,Benin,Stade El Bachir (Neutral Site),3f29db43
+INT-Friendlies,2022,2022-09-24,Friendly,Mexico,1–0,Peru,Rose Bowl (Neutral Site),1a2a6866
+INT-Friendlies,2022,2022-09-24,Friendly,Senegal,2–0,Bolivia,Stade de la Source (Neutral Site),30db6556
+INT-Friendlies,2022,2022-09-24,Friendly,South Africa,4–0,Sierra Leone,FNB Stadium (Neutral Site),9a6f4b6c
+INT-Friendlies,2022,2022-09-24,Friendly,Tanzania,1–0,Uganda,Martyrs of February Stadium (Neutral Site),e73fcbd7
+INT-Friendlies,2022,2022-09-25,Friendly,New Zealand,0–2,Australia,Eden Park (Neutral Site),6735a30a
+INT-Friendlies,2022,2022-09-25,Friendly,Niger,0–0,Liberia,TOLIP Family Club Borg El Arab Hotel Foo... (Neutral Site),73c814ec
+INT-Friendlies,2022,2022-09-26,Friendly,Ethiopia,2–2,Sudan,Abebe Bikila Stadium (Neutral Site),ab7f550e
+INT-Friendlies,2022,2022-09-27,Friendly,Algeria,2–1,Nigeria,Stade Olympique d'Oran (Neutral Site),95056dac
+INT-Friendlies,2022,2022-09-27,Friendly,Bahrain,0–2,Panama,Stād al-Bahrayn al-Watanī (Neutral Site),dae6479d
+INT-Friendlies,2022,2022-09-27,Friendly,Benin,1–3,Madagascar,Stade El Bachir (Neutral Site),a12a248d
+INT-Friendlies,2022,2022-09-27,Friendly,Brazil,5–1,Tunisia,Parc des Princes (Neutral Site),963b2d1a
+INT-Friendlies,2022,2022-09-27,Friendly,Brunei,1–0,Laos,Padang dan Balapan Kompleks Sukan NHB (Neutral Site),f0d67a7d
+INT-Friendlies,2022,2022-09-27,Friendly,Burkina Faso,2–1,Comoros,Stade Père-Jégo (Neutral Site),ca13a018
+INT-Friendlies,2022,2022-09-27,Friendly,Canada,0–2,Uruguay,Štadión Tehelné pole (Neutral Site),b90aca49
+INT-Friendlies,2022,2022-09-27,Friendly,Congo DR,3–0,Sierra Leone,Stade Père-Jégo (Neutral Site),a98d7050
+INT-Friendlies,2022,2022-09-27,Friendly,Côte d'Ivoire,3–1,Guinea,Stade Crédit Agricole la Licorne (Neutral Site),3e9c5ede
+INT-Friendlies,2022,2022-09-27,Friendly,Egypt,3–0,Liberia,Alexandria Stadium (Neutral Site),24daf61b
+INT-Friendlies,2022,2022-09-27,Friendly,Equ. Guinea,2–2,Togo,Stade Larbi-Zaouli (Neutral Site),b79b98f1
+INT-Friendlies,2022,2022-09-27,Friendly,Honduras,2–1,Guatemala,PNC Stadium (Neutral Site),17d26e8e
+INT-Friendlies,2022,2022-09-27,Friendly,IR Iran,1–1,Senegal,motion_invest Arena (Neutral Site),67e4474e
+INT-Friendlies,2022,2022-09-27,Friendly,Indonesia,2–1,Curaçao,Stadion Pakansari Bogor (Neutral Site),156e8491
+INT-Friendlies,2022,2022-09-27,Friendly,Jamaica,0–3,Argentina,Red Bull Arena (Neutral Site),d73b7ead
+INT-Friendlies,2022,2022-09-27,Friendly,Japan,0–0,Ecuador,Merkur Spielarena (Neutral Site),f4513452
+INT-Friendlies,2022,2022-09-27,Friendly,Korea Republic,1–0,Cameroon,Seoul World Cup Stadium (Neutral Site),f18f7fed
+INT-Friendlies,2022,2022-09-27,Friendly,Libya,2–1,Tanzania,Martyrs of February Stadium (Neutral Site),408bd6f0
+INT-Friendlies,2022,2022-09-27,Friendly,Malta,2–1,Israel,Ta'Qali National Stadium (Neutral Site),e9cb9d97
+INT-Friendlies,2022,2022-09-27,Friendly,Mauritania,2–0,Congo,Stade El Bachir (Neutral Site),55b4e6f5
+INT-Friendlies,2022,2022-09-27,Friendly,Mexico,2–3,Colombia,Levi's Stadium (Neutral Site),d5bcb154
+INT-Friendlies,2022,2022-09-27,Friendly,Morocco,0–0,Paraguay,Estadio Benito Villamarín (Neutral Site),0c38ebe9
+INT-Friendlies,2022,2022-09-27,Friendly,Nepal,3–1,Bangladesh,Dasharath Rangasala (Neutral Site),fd79faaa
+INT-Friendlies,2022,2022-09-27,Friendly,Nicaragua,0–1,Ghana,Estadio Francisco Artés Carrasco (Neutral Site),dc0fc875
+INT-Friendlies,2022,2022-09-27,Friendly,Peru,4–1,El Salvador,Audi Field (Neutral Site),420bbc40
+INT-Friendlies,2022,2022-09-27,Friendly,Qatar,2–2,Chile,Generali Arena (Neutral Site),baeebd9e
+INT-Friendlies,2022,2022-09-27,Friendly,Saudi Arabia,0–0,United States,Estadio Enrique Roca de Murcia (Neutral Site),56bde19a
+INT-Friendlies,2022,2022-09-27,Friendly,South Africa,1–0,Botswana,FNB Stadium (Neutral Site),f0dbafcb
+INT-Friendlies,2022,2022-09-27,Friendly,UAE,0–4,Venezuela,Hama Trucks Arena (Neutral Site),dff6e35b
+INT-Friendlies,2022,2022-09-27,Friendly,Uzbekistan,1–2,Costa Rica,Suwon World Cup Stadium (Neutral Site),68ec3dfa
+INT-Friendlies,2022,2022-10-01,Friendly,St. Vincent,1–5,Grenada,Victoria Park (Neutral Site),676c3cfc
+INT-Friendlies,2022,2022-10-30,Friendly,Saudi Arabia,0–0,Honduras,Al Nahyan Stadium (Neutral Site),08af93a9
+INT-Friendlies,2022,2022-11-06,Friendly,Saudi Arabia,1–0,Iceland,Mohammed bin Zayed Stadium (Neutral Site),70fb36a0
+INT-Friendlies,2022,2022-11-09,Friendly,Cameroon,1–1,Jamaica,Stade Omnisport Ahmadou Ahidjo (Neutral Site),e14d6e85
+INT-Friendlies,2022,2022-11-09,Friendly,Costa Rica,2–0,Nigeria,Estadio Nacional de Costa Rica (Neutral Site),7700449a
+INT-Friendlies,2022,2022-11-09,Friendly,Mexico,4–0,Iraq,Estadi Municipal de Montilivi (Neutral Site),265007e8
+INT-Friendlies,2022,2022-11-09,Friendly,Qatar,1–0,Albania,Marbella Fútbol Center - Sur 1 (Neutral Site),1133595b
+INT-Friendlies,2022,2022-11-10,Friendly,IR Iran,1–0,Nicaragua,Azadi Stadium (Neutral Site),98504a53
+INT-Friendlies,2022,2022-11-10,Friendly,Saudi Arabia,1–1,Panama,Al Nahyan Stadium (Neutral Site),f7b38ce5
+INT-Friendlies,2022,2022-11-11,Friendly,Bahrain,2–2,Canada,Madinat 'Isa Stadium (Neutral Site),30aa323b
+INT-Friendlies,2022,2022-11-11,Friendly,Korea Republic,1–0,Iceland,Hwaseong Stadium (Neutral Site),786899bb
+INT-Friendlies,2022,2022-11-12,Friendly,Ecuador,0–0,Iraq,Estadio Cívitas Metropolitano (Neutral Site),bb8b2529
+INT-Friendlies,2022,2022-11-15,Friendly,Dominican Rep.,2–4,Cuba,Estadio Cibao (Neutral Site),7cae8148
+INT-Friendlies,2022,2022-11-15,Friendly,Venezuela,2–2,Panama,Al Hamriya Sports Club Stadium (Neutral Site),ff67d488
+INT-Friendlies,2022,2022-11-16,Friendly,Albania,1–3,Italy,Air Albania Stadium (Neutral Site),c69404b2
+INT-Friendlies,2022,2022-11-16,Friendly,Algeria,1–1,Mali,Stade Olympique d'Oran (Neutral Site),15292b2d
+INT-Friendlies,2022,2022-11-16,Friendly,Andorra,0–1,Austria,Estadio La Rosaleda (Neutral Site),7fb8a1f6
+INT-Friendlies,2022,2022-11-16,Friendly,Cyprus,0–2,Bulgaria,AEK Arena - George Karapatakis (Neutral Site),ff397520
+INT-Friendlies,2022,2022-11-16,Friendly,Czechia,5–0,Faroe Islands,Andrův stadion (Neutral Site),b84e2f4b
+INT-Friendlies,2022,2022-11-16,Friendly,Côte d'Ivoire,4–0,Burundi,Stade de Marrakech (Neutral Site),a83b8ed6
+INT-Friendlies,2022,2022-11-16,Friendly,Gibraltar,2–0,Liechtenstein,Victoria Stadium (Neutral Site),838ef7f9
+INT-Friendlies,2022,2022-11-16,Friendly,Kosovo,2–2,Armenia,Stadiumi Fadil Vokrri (Neutral Site),910eb079
+INT-Friendlies,2022,2022-11-16,Friendly,Mexico,1–2,Sweden,Estadi Municipal de Montilivi (Neutral Site),48370637
+INT-Friendlies,2022,2022-11-16,Friendly,Moldova,1–2,Azerbaijan,Stadionul Zimbru (Neutral Site),72c383c3
+INT-Friendlies,2022,2022-11-16,Friendly,Nepal,1–0,Pakistan,Dasharath Rangasala (Neutral Site),fdcf61f1
+INT-Friendlies,2022,2022-11-16,Friendly,Nicaragua,1–0,El Salvador,Estadio Nacional de Fútbol (Neutral Site),fe022494
+INT-Friendlies,2022,2022-11-16,Friendly,Oman,0–1,Germany,Sultan Qaboos Sport Complex (Neutral Site),dbeee65e
+INT-Friendlies,2022,2022-11-16,Friendly,Peru,1–0,Paraguay,Estadio Monumental (Neutral Site),061b6fed
+INT-Friendlies,2022,2022-11-16,Friendly,Poland,1–0,Chile,Stadion Miejski Legii Warszawa im. Marsz... (Neutral Site),ddeacad5
+INT-Friendlies,2022,2022-11-16,Friendly,Saudi Arabia,0–1,Croatia,Prince Faisal bin Fahd Stadium (Neutral Site),8e701a35
+INT-Friendlies,2022,2022-11-16,Friendly,Türkiye,2–1,Scotland,Diyarbakır Yeni Stadyumu (Neutral Site),e1c97481
+INT-Friendlies,2022,2022-11-16,Friendly,UAE,0–5,Argentina,Mohammed bin Zayed Stadium (Neutral Site),a4bfcd04
+INT-Friendlies,2022,2022-11-16,Friendly,Uzbekistan,2–0,Kazakhstan,Paxtakor Markaziy Stadioni (Neutral Site),b781f795
+INT-Friendlies,2022,2022-11-17,Friendly,Angola,1–0,Botswana,Volkswagen Dobsonville Stadium (Neutral Site),13181ffe
+INT-Friendlies,2022,2022-11-17,Friendly,Gabon,3–1,Guinea-Bissau,Atilla Vehbi Konuk Tesisleri (Neutral Site),aabda6d6
+INT-Friendlies,2022,2022-11-17,Friendly,Ghana,2–0,Switzerland,Sheikh Zayed Sports City (Neutral Site),122522a1
+INT-Friendlies,2022,2022-11-17,Friendly,Israel,4–2,Zambia,Shlomo Insurance Stadium (Neutral Site),81689d75
+INT-Friendlies,2022,2022-11-17,Friendly,Japan,1–2,Canada,Al Maktoum Stadium (Neutral Site),392beca6
+INT-Friendlies,2022,2022-11-17,Friendly,Luxembourg,2–2,Hungary,Stade de Luxembourg (Neutral Site),0662911f
+INT-Friendlies,2022,2022-11-17,Friendly,Malta,2–2,Greece,Ta'Qali National Stadium (Neutral Site),3eb22402
+INT-Friendlies,2022,2022-11-17,Friendly,Montenegro,2–2,Slovakia,Stadion Pod Goricom (Neutral Site),49f86091
+INT-Friendlies,2022,2022-11-17,Friendly,Morocco,3–0,Georgia,Sharjah Stadium (Neutral Site),a6a74e89
+INT-Friendlies,2022,2022-11-17,Friendly,N. Macedonia,1–1,Finland,Nationala Arena Toše Proeski (Neutral Site),0399318f
+INT-Friendlies,2022,2022-11-17,Friendly,Niger,2–3,Libya,Zeytinköy 1 Nolu Saha (Neutral Site),2311d7e3
+INT-Friendlies,2022,2022-11-17,Friendly,Portugal,4–0,Nigeria,Estádio José Alvalade (Neutral Site),3ed2fbd3
+INT-Friendlies,2022,2022-11-17,Friendly,Rep. of Ireland,1–2,Norway,Aviva Stadium (Neutral Site),d6515d17
+INT-Friendlies,2022,2022-11-17,Friendly,Romania,1–2,Slovenia,Cluj Arena (Neutral Site),096227ea
+INT-Friendlies,2022,2022-11-17,Friendly,South Africa,2–1,Mozambique,Mbombela Stadium (Neutral Site),fef454f4
+INT-Friendlies,2022,2022-11-17,Friendly,St. Lucia,1–1,San Marino,Daren Sammy Cricket Ground (Neutral Site),1bd627d5
+INT-Friendlies,2022,2022-11-17,Friendly,Syria,0–1,Belarus,Dubai Club Stadium (Neutral Site),98fd2763
+INT-Friendlies,2022,2022-11-17,Friendly,Tajikistan,0–0,Russia,Centralʹnyj Respublikanskij Stadion (Neutral Site),18c6a168
+INT-Friendlies,2022,2022-11-18,Friendly,Bahrain,1–5,Serbia,Sheikh Ali bin Mohammed Stadium (Neutral Site),871fc65d
+INT-Friendlies,2022,2022-11-18,Friendly,Cameroon,1–1,Panama,Mohammed bin Zayed Stadium (Neutral Site),f7403328
+INT-Friendlies,2022,2022-11-18,Friendly,Dominican Rep.,1–1,Cuba,Estadio Panamericano (Neutral Site),fb67bde6
+INT-Friendlies,2022,2022-11-18,Friendly,Egypt,2–1,Belgium,Jaber Al-Ahmad International Stadium (Neutral Site),0e00c872
+INT-Friendlies,2022,2022-11-19,Friendly,Albania,2–0,Armenia,Air Albania Stadium (Neutral Site),6f89b95f
+INT-Friendlies,2022,2022-11-19,Friendly,Colombia,2–0,Paraguay,DRV PNK Stadium (Neutral Site),cafa65c5
+INT-Friendlies,2022,2022-11-19,Friendly,Côte d'Ivoire,1–2,Burkina Faso,Stade de Marrakech (Neutral Site),fbed8d65
+INT-Friendlies,2022,2022-11-19,Friendly,Gibraltar,1–0,Andorra,Victoria Stadium (Neutral Site),854ff9ae
+INT-Friendlies,2022,2022-11-19,Friendly,Guatemala,3–1,Nicaragua,Dignity Health Sports Park (Neutral Site),311624b6
+INT-Friendlies,2022,2022-11-19,Friendly,Kosovo,1–1,Faroe Islands,Stadiumi Fadil Vokrri (Neutral Site),27e9ee6b
+INT-Friendlies,2022,2022-11-19,Friendly,Kuwait,2–0,Lebanon,Police Officers Club Stadium (Neutral Site),1ba0d176
+INT-Friendlies,2022,2022-11-19,Friendly,Peru,1–0,Bolivia,Estadio de la Universidad Nacional San A...,3b609f23
+INT-Friendlies,2022,2022-11-19,Friendly,Sweden,2–0,Algeria,Eleda Stadion (Neutral Site),7d4af900
+INT-Friendlies,2022,2022-11-19,Friendly,Türkiye,2–1,Czechia,Kalyon Arena (Neutral Site),1c4fed81
+INT-Friendlies,2022,2022-11-19,Friendly,UAE,2–1,Kazakhstan,Al Nahyan Stadium (Neutral Site),e3ba4009
+INT-Friendlies,2022,2022-11-20,Friendly,Austria,2–0,Italy,Ernst-Happel-Stadion (Neutral Site),9d7b2713
+INT-Friendlies,2022,2022-11-20,Friendly,Gambia,0–0,Guinea-Bissau,Ekodizayn Spor Kompleksi (Neutral Site),dbf16301
+INT-Friendlies,2022,2022-11-20,Friendly,Hungary,2–1,Greece,Puskás Aréna (Neutral Site),6e0fc7e9
+INT-Friendlies,2022,2022-11-20,Friendly,Israel,2–3,Cyprus,Shlomo Insurance Stadium (Neutral Site),e8106a2f
+INT-Friendlies,2022,2022-11-20,Friendly,Luxembourg,0–0,Bulgaria,Stade de Luxembourg (Neutral Site),f2c88024
+INT-Friendlies,2022,2022-11-20,Friendly,Malta,0–1,Rep. of Ireland,Ta'Qali National Stadium (Neutral Site),742afcc5
+INT-Friendlies,2022,2022-11-20,Friendly,Moldova,0–5,Romania,Stadionul Zimbru (Neutral Site),d68414af
+INT-Friendlies,2022,2022-11-20,Friendly,N. Macedonia,1–3,Azerbaijan,Nationala Arena Toše Proeski (Neutral Site),b8c203c4
+INT-Friendlies,2022,2022-11-20,Friendly,Niger,1–3,Gabon,Atilla Vehbi Konuk Tesisleri (Neutral Site),56ea86dd
+INT-Friendlies,2022,2022-11-20,Friendly,Norway,1–1,Finland,Ullevaal Stadion (Neutral Site),0ecda55f
+INT-Friendlies,2022,2022-11-20,Friendly,Oman,2–0,Belarus,Khalifa bin Zayed Stadium (Neutral Site),fc7ad4b4
+INT-Friendlies,2022,2022-11-20,Friendly,Slovakia,0–0,Chile,Štadión Tehelné pole (Neutral Site),b0eed346
+INT-Friendlies,2022,2022-11-20,Friendly,Slovenia,1–0,Montenegro,Stadion Stožice (Neutral Site),c9f03ba6
+INT-Friendlies,2022,2022-11-20,Friendly,South Africa,1–1,Angola,Mbombela Stadium (Neutral Site),e328e19a
+INT-Friendlies,2022,2022-11-20,Friendly,St. Lucia,1–0,San Marino,Daren Sammy Cricket Ground (Neutral Site),6d01f895
+INT-Friendlies,2022,2022-11-20,Friendly,Syria,1–2,Venezuela,Dubai Club Stadium (Neutral Site),c31dee93
+INT-Friendlies,2022,2022-11-20,Friendly,Uzbekistan,0–0,Russia,Paxtakor Markaziy Stadioni (Neutral Site),024f4f3e
+INT-Friendlies,2022,2022-12-09,Friendly,Malaysia,4–0,Cambodia,Stadium Nasional Bukit Jalil (Neutral Site),3c5fddea
+INT-Friendlies,2022,2022-12-11,Friendly,Thailand,6–0,Myanmar,Thammasat Stadium (Neutral Site),d460d54f
+INT-Friendlies,2022,2022-12-14,Friendly,Malaysia,3–0,Maldives,Stadium Bolasepak Kuala Lumpur (Neutral Site),c5687944
+INT-Friendlies,2022,2022-12-14,Friendly,Thailand,0–1,Chinese Taipei,Thammasat Stadium (Neutral Site),060eddb2
+INT-Friendlies,2022,2022-12-14,Friendly,Vietnam,1–0,Philippines,Sân vận động Hàng Đẫy,93fe8bef
+INT-Friendlies,2022,2022-12-17,Friendly,Singapore,3–1,Maldives,Jalan Besar Stadium,9faaf6e2
+INT-Friendlies,2022,2022-12-23,Friendly,Syria,1–2,Oman,Shabab Al Ahli Dubai Club / Al Aweer Sub... (Neutral Site),848f614a
+INT-Friendlies,2022,2022-12-30,Friendly,Oman,1–0,Syria,Police Officers Club Stadium (Neutral Site),e06298b8
+INT-Friendlies,2022,2022-12-30,Friendly,UAE,1–0,Lebanon,Al Maktoum Stadium,c35ef583
+INT-Friendlies,2023,2023-01-08,Friendly,Iceland,1–1,Estonia,Estádio da Nora (Neutral Site),4d199913
+INT-Friendlies,2023,2023-01-09,Friendly,Sweden,2–0,Finland,Estádio Algarve (Neutral Site),dbde73b4
+INT-Friendlies,2023,2023-01-12,Friendly,Finland,0–1,Estonia,Estádio da Nora (Neutral Site),17e16d71
+INT-Friendlies,2023,2023-01-12,Friendly,Sweden,2–1,Iceland,Estádio Algarve (Neutral Site),7f4332af
+INT-Friendlies,2023,2023-01-25,Friendly,United States,1–2,Serbia,BMO Stadium,53271555
+INT-Friendlies,2023,2023-01-28,Friendly,United States,0–0,Colombia,Dignity Health Sports Park,3f6bd619
+INT-Friendlies,2023,2023-02-22,Friendly,Grenada,1–1,Barbados,Fond Playing Field,47a250ba
+INT-Friendlies,2023,2023-02-25,Friendly,Malawi,1–1,Lesotho,Bingu National Stadium,d1e4133e
+INT-Friendlies,2023,2023-02-26,Friendly,Grenada,2–2,Barbados,Kirani James Athletics Stadium,242e506e
+INT-Friendlies,2023,2023-03-03,Friendly,Grenada,1–2,St. Lucia,Kirani James Athletics Stadium,a64e21be
+INT-Friendlies,2023,2023-03-11,Friendly,Jamaica,0–1,Trin & Tobago,Montego Bay Sports Complex,bc88f438
+INT-Friendlies,2023,2023-03-12,Friendly,Guatemala,1–1,Panama,PayPal Park (Neutral Site),fe790ad7
+INT-Friendlies,2023,2023-03-14,Friendly,Jamaica,0–0,Trin & Tobago,National Stadium,771bf1d4
+INT-Friendlies,2023,2023-03-20,Friendly,Fiji,1–2,Vanuatu,Churchill Park,003fcb5e
+INT-Friendlies,2023,2023-03-20,Friendly,Tahiti,0–2,New Caledonia,Stade Pater Te Hono Nui,bd938d04
+INT-Friendlies,2023,2023-03-21,Friendly,Maldives,1–0,Pakistan,Laamu Gan Zone Stadium,0ef20054
+INT-Friendlies,2023,2023-03-22,Friendly,Honduras,1–0,El Salvador,BMO Stadium (Neutral Site),abb885ac
+INT-Friendlies,2023,2023-03-22,Friendly,India,1–0,Myanmar,Khuman Lampak Main Stadium,cd9f9c16
+INT-Friendlies,2023,2023-03-22,Friendly,Rep. of Ireland,3–2,Latvia,Aviva Stadium,6e69651c
+INT-Friendlies,2023,2023-03-23,Friendly,Argentina,2–0,Panama,Estadio Mâs Monumental,530b12ba
+INT-Friendlies,2023,2023-03-23,Friendly,Hong Kong,1–1,Singapore,Mong Kok Stadium,eeb58543
+INT-Friendlies,2023,2023-03-23,Friendly,Hungary,1–0,Estonia,Puskás Aréna,32d147b5
+INT-Friendlies,2023,2023-03-23,Friendly,Malaysia,1–0,Turkmenistan,Stadium Sultan Ibrahim Larkin,fe06be4d
+INT-Friendlies,2023,2023-03-23,Friendly,New Zealand,0–0,China PR,Go Media Stadium,d4d6b6d6
+INT-Friendlies,2023,2023-03-23,Friendly,Solomon Islands,2–0,Vanuatu,Churchill Park (Neutral Site),1924bf9e
+INT-Friendlies,2023,2023-03-23,Friendly,Tahiti,2–1,New Caledonia,Stade Pater Te Hono Nui,9095c2fa
+INT-Friendlies,2023,2023-03-24,Friendly,Australia,3–1,Ecuador,CommBank Stadium,046bca9c
+INT-Friendlies,2023,2023-03-24,Friendly,Japan,1–1,Uruguay,Japan National Stadium,e7dd2c0e
+INT-Friendlies,2023,2023-03-24,Friendly,Korea Republic,2–2,Colombia,Munsu Cup Stadium,fc5209bc
+INT-Friendlies,2023,2023-03-24,Friendly,Kuwait,2–0,Philippines,Jaber Al-Ahmad International Stadium,5ddceaa7
+INT-Friendlies,2023,2023-03-24,Friendly,Saudi Arabia,1–2,Venezuela,Prince Abdullah al-Faisal Stadium,722915eb
+INT-Friendlies,2023,2023-03-24,Friendly,Uzbekistan,1–0,Bolivia,King Abdullah Sports City (Neutral Site),9dfac3a9
+INT-Friendlies,2023,2023-03-25,Friendly,Bahrain,1–2,Palestine,Sheikh Ali bin Mohammed Stadium,ec0aac81
+INT-Friendlies,2023,2023-03-25,Friendly,Bangladesh,1–0,Seychelles,Sylhet District Stadium,a86688b7
+INT-Friendlies,2023,2023-03-25,Friendly,Georgia,6–1,Mongolia,Adjarabet Arena,eb300fdc
+INT-Friendlies,2023,2023-03-25,Friendly,Germany,2–0,Peru,Mewa Arena,98300004
+INT-Friendlies,2023,2023-03-25,Friendly,Indonesia,3–1,Burundi,Stadion Patriot Chandrabhaga,b5dbb5c8
+INT-Friendlies,2023,2023-03-25,Friendly,Morocco,2–1,Brazil,Stade Ibn Batouta,b9e2f869
+INT-Friendlies,2023,2023-03-25,Friendly,Myanmar,1–1,Kyrgyz Republic,Khuman Lampak Main Stadium (Neutral Site),b51651e9
+INT-Friendlies,2023,2023-03-25,Friendly,Syria,3–1,Thailand,Maktoum bin Rashid Al Maktoum Stadium (Neutral Site),9088d6d7
+INT-Friendlies,2023,2023-03-25,Friendly,UAE,0–0,Tajikistan,Al Nahyan Stadium,104c34e1
+INT-Friendlies,2023,2023-03-26,Friendly,Fiji,0–2,Solomon Islands,Churchill Park,ff54728c
+INT-Friendlies,2023,2023-03-26,Friendly,Macau,0–1,Singapore,Estádio Campo Desportivo,a34c16ce
+INT-Friendlies,2023,2023-03-26,Friendly,New Zealand,2–1,China PR,Sky Stadium,8889be36
+INT-Friendlies,2023,2023-03-27,Friendly,Chile,3–2,Paraguay,Estadio Monumental David Arellano,b2638636
+INT-Friendlies,2023,2023-03-27,Friendly,Greece,0–0,Lithuania,Agia Sophia Stadium,045d5da5
+INT-Friendlies,2023,2023-03-27,Friendly,N. Macedonia,1–0,Faroe Islands,Nationala Arena Toše Proeski,defdf47c
+INT-Friendlies,2023,2023-03-27,Friendly,Oman,2–0,Lebanon,Sultan Qaboos Sport Complex,196babef
+INT-Friendlies,2023,2023-03-28,Friendly,Argentina,7–0,Curaçao,Estadio Único Madre de Ciudades,7942ef6e
+INT-Friendlies,2023,2023-03-28,Friendly,Armenia,2–2,Cyprus,Vazgen Sargsyan anvan Hanrapetakan Marza...,395d1dc3
+INT-Friendlies,2023,2023-03-28,Friendly,Australia,1–2,Ecuador,Marvel Stadium,034967a5
+INT-Friendlies,2023,2023-03-28,Friendly,Bahrain,1–0,Syria,Sheikh Ali bin Mohammed Stadium,a80bf41f
+INT-Friendlies,2023,2023-03-28,Friendly,Bangladesh,0–1,Seychelles,Sylhet District Stadium,adaf13a2
+INT-Friendlies,2023,2023-03-28,Friendly,Germany,2–3,Belgium,RheinEnergieSTADION,f8d00054
+INT-Friendlies,2023,2023-03-28,Friendly,IR Iran,2–1,Kenya,Azadi Stadium,a3c37d91
+INT-Friendlies,2023,2023-03-28,Friendly,Indonesia,2–2,Burundi,Stadion Patriot Chandrabhaga,470a30e8
+INT-Friendlies,2023,2023-03-28,Friendly,Japan,1–2,Colombia,Yodoko Sakura Stadium,bb3cac85
+INT-Friendlies,2023,2023-03-28,Friendly,Jordan,4–0,Philippines,Saoud bin Abdulrahman Stadium (Neutral Site),0691ca88
+INT-Friendlies,2023,2023-03-28,Friendly,Korea Republic,1–2,Uruguay,Seoul World Cup Stadium,111100a5
+INT-Friendlies,2023,2023-03-28,Friendly,Kuwait,2–1,Tajikistan,Jaber Al-Ahmad International Stadium,463e4f19
+INT-Friendlies,2023,2023-03-28,Friendly,Kyrgyz Republic,0–2,India,Khuman Lampak Main Stadium (Neutral Site),aebe2403
+INT-Friendlies,2023,2023-03-28,Friendly,Malaysia,2–0,Hong Kong,Stadium Sultan Ibrahim Larkin,7d1cdd92
+INT-Friendlies,2023,2023-03-28,Friendly,Morocco,0–0,Peru,Estadio Cívitas Metropolitano (Neutral Site),f6298cc2
+INT-Friendlies,2023,2023-03-28,Friendly,Saudi Arabia,1–2,Bolivia,Prince Abdullah al-Faisal Stadium,ecdd3a37
+INT-Friendlies,2023,2023-03-28,Friendly,UAE,2–0,Thailand,Al Nahyan Stadium,3614d9cb
+INT-Friendlies,2023,2023-03-28,Friendly,Uzbekistan,1–1,Venezuela,King Abdullah Sports City (Neutral Site),820e9bfe
+INT-Friendlies,2023,2023-04-19,Friendly,United States,1–1,Mexico,State Farm Stadium,5704d9a4
+INT-Friendlies,2023,2023-06-07,Friendly,Mexico,2–0,Guatemala,Estadio de Mazatlán,92dd8f1d
+INT-Friendlies,2023,2023-06-09,Friendly,Luxembourg,0–1,Malta,Stade de Luxembourg,eae1c310
+INT-Friendlies,2023,2023-06-10,Friendly,Mexico,2–2,Cameroon,Snapdragon Stadium (Neutral Site),efe5d0d8
+INT-Friendlies,2023,2023-06-10,Friendly,Panama,3–2,Nicaragua,Estadio de la Universidad Latina,3e54cf85
+INT-Friendlies,2023,2023-06-11,Friendly,Chile,3–0,Cuba,Estadio Municipal Alcaldesa Ester Roa Re...,5d28fcae
+INT-Friendlies,2023,2023-06-11,Friendly,Guatemala,0–1,Trin & Tobago,Subaru Park (Neutral Site),24159739
+INT-Friendlies,2023,2023-06-12,Friendly,Germany,3–3,Ukraine,Wohninvest Weserstadion,c5e94f95
+INT-Friendlies,2023,2023-06-12,Friendly,Morocco,0–0,Cabo Verde,Stade Prince Moulay Abdallah,092cd935
+INT-Friendlies,2023,2023-06-14,Friendly,Congo DR,1–0,Uganda,Stade de Japoma (Neutral Site),9a7f28e6
+INT-Friendlies,2023,2023-06-14,Friendly,Indonesia,0–0,Palestine,Stadion Gelora Bung Tomo,175b4b06
+INT-Friendlies,2023,2023-06-14,Friendly,Malaysia,4–1,Solomon Islands,Sultan Mizan Zainal Abidin Stadium,823cf130
+INT-Friendlies,2023,2023-06-14,Friendly,Uruguay,4–1,Nicaragua,Estadio Centenario,0f43eb7c
+INT-Friendlies,2023,2023-06-15,Friendly,Argentina,2–0,Australia,Workers' Stadium (Neutral Site),54d4c66e
+INT-Friendlies,2023,2023-06-15,Friendly,Cambodia,0–1,Bangladesh,Phnom Penh National Olympic Stadium,00c8758e
+INT-Friendlies,2023,2023-06-15,Friendly,Costa Rica,0–1,Guatemala,Dignity Health Sports Park (Neutral Site),2c4af776
+INT-Friendlies,2023,2023-06-15,Friendly,Japan,6–0,El Salvador,Toyota Stadium,01f27902
+INT-Friendlies,2023,2023-06-15,Friendly,Philippines,1–0,Nepal,Rizal Memorial Stadium,34a49506
+INT-Friendlies,2023,2023-06-15,Friendly,Qatar,2–1,Jamaica,Sonnenseestadion (Neutral Site),45f8601b
+INT-Friendlies,2023,2023-06-15,Friendly,Venezuela,1–0,Honduras,Audi Field (Neutral Site),6217581f
+INT-Friendlies,2023,2023-06-15,Friendly,Vietnam,1–0,Hong Kong,Sân vận động Lạch Tray,474bf531
+INT-Friendlies,2023,2023-06-16,Friendly,Chile,5–0,Dominican Rep.,Estadio Sausalito,a9b38065
+INT-Friendlies,2023,2023-06-16,Friendly,China PR,4–0,Myanmar,Dalian Suoyuwan Football Stadium,bb448fc7
+INT-Friendlies,2023,2023-06-16,Friendly,Chinese Taipei,2–2,Thailand,Kaohsiung National Stadium,70bf2a5a
+INT-Friendlies,2023,2023-06-16,Friendly,Colombia,1–0,Iraq,Estadio de Mestalla (Neutral Site),4942bfd2
+INT-Friendlies,2023,2023-06-16,Friendly,Korea Republic,0–1,Peru,Busan Sport Complex Asiad Stadium,c7ed915e
+INT-Friendlies,2023,2023-06-16,Friendly,Poland,1–0,Germany,Stadion Narodowy,7fbaa0be
+INT-Friendlies,2023,2023-06-16,Friendly,Serbia,3–2,Jordan,Generali Arena (Neutral Site),c4673266
+INT-Friendlies,2023,2023-06-16,Friendly,Singapore,2–2,Papua NG,National Stadium,472355e8
+INT-Friendlies,2023,2023-06-16,Friendly,Sweden,4–1,New Zealand,Friends Arena,d8a8bb19
+INT-Friendlies,2023,2023-06-17,Friendly,Brazil,4–1,Guinea,Stage Front Stadium (Neutral Site),416b9e83
+INT-Friendlies,2023,2023-06-17,Friendly,Ecuador,1–0,Bolivia,Red Bull Arena (Neutral Site),11d8ae49
+INT-Friendlies,2023,2023-06-18,Friendly,Egypt,3–0,South Sudan,Cairo International Stadium,6667f23f
+INT-Friendlies,2023,2023-06-18,Friendly,Guatemala,0–1,Venezuela,Pratt & Whitney Stadium at Rentschler Fi... (Neutral Site),c08529c2
+INT-Friendlies,2023,2023-06-18,Friendly,Paraguay,2–0,Nicaragua,Estadio Defensores del Chaco,6edcb216
+INT-Friendlies,2023,2023-06-18,Friendly,Singapore,1–1,Solomon Islands,National Stadium,2783a081
+INT-Friendlies,2023,2023-06-19,Friendly,Hong Kong,0–1,Thailand,Hong Kong Stadium,f8a3b648
+INT-Friendlies,2023,2023-06-19,Friendly,Indonesia,0–2,Argentina,Stadion Utama Gelora Bung Karno,5de3cad0
+INT-Friendlies,2023,2023-06-19,Friendly,Jamaica,1–2,Jordan,Wiener Neustadt Ergo Arena (Neutral Site),15a5b9e6
+INT-Friendlies,2023,2023-06-19,Friendly,Macau,0–2,Myanmar,Dalian Pro Soccer Academy Base (Neutral Site),cbf7ff6e
+INT-Friendlies,2023,2023-06-19,Friendly,Philippines,2–3,Chinese Taipei,Rizal Memorial Stadium,cfe4c3d1
+INT-Friendlies,2023,2023-06-19,Friendly,Qatar,0–1,New Zealand,Sonnenseestadion (Neutral Site),de930c82
+INT-Friendlies,2023,2023-06-20,Friendly,Algeria,1–1,Tunisia,Stade du 19 Mai 1956,ddaa8b37
+INT-Friendlies,2023,2023-06-20,Friendly,Bolivia,0–0,Chile,Estadio Ramón Aguilera Costas,0317dc30
+INT-Friendlies,2023,2023-06-20,Friendly,Brazil,2–4,Senegal,Estádio José Alvalade (Neutral Site),9e972c43
+INT-Friendlies,2023,2023-06-20,Friendly,China PR,2–0,Palestine,Dalian Suoyuwan Football Stadium,327d323c
+INT-Friendlies,2023,2023-06-20,Friendly,Ecuador,3–1,Costa Rica,Subaru Park (Neutral Site),f7c770de
+INT-Friendlies,2023,2023-06-20,Friendly,Germany,0–2,Colombia,Veltins-Arena,19327273
+INT-Friendlies,2023,2023-06-20,Friendly,Japan,4–1,Peru,Panasonic Stadium Suita,356df425
+INT-Friendlies,2023,2023-06-20,Friendly,Korea Republic,1–1,El Salvador,Daejeon World Cup Stadium,217d4eb7
+INT-Friendlies,2023,2023-06-20,Friendly,Malaysia,10–0,Papua NG,Sultan Mizan Zainal Abidin Stadium,be25f5c4
+INT-Friendlies,2023,2023-06-20,Friendly,Montenegro,1–4,Czechia,Stadion Pod Goricom,8e00bb18
+INT-Friendlies,2023,2023-06-20,Friendly,Uruguay,2–0,Cuba,Estadio Centenario,04a468e4
+INT-Friendlies,2023,2023-06-20,Friendly,Vietnam,1–0,Syria,Sân vận động Thiên Trường,f393d963
+INT-Friendlies,2023,2023-08-27,Friendly,Bolivia,1–2,Panama,Estadio Félix Capriles,93dd30c2
+INT-Friendlies,2023,2023-08-28,Friendly,Tahiti,9–1,Cook Islands,Stade Pater Te Hono Nui,675a94b1
+INT-Friendlies,2023,2023-08-31,Friendly,Cook Islands,0–3,Tahiti,Stade Pater Te Hono Nui,f4778eb6
+INT-Friendlies,2023,2023-09-03,Friendly,Bangladesh,0–0,Afghanistan,Bashundhara Kings Arena,55398360
+INT-Friendlies,2023,2023-09-03,Friendly,Guatemala,0–0,Honduras,DRV PNK Stadium (Neutral Site),e13717d3
+INT-Friendlies,2023,2023-09-06,Friendly,Macau,0–1,Bhutan,Estádio Campo Desportivo,faa29b7e
+INT-Friendlies,2023,2023-09-06,Friendly,Malaysia,2–2,Syria,East-Town Football Park (Neutral Site),19db38ea
+INT-Friendlies,2023,2023-09-06,Friendly,Malta,1–0,Gibraltar,Ta'Qali National Stadium,864f9543
+INT-Friendlies,2023,2023-09-06,Friendly,Oman,2–1,Palestine,Sultan Qaboos Sport Complex,5aa6556c
+INT-Friendlies,2023,2023-09-07,Friendly,Austria,1–1,Moldova,Raiffeisen Arena,d2599f30
+INT-Friendlies,2023,2023-09-07,Friendly,Bangladesh,1–1,Afghanistan,Bashundhara Kings Arena,fdf45158
+INT-Friendlies,2023,2023-09-07,Friendly,Bulgaria,0–1,IR Iran,Stadion Hristo Botev,672ec373
+INT-Friendlies,2023,2023-09-07,Friendly,Cambodia,1–1,Hong Kong,Phnom Penh National Olympic Stadium,bec66271
+INT-Friendlies,2023,2023-09-07,Friendly,Kuwait,3–1,Bahrain,Police Officers Club Stadium (Neutral Site),dd655993
+INT-Friendlies,2023,2023-09-07,Friendly,Norway,6–0,Jordan,Ullevaal Stadion,29f3e91c
+INT-Friendlies,2023,2023-09-07,Friendly,Wales,0–0,Korea Republic,Cardiff City Stadium,c1557631
+INT-Friendlies,2023,2023-09-08,Friendly,Chinese Taipei,1–1,Philippines,Kaohsiung National Stadium,2f9ab5e8
+INT-Friendlies,2023,2023-09-08,Friendly,Indonesia,2–0,Turkmenistan,Stadion Gelora Bung Tomo,5bda5296
+INT-Friendlies,2023,2023-09-08,Friendly,Myanmar,0–0,Nepal,Thuwunna Youth Training Center Stadium,6e684b72
+INT-Friendlies,2023,2023-09-08,Friendly,Saudi Arabia,1–3,Costa Rica,St James' Park (Neutral Site),882a3716
+INT-Friendlies,2023,2023-09-08,Friendly,Singapore,0–2,Tajikistan,Bishan Stadium,2d3b378f
+INT-Friendlies,2023,2023-09-09,Friendly,China PR,1–1,Malaysia,Chengdu Phoenix Hill Stadium,5d2ca300
+INT-Friendlies,2023,2023-09-09,Friendly,Germany,1–4,Japan,AOK Stadion,cfc6f12b
+INT-Friendlies,2023,2023-09-09,Friendly,Mexico,2–2,Australia,AT&T Stadium (Neutral Site),812127cd
+INT-Friendlies,2023,2023-09-09,Friendly,South Africa,0–0,Namibia,Orlando Stadium,26432513
+INT-Friendlies,2023,2023-09-09,Friendly,United States,3–0,Uzbekistan,Citypark,66385fb9
+INT-Friendlies,2023,2023-09-10,Friendly,Hungary,1–1,Czechia,Puskás Aréna,0c690a8f
+INT-Friendlies,2023,2023-09-11,Friendly,Cambodia,4–0,Macau,Phnom Penh National Olympic Stadium,a29627a0
+INT-Friendlies,2023,2023-09-11,Friendly,Hong Kong,10–0,Brunei,Hong Kong Stadium,7460d7cb
+INT-Friendlies,2023,2023-09-11,Friendly,Kuwait,1–3,Kyrgyz Republic,The Sevens Stadium (Neutral Site),4f78b161
+INT-Friendlies,2023,2023-09-11,Friendly,Nepal,0–1,Myanmar,Thuwunna Youth Training Center Stadium (Neutral Site),46262c15
+INT-Friendlies,2023,2023-09-11,Friendly,Vietnam,2–0,Palestine,Sân vận động Thiên Trường,6e60ed6a
+INT-Friendlies,2023,2023-09-12,Friendly,Azerbaijan,2–1,Jordan,Dalğa Arena,1305d8f5
+INT-Friendlies,2023,2023-09-12,Friendly,Bahrain,1–1,Turkmenistan,Police Officers Club Stadium (Neutral Site),70b931eb
+INT-Friendlies,2023,2023-09-12,Friendly,China PR,0–1,Syria,Chengdu Phoenix Hill Stadium,c71efcde
+INT-Friendlies,2023,2023-09-12,Friendly,Côte d'Ivoire,0–0,Mali,Stade Olympique Alassane Ouattara d'Ebim...,f9c0711d
+INT-Friendlies,2023,2023-09-12,Friendly,Egypt,1–3,Tunisia,30 June Air Defence Stadium,5074b7ec
+INT-Friendlies,2023,2023-09-12,Friendly,Germany,2–1,France,Signal Iduna Park,1a3bf09a
+INT-Friendlies,2023,2023-09-12,Friendly,Ghana,3–1,Liberia,Accra Sports Stadium,dc5e5aae
+INT-Friendlies,2023,2023-09-12,Friendly,IR Iran,4–0,Angola,Azadi Stadium,eb9875da
+INT-Friendlies,2023,2023-09-12,Friendly,Japan,4–2,Türkiye,Cegeka Arena (Neutral Site),df8aaf47
+INT-Friendlies,2023,2023-09-12,Friendly,Kenya,0–1,South Sudan,Safaricom Stadium Kasarani,c6b978a8
+INT-Friendlies,2023,2023-09-12,Friendly,Mexico,3–3,Uzbekistan,Mercedes-Benz Stadium (Neutral Site),16d1a4fe
+INT-Friendlies,2023,2023-09-12,Friendly,Morocco,1–0,Burkina Faso,Stade Bollaert-Delelis (Neutral Site),c55e273a
+INT-Friendlies,2023,2023-09-12,Friendly,Philippines,2–1,Afghanistan,Rizal Memorial Stadium,ea788c9c
+INT-Friendlies,2023,2023-09-12,Friendly,Saudi Arabia,0–1,Korea Republic,St James' Park (Neutral Site),9c3529eb
+INT-Friendlies,2023,2023-09-12,Friendly,Scotland,1–3,England,Hampden Park,1461ddd6
+INT-Friendlies,2023,2023-09-12,Friendly,Senegal,0–1,Algeria,Stade Président Abdoulaye Wade,79dd29a1
+INT-Friendlies,2023,2023-09-12,Friendly,Singapore,3–1,Chinese Taipei,Bishan Stadium,b1b995c6
+INT-Friendlies,2023,2023-09-12,Friendly,South Africa,1–0,Congo DR,Orlando Stadium,808d27d7
+INT-Friendlies,2023,2023-09-12,Friendly,UAE,4–1,Costa Rica,Stadion Maksimir (Neutral Site),ab953b9e
+INT-Friendlies,2023,2023-09-12,Friendly,United States,4–0,Oman,Allianz Field,7664b57a
+INT-Friendlies,2023,2023-10-10,Friendly,China PR,2–0,Vietnam,Dalian Sports Center Stadium,c73dda53
+INT-Friendlies,2023,2023-10-11,Friendly,Wales,4–0,Gibraltar,STōK Racecourse,4fa624e4
+INT-Friendlies,2023,2023-10-12,Friendly,Algeria,5–1,Cabo Verde,Stade Mohamed-Hamlaoui,c4d91304
+INT-Friendlies,2023,2023-10-12,Friendly,Bahrain,2–0,Kyrgyz Republic,Sheikh Ali bin Mohammed Stadium,5196460a
+INT-Friendlies,2023,2023-10-12,Friendly,Egypt,1–0,Zambia,Hazza bin Zayed Stadium (Neutral Site),cdca6081
+INT-Friendlies,2023,2023-10-12,Friendly,Georgia,8–0,Thailand,Mikheil Meskhis sakhelobis Stadioni,05bce078
+INT-Friendlies,2023,2023-10-12,Friendly,Montenegro,3–2,Lebanon,Stadion Pod Goricom,7fa788d4
+INT-Friendlies,2023,2023-10-12,Friendly,Sweden,3–1,Moldova,Friends Arena,f1b8faf1
+INT-Friendlies,2023,2023-10-12,Friendly,UAE,1–0,Kuwait,Al Maktoum Stadium,17d02717
+INT-Friendlies,2023,2023-10-13,Friendly,England,1–0,Australia,Wembley Stadium,b1fbabe1
+INT-Friendlies,2023,2023-10-13,Friendly,Equ. Guinea,0–0,Burkina Faso,Nuevo Estadio de Malabo,57da5d16
+INT-Friendlies,2023,2023-10-13,Friendly,Guinea-Bissau,0–1,Guinea,Estádio do Bonfim (Neutral Site),02f9437a
+INT-Friendlies,2023,2023-10-13,Friendly,Japan,4–1,Canada,Denka Big Swan Stadium,a061b9e4
+INT-Friendlies,2023,2023-10-13,Friendly,Korea Republic,4–0,Tunisia,Suwon World Cup Stadium,938b4f5f
+INT-Friendlies,2023,2023-10-13,Friendly,Mali,1–0,Uganda,Stade du 26 Mars,7099a3a6
+INT-Friendlies,2023,2023-10-13,Friendly,Mozambique,1–1,Angola,Estádio Municipal de Albufeira (Neutral Site),5847556c
+INT-Friendlies,2023,2023-10-13,Friendly,New Zealand,1–1,Congo DR,Estadio Enrique Roca de Murcia (Neutral Site),c29b6e54
+INT-Friendlies,2023,2023-10-13,Friendly,Saudi Arabia,2–2,Nigeria,Estádio do Portimonense SC (Neutral Site),9baf7b4b
+INT-Friendlies,2023,2023-10-13,Friendly,South Africa,0–0,Eswatini,FNB Stadium,81855ffc
+INT-Friendlies,2023,2023-10-14,Friendly,Côte d'Ivoire,1–1,Morocco,Stade Félix Houphouët-Boigny,2339884f
+INT-Friendlies,2023,2023-10-14,Friendly,Liberia,2–3,Libya,Stade du Phosphate (Neutral Site),84d46073
+INT-Friendlies,2023,2023-10-14,Friendly,Madagascar,1–2,Mauritania,Stade El Bachir (Neutral Site),877202d3
+INT-Friendlies,2023,2023-10-14,Friendly,Mexico,2–0,Ghana,Bank of America Stadium (Neutral Site),52b32b60
+INT-Friendlies,2023,2023-10-14,Friendly,Niger,3–0,Somalia,Stade El Bachir (Neutral Site),5f4d1d70
+INT-Friendlies,2023,2023-10-14,Friendly,Sierra Leone,1–1,Benin,Stade du Phosphate (Neutral Site),eeab5ed4
+INT-Friendlies,2023,2023-10-14,Friendly,United States,1–3,Germany,Pratt & Whitney Stadium at Rentschler Fi...,a392d272
+INT-Friendlies,2023,2023-10-15,Friendly,Sudan,1–1,Tanzania,King Fahd Sport City Stadium (Neutral Site),9e0adf06
+INT-Friendlies,2023,2023-10-16,Friendly,Botswana,2–1,Eswatini,Lobatse Sports Complex,18312a5d
+INT-Friendlies,2023,2023-10-16,Friendly,China PR,1–2,Uzbekistan,Dalian Sports Center Stadium,11561fec
+INT-Friendlies,2023,2023-10-16,Friendly,Egypt,1–1,Algeria,Hazza bin Zayed Stadium (Neutral Site),92d18ba8
+INT-Friendlies,2023,2023-10-16,Friendly,Nigeria,3–2,Mozambique,Estádio Municipal de Albufeira (Neutral Site),0c6a0603
+INT-Friendlies,2023,2023-10-16,Friendly,Senegal,1–0,Cameroon,Stade Bollaert-Delelis (Neutral Site),7eb0ee74
+INT-Friendlies,2023,2023-10-17,Friendly,Albania,2–0,Bulgaria,Air Albania Stadium,00f537d9
+INT-Friendlies,2023,2023-10-17,Friendly,Angola,0–0,Congo DR,Estádio do Bonfim (Neutral Site),92d7266b
+INT-Friendlies,2023,2023-10-17,Friendly,Australia,2–0,New Zealand,Gtech Community Stadium (Neutral Site),ec367928
+INT-Friendlies,2023,2023-10-17,Friendly,Bahrain,1–0,Philippines,Sheikh Ali bin Mohammed Stadium,db7bed0a
+INT-Friendlies,2023,2023-10-17,Friendly,Benin,1–2,Madagascar,Stade Larbi-Zaouli (Neutral Site),8b170ac5
+INT-Friendlies,2023,2023-10-17,Friendly,Cabo Verde,1–2,Comoros,Stade Parsemain (Neutral Site),924fb40b
+INT-Friendlies,2023,2023-10-17,Friendly,Côte d'Ivoire,1–1,South Africa,Stade Félix Houphouët-Boigny,285b5440
+INT-Friendlies,2023,2023-10-17,Friendly,Estonia,1–1,Thailand,A. Le Coq Arena,e39b68a2
+INT-Friendlies,2023,2023-10-17,Friendly,France,4–1,Scotland,Decathlon Arena - Stade Pierre-Mauroy,49c3cf63
+INT-Friendlies,2023,2023-10-17,Friendly,Guinea,1–1,Gabon,Estádio Algarve (Neutral Site),ae579598
+INT-Friendlies,2023,2023-10-17,Friendly,Japan,2–0,Tunisia,NOEVIR Stadium Kobe,964dcc12
+INT-Friendlies,2023,2023-10-17,Friendly,Korea Republic,6–0,Vietnam,Suwon World Cup Stadium,632cb5b9
+INT-Friendlies,2023,2023-10-17,Friendly,Libya,1–1,Niger,Stade du Phosphate (Neutral Site),3f982d4d
+INT-Friendlies,2023,2023-10-17,Friendly,Mauritania,1–2,Burkina Faso,Stade Père-Jégo (Neutral Site),3c1b5f58
+INT-Friendlies,2023,2023-10-17,Friendly,Mexico,2–2,Germany,Lincoln Financial Field (Neutral Site),35c1c066
+INT-Friendlies,2023,2023-10-17,Friendly,N. Macedonia,3–1,Armenia,Stadion Blagoj Istatov,3044006e
+INT-Friendlies,2023,2023-10-17,Friendly,Saudi Arabia,1–3,Mali,Estádio do Portimonense SC (Neutral Site),5fbdcc9d
+INT-Friendlies,2023,2023-10-17,Friendly,Sierra Leone,2–0,Somalia,Stade du Phosphate (Neutral Site),0c23e24a
+INT-Friendlies,2023,2023-10-17,Friendly,Sudan,1–0,Chad,King Fahd Sport City Stadium (Neutral Site),b455966e
+INT-Friendlies,2023,2023-10-17,Friendly,Syria,1–2,Kuwait,Police Officers Club Stadium (Neutral Site),725f1917
+INT-Friendlies,2023,2023-10-17,Friendly,UAE,2–1,Lebanon,Al Maktoum Stadium,eba1a1ff
+INT-Friendlies,2023,2023-10-17,Friendly,United States,4–0,Ghana,Geodis Park,3ac52860
+INT-Friendlies,2023,2023-10-17,Friendly,Zambia,3–0,Uganda,Al Hamriya Sports Club Stadium (Neutral Site),6c129efd
+INT-Friendlies,2023,2023-11-11,Friendly,Guatemala,0–0,Jamaica,Red Bull Arena (Neutral Site),8d894712
+INT-Friendlies,2023,2023-11-15,Friendly,Belgium,1–0,Serbia,King Power at Den Dreef Stadion,c4e365f3
+INT-Friendlies,2023,2023-11-16,Friendly,Curaçao,1–1,El Salvador,Stadion Ergilio Hato,6e6881a2
+INT-Friendlies,2023,2023-11-16,Friendly,Norway,2–0,Faroe Islands,Ullevaal Stadion,20ed5ea8
+INT-Friendlies,2023,2023-11-17,Friendly,Greece,2–0,New Zealand,Stadio Georgios Kamaras,b13f72bf
+INT-Friendlies,2023,2023-11-18,Friendly,Germany,2–3,Türkiye,Olympiastadion Berlin,ed1f140d
+INT-Friendlies,2023,2023-11-19,Friendly,Cyprus,1–0,Lithuania,Alphamega Stadium,a35e1792
+INT-Friendlies,2023,2023-11-20,Friendly,Curaçao,1–1,El Salvador,Stadion Ergilio Hato,f31a7a33
+INT-Friendlies,2023,2023-11-21,Friendly,Austria,2–0,Germany,Ernst-Happel-Stadion,755a7437
+INT-Friendlies,2023,2023-11-21,Friendly,Poland,2–0,Latvia,Stadion Narodowy,3ef0060e
+INT-Friendlies,2023,2023-11-21,Friendly,Rep. of Ireland,1–1,New Zealand,Aviva Stadium,688dcfb6
+INT-Friendlies,2024,2024-03-18,Friendly,Solomon Islands,2–1,Fiji,Lawson Tama Stadium,f00e580f
+INT-Friendlies,2024,2024-03-20,Friendly,San Marino,1–3,St. Kitts & Nevis,San Marino Stadium,734dc6e0
+INT-Friendlies,2024,2024-03-21,Friendly,Belarus,0–2,Montenegro,Titanic Mardan Stadyumu (Neutral Site),9a5f0691
+INT-Friendlies,2024,2024-03-21,Friendly,Belize,1–1,Puerto Rico,FFB Field,820cc5a8
+INT-Friendlies,2024,2024-03-21,Friendly,Cyprus,1–1,Latvia,AEK Arena - George Karapatakis,302fc8bf
+INT-Friendlies,2024,2024-03-21,Friendly,Ecuador,2–0,Guatemala,Red Bull Arena (Neutral Site),cc47f9bf
+INT-Friendlies,2024,2024-03-21,Friendly,Ethiopia,1–2,Lesotho,Addis Ababa Stadium,930ecd64
+INT-Friendlies,2024,2024-03-21,Friendly,Fiji,2–0,Solomon Islands,Lawson Tama Stadium (Neutral Site),6361f3f7
+INT-Friendlies,2024,2024-03-21,Friendly,Malta,2–2,Slovenia,Ta'Qali National Stadium,f0211bb0
+INT-Friendlies,2024,2024-03-21,Friendly,Portugal,5–2,Sweden,Estádio Dom Afonso Henriques,6495e74e
+INT-Friendlies,2024,2024-03-21,Friendly,Venezuela,1–2,Italy,Chase Stadium (Neutral Site),fb5d23cf
+INT-Friendlies,2024,2024-03-22,Friendly,Albania,0–3,Chile,Stadio Ennio Tardini (Neutral Site),01304208
+INT-Friendlies,2024,2024-03-22,Friendly,Armenia,0–1,Kosovo,Vazgen Sargsyan anvan Hanrapetakan Marza...,470c1a23
+INT-Friendlies,2024,2024-03-22,Friendly,Burkina Faso,1–2,Libya,Stade Père-Jégo (Neutral Site),0f241a5e
+INT-Friendlies,2024,2024-03-22,Friendly,Comoros,4–0,Uganda,Annexe du Grand Stade de Marrakech (Neutral Site),3e594148
+INT-Friendlies,2024,2024-03-22,Friendly,El Salvador,0–3,Argentina,Lincoln Financial Field (Neutral Site),7bee96ed
+INT-Friendlies,2024,2024-03-22,Friendly,Hungary,1–0,Türkiye,Puskás Aréna,cf63dd6f
+INT-Friendlies,2024,2024-03-22,Friendly,Liechtenstein,0–4,Faroe Islands,Marbella Fútbol Center - Norte 1 (Neutral Site),3c9a09ce
+INT-Friendlies,2024,2024-03-22,Friendly,Mauritania,0–2,Mali,Grand Stade de Marrakech (Neutral Site),81b5b480
+INT-Friendlies,2024,2024-03-22,Friendly,Morocco,1–0,Angola,Grand Stade d'Agadir,9704bca3
+INT-Friendlies,2024,2024-03-22,Friendly,N. Macedonia,1–1,Moldova,Titanic Mardan Stadyumu (Neutral Site),8b4fed29
+INT-Friendlies,2024,2024-03-22,Friendly,Netherlands,4–0,Scotland,Johan Cruijff Arena,d5f13317
+INT-Friendlies,2024,2024-03-22,Friendly,Niger,1–2,Togo,Stade El Bachir (Neutral Site),5fa16fa1
+INT-Friendlies,2024,2024-03-22,Friendly,Nigeria,2–1,Ghana,Grand Stade de Marrakech (Neutral Site),fbb0bf24
+INT-Friendlies,2024,2024-03-22,Friendly,Norway,1–2,Czechia,Ullevaal Stadion,45a6b777
+INT-Friendlies,2024,2024-03-22,Friendly,Peru,2–0,Nicaragua,Estadio Alejandro Villanueva,b3448633
+INT-Friendlies,2024,2024-03-22,Friendly,Romania,1–1,Northern Ireland,Arena Naţională,69f08d53
+INT-Friendlies,2024,2024-03-22,Friendly,Senegal,3–0,Gabon,Stade Crédit Agricole la Licorne (Neutral Site),2a75ec26
+INT-Friendlies,2024,2024-03-22,Friendly,Spain,0–1,Colombia,London Stadium (Neutral Site),521f08e2
+INT-Friendlies,2024,2024-03-23,Friendly,Côte d'Ivoire,2–2,Benin,Stade Crédit Agricole la Licorne (Neutral Site),54348c26
+INT-Friendlies,2024,2024-03-23,Friendly,Denmark,0–0,Switzerland,Parken,0467b4d2
+INT-Friendlies,2024,2024-03-23,Friendly,Dominican Rep.,2–0,Aruba,Estadio Cibao,919218e3
+INT-Friendlies,2024,2024-03-23,Friendly,England,0–1,Brazil,Wembley Stadium connected by EE,5eccc784
+INT-Friendlies,2024,2024-03-23,Friendly,France,0–2,Germany,Groupama Stadium,f1e299ee
+INT-Friendlies,2024,2024-03-23,Friendly,Rep. of Ireland,0–0,Belgium,Aviva Stadium,37fdfc31
+INT-Friendlies,2024,2024-03-23,Friendly,Slovakia,0–2,Austria,Štadión Tehelné pole,d3121ff5
+INT-Friendlies,2024,2024-03-24,Friendly,Belize,3–0,Puerto Rico,FFB Field,d4c70de3
+INT-Friendlies,2024,2024-03-24,Friendly,Ecuador,0–2,Italy,Red Bull Arena (Neutral Site),e975d4be
+INT-Friendlies,2024,2024-03-24,Friendly,Ethiopia,2–1,Lesotho,Addis Ababa Stadium,cfb14a9c
+INT-Friendlies,2024,2024-03-24,Friendly,Guatemala,0–0,Venezuela,Shell Energy Stadium (Neutral Site),07ce3c0f
+INT-Friendlies,2024,2024-03-24,Friendly,San Marino,0–0,St. Kitts & Nevis,San Marino Stadium,1b5d5b85
+INT-Friendlies,2024,2024-03-25,Friendly,Burundi,0–0,Botswana,Kianja Barea Mahamasina (Neutral Site),6042a0f3
+INT-Friendlies,2024,2024-03-25,Friendly,Comoros,0–0,Angola,Grand Stade de Marrakech (Neutral Site),51d5ffe3
+INT-Friendlies,2024,2024-03-25,Friendly,Cyprus,0–1,Serbia,AEK Arena - George Karapatakis,f33594d1
+INT-Friendlies,2024,2024-03-25,Friendly,Gabon,1–1,Congo,Stade Walter Luzi (Neutral Site),69cd5547
+INT-Friendlies,2024,2024-03-25,Friendly,Montenegro,1–0,N. Macedonia,Titanic Mardan Stadyumu (Neutral Site),1e9206ce
+INT-Friendlies,2024,2024-03-25,Friendly,Rwanda,2–0,Madagascar,Kianja Barea Mahamasina (Neutral Site),327fdc0e
+INT-Friendlies,2024,2024-03-25,Friendly,Sweden,1–0,Albania,Strawberry Arena,a4d38035
+INT-Friendlies,2024,2024-03-26,Friendly,Austria,6–1,Türkiye,Ernst-Happel-Stadion,21d76e8f
+INT-Friendlies,2024,2024-03-26,Friendly,Burkina Faso,1–1,Niger,Stade Municipal de Berrechid (Neutral Site),405a6cf7
+INT-Friendlies,2024,2024-03-26,Friendly,Cayman Islands,0–4,Moldova,Titanic Mardan Stadyumu (Neutral Site),1f0e1827
+INT-Friendlies,2024,2024-03-26,Friendly,Colombia,3–2,Romania,Riyadh Air Metropolitan Stadium (Neutral Site),86f9c8c3
+INT-Friendlies,2024,2024-03-26,Friendly,Costa Rica,1–3,Argentina,United Airlines Field at the Los Angeles... (Neutral Site),24696f0c
+INT-Friendlies,2024,2024-03-26,Friendly,Czechia,2–1,Armenia,epet Arena,19019e5d
+INT-Friendlies,2024,2024-03-26,Friendly,Côte d'Ivoire,2–1,Uruguay,Stade Bollaert-Delelis (Neutral Site),6ddfd148
+INT-Friendlies,2024,2024-03-26,Friendly,Denmark,2–0,Faroe Islands,Brøndby Stadion,0d72811a
+INT-Friendlies,2024,2024-03-26,Friendly,El Salvador,1–1,Honduras,Shell Energy Stadium (Neutral Site),953592b8
+INT-Friendlies,2024,2024-03-26,Friendly,England,2–2,Belgium,Wembley Stadium connected by EE,5cac400a
+INT-Friendlies,2024,2024-03-26,Friendly,Finland,2–1,Estonia,Helsingin olympiastadion,f2455df7
+INT-Friendlies,2024,2024-03-26,Friendly,France,3–2,Chile,Orange Vélodrome,2bc4d06c
+INT-Friendlies,2024,2024-03-26,Friendly,Germany,2–1,Netherlands,Deutsche Bank Park,176d9d40
+INT-Friendlies,2024,2024-03-26,Friendly,Ghana,2–2,Uganda,Grand Stade de Marrakech (Neutral Site),0fada073
+INT-Friendlies,2024,2024-03-26,Friendly,Hungary,2–0,Kosovo,Puskás Aréna,857cce9b
+INT-Friendlies,2024,2024-03-26,Friendly,Latvia,1–1,Liechtenstein,Stadio Antonis Papadopoulos (Neutral Site),8ed0ebb0
+INT-Friendlies,2024,2024-03-26,Friendly,Luxembourg,2–1,Kazakhstan,Stade de Luxembourg,fbdb2625
+INT-Friendlies,2024,2024-03-26,Friendly,Malta,0–0,Belarus,Ta'Qali National Stadium,9b0c7128
+INT-Friendlies,2024,2024-03-26,Friendly,Morocco,0–0,Mauritania,Grand Stade d'Agadir,a13022c9
+INT-Friendlies,2024,2024-03-26,Friendly,Nicaragua,0–1,Cuba,Estadio Nacional de Fútbol,881453e2
+INT-Friendlies,2024,2024-03-26,Friendly,Nigeria,0–2,Mali,Grand Stade de Marrakech (Neutral Site),74ba6e20
+INT-Friendlies,2024,2024-03-26,Friendly,Norway,1–1,Slovakia,Ullevaal Stadion,af9564ce
+INT-Friendlies,2024,2024-03-26,Friendly,Peru,4–1,Dominican Rep.,Estadio Monumental U Marathon,8703a74d
+INT-Friendlies,2024,2024-03-26,Friendly,Rep. of Ireland,0–1,Switzerland,Aviva Stadium,4e0bf041
+INT-Friendlies,2024,2024-03-26,Friendly,Scotland,0–1,Northern Ireland,Hampden Park,86615aa5
+INT-Friendlies,2024,2024-03-26,Friendly,Senegal,1–0,Benin,Stade Crédit Agricole la Licorne (Neutral Site),cec911c9
+INT-Friendlies,2024,2024-03-26,Friendly,Slovenia,2–0,Portugal,Stadion Stožice,fc9ef120
+INT-Friendlies,2024,2024-03-26,Friendly,Spain,3–3,Brazil,Estadio Santiago Bernabéu,f47f2579
+INT-Friendlies,2024,2024-03-26,Friendly,Togo,1–1,Libya,Stade Père-Jégo (Neutral Site),fa6b178f
+INT-Friendlies,2024,2024-06-03,Friendly,Albania,3–0,Liechtenstein,Haladás Stadion (Neutral Site),bbdfb5c6
+INT-Friendlies,2024,2024-06-03,Friendly,Croatia,3–0,N. Macedonia,Stadion HNK Rijeka,a06249ff
+INT-Friendlies,2024,2024-06-03,Friendly,England,3–0,Bosnia–Herz,St James' Park,43e013da
+INT-Friendlies,2024,2024-06-03,Friendly,Germany,0–0,Ukraine,Max-Morlock-Stadion,2e552e57
+INT-Friendlies,2024,2024-06-03,Friendly,Gibraltar,0–2,Scotland,Estádio Algarve (Neutral Site),2fdd5b7e
+INT-Friendlies,2024,2024-06-04,Friendly,Austria,2–1,Serbia,Ernst-Happel-Stadion,d63a44dc
+INT-Friendlies,2024,2024-06-04,Friendly,Italy,0–0,Türkiye,Stadio Renato Dall'Ara,95d471df
+INT-Friendlies,2024,2024-06-04,Friendly,Portugal,4–2,Finland,Estádio José Alvalade,e14994e2
+INT-Friendlies,2024,2024-06-04,Friendly,Rep. of Ireland,2–1,Hungary,Aviva Stadium,a6164a65
+INT-Friendlies,2024,2024-06-04,Friendly,Romania,0–0,Bulgaria,Stadionul Steaua,32033cac
+INT-Friendlies,2024,2024-06-04,Friendly,Slovenia,2–1,Armenia,Stadion Stožice,22e77238
+INT-Friendlies,2024,2024-06-04,Friendly,Switzerland,4–0,Estonia,swissporarena,d338f698
+INT-Friendlies,2024,2024-06-05,Friendly,Belgium,2–0,Montenegro,Stade Roi Baudouin,42f317a3
+INT-Friendlies,2024,2024-06-05,Friendly,Denmark,2–1,Sweden,Parken,cdba4515
+INT-Friendlies,2024,2024-06-05,Friendly,France,3–0,Luxembourg,Stade Saint-Symphorien,9b71064e
+INT-Friendlies,2024,2024-06-05,Friendly,Mexico,0–4,Uruguay,Empower Field at Mile High (Neutral Site),4bf89490
+INT-Friendlies,2024,2024-06-05,Friendly,Norway,3–0,Kosovo,Ullevaal Stadion,083b2c08
+INT-Friendlies,2024,2024-06-05,Friendly,Slovakia,4–0,San Marino,Wiener Neustadt Ergo Arena (Neutral Site),8728e89f
+INT-Friendlies,2024,2024-06-05,Friendly,Spain,5–0,Andorra,Estadio Municipal Nuevo Vivero,4482be20
+INT-Friendlies,2024,2024-06-06,Friendly,Gibraltar,0–0,Wales,Estádio Algarve (Neutral Site),24380615
+INT-Friendlies,2024,2024-06-06,Friendly,Netherlands,4–0,Canada,Stadion Feijenoord,a9595ceb
+INT-Friendlies,2024,2024-06-07,Friendly,Albania,3–1,Azerbaijan,Haladás Stadion (Neutral Site),3bc19d07
+INT-Friendlies,2024,2024-06-07,Friendly,Armenia,2–1,Kazakhstan,Vazgen Sargsyan anvan Hanrapetakan Marza...,7a4359c1
+INT-Friendlies,2024,2024-06-07,Friendly,Cambodia,2–0,Mongolia,Phnom Penh National Olympic Stadium,858d9781
+INT-Friendlies,2024,2024-06-07,Friendly,Czechia,7–1,Malta,Greisbergers Betten-Arena (Neutral Site),ab95455b
+INT-Friendlies,2024,2024-06-07,Friendly,England,0–1,Iceland,Wembley Stadium connected by EE,932ff5e7
+INT-Friendlies,2024,2024-06-07,Friendly,Germany,2–1,Greece,Stadion im Borussia-Park,e14cc21a
+INT-Friendlies,2024,2024-06-07,Friendly,Peru,0–0,Paraguay,Estadio Monumental U Marathon,dc54ee34
+INT-Friendlies,2024,2024-06-07,Friendly,Poland,3–1,Ukraine,PGE Narodowy,38d89fad
+INT-Friendlies,2024,2024-06-07,Friendly,Romania,0–0,Liechtenstein,Stadionul Steaua,f2b607d3
+INT-Friendlies,2024,2024-06-07,Friendly,Scotland,2–2,Finland,Hampden Park,8213213f
+INT-Friendlies,2024,2024-06-08,Friendly,Belgium,3–0,Luxembourg,Stade Roi Baudouin,879d35ed
+INT-Friendlies,2024,2024-06-08,Friendly,Brunei,1–0,Sri Lanka,Stadium Negara Hassanal Bolkiah,e8c3bb47
+INT-Friendlies,2024,2024-06-08,Friendly,Denmark,3–1,Norway,Brøndby Stadion,374687b1
+INT-Friendlies,2024,2024-06-08,Friendly,Hungary,3–0,Israel,Nagyerdei Stadion,6ba15f55
+INT-Friendlies,2024,2024-06-08,Friendly,Mexico,2–3,Brazil,Kyle Field (Neutral Site),df95da27
+INT-Friendlies,2024,2024-06-08,Friendly,Moldova,3–2,Cyprus,Stadionul Zimbru,ecb15542
+INT-Friendlies,2024,2024-06-08,Friendly,Portugal,1–2,Croatia,Estádio Nacional,f2d309b2
+INT-Friendlies,2024,2024-06-08,Friendly,Slovenia,1–1,Bulgaria,Stadion Stožice,a1a06d43
+INT-Friendlies,2024,2024-06-08,Friendly,Spain,5–1,Northern Ireland,Estadi Mallorca Son Moix,05d97421
+INT-Friendlies,2024,2024-06-08,Friendly,Sweden,0–3,Serbia,Strawberry Arena,19fe6042
+INT-Friendlies,2024,2024-06-08,Friendly,Switzerland,1–1,Austria,Kybunpark,abc613a8
+INT-Friendlies,2024,2024-06-08,Friendly,United States,1–5,Colombia,Commanders Field,dfe60a21
+INT-Friendlies,2024,2024-06-09,Friendly,Argentina,1–0,Ecuador,Soldier Field (Neutral Site),967ddddb
+INT-Friendlies,2024,2024-06-09,Friendly,France,0–0,Canada,Stade Matmut-Atlantique,c2178e11
+INT-Friendlies,2024,2024-06-09,Friendly,Italy,1–0,Bosnia–Herz,Stadio Carlo Castellani - Computer Gross...,5d60c1cb
+INT-Friendlies,2024,2024-06-09,Friendly,Montenegro,1–3,Georgia,Stadion Pod Goricom,0f4d9c4a
+INT-Friendlies,2024,2024-06-09,Friendly,Slovakia,4–0,Wales,City Arena Trnava,c4c780e2
+INT-Friendlies,2024,2024-06-10,Friendly,Czechia,2–1,N. Macedonia,Všesportovní stadion,80228b89
+INT-Friendlies,2024,2024-06-10,Friendly,Netherlands,4–0,Iceland,Stadion Feijenoord,37b8c820
+INT-Friendlies,2024,2024-06-10,Friendly,Poland,2–1,Türkiye,PGE Narodowy,14878bbf
+INT-Friendlies,2024,2024-06-11,Friendly,Azerbaijan,3–2,Kazakhstan,Haladás Stadion (Neutral Site),c65ab4ea
+INT-Friendlies,2024,2024-06-11,Friendly,Belarus,0–4,Israel,Szusza Ferenc Stadion (Neutral Site),c4b83709
+INT-Friendlies,2024,2024-06-11,Friendly,Chile,3–0,Paraguay,Estadio Nacional Julio Martínez Prádanos,6500709b
+INT-Friendlies,2024,2024-06-11,Friendly,Malta,0–2,Greece,Greisbergers Betten-Arena (Neutral Site),230a9d8e
+INT-Friendlies,2024,2024-06-11,Friendly,Moldova,0–4,Ukraine,Stadionul Zimbru,b129d74a
+INT-Friendlies,2024,2024-06-11,Friendly,Mongolia,2–1,Cambodia,Football Centre MFF,289261e7
+INT-Friendlies,2024,2024-06-11,Friendly,Northern Ireland,2–0,Andorra,Estadio Enrique Roca de Murcia (Neutral Site),fcba14b3
+INT-Friendlies,2024,2024-06-11,Friendly,Portugal,3–0,Rep. of Ireland,Estádio Mário Duarte,9088a190
+INT-Friendlies,2024,2024-06-11,Friendly,San Marino,1–4,Cyprus,San Marino Stadium,4241ca2c
+INT-Friendlies,2024,2024-06-11,Friendly,Sri Lanka,0–1,Brunei,Stadium Negara Hassanal Bolkiah (Neutral Site),e0a0bde9
+INT-Friendlies,2024,2024-06-12,Friendly,Ecuador,3–1,Bolivia,Subaru Park (Neutral Site),9e5a1928
+INT-Friendlies,2024,2024-06-12,Friendly,United States,1–1,Brazil,Camping World Stadium,174bf942
+INT-Friendlies,2024,2024-06-14,Friendly,Argentina,4–1,Guatemala,Commanders Field (Neutral Site),cbf0ebeb
+INT-Friendlies,2024,2024-06-14,Friendly,El Salvador,0–1,Peru,Subaru Park (Neutral Site),38293a6b
+INT-Friendlies,2024,2024-06-15,Friendly,Colombia,3–0,Bolivia,Pratt & Whitney Stadium at Rentschler Fi... (Neutral Site),741934dd
+INT-Friendlies,2024,2024-06-16,Friendly,Ecuador,2–1,Honduras,Pratt & Whitney Stadium at Rentschler Fi... (Neutral Site),1ce56cf6
+INT-Friendlies,2024,2024-06-16,Friendly,Panama,0–1,Paraguay,Estadio Rommel Fernández Gutiérrez,97f57797
+INT-Friendlies,2024,2024-09-02,Friendly,Fiji,1–0,Solomon Islands,HFC Bank Stadium,d2b554a4
+INT-Friendlies,2024,2024-09-04,Friendly,Gibraltar,1–0,Andorra,Europa Point Stadium,350881c0
+INT-Friendlies,2024,2024-09-05,Friendly,Bhutan,0–1,Bangladesh,Changlimithang National Stadium,93fee899
+INT-Friendlies,2024,2024-09-05,Friendly,Solomon Islands,0–3,Hong Kong,HFC Bank Stadium (Neutral Site),b50d5c4b
+INT-Friendlies,2024,2024-09-07,Friendly,Mexico,3–0,New Zealand,Rose Bowl (Neutral Site),6df3e937
+INT-Friendlies,2024,2024-09-07,Friendly,United States,1–2,Canada,Children's Mercy Park,03564011
+INT-Friendlies,2024,2024-09-08,Friendly,Bhutan,1–0,Bangladesh,Changlimithang National Stadium,2227f26d
+INT-Friendlies,2024,2024-09-08,Friendly,Hong Kong,1–1,Fiji,Churchill Park (Neutral Site),74318d5e
+INT-Friendlies,2024,2024-09-09,Friendly,Cook Islands,1–2,American Samoa,J.S. Blatter Soccer Stadium - Field 1 (Neutral Site),c02b674c
+INT-Friendlies,2024,2024-09-10,Friendly,Mexico,0–0,Canada,AT&T Stadium (Neutral Site),c39e721b
+INT-Friendlies,2024,2024-09-10,Friendly,Moldova,1–0,San Marino,Stadionul Zimbru,c4742a5c
+INT-Friendlies,2024,2024-09-10,Friendly,United States,1–1,New Zealand,TQL Stadium,8875ce65
+INT-Friendlies,2024,2024-10-10,Friendly,Liechtenstein,1–0,Hong Kong,Rheinpark Stadion,d2d6398f
+INT-Friendlies,2024,2024-10-10,Friendly,Myanmar,2–0,Sri Lanka,Thuwunna Youth Training Center Stadium,f954bd85
+INT-Friendlies,2024,2024-10-11,Friendly,Cambodia,3–2,Chinese Taipei,Phnom Penh National Olympic Stadium,ad429bdf
+INT-Friendlies,2024,2024-10-12,Friendly,United States,2–0,Panama,Q2 Stadium,dac3581c
+INT-Friendlies,2024,2024-10-12,Friendly,Vietnam,1–1,India,Sân vận động Thiên Trường,6806a510
+INT-Friendlies,2024,2024-10-13,Friendly,Andorra,2–0,San Marino,Estadi Nacional,1385c54a
+INT-Friendlies,2024,2024-10-13,Friendly,Myanmar,0–0,Sri Lanka,Thuwunna Youth Training Center Stadium,f5f18a17
+INT-Friendlies,2024,2024-10-14,Friendly,New Zealand,4–0,Malaysia,QBE Stadium Oval Field,0f208027
+INT-Friendlies,2024,2024-10-15,Friendly,Canada,2–1,Panama,BMO Field,5663d52d
+INT-Friendlies,2024,2024-10-15,Friendly,Hong Kong,3–0,Cambodia,Hong Kong Stadium,c513efeb
+INT-Friendlies,2024,2024-10-15,Friendly,Mexico,2–0,United States,Estadio Akron,57bbc128
+INT-Friendlies,2024,2024-11-13,Friendly,Bangladesh,0–1,Maldives,Bashundhara Kings Arena,7eab4cdc
+INT-Friendlies,2024,2024-11-13,Friendly,Tajikistan,4–0,Nepal,Centralʹnyj Respublikanskij Stadion,df90d3fc
+INT-Friendlies,2024,2024-11-14,Friendly,Hong Kong,3–1,Philippines,Hong Kong Stadium,b9f6ac92
+INT-Friendlies,2024,2024-11-14,Friendly,Laos,1–3,Malaysia,PAT Stadium (Neutral Site),ffefb177
+INT-Friendlies,2024,2024-11-14,Friendly,Malta,2–0,Liechtenstein,Ta'Qali National Stadium,ee86cf49
+INT-Friendlies,2024,2024-11-14,Friendly,Singapore,3–2,Myanmar,National Stadium,ecec3fca
+INT-Friendlies,2024,2024-11-14,Friendly,Thailand,0–0,Lebanon,Thammasat Stadium,dc3b9ea4
+INT-Friendlies,2024,2024-11-16,Friendly,Bangladesh,2–1,Maldives,Bashundhara Kings Arena,83fcc061
+INT-Friendlies,2024,2024-11-16,Friendly,Nepal,2–0,Afghanistan,Centralʹnyj Respublikanskij Stadion (Neutral Site),aece6c13
+INT-Friendlies,2024,2024-11-16,Friendly,Sri Lanka,1–0,Yemen,Al-Khwar Stadium (Neutral Site),a847e860
+INT-Friendlies,2024,2024-11-17,Friendly,Thailand,1–1,Laos,Thammasat Stadium,ba8ad9de
+INT-Friendlies,2024,2024-11-18,Friendly,India,1–1,Malaysia,Ganti Mohana Chandra Balayogi Athletic S...,d44edf89
+INT-Friendlies,2024,2024-11-18,Friendly,Singapore,2–3,Chinese Taipei,National Stadium,0489492f
+INT-Friendlies,2024,2024-11-19,Friendly,Gibraltar,1–1,Moldova,Europa Point Stadium,0bbbd1ed
+INT-Friendlies,2024,2024-11-19,Friendly,Hong Kong,1–0,Mauritius,Mong Kok Stadium,97e697ed
+INT-Friendlies,2024,2024-11-19,Friendly,Myanmar,2–3,Lebanon,Thuwunna Youth Training Center Stadium,57762c50
+INT-Friendlies,2024,2024-11-19,Friendly,Sri Lanka,0–2,Yemen,Al-Khwar Stadium (Neutral Site),2606c293
+INT-Friendlies,2024,2024-11-19,Friendly,Tajikistan,3–1,Afghanistan,Centralʹnyj Respublikanskij Stadion,6ee915cd
+INT-Friendlies,2025,2025-01-18,Friendly,United States,3–1,Venezuela,Chase Stadium,e3fffdb3
+INT-Friendlies,2025,2025-01-22,Friendly,United States,3–0,Costa Rica,Inter&Co Stadium,83029af8
+INT-Friendlies,2025,2025-02-08,Friendly,Chile,6–1,Panama,Estadio Nacional Julio Martínez Prádanos,2807bc6e
+INT-Friendlies,2025,2025-02-17,Friendly,Kazakhstan,0–2,Korea DPR,Kaya Palazzo Golf Resort,1e52fc4f
+INT-Friendlies,2025,2025-03-16,Friendly,Honduras,1–2,Guatemala,Chase Stadium (Neutral Site),b70aa91a
+INT-Friendlies,2025,2025-03-19,Friendly,Hong Kong,2–0,Macau,Mong Kok Stadium,7873c102
+INT-Friendlies,2025,2025-03-19,Friendly,India,3–0,Maldives,Jawaharlal Nehru Stadium,1e94bb27
+INT-Friendlies,2025,2025-03-19,Friendly,Russia,5–0,Grenada,VTB Arena,f22fbc7d
+INT-Friendlies,2025,2025-03-19,Friendly,Vietnam,2–1,Cambodia,Sân vận động Gò Đậu,e0982a60
+INT-Friendlies,2025,2025-03-20,Friendly,Laos,1–2,Sri Lanka,"Lao National Stadium, KM16",39276f20
+INT-Friendlies,2025,2025-03-20,Friendly,Tajikistan,0–5,Belarus,Varzişgohi Markazii Çumhurijavii,ade19669
+INT-Friendlies,2025,2025-03-21,Friendly,Northern Ireland,1–1,Switzerland,Windsor Park,f391c595
+INT-Friendlies,2025,2025-03-21,Friendly,Puerto Rico,2–2,Dominican Rep.,Estadio Juan Ramón Loubriel,23fee66a
+INT-Friendlies,2025,2025-03-21,Friendly,Singapore,0–1,Nepal,National Stadium,36e6d156
+INT-Friendlies,2025,2025-03-21,Friendly,Thailand,2–0,Afghanistan,Rajamangala National Stadium,12bbfaa2
+INT-Friendlies,2025,2025-03-22,Friendly,Azerbaijan,0–3,Haiti,Mehdi Hüseynzadə Adına Sumqayıt Şəhər St...,28508df9
+INT-Friendlies,2025,2025-03-22,Friendly,Luxembourg,1–0,Sweden,Stade de Luxembourg,0e6260d2
+INT-Friendlies,2025,2025-03-25,Friendly,Azerbaijan,0–2,Belarus,Bank Respublika Arena,8849cd30
+INT-Friendlies,2025,2025-03-25,Friendly,Cambodia,1–2,Aruba,Phnom Penh National Olympic Stadium,8e31d320
+INT-Friendlies,2025,2025-03-25,Friendly,Dominican Rep.,2–0,Puerto Rico,Estadio Cibao,4a5e53c6
+INT-Friendlies,2025,2025-03-25,Friendly,Russia,5–0,Zambia,VTB Arena,a6571c15
+INT-Friendlies,2025,2025-03-25,Friendly,Sweden,5–1,Northern Ireland,Strawberry Arena,9aa00b50
+INT-Friendlies,2025,2025-03-25,Friendly,Switzerland,3–1,Luxembourg,Kybunpark,db206e55
+INT-Friendlies,2025,2025-05-29,Friendly,Malaysia,1–1,Cabo Verde,Stadium Bola Sepak Kuala Lumpur,faf6e648
+INT-Friendlies,2025,2025-06-02,Friendly,Tunisia,2–0,Burkina Faso,Stade Hammadi Agrebi,dcabcbad
+INT-Friendlies,2025,2025-06-04,Friendly,Bangladesh,2–0,Bhutan,Bir Shrestha Shahid Sipahi Mohammad Most...,5e24ee42
+INT-Friendlies,2025,2025-06-04,Friendly,Thailand,2–0,India,Thammasat Stadium,b4975071
+INT-Friendlies,2025,2025-06-05,Friendly,Algeria,2–0,Rwanda,Stade Mohamed-Hamlaoui,95041300
+INT-Friendlies,2025,2025-06-05,Friendly,Belarus,4–1,Kazakhstan,Borisov Arena,ff99f5f1
+INT-Friendlies,2025,2025-06-05,Friendly,Cambodia,1–2,Tajikistan,Phnom Penh National Olympic Stadium,c6206b36
+INT-Friendlies,2025,2025-06-05,Friendly,Congo DR,1–0,Mali,Stade de la Source (Neutral Site),deec1bc5
+INT-Friendlies,2025,2025-06-05,Friendly,Georgia,1–0,Faroe Islands,Boris Paichadzis Dinamo Arena,eb75ffe8
+INT-Friendlies,2025,2025-06-05,Friendly,Hong Kong,0–0,Nepal,Hong Kong Stadium,91e49f4c
+INT-Friendlies,2025,2025-06-05,Friendly,Singapore,3–1,Maldives,Bishan Stadium,c144a1e8
+INT-Friendlies,2025,2025-06-05,Friendly,Sri Lanka,1–0,Brunei,Alpine Football Camp Training (Neutral Site),1e19c20e
+INT-Friendlies,2025,2025-06-06,Friendly,Bulgaria,2–2,Cyprus,Stadion Hristo Botev,6f282bdc
+INT-Friendlies,2025,2025-06-06,Friendly,Burkina Faso,2–0,Zimbabwe,Stade El Bachir (Neutral Site),a5aa828a
+INT-Friendlies,2025,2025-06-06,Friendly,Burundi,1–0,Guinea-Bissau,Stade Municipal de Berrechid (Neutral Site),217589ed
+INT-Friendlies,2025,2025-06-06,Friendly,Cameroon,3–0,Uganda,Annexe du Grand Stade de Marrakech (Neutral Site),65b386bd
+INT-Friendlies,2025,2025-06-06,Friendly,Gabon,3–4,Niger,Stade Père-Jégo (Neutral Site),dae5e225
+INT-Friendlies,2025,2025-06-06,Friendly,Gambia,2–1,Equ. Guinea,Annexe du Grand Stade de Marrakech (Neutral Site),4760cebe
+INT-Friendlies,2025,2025-06-06,Friendly,Hungary,0–2,Sweden,Puskás Aréna,cb57a87c
+INT-Friendlies,2025,2025-06-06,Friendly,Kosovo,5–2,Armenia,Stadiumi Fadil Vokrri,ec674031
+INT-Friendlies,2025,2025-06-06,Friendly,Luxembourg,0–1,Slovenia,Stade de Luxembourg,aadb2a20
+INT-Friendlies,2025,2025-06-06,Friendly,Mauritania,1–2,CAR,Stade Larbi-Zaouli (Neutral Site),789224d7
+INT-Friendlies,2025,2025-06-06,Friendly,Morocco,2–0,Tunisia,Complexe Sportif de Fès,bccdb154
+INT-Friendlies,2025,2025-06-06,Friendly,Poland,2–0,Moldova,Stadion Śląski,447783c3
+INT-Friendlies,2025,2025-06-06,Friendly,Rep. of Ireland,1–1,Senegal,Aviva Stadium,0cab8751
+INT-Friendlies,2025,2025-06-06,Friendly,Russia,1–1,Nigeria,Olimpiyskiy stadion Luzhniki,8f41ee33
+INT-Friendlies,2025,2025-06-06,Friendly,Scotland,1–3,Iceland,Barclays Hampden,bc97cffa
+INT-Friendlies,2025,2025-06-06,Friendly,South Africa,0–0,Tanzania,Peter Mokaba Stadium,231388d0
+INT-Friendlies,2025,2025-06-07,Friendly,Chad,0–0,Kenya,Annexe du Grand Stade de Marrakech (Neutral Site),ebd43741
+INT-Friendlies,2025,2025-06-07,Friendly,Denmark,2–1,Northern Ireland,Parken,029d5555
+INT-Friendlies,2025,2025-06-07,Friendly,Greece,4–1,Slovakia,Pankritio Stadio,b1cb2f8b
+INT-Friendlies,2025,2025-06-07,Friendly,Latvia,0–0,Azerbaijan,Stadions Skonto,11b93513
+INT-Friendlies,2025,2025-06-07,Friendly,Mexico,2–4,Switzerland,Rice-Eccles Stadium (Neutral Site),2ac09510
+INT-Friendlies,2025,2025-06-07,Friendly,United States,1–2,Türkiye,Pratt & Whitney Stadium at Rentschler Fi...,c24f747b
+INT-Friendlies,2025,2025-06-08,Friendly,Congo DR,3–1,Madagascar,Stade de la Source (Neutral Site),3a85ad7d
+INT-Friendlies,2025,2025-06-08,Friendly,Georgia,1–1,Cabo Verde,Ramaz Shengelias Sakhelobis Stadioni,db535256
+INT-Friendlies,2025,2025-06-09,Friendly,Cameroon,1–1,Equ. Guinea,Annexe du Grand Stade de Marrakech (Neutral Site),444be4fa
+INT-Friendlies,2025,2025-06-09,Friendly,Gabon,2–0,Guinea-Bissau,Stade El Bachir (Neutral Site),f08cc7cf
+INT-Friendlies,2025,2025-06-09,Friendly,Kosovo,4–2,Comoros,Stadiumi Fadil Vokrri,109c5d40
+INT-Friendlies,2025,2025-06-09,Friendly,Liechtenstein,0–4,Scotland,Rheinpark Stadion,5c6a0928
+INT-Friendlies,2025,2025-06-09,Friendly,Montenegro,2–2,Armenia,Stadion Kraj Bistrice,8750aecb
+INT-Friendlies,2025,2025-06-09,Friendly,Morocco,1–0,Benin,Complexe Sportif de Fès,243bcba4
+INT-Friendlies,2025,2025-06-09,Friendly,Uganda,1–1,Gambia,Annexe du Grand Stade de Marrakech (Neutral Site),c0eca099
+INT-Friendlies,2025,2025-06-10,Friendly,Azerbaijan,1–2,Hungary,Liv Bona Dea Arena,7e4835f8
+INT-Friendlies,2025,2025-06-10,Friendly,Belarus,1–4,Russia,Nacyjanalny futbolny stadyjon Respubliki...,73a2a78b
+INT-Friendlies,2025,2025-06-10,Friendly,Burundi,0–0,Mauritania,Stade Larbi-Zaouli (Neutral Site),084733c7
+INT-Friendlies,2025,2025-06-10,Friendly,Chad,1–2,Kenya,Annexe du Grand Stade de Marrakech (Neutral Site),174461a5
+INT-Friendlies,2025,2025-06-10,Friendly,Denmark,5–0,Lithuania,Nature Energy Park,731f4c62
+INT-Friendlies,2025,2025-06-10,Friendly,England,1–3,Senegal,The City Ground,262ec884
+INT-Friendlies,2025,2025-06-10,Friendly,Greece,4–0,Bulgaria,Pankritio Stadio,97ac2aea
+INT-Friendlies,2025,2025-06-10,Friendly,Israel,1–0,Slovakia,Nagyerdei Stadion (Neutral Site),ec5423ff
+INT-Friendlies,2025,2025-06-10,Friendly,Luxembourg,0–0,Rep. of Ireland,Stade de Luxembourg,950b03e2
+INT-Friendlies,2025,2025-06-10,Friendly,Mexico,1–0,Türkiye,Kenan Memorial Stadium (Neutral Site),59942a6b
+INT-Friendlies,2025,2025-06-10,Friendly,Niger,1–1,Zimbabwe,Stade Père-Jégo (Neutral Site),5faf8bbf
+INT-Friendlies,2025,2025-06-10,Friendly,Northern Ireland,1–0,Iceland,Windsor Park,d4aab7d5
+INT-Friendlies,2025,2025-06-10,Friendly,Slovenia,2–1,Bosnia–Herz,Stadion Z'dežele,cb1f1658
+INT-Friendlies,2025,2025-06-10,Friendly,South Africa,2–0,Mozambique,Peter Mokaba Stadium,209925be
+INT-Friendlies,2025,2025-06-10,Friendly,Sweden,4–3,Algeria,Strawberry Arena,de99b7bb
+INT-Friendlies,2025,2025-06-10,Friendly,United States,0–4,Switzerland,Geodis Park,81fbeb3b
+INT-Friendlies,2025,2025-09-03,Friendly,Qatar,2–2,Bahrain,Al Thumama Stadium,bc84e85c
+INT-Friendlies,2025,2025-09-04,Friendly,Gibraltar,0–1,Albania,Europa Point Stadium,2f9754d5
+INT-Friendlies,2025,2025-09-04,Friendly,Malaysia,2–1,Singapore,Stadium Nasional Bukit Jalil,0f5f2bd6
+INT-Friendlies,2025,2025-09-04,Friendly,Norway,1–0,Finland,Ullevaal Stadion,622ca2a3
+INT-Friendlies,2025,2025-09-04,Friendly,Russia,0–0,Jordan,Lukoil Arena,6615ec5c
+INT-Friendlies,2025,2025-09-04,Friendly,Saudi Arabia,2–1,N. Macedonia,Stadion Seifertova ulice (Neutral Site),1b4e21a9
+INT-Friendlies,2025,2025-09-05,Friendly,Indonesia,6–0,Chinese Taipei,Stadion Gelora Bung Tomo,31eb11ba
+INT-Friendlies,2025,2025-09-05,Friendly,Romania,0–3,Canada,Arena Naţională,df18b1bf
+INT-Friendlies,2025,2025-09-06,Friendly,Mexico,0–0,Japan,Oakland-Alameda County Coliseum (Neutral Site),f4fd57a9
+INT-Friendlies,2025,2025-09-06,Friendly,Nepal,0–0,Bangladesh,Dasharath Rangasala,92c882d4
+INT-Friendlies,2025,2025-09-06,Friendly,United States,0–2,Korea Republic,Sports Illustrated Stadium,ea2adc8c
+INT-Friendlies,2025,2025-09-07,Friendly,Qatar,1–4,Russia,Jassim bin Hamad Stadium,0de09dfa
+INT-Friendlies,2025,2025-09-08,Friendly,Czechia,1–1,Saudi Arabia,Malšovická Aréna,3f897763
+INT-Friendlies,2025,2025-09-08,Friendly,Indonesia,0–0,Lebanon,Stadion Gelora Bung Tomo,f006d750
+INT-Friendlies,2025,2025-09-08,Friendly,Malaysia,1–0,Palestine,Stadium Sultan Ibrahim Larkin,3a73cfce
+INT-Friendlies,2025,2025-09-09,Friendly,Estonia,0–0,Andorra,A. Le Coq Arena,2e808881
+INT-Friendlies,2025,2025-09-09,Friendly,Jordan,3–0,Dominican Rep.,Amman International Stadium,378b61aa
+INT-Friendlies,2025,2025-09-09,Friendly,Malta,3–1,San Marino,Ta'Qali National Stadium,9c816cc2
+INT-Friendlies,2025,2025-09-09,Friendly,Mexico,2–2,Korea Republic,Geodis Park (Neutral Site),2ea82378
+INT-Friendlies,2025,2025-09-09,Friendly,Singapore,1–1,Myanmar,Kallang Football Hub - Field 1,f3df8809
+INT-Friendlies,2025,2025-09-09,Friendly,United States,2–0,Japan,Lower.com Field,9dd21a65
+INT-Friendlies,2025,2025-09-09,Friendly,Wales,0–1,Canada,Swansea.com Stadium,2606f817
+INT-Friendlies,2025,2025-10-08,Friendly,Gibraltar,0–2,New Caledonia,Europa Point Stadium,759aa3d9
+INT-Friendlies,2025,2025-10-08,Friendly,Grenada,4–1,British V.I.,Kirani James Athletics Stadium,7c98fd57
+INT-Friendlies,2025,2025-10-09,Friendly,England,3–0,Wales,Wembley Stadium connected by EE,7be409cd
+INT-Friendlies,2025,2025-10-09,Friendly,Morocco,1–0,Bahrain,Stade Prince Moulay Abdallah,39f6fd90
+INT-Friendlies,2025,2025-10-09,Friendly,Poland,1–0,New Zealand,Stadion Śląski,edeac5e9
+INT-Friendlies,2025,2025-10-09,Friendly,Romania,2–1,Moldova,Arena Naţională,d765eb3e
+INT-Friendlies,2025,2025-10-09,Friendly,Uzbekistan,2–0,Kuwait,Olimpiya Shaharchasi Stadioni,de8c15be
+INT-Friendlies,2025,2025-10-10,Friendly,Argentina,1–0,Venezuela,Hard Rock Stadium (Neutral Site),81b43283
+INT-Friendlies,2025,2025-10-10,Friendly,Canada,0–1,Australia,Stade Saputo,48db69ea
+INT-Friendlies,2025,2025-10-10,Friendly,Chile,2–1,Peru,Estadio Bicentenario Municipal de La Flo...,2ab655dd
+INT-Friendlies,2025,2025-10-10,Friendly,Japan,2–2,Paraguay,Panasonic Stadium Suita,d3c62f27
+INT-Friendlies,2025,2025-10-10,Friendly,Jordan,0–1,Bolivia,Recep Tayyip Erdoğan Stadyumu (Neutral Site),17e56e25
+INT-Friendlies,2025,2025-10-10,Friendly,Korea Republic,0–5,Brazil,Seoul World Cup Stadium,8a1b826c
+INT-Friendlies,2025,2025-10-10,Friendly,Russia,2–1,IR Iran,Volgograd Arena,5f967d07
+INT-Friendlies,2025,2025-10-10,Friendly,United States,1–1,Ecuador,Q2 Stadium,d53e2357
+INT-Friendlies,2025,2025-10-10,Friendly,Uruguay,1–0,Dominican Rep.,Stadium Nasional Bukit Jalil (Neutral Site),2afab4ef
+INT-Friendlies,2025,2025-10-11,Friendly,Grenada,2–0,Cuba,Kirani James Athletics Stadium,cd48cf41
+INT-Friendlies,2025,2025-10-11,Friendly,Mexico,0–4,Colombia,AT&T Stadium (Neutral Site),e2aae0bb
+INT-Friendlies,2025,2025-10-12,Friendly,Malta,1–4,Bosnia–Herz,Ta'Qali National Stadium,dadae2c8
+INT-Friendlies,2025,2025-10-13,Friendly,Montenegro,2–1,Liechtenstein,Stadion Pod Goricom,7ba63823
+INT-Friendlies,2025,2025-10-13,Friendly,Uzbekistan,1–2,Uruguay,Stadium Hang Jebat (Neutral Site),21425ab9
+INT-Friendlies,2025,2025-10-14,Friendly,Albania,4–2,Jordan,Air Albania Stadium,bf9307f1
+INT-Friendlies,2025,2025-10-14,Friendly,Colombia,0–0,Canada,Sports Illustrated Stadium (Neutral Site),b4f6d9bb
+INT-Friendlies,2025,2025-10-14,Friendly,IR Iran,2–0,Tanzania,Rashid Stadium (Neutral Site),167a4f72
+INT-Friendlies,2025,2025-10-14,Friendly,Japan,3–2,Brazil,Ajinomoto Stadium,23480dba
+INT-Friendlies,2025,2025-10-14,Friendly,Korea Republic,2–0,Paraguay,Seoul World Cup Stadium,e504860c
+INT-Friendlies,2025,2025-10-14,Friendly,Mexico,1–1,Ecuador,Estadio Akron,380c7bdb
+INT-Friendlies,2025,2025-10-14,Friendly,Norway,1–1,New Zealand,Ullevaal Stadion,ca8647d1
+INT-Friendlies,2025,2025-10-14,Friendly,Puerto Rico,0–6,Argentina,Chase Stadium (Neutral Site),4a49fb69
+INT-Friendlies,2025,2025-10-14,Friendly,Russia,3–0,Bolivia,VTB Arena,a1092c92
+INT-Friendlies,2025,2025-10-14,Friendly,United States,2–1,Australia,Dick's Sporting Goods Park,3e07a440
+INT-Friendlies,2025,2025-11-12,Friendly,Russia,1–1,Peru,Gazprom Arena,0e879e91
+INT-Friendlies,2025,2025-11-13,Friendly,Algeria,3–1,Zimbabwe,Prince Abdullah Al Faisal Stadium (Neutral Site),76da4499
+INT-Friendlies,2025,2025-11-13,Friendly,Bangladesh,2–2,Nepal,Bangabandhu National Stadium,c01d9613
+INT-Friendlies,2025,2025-11-13,Friendly,Canada,0–0,Ecuador,BMO Field,aae869f9
+INT-Friendlies,2025,2025-11-13,Friendly,Czechia,1–0,San Marino,Městský stadion,815d1fdd
+INT-Friendlies,2025,2025-11-13,Friendly,Hong Kong,1–1,Cambodia,Hong Kong Stadium,e26e2d74
+INT-Friendlies,2025,2025-11-13,Friendly,Lithuania,0–0,Israel,S. Dariaus ir S. Girėno stadionas,0aa7c152
+INT-Friendlies,2025,2025-11-13,Friendly,N. Macedonia,0–0,Latvia,Nationala Arena Toše Proeski,d84a8e68
+INT-Friendlies,2025,2025-11-13,Friendly,Thailand,3–2,Singapore,Thammasat Stadium,af4f6559
+INT-Friendlies,2025,2025-11-14,Friendly,Angola,0–2,Argentina,Estádio 11 de Novembro,8611417c
+INT-Friendlies,2025,2025-11-14,Friendly,Burkina Faso,3–2,Niger,Stade El Bachir (Neutral Site),7e53e863
+INT-Friendlies,2025,2025-11-14,Friendly,Chad,1–2,Uganda,Stade Municipal de Berrechid (Neutral Site),21dfe11c
+INT-Friendlies,2025,2025-11-14,Friendly,Comoros,1–0,Namibia,Stade Omnisports d'Iconi-Malouzini,f3535687
+INT-Friendlies,2025,2025-11-14,Friendly,Equ. Guinea,1–0,Kenya,Arslan Zeki Demirci Spor Kompleksi 1 (Neutral Site),6bcd595d
+INT-Friendlies,2025,2025-11-14,Friendly,Grenada,4–1,US Virgin Islands,Kirani James Athletics Stadium,f0c99bea
+INT-Friendlies,2025,2025-11-14,Friendly,Japan,2–0,Ghana,Toyota Stadium,b5c7ba05
+INT-Friendlies,2025,2025-11-14,Friendly,Korea Republic,2–0,Bolivia,Daejeon World Cup Stadium,0b223e97
+INT-Friendlies,2025,2025-11-14,Friendly,Morocco,1–0,Mozambique,Stade Ibn Batouta,35a6989d
+INT-Friendlies,2025,2025-11-14,Friendly,Saudi Arabia,1–0,Côte d'Ivoire,Al Inma Stadium,6fd7b280
+INT-Friendlies,2025,2025-11-14,Friendly,Tunisia,3–2,Jordan,Stade Hammadi Agrebi,245693f0
+INT-Friendlies,2025,2025-11-14,Friendly,Venezuela,1–0,Australia,Shell Energy Stadium (Neutral Site),536b3565
+INT-Friendlies,2025,2025-11-15,Friendly,Brazil,2–0,Senegal,Emirates Stadium (Neutral Site),b0097aac
+INT-Friendlies,2025,2025-11-15,Friendly,Guinea,2–0,Liberia,Stade El Bachir,aae57df7
+INT-Friendlies,2025,2025-11-15,Friendly,Kuwait,4–3,Tanzania,Al Salam Stadium (Neutral Site),815618a6
+INT-Friendlies,2025,2025-11-15,Friendly,Lesotho,0–0,Malawi,Toyota Stadium (Neutral Site),3849523c
+INT-Friendlies,2025,2025-11-15,Friendly,Libya,1–0,Mauritania,Benina Martyrs International Stadium,0a17d717
+INT-Friendlies,2025,2025-11-15,Friendly,Mexico,0–0,Uruguay,Estadio Nuevo Corona,065caea6
+INT-Friendlies,2025,2025-11-15,Friendly,New Zealand,1–2,Colombia,Chase Stadium (Neutral Site),72d0de47
+INT-Friendlies,2025,2025-11-15,Friendly,Russia,0–2,Chile,Olimpiyskiy Stadion Fisht,59944574
+INT-Friendlies,2025,2025-11-15,Friendly,South Africa,3–1,Zambia,Nelson Mandela Bay Stadium,396bd1e5
+INT-Friendlies,2025,2025-11-15,Friendly,United States,2–1,Paraguay,Subaru Park,4d848fbe
+INT-Friendlies,2025,2025-11-17,Friendly,Bahrain,1–2,Somalia,Stād Al Bahrayn Al Watanī,427e81a3
+INT-Friendlies,2025,2025-11-17,Friendly,Chad,2–2,Mozambique,Stade Municipal de Berrechid (Neutral Site),c956b20d
+INT-Friendlies,2025,2025-11-17,Friendly,Comoros,4–0,Namibia,Stade Omnisports d'Iconi-Malouzini,f322795c
+INT-Friendlies,2025,2025-11-17,Friendly,Equ. Guinea,0–2,Madagascar,Arslan Zeki Demirci Spor Kompleksi 1 (Neutral Site),d8847985
+INT-Friendlies,2025,2025-11-17,Friendly,Finland,4–0,Andorra,Tammelan Stadion,1fa15489
+INT-Friendlies,2025,2025-11-18,Friendly,Angola,3–2,Zambia,Estádio 11 de Novembro,fa46c9e9
+INT-Friendlies,2025,2025-11-18,Friendly,Benin,0–3,Burkina Faso,Stade El Bachir (Neutral Site),a5bce9e6
+INT-Friendlies,2025,2025-11-18,Friendly,Brazil,1–1,Tunisia,Decathlon Arena - Stade Pierre-Mauroy (Neutral Site),86e5e05e
+INT-Friendlies,2025,2025-11-18,Friendly,Chile,2–1,Peru,Olimpiyskiy Stadion Fisht (Neutral Site),98e264df
+INT-Friendlies,2025,2025-11-18,Friendly,Colombia,3–0,Australia,Citi Field (Neutral Site),25cb0aa7
+INT-Friendlies,2025,2025-11-18,Friendly,Cyprus,2–4,Estonia,Alphamega Stadium,ea86b64c
+INT-Friendlies,2025,2025-11-18,Friendly,Ecuador,2–0,New Zealand,Sports Illustrated Stadium (Neutral Site),74fdd4d6
+INT-Friendlies,2025,2025-11-18,Friendly,Faroe Islands,1–0,Kazakhstan,Stadion Aldo Drosina (Neutral Site),542cae85
+INT-Friendlies,2025,2025-11-18,Friendly,Japan,3–0,Bolivia,Japan National Stadium,b3eb4697
+INT-Friendlies,2025,2025-11-18,Friendly,Jordan,0–0,Mali,Stade Hammadi Agrebi (Neutral Site),b4fee6f4
+INT-Friendlies,2025,2025-11-18,Friendly,Korea Republic,1–0,Ghana,Seoul World Cup Stadium,629f5ceb
+INT-Friendlies,2025,2025-11-18,Friendly,Kuwait,2–2,Gambia,Al Salam Stadium (Neutral Site),cac57754
+INT-Friendlies,2025,2025-11-18,Friendly,Lesotho,0–1,Malawi,Toyota Stadium (Neutral Site),2351b973
+INT-Friendlies,2025,2025-11-18,Friendly,Mexico,1–2,Paraguay,Alamodome (Neutral Site),d6914838
+INT-Friendlies,2025,2025-11-18,Friendly,Morocco,4–0,Uganda,Stade Ibn Batouta,cea4649b
+INT-Friendlies,2025,2025-11-18,Friendly,Niger,1–1,Guinea,Stade Municipal de Berrechid (Neutral Site),8c28a3b7
+INT-Friendlies,2025,2025-11-18,Friendly,Oman,0–2,Côte d'Ivoire,Al-Seeb Stadium,560203de
+INT-Friendlies,2025,2025-11-18,Friendly,Saudi Arabia,0–2,Algeria,Prince Abdullah Al Faisal Stadium,2ff98c20
+INT-Friendlies,2025,2025-11-18,Friendly,Senegal,8–0,Kenya,Titanic Mardan Stadyumu (Neutral Site),d7dc8062
+INT-Friendlies,2025,2025-11-18,Friendly,United States,5–1,Uruguay,Raymond James Stadium,1d8a8352
+INT-Friendlies,2025,2025-11-18,Friendly,Venezuela,0–2,Canada,Chase Stadium (Neutral Site),e1c709df
+INT-Friendlies,2026,2026-03-25,Friendly,Congo DR,2–0,Bermuda,Estadio Jalisco (Neutral Site),380b1c15
+INT-Friendlies,2026,2026-03-25,Friendly,Equ. Guinea,1–0,Kyrgyz Republic,Arslan Zeki Demirci Spor Kompleksi 1 (Neutral Site),36c68b43
+INT-Friendlies,2026,2026-03-26,Friendly,Brazil,1–2,France,Gillette Stadium (Neutral Site),b9dc227a
+INT-Friendlies,2026,2026-03-26,Friendly,Croatia,2–1,Colombia,Camping World Stadium (Neutral Site),7bef623c
+INT-Friendlies,2026,2026-03-26,Friendly,Cyprus,0–1,Belarus,Neo GSP,25a6f8fa
+INT-Friendlies,2026,2026-03-26,Friendly,Georgia,2–2,Israel,Mikheil Meskhis Sakhelobis Stadioni,b0addb9c
+INT-Friendlies,2026,2026-03-26,Friendly,Moldova,0–2,Lithuania,Stadionul Zimbru,f158d6b0
+INT-Friendlies,2026,2026-03-26,Friendly,Vietnam,3–0,Bangladesh,Sân vận động Hàng Đẫy,8999c891
+INT-Friendlies,2026,2026-03-27,Friendly,Algeria,7–0,Guatemala,Stadio Comunale Luigi Ferraris (Neutral Site),b4566156
+INT-Friendlies,2026,2026-03-27,Friendly,Argentina,2–1,Mauritania,Estadio Alberto José Armando,d7399ba1
+INT-Friendlies,2026,2026-03-27,Friendly,Austria,5–1,Ghana,Ernst-Happel-Stadion,3e29ace5
+INT-Friendlies,2026,2026-03-27,Friendly,Benin,1–0,Liberia,Stade Père-Jégo (Neutral Site),ebea9f8a
+INT-Friendlies,2026,2026-03-27,Friendly,England,1–1,Uruguay,Wembley Stadium connected by EE,99caec30
+INT-Friendlies,2026,2026-03-27,Friendly,Greece,0–1,Paraguay,Stadio Georgios Karaiskáki,a9e4aa92
+INT-Friendlies,2026,2026-03-27,Friendly,Libya,0–0,Niger,Stade Larbi-Zaouli (Neutral Site),28100c08
+INT-Friendlies,2026,2026-03-27,Friendly,Montenegro,2–0,Andorra,Stadion Pod Goricom,aca8e5cb
+INT-Friendlies,2026,2026-03-27,Friendly,Morocco,1–1,Ecuador,Riyadh Air Metropolitano (Neutral Site),c28e1e8c
+INT-Friendlies,2026,2026-03-27,Friendly,Netherlands,2–1,Norway,Johan Cruijff Arena,f20c7973
+INT-Friendlies,2026,2026-03-27,Friendly,Russia,3–1,Nicaragua,Ozon Arena,c200b7fa
+INT-Friendlies,2026,2026-03-27,Friendly,Saudi Arabia,0–4,Egypt,Al Inma Stadium,ffe7a43a
+INT-Friendlies,2026,2026-03-27,Friendly,South Africa,1–1,Panama,Moses Mabhida Stadium,97d3d9fb
+INT-Friendlies,2026,2026-03-27,Friendly,Spain,3–0,Serbia,Estadio de la Cerámica,07039168
+INT-Friendlies,2026,2026-03-27,Friendly,Switzerland,3–4,Germany,St. Jakob-Park,ec873493
+INT-Friendlies,2026,2026-03-27,Friendly,Togo,2–2,Guinea,Stade Prince Héritier Moulay Hassan (Neutral Site),844102c3
+INT-Friendlies,2026,2026-03-28,Friendly,Burkina Faso,5–0,Guinea-Bissau,Stade du 4 Août,5ed9c962
+INT-Friendlies,2026,2026-03-28,Friendly,Canada,2–2,Iceland,BMO Field,23e80c9c
+INT-Friendlies,2026,2026-03-28,Friendly,Haiti,0–1,Tunisia,BMO Field (Neutral Site),afb63da3
+INT-Friendlies,2026,2026-03-28,Friendly,Hungary,1–0,Slovenia,Puskás Aréna,1145e25f
+INT-Friendlies,2026,2026-03-28,Friendly,Korea Republic,0–4,Côte d'Ivoire,Stadium MK (Neutral Site),71830a15
+INT-Friendlies,2026,2026-03-28,Friendly,Kyrgyz Republic,2–5,Madagascar,Bellis Hotel Sports Center (Neutral Site),6f7693ad
+INT-Friendlies,2026,2026-03-28,Friendly,Mexico,0–0,Portugal,Estadio Banorte,89af3085
+INT-Friendlies,2026,2026-03-28,Friendly,San Marino,1–2,Faroe Islands,San Marino Stadium,fb7d05d5
+INT-Friendlies,2026,2026-03-28,Friendly,Scotland,0–1,Japan,Barclays Hampden,c1524931
+INT-Friendlies,2026,2026-03-28,Friendly,Senegal,2–0,Peru,Stade de France (Neutral Site),3e33d427
+INT-Friendlies,2026,2026-03-28,Friendly,United States,2–5,Belgium,Mercedes-Benz Stadium,af7ce286
+INT-Friendlies,2026,2026-03-29,Friendly,Armenia,1–2,Belarus,Vazgen Sargsyan anvan Hanrapetakan Marza...,f4e7f18c
+INT-Friendlies,2026,2026-03-29,Friendly,Colombia,1–3,France,Northwest Stadium (Neutral Site),4be8d965
+INT-Friendlies,2026,2026-03-29,Friendly,Lithuania,0–2,Georgia,S. Dariaus ir S. Girėno stadionas,b673de5b
+INT-Friendlies,2026,2026-03-30,Friendly,Cyprus,3–2,Moldova,Neo GSP,91ca8cc3
+INT-Friendlies,2026,2026-03-30,Friendly,Germany,2–1,Ghana,MHPArena,58260c4f
+INT-Friendlies,2026,2026-03-31,Friendly,Algeria,0–0,Uruguay,Allianz Stadium (Neutral Site),d2fe1225
+INT-Friendlies,2026,2026-03-31,Friendly,Argentina,5–0,Zambia,Estadio Alberto José Armando,ec63900d
+INT-Friendlies,2026,2026-03-31,Friendly,Austria,1–0,Korea Republic,Ernst-Happel-Stadion,1fe6a607
+INT-Friendlies,2026,2026-03-31,Friendly,Brazil,3–1,Croatia,Camping World Stadium (Neutral Site),750b2b0b
+INT-Friendlies,2026,2026-03-31,Friendly,Burkina Faso,1–1,Guinea-Bissau,Stade du 4 Août,b16e5be5
+INT-Friendlies,2026,2026-03-31,Friendly,Canada,0–0,Tunisia,BMO Field,1d92b1e6
+INT-Friendlies,2026,2026-03-31,Friendly,Côte d'Ivoire,1–0,Scotland,Hill Dickinson Stadium (Neutral Site),ffd25819
+INT-Friendlies,2026,2026-03-31,Friendly,England,0–1,Japan,Wembley Stadium connected by EE,4b3667c6
+INT-Friendlies,2026,2026-03-31,Friendly,Guinea,0–1,Benin,Stade Larbi-Zaouli (Neutral Site),e7d2ae5b
+INT-Friendlies,2026,2026-03-31,Friendly,Haiti,1–1,Iceland,BMO Field (Neutral Site),1a46d9fe
+INT-Friendlies,2026,2026-03-31,Friendly,Hungary,0–0,Greece,Puskás Aréna,3515d6d1
+INT-Friendlies,2026,2026-03-31,Friendly,Liberia,2–2,Libya,Stade Larbi-Zaouli (Neutral Site),030db3da
+INT-Friendlies,2026,2026-03-31,Friendly,Madagascar,1–1,Equ. Guinea,Arslan Zeki Demirci Spor Kompleksi 1 (Neutral Site),0b1e1345
+INT-Friendlies,2026,2026-03-31,Friendly,Mexico,1–1,Belgium,Soldier Field (Neutral Site),fe01feb5
+INT-Friendlies,2026,2026-03-31,Friendly,Montenegro,2–3,Slovenia,Stadion Pod Goricom,3e4d01e4
+INT-Friendlies,2026,2026-03-31,Friendly,Morocco,2–1,Paraguay,Stade Bollaert-Delelis (Neutral Site),2424820a
+INT-Friendlies,2026,2026-03-31,Friendly,Netherlands,1–1,Ecuador,Philips Stadion,74458d95
+INT-Friendlies,2026,2026-03-31,Friendly,Niger,0–1,Togo,Stade Père-Jégo (Neutral Site),88910f01
+INT-Friendlies,2026,2026-03-31,Friendly,Norway,0–0,Switzerland,Ullevaal Stadion,311568bb
+INT-Friendlies,2026,2026-03-31,Friendly,Peru,2–2,Honduras,Estadio Municipal de Butarque (Neutral Site),41be5305
+INT-Friendlies,2026,2026-03-31,Friendly,Rep. of Ireland,0–0,N. Macedonia,Aviva Stadium,402edcfb
+INT-Friendlies,2026,2026-03-31,Friendly,Russia,0–0,Mali,Gazprom Arena,4cc98c66
+INT-Friendlies,2026,2026-03-31,Friendly,San Marino,0–0,Andorra,San Marino Stadium,93921f9b
+INT-Friendlies,2026,2026-03-31,Friendly,Senegal,3–1,Gambia,Stade Président Abdoulaye Wade,4c9576db
+INT-Friendlies,2026,2026-03-31,Friendly,Serbia,2–1,Saudi Arabia,TSC Arena,cf66a1f7
+INT-Friendlies,2026,2026-03-31,Friendly,Slovakia,2–0,Romania,Štadión Tehelné pole,b274e548
+INT-Friendlies,2026,2026-03-31,Friendly,South Africa,1–2,Panama,DHL Stadium,b328181f
+INT-Friendlies,2026,2026-03-31,Friendly,Spain,0–0,Egypt,RCDE Stadium,6e94df18
+INT-Friendlies,2026,2026-03-31,Friendly,Ukraine,1–0,Albania,Estadio Ciudad de Valencia (Neutral Site),3f4f3f7e
+INT-Friendlies,2026,2026-03-31,Friendly,United States,0–2,Portugal,Mercedes-Benz Stadium,b6c29c83
+INT-Friendlies,2026,2026-03-31,Friendly,Wales,1–1,Northern Ireland,Cardiff City Stadium,6a3c6a43
+INT-Friendlies,2026,2026-05-16,Friendly,Rep. of Ireland,5–0,Grenada,Estadio Enrique Roca de Murcia (Neutral Site),0ce7679b
+INT-Friendlies,2026,2026-05-22,Friendly,Mexico,2–0,Ghana,Estadio Cuauhtémoc,3a39a2d2
+INT-Friendlies,2026,2026-05-28,Friendly,Egypt,1–0,Russia,Cairo International Stadium,ab287078
+INT-Friendlies,2026,2026-05-28,Friendly,Rep. of Ireland,1–0,Qatar,Aviva Stadium,02252990
+INT-Friendlies,2026,2026-05-29,Friendly,Bosnia–Herz,0–0,N. Macedonia,Olimpijski Stadion Asim Ferhatović Hase,b31e1982
+INT-Friendlies,2026,2026-05-29,Friendly,IR Iran,3–1,Gambia,Titanic Mardan Stadyumu (Neutral Site),3860eec0
+INT-Friendlies,2026,2026-05-29,Friendly,Iraq,1–0,Andorra,Estadi Municipal de Montilivi (Neutral Site),fcac67d6
+INT-Friendlies,2026,2026-05-29,Friendly,South Africa,0–0,Nicaragua,Orlando Amstel Arena,25da0bdc
+INT-Friendlies,2026,2026-05-30,Friendly,Ecuador,2–1,Saudi Arabia,Sports Illustrated Stadium (Neutral Site),e3883d15
+INT-Friendlies,2026,2026-05-30,Friendly,Korea Republic,5–0,Trin & Tobago,The Stadium at South Field (Neutral Site),808ebdc4
+INT-Friendlies,2026,2026-05-30,Friendly,Mexico,1–0,Australia,Rose Bowl (Neutral Site),b2452c96
+INT-Friendlies,2026,2026-05-30,Friendly,Scotland,4–1,Curaçao,Barclays Hampden,9aa38da5
+INT-Friendlies,2026,2026-05-31,Friendly,Brazil,6–2,Panama,Estadio Jornalista Mário Filho,95ecd65b
+INT-Friendlies,2026,2026-05-31,Friendly,Cabo Verde,3–0,Serbia,Estádio do Restelo (Neutral Site),65691fa1
+INT-Friendlies,2026,2026-05-31,Friendly,Czechia,2–1,Kosovo,epet Arena,98b88e9a
+INT-Friendlies,2026,2026-05-31,Friendly,Germany,4–0,Finland,Mewa Arena,bd546802
+INT-Friendlies,2026,2026-05-31,Friendly,Japan,1–0,Iceland,Japan National Stadium,39f9cb25
+INT-Friendlies,2026,2026-05-31,Friendly,Poland,0–2,Ukraine,Tarczyński Arena Wrocław,2a8020cc
+INT-Friendlies,2026,2026-05-31,Friendly,Singapore,4–0,Mongolia,Jalan Besar Stadium,6b4269f6
+INT-Friendlies,2026,2026-05-31,Friendly,Switzerland,4–1,Jordan,Kybunpark,1e8a97eb
+INT-Friendlies,2026,2026-05-31,Friendly,United States,3–2,Senegal,Bank of America Stadium,e3a78261
+INT-Friendlies,2026,2026-06-01,Friendly,Austria,1–0,Tunisia,Ernst-Happel-Stadion,217a01dc
+INT-Friendlies,2026,2026-06-01,Friendly,Bulgaria,0–1,Montenegro,Stadion Hristo Botev,1d50d0ea
+INT-Friendlies,2026,2026-06-01,Friendly,Canada,2–0,Uzbekistan,Commonwealth Stadium,89e6a053
+INT-Friendlies,2026,2026-06-01,Friendly,Colombia,3–1,Costa Rica,Estadio Nemesio Camacho El Campín,d1add9e8
+INT-Friendlies,2026,2026-06-01,Friendly,Norway,3–1,Sweden,Ullevaal Stadion,44380925
+INT-Friendlies,2026,2026-06-01,Friendly,Slovakia,2–1,Malta,MOL Aréna,b839ac98
+INT-Friendlies,2026,2026-06-01,Friendly,Türkiye,4–0,N. Macedonia,Ülker Stadyumu Fenerbahçe Şükrü Saracoğl...,b44be9cf
+INT-Friendlies,2026,2026-06-02,Friendly,Croatia,0–2,Belgium,Stadion HNK Rijeka,93f69e6e
+INT-Friendlies,2026,2026-06-02,Friendly,Georgia,1–1,Romania,Mikheil Meskhis Sakhelobis Stadioni,0af57050
+INT-Friendlies,2026,2026-06-02,Friendly,Haiti,4–0,New Zealand,Inter Miami CF Stadium (Neutral Site),9cd61d29
+INT-Friendlies,2026,2026-06-02,Friendly,Morocco,4–0,Madagascar,Stade Prince Moulay Abdallah,81c956c8
+INT-Friendlies,2026,2026-06-02,Friendly,Wales,1–1,Ghana,Cardiff City Stadium,435173b8
+INT-Friendlies,2026,2026-06-03,Friendly,Albania,0–1,Israel,Air Albania Stadium,fd9e5a86
+INT-Friendlies,2026,2026-06-03,Friendly,Denmark,0–0,Congo DR,Stade Maurice Dufrasne (Neutral Site),17bfc0fe
+INT-Friendlies,2026,2026-06-03,Friendly,Gibraltar,4–0,British V.I.,Europa Point Stadium,8029e1e6
+INT-Friendlies,2026,2026-06-03,Friendly,Korea Republic,1–0,El Salvador,The Stadium at South Field (Neutral Site),d31788ba
+INT-Friendlies,2026,2026-06-03,Friendly,Luxembourg,0–1,Italy,Stade de Luxembourg,b3cbf976
+INT-Friendlies,2026,2026-06-03,Friendly,Netherlands,0–1,Algeria,Stadion Feijenoord,3a9b1f58
+INT-Friendlies,2026,2026-06-03,Friendly,Panama,4–2,Dominican Rep.,Estadio Rommel Fernández Gutiérrez,514e0adb
+INT-Friendlies,2026,2026-06-03,Friendly,Poland,2–2,Nigeria,PGE Narodowy,6f8323f5
+INT-Friendlies,2026,2026-06-04,Friendly,Andorra,2–0,Liechtenstein,Estadi de la FAF,ca3c3bbb
+INT-Friendlies,2026,2026-06-04,Friendly,Cambodia,4–0,Bhutan,Phnom Penh National Olympic Stadium,9bbd2c6e
+INT-Friendlies,2026,2026-06-04,Friendly,Czechia,3–1,Guatemala,Sports Illustrated Stadium (Neutral Site),28b9adef
+INT-Friendlies,2026,2026-06-04,Friendly,France,1–2,Côte d'Ivoire,Stade de la Beaujoire - Louis Fonteneau,bb6eae98
+INT-Friendlies,2026,2026-06-04,Friendly,IR Iran,2–0,Mali,Titanic Mardan Stadyumu (Neutral Site),5d82fe6a
+INT-Friendlies,2026,2026-06-04,Friendly,Lesotho,1–1,Kenya,Lucas Masterpieces Moripe Stadium (Neutral Site),1d406be8
+INT-Friendlies,2026,2026-06-04,Friendly,Mexico,5–1,Serbia,Estadio Nemesio Díez,d70087d8
+INT-Friendlies,2026,2026-06-04,Friendly,Northern Ireland,1–0,Guinea,Estadio Municipal (Neutral Site),c35bcf5d
+INT-Friendlies,2026,2026-06-04,Friendly,Slovenia,1–1,Cyprus,Stadion Stožice,b631b4d2
+INT-Friendlies,2026,2026-06-04,Friendly,Spain,1–1,Iraq,Estadio Abanca-Riazor,a66cbb41
+INT-Friendlies,2026,2026-06-04,Friendly,Sweden,2–2,Greece,Strawberry Arena,5c0c667c
+INT-Friendlies,2026,2026-06-05,Friendly,Angola,1–1,Mauritania,Stade Larbi-Zaouli (Neutral Site),97397a57
+INT-Friendlies,2026,2026-06-05,Friendly,Azerbaijan,0–2,Malta,Haladás Stadion (Neutral Site),68ea0fdf
+INT-Friendlies,2026,2026-06-05,Friendly,Belarus,4–1,Syria,Nacyjanalny Futbolny Stadyjon Respubliki...,5fd4a144
+INT-Friendlies,2026,2026-06-05,Friendly,Benin,1–1,Niger,Stade Père-Jégo (Neutral Site),1d7609dc
+INT-Friendlies,2026,2026-06-05,Friendly,CAR,1–1,Togo,Stade El Bachir (Neutral Site),b4cd2980
+INT-Friendlies,2026,2026-06-05,Friendly,Canada,1–1,Rep. of Ireland,Stade Saputo,626d8e5c
+INT-Friendlies,2026,2026-06-05,Friendly,Georgia,2–0,Bahrain,Mikheil Meskhis Sakhelobis Stadioni,34c1b3df
+INT-Friendlies,2026,2026-06-05,Friendly,Haiti,1–2,Peru,Nu Stadium (Neutral Site),0d3b0471
+INT-Friendlies,2026,2026-06-05,Friendly,Hong Kong,2–0,Mongolia,Hong Kong Stadium,497c4de0
+INT-Friendlies,2026,2026-06-05,Friendly,Hungary,2–1,Finland,Puskás Aréna,c0d824b2
+INT-Friendlies,2026,2026-06-05,Friendly,Moldova,2–2,Bulgaria,Stadionul Zimbru,21f27426
+INT-Friendlies,2026,2026-06-05,Friendly,Paraguay,4–0,Nicaragua,Estadio Defensores del Chaco,8bdd53f6
+INT-Friendlies,2026,2026-06-05,Friendly,Russia,3–0,Burkina Faso,Volgograd Arena,8ebccae6
+INT-Friendlies,2026,2026-06-05,Friendly,San Marino,1–2,Bangladesh,San Marino Stadium,ce491e35
+INT-Friendlies,2026,2026-06-05,Friendly,Saudi Arabia,3–0,Puerto Rico,Q2 Stadium (Neutral Site),b5a6373c
+INT-Friendlies,2026,2026-06-05,Friendly,Singapore,1–2,China PR,Jalan Besar Stadium,7b4d3716
+INT-Friendlies,2026,2026-06-05,Friendly,Slovakia,2–2,Montenegro,Košická Futbalová Aréna,a6d82287
+INT-Friendlies,2026,2026-06-05,Friendly,Tajikistan,3–1,India,TALKO Arena,98c56251
+INT-Friendlies,2026,2026-06-05,Friendly,Thailand,2–2,Kuwait,BG Stadium,991a9da4
+INT-Friendlies,2026,2026-06-06,Friendly,Albania,0–1,Luxembourg,Air Albania Stadium,39188155
+INT-Friendlies,2026,2026-06-06,Friendly,Argentina,2–0,Honduras,Kyle Field (Neutral Site),d86363fb
+INT-Friendlies,2026,2026-06-06,Friendly,Armenia,1–1,Kazakhstan,Vazgen Sargsyan anvan Hanrapetakan Marza...,d6b857da
+INT-Friendlies,2026,2026-06-06,Friendly,Belgium,5–0,Tunisia,Stade Roi Baudouin,2c4d914e
+INT-Friendlies,2026,2026-06-06,Friendly,Bolivia,0–4,Scotland,Sports Illustrated Stadium (Neutral Site),e6994a35
+INT-Friendlies,2026,2026-06-06,Friendly,Brazil,2–1,Egypt,Huntington Bank Field (Neutral Site),99803f08
+INT-Friendlies,2026,2026-06-06,Friendly,Cabo Verde,3–0,Bermuda,Pratt & Whitney Stadium at Rentschler Fi... (Neutral Site),d573e47f
+INT-Friendlies,2026,2026-06-06,Friendly,Curaçao,4–0,Aruba,Stadion Ergilio Hato,fd91f0c5
+INT-Friendlies,2026,2026-06-06,Friendly,England,1–0,New Zealand,Raymond James Stadium (Neutral Site),d55979a1
+INT-Friendlies,2026,2026-06-06,Friendly,Ethiopia,1–0,Malawi,Dire Dawa Stadium,32648b57
+INT-Friendlies,2026,2026-06-06,Friendly,Gibraltar,4–1,Cayman Islands,Europa Point Stadium,4e006de6
+INT-Friendlies,2026,2026-06-06,Friendly,Kyrgyz Republic,0–0,Palestine,Stadion imeni Dolena Omurzakova,b2716bd9
+INT-Friendlies,2026,2026-06-06,Friendly,Panama,1–1,Bosnia–Herz,Energizer Park (Neutral Site),eb60c047
+INT-Friendlies,2026,2026-06-06,Friendly,Portugal,2–1,Chile,Estádio Nacional,eb413f98
+INT-Friendlies,2026,2026-06-06,Friendly,Qatar,0–0,El Salvador,BMO Stadium (Neutral Site),64d48bd2
+INT-Friendlies,2026,2026-06-06,Friendly,Romania,2–1,Wales,Stadionul Steaua,0527f88d
+INT-Friendlies,2026,2026-06-06,Friendly,Sierra Leone,1–0,Liberia,Southern Arena Stadium,25f6ad8d
+INT-Friendlies,2026,2026-06-06,Friendly,Switzerland,1–1,Australia,Snapdragon Stadium (Neutral Site),c0ebca40
+INT-Friendlies,2026,2026-06-06,Friendly,Türkiye,2–1,Venezuela,Inter Miami CF Stadium (Neutral Site),84aba5c9
+INT-Friendlies,2026,2026-06-06,Friendly,United States,1–2,Germany,Soldier Field,63052981
+INT-Friendlies,2026,2026-06-06,Friendly,Vanuatu,2–1,Fiji,VFF Freshwater Stadium,2f528a46
+INT-Friendlies,2026,2026-06-07,Friendly,Colombia,2–0,Jordan,Snapdragon Stadium (Neutral Site),7e02a5ea
+INT-Friendlies,2026,2026-06-07,Friendly,Croatia,2–1,Slovenia,Stadion Varteks,6eb84a18
+INT-Friendlies,2026,2026-06-07,Friendly,Denmark,2–1,Ukraine,Nature Energy Park,ba81284b
+INT-Friendlies,2026,2026-06-07,Friendly,Ecuador,3–0,Guatemala,ScottsMiracle-Gro Field (Neutral Site),d2056a5e
+INT-Friendlies,2026,2026-06-07,Friendly,Greece,0–1,Italy,Pankritio Stadio,7bb48508
+INT-Friendlies,2026,2026-06-07,Friendly,Kosovo,3–0,Andorra,Stadiumi Fadil Vokrri,e82d27e5
+INT-Friendlies,2026,2026-06-07,Friendly,Lesotho,0–4,Kenya,Lucas Masterpieces Moripe Stadium (Neutral Site),f3d119fd
+INT-Friendlies,2026,2026-06-07,Friendly,Liechtenstein,0–2,Cyprus,Rheinpark Stadion,5842bb7e
+INT-Friendlies,2026,2026-06-07,Friendly,Morocco,1–1,Norway,Sports Illustrated Stadium (Neutral Site),9120eced
+INT-Friendlies,2026,2026-06-08,Friendly,France,3–1,Northern Ireland,Decathlon Arena - Stade Pierre-Mauroy,1c84dae3
+INT-Friendlies,2026,2026-06-08,Friendly,Mauritania,1–0,Niger,Stade Père-Jégo (Neutral Site),004291b3
+INT-Friendlies,2026,2026-06-08,Friendly,Netherlands,2–1,Uzbekistan,Icahn Stadium (Neutral Site),45c04355
+INT-Friendlies,2026,2026-06-08,Friendly,Peru,1–3,Spain,Estadio Cuauhtémoc (Neutral Site),af602959
+INT-Friendlies,2026,2026-06-08,Friendly,Sri Lanka,4–1,Bhutan,NT Stadium (Neutral Site),18001a20
+INT-Friendlies,2026,2026-06-09,Friendly,Angola,3–0,CAR,Stade Larbi-Zaouli (Neutral Site),2c1ecc76
+INT-Friendlies,2026,2026-06-09,Friendly,Argentina,3–0,Iceland,Jordan-Hare Stadium (Neutral Site),ae66e5f0
+INT-Friendlies,2026,2026-06-09,Friendly,Armenia,1–1,Moldova,Vazgen Sargsyan anvan Hanrapetakan Marza...,238756f9
+INT-Friendlies,2026,2026-06-09,Friendly,Azerbaijan,2–1,San Marino,Haladás Stadion (Neutral Site),51065b8d
+INT-Friendlies,2026,2026-06-09,Friendly,Belarus,2–2,Burkina Faso,Nacyjanalny Futbolny Stadyjon Respubliki...,1e8075f7
+INT-Friendlies,2026,2026-06-09,Friendly,Cambodia,2–0,Hong Kong,Phnom Penh National Olympic Stadium,d1ec1bc1
+INT-Friendlies,2026,2026-06-09,Friendly,China PR,0–0,Thailand,Jinhua Sports Center,7023b09e
+INT-Friendlies,2026,2026-06-09,Friendly,Comoros,1–0,Equ. Guinea,Annexe du Grand Stade de Marrakech (Neutral Site),67558597
+INT-Friendlies,2026,2026-06-09,Friendly,Congo DR,1–2,Chile,Stade de la Source (Neutral Site),18395dd7
+INT-Friendlies,2026,2026-06-09,Friendly,Ethiopia,1–1,Malawi,Dire Dawa Stadium,44c17534
+INT-Friendlies,2026,2026-06-09,Friendly,Fiji,2–2,Vanuatu,VFF Freshwater Stadium (Neutral Site),5e5f9e9b
+INT-Friendlies,2026,2026-06-09,Friendly,Hungary,3–1,Kazakhstan,Nagyerdei Stadion,5519559a
+INT-Friendlies,2026,2026-06-09,Friendly,Iraq,0–2,Venezuela,SeatGeek Stadium (Neutral Site),4b89db92
+INT-Friendlies,2026,2026-06-09,Friendly,Kyrgyz Republic,0–0,Palestine,Stadion imeni Dolena Omurzakova,81de8b8f
+INT-Friendlies,2026,2026-06-09,Friendly,Liberia,3–1,Sierra Leone,Samuel Kanyon Doe Sports Complex,25e1ccd1
+INT-Friendlies,2026,2026-06-09,Friendly,Russia,3–0,Trin & Tobago,Rostec Arena,c49c15c6
+INT-Friendlies,2026,2026-06-09,Friendly,Saudi Arabia,0–0,Senegal,Toyota Field (Neutral Site),d67d0ca1
+INT-Friendlies,2026,2026-06-09,Friendly,Tajikistan,1–1,India,Varzişgohi Markazii,f161e767
+INT-Friendlies,2026,2026-06-09,Friendly,Togo,5–1,Benin,Stade El Bachir (Neutral Site),f0d717f0
+INT-Friendlies,2026,2026-06-10,Friendly,Bolivia,0–4,Algeria,Rock Chalk Park (Neutral Site),0b890a7c
+INT-Friendlies,2026,2026-06-10,Friendly,England,3–0,Costa Rica,Inter&Co Stadium (Neutral Site),87ca6dda
+INT-Friendlies,2026,2026-06-10,Friendly,Portugal,2–1,Nigeria,Estádio Dr. Magalhães Pessoa,e70e481e

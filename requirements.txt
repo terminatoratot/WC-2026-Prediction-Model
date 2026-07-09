@@ -1,0 +1,11 @@
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+catboost
+
+# Optional — only needed if you enable the corresponding gradient-boosting
+# variant in v11_wcq_results_model.py:
+# lightgbm
+# xgboost
