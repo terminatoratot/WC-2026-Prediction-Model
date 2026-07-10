@@ -1,6 +1,16 @@
 """Walk-forward, leakage-free evaluation of V51 (v11+v49+v39+v29, no
-Polymarket layer) on the 22 basev51 knockout backtest matches, using the
-now-fixed chronologically-sorted Elo/rolling-form pipeline.
+Polymarket layer) on ALL completed 2026 World Cup matches (group stage +
+knockout), using the now-fixed chronologically-sorted Elo/rolling-form
+pipeline.
+
+Match list is loaded dynamically from data/fotmob_match_facts_clean.csv
+(currently 97 completed matches) rather than hardcoded, so this stays
+current as more matches complete. Group-stage vs knockout is inferred from
+chronological position (first GROUP_STAGE_MATCH_COUNT=72 matches by kickoff
+= group stage, same convention used elsewhere in this codebase via
+infer_knockout_from_match_number) -- this determines the `knockout` input
+FEATURE passed to .predict(), which matters (it's read by make_features()),
+not just a label.
 
 Leakage control: for each target match, fbref_world_cup_matches.csv is
 filtered to only rows strictly BEFORE that match's own kickoff (so no other
@@ -9,7 +19,9 @@ training data beyond what would genuinely be known at that point in time).
 current_team_features_2026.csv (FIFA rankings) is a static pre-tournament
 snapshot (2026-06-10) so it never needs filtering. worldcupsai.zip (<=2022),
 results.csv/fbref_international_matches.csv (both end 2026-06-10, pre-
-tournament) are already safe as-is.
+tournament) are already safe as-is. Note fbref_world_cup_matches.csv may lag
+fotmob_match_facts_clean.csv by a match or two -- if a target match isn't in
+fbref yet, its own result simply isn't available to leak either way.
 
 No Polymarket call anywhere -- this only exercises v51.build_from_zip() +
 .predict(), never v42's market pipeline.
@@ -17,7 +29,14 @@ No Polymarket call anywhere -- this only exercises v51.build_from_zip() +
 Metrics: directional accuracy (predicted most-likely result vs actual
 win/draw/loss), top-3 accuracy (actual scoreline in the untouched v11+v49
 top-3), top-3+outlier accuracy (actual scoreline in v51_combined_top_scorelines,
-i.e. top-3 plus the v39/v29 additive outlier picks).
+i.e. top-3 plus the v39/v29 additive outlier picks). Reported overall and
+split by group-stage vs knockout.
+
+Tuning parallelism: each fit takes ~129s using all cores (n_jobs=-1,
+unconstrained) on a 10-core machine -- that's the only number actually
+measured, don't assume single-threaded scales linearly from it. On a bigger
+box, raise WORKERS below; don't force n_jobs=1 via LOKY_MAX_CPU_COUNT, that
+made things slower, not faster, when tried locally.
 """
 
 from __future__ import annotations
@@ -34,34 +53,11 @@ if str(PROJECT_DIR) not in sys.path:
     sys.path.insert(0, str(PROJECT_DIR))
 
 import v51_combined_scoreline_model as v51
-import v11_wcq_results_model as v11
 
-KNOCKOUT_MATCHES = [
-    ("South Africa", "Canada", "0-1", "2026-06-28T19:00:00.000Z"),
-    ("Brazil", "Japan", "2-1", "2026-06-29T17:00:00.000Z"),
-    ("Germany", "Paraguay", "1-1", "2026-06-29T20:30:00.000Z"),
-    ("Netherlands", "Morocco", "1-1", "2026-06-30T01:00:00.000Z"),
-    ("Ivory Coast", "Norway", "1-2", "2026-06-30T17:00:00.000Z"),
-    ("France", "Sweden", "3-0", "2026-06-30T21:00:00.000Z"),
-    ("Mexico", "Ecuador", "2-0", "2026-07-01T02:00:00.000Z"),
-    ("Belgium", "Senegal", "3-2", "2026-07-01T20:00:00.000Z"),
-    ("USA", "Bosnia and Herzegovina", "2-0", "2026-07-02T00:00:00.000Z"),
-    ("Spain", "Austria", "3-0", "2026-07-02T19:00:00.000Z"),
-    ("Portugal", "Croatia", "2-1", "2026-07-02T23:00:00.000Z"),
-    ("Switzerland", "Algeria", "2-0", "2026-07-03T03:00:00.000Z"),
-    ("Australia", "Egypt", "1-1", "2026-07-03T18:00:00.000Z"),
-    ("Colombia", "Ghana", "1-0", "2026-07-04T01:30:00.000Z"),
-    ("Canada", "Morocco", "0-3", "2026-07-04T17:00:00.000Z"),
-    ("Paraguay", "France", "0-1", "2026-07-04T21:00:00.000Z"),
-    ("Brazil", "Norway", "1-2", "2026-07-05T20:00:00.000Z"),
-    ("Mexico", "England", "2-3", "2026-07-06T01:00:00.000Z"),
-    ("Portugal", "Spain", "0-1", "2026-07-06T19:00:00.000Z"),
-    ("USA", "Belgium", "1-4", "2026-07-07T00:00:00.000Z"),
-    ("Argentina", "Egypt", "3-2", "2026-07-07T16:00:00.000Z"),
-    ("Switzerland", "Colombia", "0-0", "2026-07-07T20:00:00.000Z"),
-]
+GROUP_STAGE_MATCH_COUNT = 72
+WORKERS = 4  # raise on a bigger box; see module docstring before going higher
 
-TMP_DIR = Path("outputs/v51_knockout_walkforward")
+TMP_DIR = Path("outputs/v51_walkforward")
 TMP_DIR.mkdir(parents=True, exist_ok=True)
 
 
@@ -73,7 +69,23 @@ def result_label(goals_a: int, goals_b: int) -> str:
     return "draw"
 
 
-def evaluate_one(team_a: str, team_b: str, final_score: str, kickoff: str) -> dict:
+def load_all_matches() -> list[dict]:
+    df = pd.read_csv("data/fotmob_match_facts_clean.csv")
+    df = df.dropna(subset=["home_score", "away_score"]).copy()
+    df = df.sort_values("kickoff").reset_index(drop=True)
+    matches = []
+    for idx, r in df.iterrows():
+        matches.append({
+            "team_a": r["home_team"],
+            "team_b": r["away_team"],
+            "final_score": f"{int(r['home_score'])}-{int(r['away_score'])}",
+            "kickoff": r["kickoff"],
+            "is_knockout": idx >= GROUP_STAGE_MATCH_COUNT,
+        })
+    return matches
+
+
+def evaluate_one(team_a: str, team_b: str, final_score: str, kickoff: str, is_knockout: bool) -> dict:
     ga, gb = (int(x) for x in final_score.split("-"))
     actual_result = result_label(ga, gb)
 
@@ -82,7 +94,7 @@ def evaluate_one(team_a: str, team_b: str, final_score: str, kickoff: str) -> di
     cutoff = pd.Timestamp(kickoff).tz_convert(None).normalize()
     fbref_safe = fbref_full[fbref_full["_date"] < cutoff].drop(columns=["_date"])
 
-    safe_csv = TMP_DIR / f"fbref_wc_before_{team_a}_{team_b}.csv".replace(" ", "_")
+    safe_csv = TMP_DIR / f"fbref_wc_before_{team_a}_{team_b}_{kickoff}.csv".replace(" ", "_").replace(":", "-")
     fbref_safe.to_csv(safe_csv, index=False)
 
     t0 = time.time()
@@ -95,7 +107,7 @@ def evaluate_one(team_a: str, team_b: str, final_score: str, kickoff: str) -> di
         fbref_world_cup_csv=str(safe_csv),
         fbref_international_csv="data/fbref_international_matches.csv",
     )
-    pred = model.predict(team_a, team_b, knockout=True)
+    pred = model.predict(team_a, team_b, knockout=is_knockout)
     elapsed = time.time() - t0
 
     top3 = [(int(s["team_a_goals"]), int(s["team_b_goals"])) for s in pred["top_scorelines"][:3]]
@@ -106,7 +118,7 @@ def evaluate_one(team_a: str, team_b: str, final_score: str, kickoff: str) -> di
 
     row = {
         "team_a": team_a, "team_b": team_b, "final_score": final_score,
-        "kickoff": kickoff, "n_wc_rows_used": len(fbref_safe),
+        "kickoff": kickoff, "is_knockout": is_knockout, "n_wc_rows_used": len(fbref_safe),
         "actual_result": actual_result, "predicted_result": predicted_result,
         "directional_hit": predicted_result == actual_result,
         "team_a_win_prob": round(rp["team_a_win"], 4), "draw_prob": round(rp["draw"], 4),
@@ -115,44 +127,54 @@ def evaluate_one(team_a: str, team_b: str, final_score: str, kickoff: str) -> di
         "combined": combined, "top3_outlier_hit": (ga, gb) in combined,
         "fit_seconds": round(elapsed, 1),
     }
-    print(f"[{team_a} vs {team_b}] {final_score} | dir={'Y' if row['directional_hit'] else 'N'} "
+    stage = "KO" if is_knockout else "GRP"
+    print(f"[{stage}] [{team_a} vs {team_b}] {final_score} | dir={'Y' if row['directional_hit'] else 'N'} "
           f"top3={'Y' if row['top3_hit'] else 'N'} top3+outlier={'Y' if row['top3_outlier_hit'] else 'N'} "
           f"| {len(fbref_safe)} prior-WC rows | {elapsed:.0f}s")
     return row
 
 
+def print_summary(label: str, df: pd.DataFrame) -> dict:
+    n = len(df)
+    summary = {
+        "n_matches": n,
+        "directional_accuracy": round(df["directional_hit"].mean(), 4) if n else None,
+        "top3_accuracy": round(df["top3_hit"].mean(), 4) if n else None,
+        "top3_plus_outlier_accuracy": round(df["top3_outlier_hit"].mean(), 4) if n else None,
+    }
+    print(f"\n=== {label} (n={n}) ===")
+    for k, v in summary.items():
+        print(f"{k}: {v}")
+    return summary
+
+
 def main() -> None:
+    matches = load_all_matches()
+    print(f"[setup] {len(matches)} completed matches "
+          f"({sum(not m['is_knockout'] for m in matches)} group-stage, "
+          f"{sum(m['is_knockout'] for m in matches)} knockout)")
+
     results = []
-    with ThreadPoolExecutor(max_workers=2) as pool:
+    with ThreadPoolExecutor(max_workers=WORKERS) as pool:
         futures = {
-            pool.submit(evaluate_one, ta, tb, fs, ko): (ta, tb)
-            for ta, tb, fs, ko in KNOCKOUT_MATCHES
+            pool.submit(evaluate_one, m["team_a"], m["team_b"], m["final_score"], m["kickoff"], m["is_knockout"]): i
+            for i, m in enumerate(matches)
         }
         for future in as_completed(futures):
             results.append(future.result())
 
     out = pd.DataFrame(results)
-    # restore chronological order for readability
-    order = {(ta, tb): i for i, (ta, tb, _, _) in enumerate(KNOCKOUT_MATCHES)}
-    out["_order"] = out.apply(lambda r: order[(r["team_a"], r["team_b"])], axis=1)
-    out = out.sort_values("_order").drop(columns=["_order"]).reset_index(drop=True)
+    out["kickoff"] = pd.to_datetime(out["kickoff"])
+    out = out.sort_values("kickoff").reset_index(drop=True)
     out.to_csv(TMP_DIR / "walkforward_results.csv", index=False)
 
-    n = len(out)
-    directional_acc = out["directional_hit"].mean()
-    top3_acc = out["top3_hit"].mean()
-    top3_outlier_acc = out["top3_outlier_hit"].mean()
+    overall = print_summary("OVERALL", out)
+    group = print_summary("GROUP STAGE", out[~out["is_knockout"]])
+    knockout = print_summary("KNOCKOUT", out[out["is_knockout"]])
 
-    summary = {
-        "n_matches": n,
-        "directional_accuracy": round(directional_acc, 4),
-        "top3_accuracy": round(top3_acc, 4),
-        "top3_plus_outlier_accuracy": round(top3_outlier_acc, 4),
-    }
-    pd.Series(summary).to_json(TMP_DIR / "summary.json", indent=2)
-    print("\n=== SUMMARY ===")
-    for k, v in summary.items():
-        print(f"{k}: {v}")
+    pd.Series({"overall": overall, "group_stage": group, "knockout": knockout}).to_json(
+        TMP_DIR / "summary.json", indent=2
+    )
 
 
 if __name__ == "__main__":
