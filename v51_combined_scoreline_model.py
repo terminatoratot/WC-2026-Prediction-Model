@@ -42,9 +42,14 @@ from typing import Any, Dict, List, Optional, Tuple
 import numpy as np
 import pandas as pd
 
-import v11_wcq_results_model as v11
-import v29_tail_risk_scoreline_model as v29
-from v39_coverage_outlier_model import select_coverage_outlier
+import market_edge
+
+# The older model layers are bundled inside these three physical modules.
+# Import through the bundle attributes so both Python and static analyzers
+# (including Pylance in Codespaces) can resolve the dependency chain.
+v11 = market_edge.feature_layers.core_engine.v11_wcq_results_model
+v29 = market_edge.feature_layers.v29_tail_risk_scoreline_model
+select_coverage_outlier = market_edge.v39_coverage_outlier_model.select_coverage_outlier
 
 ScoreMatrix = Dict[Tuple[int, int], float]
 
