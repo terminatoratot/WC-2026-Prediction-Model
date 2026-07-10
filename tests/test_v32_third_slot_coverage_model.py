@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import unittest
 
+import market_edge  # noqa: F401  (bundles v11/v13-v27/v28-v38/v39; populates sys.modules)
 import v30_player_role_form_model as v30
 import v32_third_slot_coverage_model as v32
 

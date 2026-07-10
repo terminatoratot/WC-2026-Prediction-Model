@@ -4,6 +4,7 @@ import unittest
 
 import pandas as pd
 
+import market_edge  # noqa: F401  (bundles v11/v13-v27/v28-v38/v39; populates sys.modules)
 import v11_wcq_results_model as v11
 import v27_total_goals_calibrated_model as v27
 

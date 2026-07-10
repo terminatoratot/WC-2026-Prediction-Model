@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import unittest
 
+import market_edge  # noqa: F401  (bundles v11/v13-v27/v28-v38/v39; populates sys.modules)
 import v26_top3_coverage_model as v26
 
 

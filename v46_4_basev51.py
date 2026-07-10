@@ -91,6 +91,7 @@ _VERSIONS_DIR = Path(__file__).resolve().parent / "versions"
 if str(_VERSIONS_DIR) not in sys.path:
     sys.path.insert(0, str(_VERSIONS_DIR))
 
+import market_edge  # noqa: F401  (bundles v11/v13-v27/v28-v38/v39; populates sys.modules)
 import v11_wcq_results_model as v11
 import v42_fotmob_market_edge_model as v42
 import v51_combined_scoreline_model as v51

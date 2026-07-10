@@ -5,6 +5,7 @@ from types import SimpleNamespace
 
 import numpy as np
 
+import market_edge  # noqa: F401  (bundles v11/v13-v27/v28-v38/v39; populates sys.modules)
 import v11_wcq_results_model as v11
 import v24_scoreline_reranker_model as v24
 

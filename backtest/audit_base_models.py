@@ -44,6 +44,7 @@ if str(PROJECT_DIR) not in sys.path:
 if str(VERSIONS_DIR) not in sys.path:
     sys.path.insert(0, str(VERSIONS_DIR))
 
+import market_edge  # noqa: F401  (bundles v11/v13-v27/v28-v38/v39; populates sys.modules)
 import eval_v29_v36_walkforward_no_leak as strict
 import eval_v36_v39_walkforward_no_leak as wf39
 import v11_wcq_results_model as v11

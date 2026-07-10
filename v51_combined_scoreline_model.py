@@ -42,6 +42,7 @@ from typing import Any, Dict, List, Optional, Tuple
 import numpy as np
 import pandas as pd
 
+import market_edge  # noqa: F401  (bundles v11/v13-v27/v28-v38/v39; populates sys.modules)
 import v11_wcq_results_model as v11
 import v29_tail_risk_scoreline_model as v29
 from v39_coverage_outlier_model import select_coverage_outlier

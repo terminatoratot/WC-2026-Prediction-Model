@@ -1,4 +1,4 @@
-"""Test package path setup for root modules and archived versions."""
+"""Test package path setup for root modules."""
 
 from __future__ import annotations
 
@@ -7,9 +7,9 @@ from pathlib import Path
 
 
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
-VERSIONS_DIR = PROJECT_ROOT / "versions"
 
-for path in (PROJECT_ROOT, VERSIONS_DIR):
-    path_text = str(path)
-    if path_text not in sys.path:
-        sys.path.insert(0, path_text)
+path_text = str(PROJECT_ROOT)
+if path_text not in sys.path:
+    sys.path.insert(0, path_text)
+
+import market_edge  # noqa: E402,F401  (bundles v11/v13-v27/v28-v38/v39; populates sys.modules)

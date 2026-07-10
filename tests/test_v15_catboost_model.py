@@ -7,6 +7,7 @@ import pandas as pd
 from catboost import CatBoostClassifier, CatBoostRegressor
 from sklearn.pipeline import Pipeline
 
+import market_edge  # noqa: F401  (bundles v11/v13-v27/v28-v38/v39; populates sys.modules)
 from v13_live_signal_model import V13SklearnWorldCupModel
 from v15_catboost_model import (
     PLAYER_PROFILE_METRICS,

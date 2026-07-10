@@ -6,6 +6,7 @@ from unittest.mock import Mock
 import numpy as np
 import pandas as pd
 
+import market_edge  # noqa: F401  (bundles v11/v13-v27/v28-v38/v39; populates sys.modules)
 import v18_hybrid_elo_form_player_model as v18
 
 
