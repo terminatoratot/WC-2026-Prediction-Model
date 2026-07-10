@@ -1,0 +1,196 @@
+page,subtab,page_url,stat,rank,name,country_or_team,value,raw_text
+player_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/players,Top scorer,1,Kylian Mbappé,France,8,Kylian Mbappé | France | 8
+player_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/players,Top scorer,2,Lionel Messi,Argentina,8,Lionel Messi | Argentina | 8
+player_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/players,Top scorer,3,Erling Haaland,Norway,7,Erling Haaland | Norway | 7
+player_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/players,Assists,1,Michael Olise,France,5,Michael Olise | France | 5
+player_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/players,Assists,2,Bruno Guimarães,Brazil,4,Bruno Guimarães | Brazil | 4
+player_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/players,Assists,3,Brahim Díaz,Morocco,4,Brahim Díaz | Morocco | 4
+player_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/players,Goals + Assists,1,Kylian Mbappé,France,11,Kylian Mbappé | France | 11
+player_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/players,Goals + Assists,2,Lionel Messi,Argentina,9,Lionel Messi | Argentina | 9
+player_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/players,Goals + Assists,3,Erling Haaland,Norway,7,Erling Haaland | Norway | 7
+player_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/players,FotMob rating,1,Kylian Mbappé,France,8.87,Kylian Mbappé | France | 8.87
+player_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/players,FotMob rating,2,Erling Haaland,Norway,8.71,Erling Haaland | Norway | 8.71
+player_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/players,FotMob rating,3,Lionel Messi,Argentina,8.69,Lionel Messi | Argentina | 8.69
+player_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/players,Minutes played,1,Achraf Hakimi,Morocco,570,Achraf Hakimi | Morocco | 570
+player_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/players,Minutes played,2,Yassine Bounou,Morocco,570,Yassine Bounou | Morocco | 570
+player_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/players,Minutes played,3,Neil El Aynaoui,Morocco,563,Neil El Aynaoui | Morocco | 563
+player_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/players,Goals per 90,1,Deniz Undav,Germany,1.81,Deniz Undav | Germany | 1.81
+player_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/players,Goals per 90,2,Lionel Messi,Argentina,1.76,Lionel Messi | Argentina | 1.76
+player_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/players,Goals per 90,3,Erling Haaland,Norway,1.75,Erling Haaland | Norway | 1.75
+player_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/players,Expected goals (xG),1,Kylian Mbappé,France,5.4,Kylian Mbappé | France | 5.4
+player_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/players,Expected goals (xG),2,Lionel Messi,Argentina,5.0,Lionel Messi | Argentina | 5.0
+player_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/players,Expected goals (xG),3,Erling Haaland,Norway,4.3,Erling Haaland | Norway | 4.3
+player_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/players,xG per 90,1,Marko Arnautovic,Austria,1.19,Marko Arnautovic | Austria | 1.19
+player_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/players,xG per 90,2,Lionel Messi,Argentina,1.10,Lionel Messi | Argentina | 1.10
+player_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/players,xG per 90,3,Erling Haaland,Norway,1.08,Erling Haaland | Norway | 1.08
+player_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/players,Expected goals on target (xGOT),1,Kylian Mbappé,France,7.1,Kylian Mbappé | France | 7.1
+player_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/players,Expected goals on target (xGOT),2,Lionel Messi,Argentina,5.6,Lionel Messi | Argentina | 5.6
+player_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/players,Expected goals on target (xGOT),3,Erling Haaland,Norway,5.4,Erling Haaland | Norway | 5.4
+player_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/players,Shots on target per 90,1,Lionel Messi,Argentina,3.7,Lionel Messi | Argentina | 3.7
+player_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/players,Shots on target per 90,2,Kylian Mbappé,France,3.3,Kylian Mbappé | France | 3.3
+player_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/players,Shots on target per 90,3,Erling Haaland,Norway,3.0,Erling Haaland | Norway | 3.0
+player_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/players,Shots per 90,1,Lionel Messi,Argentina,6.4,Lionel Messi | Argentina | 6.4
+player_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/players,Shots per 90,2,Kenan Yildiz,Turkey,5.8,Kenan Yildiz | Turkey | 5.8
+player_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/players,Shots per 90,3,Kevin De Bruyne,Belgium,5.4,Kevin De Bruyne | Belgium | 5.4
+player_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/players,Accurate passes per 90,1,Leandro Paredes,Argentina,126.6,Leandro Paredes | Argentina | 126.6
+player_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/players,Accurate passes per 90,2,Rodri,Spain,100.5,Rodri | Spain | 100.5
+player_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/players,Accurate passes per 90,3,Aïssa Mandi,Algeria,90.8,Aïssa Mandi | Algeria | 90.8
+player_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/players,Big chances created,1,Lionel Messi,Argentina,6,Lionel Messi | Argentina | 6
+player_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/players,Big chances created,2,Michael Olise,France,5,Michael Olise | France | 5
+player_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/players,Big chances created,3,Roberto Alvarado,Mexico,4,Roberto Alvarado | Mexico | 4
+player_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/players,Chances created,1,Leandro Trossard,Belgium,17,Leandro Trossard | Belgium | 17
+player_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/players,Chances created,2,Achraf Hakimi,Morocco,17,Achraf Hakimi | Morocco | 17
+player_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/players,Chances created,3,Mohamed Salah,Egypt,16,Mohamed Salah | Egypt | 16
+player_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/players,Accurate long balls per 90,1,Juan Quintero,Colombia,14.6,Juan Quintero | Colombia | 14.6
+player_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/players,Accurate long balls per 90,2,Andrés Andrade,Panama,7.7,Andrés Andrade | Panama | 7.7
+player_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/players,Accurate long balls per 90,3,Pathé Ciss,Senegal,6.5,Pathé Ciss | Senegal | 6.5
+player_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/players,Expected assists (xA),1,Lionel Messi,Argentina,2.6,Lionel Messi | Argentina | 2.6
+player_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/players,Expected assists (xA),2,Michael Olise,France,2.4,Michael Olise | France | 2.4
+player_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/players,Expected assists (xA),3,Leandro Trossard,Belgium,2.2,Leandro Trossard | Belgium | 2.2
+player_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/players,xA per 90,1,Juan Quintero,Colombia,0.66,Juan Quintero | Colombia | 0.66
+player_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/players,xA per 90,2,Francisco Conceição,Portugal,0.59,Francisco Conceição | Portugal | 0.59
+player_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/players,xA per 90,3,Lionel Messi,Argentina,0.58,Lionel Messi | Argentina | 0.58
+player_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/players,xG + xA per 90,1,Lionel Messi,Argentina,1.68,Lionel Messi | Argentina | 1.68
+player_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/players,xG + xA per 90,2,Marko Arnautovic,Austria,1.24,Marko Arnautovic | Austria | 1.24
+player_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/players,xG + xA per 90,3,Kevin Rodríguez,Ecuador,1.24,Kevin Rodríguez | Ecuador | 1.24
+player_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/players,Successful dribbles per 90,1,Cristian Volpato,Australia,6.7,Cristian Volpato | Australia | 6.7
+player_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/players,Successful dribbles per 90,2,Rafael Leão,Portugal,6.4,Rafael Leão | Portugal | 6.4
+player_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/players,Successful dribbles per 90,3,Jaouen Hadjam,Algeria,5.0,Jaouen Hadjam | Algeria | 5.0
+player_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/players,Big chances missed,1,Kylian Mbappé,France,7,Kylian Mbappé | France | 7
+player_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/players,Big chances missed,2,Erling Haaland,Norway,5,Erling Haaland | Norway | 5
+player_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/players,Big chances missed,3,Ismaïla Sarr,Senegal,4,Ismaïla Sarr | Senegal | 4
+player_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/players,Penalties awarded,1,Nicolás Tagliafico,Argentina,1,Nicolás Tagliafico | Argentina | 1
+player_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/players,Penalties awarded,2,Anthony Gordon,England,1,Anthony Gordon | England | 1
+player_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/players,Penalties awarded,3,Yoane Wissa,Congo DR,1,Yoane Wissa | Congo DR | 1
+player_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/players,Defensive contributions per 90,1,Tarik Muharemovic,Bosnia and Herzegovina,18.3,Tarik Muharemovic | Bosnia and Herzegovina | 18.3
+player_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/players,Defensive contributions per 90,2,Ali Lajami,Saudi Arabia,18.2,Ali Lajami | Saudi Arabia | 18.2
+player_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/players,Defensive contributions per 90,3,Boualem Khoukhi,Qatar,14.3,Boualem Khoukhi | Qatar | 14.3
+player_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/players,Tackles per 90,1,Marvin Senaya,Ghana,6.4,Marvin Senaya | Ghana | 6.4
+player_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/players,Tackles per 90,2,Amine Ben Hamida,Tunisia,5.3,Amine Ben Hamida | Tunisia | 5.3
+player_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/players,Tackles per 90,3,Rayan Aït-Nouri,Algeria,5.1,Rayan Aït-Nouri | Algeria | 5.1
+player_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/players,Interceptions per 90,1,Livano Comenencia,Curaçao,3.8,Livano Comenencia | Curaçao | 3.8
+player_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/players,Interceptions per 90,2,Yazan Abu Al-Arab,Jordan,3.7,Yazan Abu Al-Arab | Jordan | 3.7
+player_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/players,Interceptions per 90,3,Tarik Muharemovic,Bosnia and Herzegovina,2.8,Tarik Muharemovic | Bosnia and Herzegovina | 2.8
+player_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/players,Clearances per 90,1,Tarik Muharemovic,Bosnia and Herzegovina,14.9,Tarik Muharemovic | Bosnia and Herzegovina | 14.9
+player_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/players,Clearances per 90,2,Ali Lajami,Saudi Arabia,12.8,Ali Lajami | Saudi Arabia | 12.8
+player_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/players,Clearances per 90,3,Shogo Taniguchi,Japan,10.1,Shogo Taniguchi | Japan | 10.1
+player_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/players,Blocks per 90,1,Finn Surman,New Zealand,3.0,Finn Surman | New Zealand | 3.0
+player_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/players,Blocks per 90,2,Ali Lajami,Saudi Arabia,2.4,Ali Lajami | Saudi Arabia | 2.4
+player_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/players,Blocks per 90,3,Boualem Khoukhi,Qatar,2.3,Boualem Khoukhi | Qatar | 2.3
+player_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/players,Recoveries per 90,1,Unai Simón,Spain,11.4,Unai Simón | Spain | 11.4
+player_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/players,Recoveries per 90,2,Vozinha,Cape Verde Islands,10.8,Vozinha | Cape Verde Islands | 10.8
+player_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/players,Recoveries per 90,3,Seung-Gyu Kim,Korea Republic,10.3,Seung-Gyu Kim | Korea Republic | 10.3
+player_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/players,Penalties conceded,1,Riechedly Bazoer,Curaçao,1,Riechedly Bazoer | Curaçao | 1
+player_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/players,Penalties conceded,2,Haissem Hassan,Egypt,1,Haissem Hassan | Egypt | 1
+player_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/players,Penalties conceded,3,Mohamed Abdelmonem,Egypt,1,Mohamed Abdelmonem | Egypt | 1
+player_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/players,Possession won final 3rd per 90,1,Pedri,Spain,2.1,Pedri | Spain | 2.1
+player_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/players,Possession won final 3rd per 90,2,Lamine Yamal,Spain,2.0,Lamine Yamal | Spain | 2.0
+player_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/players,Possession won final 3rd per 90,3,Bernardo Silva,Portugal,1.9,Bernardo Silva | Portugal | 1.9
+player_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/players,Clean sheets,1,Unai Simón,Spain,5,Unai Simón | Spain | 5
+player_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/players,Clean sheets,2,Camilo Vargas,Colombia,4,Camilo Vargas | Colombia | 4
+player_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/players,Clean sheets,3,Mike Maignan,France,4,Mike Maignan | France | 4
+player_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/players,Save percentage,1,Unai Simón,Spain,100.0%,Unai Simón | Spain | 100.0%
+player_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/players,Save percentage,2,Diogo Costa,Portugal,86.4%,Diogo Costa | Portugal | 86.4%
+player_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/players,Save percentage,3,Camilo Vargas,Colombia,85.7%,Camilo Vargas | Colombia | 85.7%
+player_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/players,Saves per 90,1,Eloy Room,Curaçao,6.7,Eloy Room | Curaçao | 6.7
+player_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/players,Saves per 90,2,Mohammed Al Owais,Saudi Arabia,5.3,Mohammed Al Owais | Saudi Arabia | 5.3
+player_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/players,Saves per 90,3,Alireza Beiranvand,Iran,5.0,Alireza Beiranvand | Iran | 5.0
+player_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/players,Goals prevented,1,Orlando Gill,Paraguay,1.6,Orlando Gill | Paraguay | 1.6
+player_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/players,Goals prevented,2,Diogo Costa,Portugal,1.6,Diogo Costa | Portugal | 1.6
+player_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/players,Goals prevented,3,Gregor Kobel,Switzerland,1.6,Gregor Kobel | Switzerland | 1.6
+player_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/players,Goals conceded per 90,1,Mahmud Abunada,Qatar,3.3,Mahmud Abunada | Qatar | 3.3
+player_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/players,Goals conceded per 90,2,Max Crocombe,New Zealand,3.3,Max Crocombe | New Zealand | 3.3
+player_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/players,Goals conceded per 90,3,Eloy Room,Curaçao,3.0,Eloy Room | Curaçao | 3.0
+player_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/players,Fouls committed per 90,1,Richard Ríos,Colombia,6.6,Richard Ríos | Colombia | 6.6
+player_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/players,Fouls committed per 90,2,Lenny Joseph,Haiti,4.7,Lenny Joseph | Haiti | 4.7
+player_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/players,Fouls committed per 90,3,Aleksandar Pavlovic,Germany,4.3,Aleksandar Pavlovic | Germany | 4.3
+player_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/players,Yellow cards,1,Issa Diop,Morocco,3,Issa Diop | Morocco | 3
+player_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/players,Yellow cards,2,Abdukodir Khusanov,Uzbekistan,2,Abdukodir Khusanov | Uzbekistan | 2
+player_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/players,Yellow cards,3,Ahmed Fathi,Qatar,2,Ahmed Fathi | Qatar | 2
+player_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/players,Red cards,1,Folarin Balogun,USA,1,Folarin Balogun | USA | 1
+player_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/players,Red cards,2,Jarell Quansah,England,1,Jarell Quansah | England | 1
+player_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/players,Red cards,3,Miguel Almirón,Paraguay,1,Miguel Almirón | Paraguay | 1
+team_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/teams,FotMob rating,1,France,,7.56,1 | France | 7.56
+team_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/teams,FotMob rating,2,Spain,,7.34,2 | Spain | 7.34
+team_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/teams,FotMob rating,3,Switzerland,,7.22,3 | Switzerland | 7.22
+team_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/teams,Goals per match,1,Argentina,,2.8,1 | Argentina | 2.8
+team_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/teams,Goals per match,2,Germany,,2.8,2 | Germany | 2.8
+team_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/teams,Goals per match,2,Netherlands,,2.8,2 | Netherlands | 2.8
+team_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/teams,Goals conceded per match,1,Spain,,0.0,1 | Spain | 0.0
+team_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/teams,Goals conceded per match,2,Colombia,,0.2,2 | Colombia | 0.2
+team_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/teams,Goals conceded per match,3,France,,0.3,3 | France | 0.3
+team_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/teams,Average possession,1,Turkiye,,65.8%,1 | Turkiye | 65.8%
+team_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/teams,Average possession,2,Spain,,65.6%,2 | Spain | 65.6%
+team_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/teams,Average possession,3,Germany,,65.2%,3 | Germany | 65.2%
+team_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/teams,Clean sheets,1,Spain,,5,1 | Spain | 5
+team_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/teams,Clean sheets,2,Colombia,,4,2 | Colombia | 4
+team_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/teams,Clean sheets,2,Mexico,,4,2 | Mexico | 4
+team_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/teams,Expected goals (xG),1,France,,14.3,1 | France | 14.3
+team_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/teams,Expected goals (xG),2,Brazil,,12.0,2 | Brazil | 12.0
+team_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/teams,Expected goals (xG),3,Argentina,,10.8,3 | Argentina | 10.8
+team_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/teams,xG difference,1,France,,10.5,1 | France | 10.5
+team_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/teams,xG difference,2,Spain,,8.2,2 | Spain | 8.2
+team_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/teams,xG difference,3,Brazil,,8.0,3 | Brazil | 8.0
+team_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/teams,Shots on target per match,1,France,,7.8,1 | France | 7.8
+team_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/teams,Shots on target per match,2,Germany,,7.0,2 | Germany | 7.0
+team_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/teams,Shots on target per match,3,Argentina,,6.4,3 | Argentina | 6.4
+team_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/teams,Big chances,1,France,,27,1 | France | 27
+team_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/teams,Big chances,2,England,,23,2 | England | 23
+team_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/teams,Big chances,3,Brazil,,22,3 | Brazil | 22
+team_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/teams,Big chances missed,1,France,,19,1 | France | 19
+team_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/teams,Big chances missed,2,England,,15,2 | England | 15
+team_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/teams,Big chances missed,3,Norway,,13,3 | Norway | 13
+team_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/teams,Accurate passes per match,1,Argentina,,611.0,1 | Argentina | 611.0
+team_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/teams,Accurate passes per match,2,Spain,,598.4,2 | Spain | 598.4
+team_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/teams,Accurate passes per match,3,Germany,,587.8,3 | Germany | 587.8
+team_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/teams,Accurate long balls per match,1,Senegal,,29.8,1 | Senegal | 29.8
+team_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/teams,Accurate long balls per match,2,Colombia,,29.4,2 | Colombia | 29.4
+team_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/teams,Accurate long balls per match,3,Panama,,28.0,3 | Panama | 28.0
+team_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/teams,Accurate crosses per match,1,Canada,,7.4,1 | Canada | 7.4
+team_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/teams,Accurate crosses per match,2,Uruguay,,7.0,2 | Uruguay | 7.0
+team_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/teams,Accurate crosses per match,3,Belgium,,6.0,3 | Belgium | 6.0
+team_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/teams,Penalties awarded,1,Argentina,,3,1 | Argentina | 3
+team_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/teams,Penalties awarded,2,England,,2,2 | England | 2
+team_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/teams,Penalties awarded,2,Switzerland,,2,2 | Switzerland | 2
+team_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/teams,Touches in opposition box,1,Canada,,215,1 | Canada | 215
+team_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/teams,Touches in opposition box,2,Belgium,,211,2 | Belgium | 211
+team_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/teams,Touches in opposition box,3,Spain,,185,3 | Spain | 185
+team_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/teams,Corners,1,Canada,,50,1 | Canada | 50
+team_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/teams,Corners,2,France,,41,2 | France | 41
+team_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/teams,Corners,3,Spain,,39,3 | Spain | 39
+team_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/teams,Set piece goals,1,USA,,5,1 | USA | 5
+team_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/teams,Set piece goals,2,Bosnia and Herzegovina,,3,2 | Bosnia and Herzegovina | 3
+team_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/teams,Set piece goals,3,Netherlands,,3,3 | Netherlands | 3
+team_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/teams,xG conceded,1,Spain,,1.5,1 | Spain | 1.5
+team_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/teams,xG conceded,2,Uruguay,,2.4,2 | Uruguay | 2.4
+team_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/teams,xG conceded,3,South Korea,,2.5,3 | South Korea | 2.5
+team_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/teams,Interceptions per match,1,Curacao,,13.0,1 | Curacao | 13.0
+team_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/teams,Interceptions per match,2,Cape Verde,,12.5,2 | Cape Verde | 12.5
+team_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/teams,Interceptions per match,3,South Africa,,11.5,3 | South Africa | 11.5
+team_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/teams,Tackles per match,1,Paraguay,,26.4,1 | Paraguay | 26.4
+team_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/teams,Tackles per match,2,Argentina,,20.8,2 | Argentina | 20.8
+team_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/teams,Tackles per match,3,Jordan,,20.3,3 | Jordan | 20.3
+team_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/teams,Clearances per match,1,Qatar,,38.7,1 | Qatar | 38.7
+team_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/teams,Clearances per match,2,Bosnia and Herzegovina,,38.5,2 | Bosnia and Herzegovina | 38.5
+team_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/teams,Clearances per match,3,Cape Verde,,37.3,3 | Cape Verde | 37.3
+team_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/teams,Possession won final 3rd per match,1,Uruguay,,7.7,1 | Uruguay | 7.7
+team_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/teams,Possession won final 3rd per match,2,Spain,,7.2,2 | Spain | 7.2
+team_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/teams,Possession won final 3rd per match,3,Germany,,6.0,3 | Germany | 6.0
+team_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/teams,Set piece goals conceded,1,France,,0,1 | France | 0
+team_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/teams,Set piece goals conceded,2,Morocco,,0,2 | Morocco | 0
+team_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/teams,Set piece goals conceded,3,Brazil,,0,3 | Brazil | 0
+team_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/teams,Penalties conceded,1,Croatia,,2,1 | Croatia | 2
+team_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/teams,Penalties conceded,1,Jordan,,2,1 | Jordan | 2
+team_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/teams,Penalties conceded,3,Norway,,2,3 | Norway | 2
+team_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/teams,Saves per match,1,Curacao,,6.7,1 | Curacao | 6.7
+team_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/teams,Saves per match,2,Saudi Arabia,,5.3,2 | Saudi Arabia | 5.3
+team_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/teams,Saves per match,3,Iran,,5.0,3 | Iran | 5.0
+team_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/teams,Fouls per match,1,Haiti,,18.3,1 | Haiti | 18.3
+team_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/teams,Fouls per match,2,Panama,,15.3,2 | Panama | 15.3
+team_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/teams,Fouls per match,3,Bosnia and Herzegovina,,15.0,3 | Bosnia and Herzegovina | 15.0
+team_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/teams,Yellow cards,1,Egypt,,12,1 | Egypt | 12
+team_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/teams,Yellow cards,2,Canada,,11,2 | Canada | 11
+team_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/teams,Yellow cards,3,Paraguay,,9,3 | Paraguay | 9
+team_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/teams,Red cards,1,South Africa,,2,1 | South Africa | 2
+team_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/teams,Red cards,2,Qatar,,2,2 | Qatar | 2
+team_stats,default,https://www.fotmob.com/leagues/77/stats/world-cup/teams,Red cards,3,Paraguay,,1,3 | Paraguay | 1
