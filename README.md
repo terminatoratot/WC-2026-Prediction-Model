@@ -172,15 +172,6 @@ actual staking plan:
   reasoning, a hit-outcome tracking table, and a validation pass, so a
   finished card can be checked rather than just trusted.
 
-### A caveat worth reading before trusting any of this
-
-An independent audit of the base models (`BASE_MODEL_AUDIT.md`) found that
-none of them — including the market layer — has demonstrated a
-proper-scoring edge over Polymarket itself on the sample tested so far; see
-that file for the full breakdown, methodology, and honest caveats. Read it
-before assuming any of this is a source of positive expected value on its
-own.
-
 ## Model lineage
 
 `v46_4_basev51.py`'s own imports transitively pull in 23 other named
