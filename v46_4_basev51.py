@@ -86,15 +86,14 @@ matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 from matplotlib.colors import BoundaryNorm, ListedColormap
 
-# v11 (imported below, directly and transitively via v51) lives under versions/.
-_VERSIONS_DIR = Path(__file__).resolve().parent / "versions"
-if str(_VERSIONS_DIR) not in sys.path:
-    sys.path.insert(0, str(_VERSIONS_DIR))
-
-import market_edge  # noqa: F401  (bundles v11/v13-v27/v28-v38/v39; populates sys.modules)
-import v11_wcq_results_model as v11
-import v42_fotmob_market_edge_model as v42
+import market_edge
 import v51_combined_scoreline_model as v51
+
+# Older version modules are bundled into the three physical dependency files.
+# Access them through the bundle so a clean clone does not rely on stray local
+# vNN files or a hidden versions/ directory.
+v11 = market_edge.feature_layers.core_engine.v11_wcq_results_model
+v42 = market_edge.v42_fotmob_market_edge_model
 
 
 def _to_float(value: Any, default: float | None = None) -> float | None:
@@ -1109,27 +1108,52 @@ LOW_SCORE_KNOCKOUT_EXCLUSIONS = {"0-0", "1-0", "0-1"}
 GROUP_STAGE_MATCH_COUNT = 72
 
 # --- BEGIN stage-conditional tier weights (opt-out via any explicit --tier-* flag) ----------
-# Separately re-tuned via split_tier_weights_by_stage.py against
-# outputs/v46_4_basev51_tier_optimization/cached_training_rows.csv (71 group-stage /
-# 18 knockout matches, same underlying T-60 Polymarket backtest as the combined search).
-# Knockout's config fails 3 of the tuner's own hard filters (small sample, chases ROI
-# aggressively) -- treat it as directionally informative, not a fully vetted config.
+# Re-tuned via split_tier_weights_by_stage.py against
+# outputs/v46_4_basev51_tier_optimization/cached_training_rows.csv (75 group-stage /
+# 22 knockout matches, same underlying T-60 Polymarket backtest as the combined search),
+# using the 10-dim search (adds tier_value_1_cap/tier_value_2_cap/tier_outlier_cap --
+# previously VALUE_1/VALUE_2/OUTLIER were always uncapped, see tiered_balanced_surplus()).
+# An isolated A/B against the same 75/22-match data with the new caps forced off
+# (backtest/compare_capped_vs_uncapped_value.py) showed the caps themselves are close to
+# ROI-neutral (group-stage: 13.46% either way; knockout: 41.4% uncapped vs 44.1% capped) --
+# their value is bounding single-bet concentration risk, not a backtested ROI edge.
+# tier_outlier_weight is now stage-conditional too (previously pooled/fixed -- prior
+# rationale was it had never been split-validated; it has been now).
+# Knockout's config still fails the tuner's own hard filters (small sample, n=22) --
+# treat it as directionally informative, not a fully vetted config.
+#
+# Previous (7-dim, 71 group-stage / 18 knockout, VALUE tiers always uncapped, pooled
+# outlier weight 0.37103902262412886) values, kept for reference:
+#   group_stage: tier_value_2_weight=0.5530012020502271, tier_cover_1_weight=0.4236345129857588,
+#     tier_cover_1_cap=0.37058978787575936, tier_cover_2_weight=0.04680182765255726,
+#     tier_cover_2_cap=0.0671569729887917, tier_negative_edge_cap_multiplier=0.6133731848105837
+#   knockout: tier_value_2_weight=0.414972618465119, tier_cover_1_weight=0.05,
+#     tier_cover_1_cap=0.20237591282365225, tier_cover_2_weight=0.262916761375232,
+#     tier_cover_2_cap=0.27580769884099, tier_negative_edge_cap_multiplier=0.3759909888074068
 STAGE_TIER_DEFAULTS = {
     "group_stage": {
-        "tier_value_2_weight": 0.5530012020502271,
-        "tier_cover_1_weight": 0.4236345129857588,
-        "tier_cover_1_cap": 0.37058978787575936,
-        "tier_cover_2_weight": 0.04680182765255726,
-        "tier_cover_2_cap": 0.0671569729887917,
-        "tier_negative_edge_cap_multiplier": 0.6133731848105837,
+        "tier_value_2_weight": 0.6369455395016941,
+        "tier_cover_1_weight": 0.3402112193044844,
+        "tier_cover_1_cap": 0.19165238850227395,
+        "tier_cover_2_weight": 0.0,
+        "tier_cover_2_cap": 0.06847081440779985,
+        "tier_negative_edge_cap_multiplier": 0.2474092911741665,
+        "tier_outlier_weight": 0.31576631481624534,
+        "tier_outlier_cap": 0.1467542976784999,
+        "tier_value_1_cap": 0.2574801339539789,
+        "tier_value_2_cap": 0.2674418161900764,
     },
     "knockout": {
-        "tier_value_2_weight": 0.414972618465119,
+        "tier_value_2_weight": 0.5164648049147385,
         "tier_cover_1_weight": 0.05,
-        "tier_cover_1_cap": 0.20237591282365225,
-        "tier_cover_2_weight": 0.262916761375232,
-        "tier_cover_2_cap": 0.27580769884099,
-        "tier_negative_edge_cap_multiplier": 0.3759909888074068,
+        "tier_cover_1_cap": 0.1904330786763478,
+        "tier_cover_2_weight": 0.2534079128525563,
+        "tier_cover_2_cap": 0.2753300847820917,
+        "tier_negative_edge_cap_multiplier": 0.40126789010588976,
+        "tier_outlier_weight": 0.47097029523348194,
+        "tier_outlier_cap": 0.08325315118526276,
+        "tier_value_1_cap": 0.26879085574558337,
+        "tier_value_2_cap": 0.24882368300545255,
     },
 }
 # --- END stage-conditional tier weights ------------------------------------------------------
@@ -1521,17 +1545,28 @@ def tiered_balanced_surplus(
     tier_cover_1_cap: float,
     tier_cover_2_cap: float,
     tier_negative_edge_cap_multiplier: float,
+    tier_value_1_cap: float | None = None,
+    tier_value_2_cap: float | None = None,
+    tier_outlier_cap: float | None = None,
 ) -> tuple[float, float | None]:
     tier = str(row.get("buy_hold_tier") or "")
     raw_edge = float(row.get("raw_edge") or 0.0)
     cover_1_cap = tier_cover_1_cap * (tier_negative_edge_cap_multiplier if raw_edge < 0 else 1.0)
     cover_2_cap = tier_cover_2_cap * (tier_negative_edge_cap_multiplier if raw_edge < 0 else 1.0)
+    if tier_outlier_cap is None:
+        outlier_cap = None if raw_edge >= 0 else fallback_cover_cap
+    else:
+        outlier_cap = tier_outlier_cap * (tier_negative_edge_cap_multiplier if raw_edge < 0 else 1.0)
     settings: dict[str, tuple[float, float | None]] = {
-        "VALUE_1": (1.00, None),
-        "VALUE_2": (tier_value_2_weight, None),
+        # VALUE_1's cap is soft: allocate_breakeven_plus_value() lets it absorb
+        # any surplus left over once every tier (including VALUE_1 itself) has
+        # saturated, so stakes still always sum to target_stake. Defaults to
+        # None (uncapped) for both VALUE tiers, matching pre-cap behavior.
+        "VALUE_1": (1.00, tier_value_1_cap),
+        "VALUE_2": (tier_value_2_weight, tier_value_2_cap),
         "COVER_1": (tier_cover_1_weight, cover_1_cap),
         "COVER_2": (tier_cover_2_weight, cover_2_cap),
-        "OUTLIER": (tier_outlier_weight, None if raw_edge >= 0 else fallback_cover_cap),
+        "OUTLIER": (tier_outlier_weight, outlier_cap),
     }
     if tier.startswith("COVER_"):
         return settings.get(tier, (0.08, max(fallback_cover_cap, 0.10)))
@@ -1556,6 +1591,9 @@ def allocate_breakeven_plus_value(
     tier_cover_2_cap: float,
     tier_negative_edge_cap_multiplier: float,
     stake_profile: str,
+    tier_value_1_cap: float | None = None,
+    tier_value_2_cap: float | None = None,
+    tier_outlier_cap: float | None = None,
 ) -> list[dict[str, Any]]:
     if not selected:
         return []
@@ -1586,6 +1624,9 @@ def allocate_breakeven_plus_value(
                 tier_cover_1_cap=tier_cover_1_cap,
                 tier_cover_2_cap=tier_cover_2_cap,
                 tier_negative_edge_cap_multiplier=tier_negative_edge_cap_multiplier,
+                tier_value_1_cap=tier_value_1_cap,
+                tier_value_2_cap=tier_value_2_cap,
+                tier_outlier_cap=tier_outlier_cap,
             )
             allocation_style = "tiered-balanced"
         elif role == "VALUE":
@@ -1631,6 +1672,19 @@ def allocate_breakeven_plus_value(
         active -= saturated
         if spent <= 1e-9:
             break
+
+    if remaining > 1e-9:
+        # Every tier (including VALUE_1's own cap) saturated with surplus
+        # still left over. VALUE_1's cap is soft: it absorbs the remainder
+        # anyway so stakes still always sum to target_stake.
+        value_1_idx = next(
+            (idx for idx, row in enumerate(selected) if row.get("buy_hold_tier") == "VALUE_1"),
+            None,
+        )
+        if value_1_idx is not None:
+            row = selected[value_1_idx]
+            row["surplus_stake"] = float(row.get("surplus_stake") or 0.0) + remaining
+            remaining = 0.0
 
     for row in selected:
         row["execution_stake_unrounded"] = float(row["base_stake"]) + float(row.get("surplus_stake") or 0.0)
@@ -2156,6 +2210,9 @@ def build_buy_hold_execution_rows(
     max_negative_edge_covers: int,
     require_outlier: bool,
     stake_profile: str,
+    tier_value_1_cap: float | None = None,
+    tier_value_2_cap: float | None = None,
+    tier_outlier_cap: float | None = None,
     ignored_scorelines: set[str] | None = None,
     diversify_value_picks: bool = True,
     directional_risk_hedge: bool = True,
@@ -2230,6 +2287,9 @@ def build_buy_hold_execution_rows(
         tier_cover_2_cap=tier_cover_2_cap,
         tier_negative_edge_cap_multiplier=tier_negative_edge_cap_multiplier,
         stake_profile=stake_profile,
+        tier_value_1_cap=tier_value_1_cap,
+        tier_value_2_cap=tier_value_2_cap,
+        tier_outlier_cap=tier_outlier_cap,
     )
     for idx, row in enumerate(selected, start=1):
         row["section"] = f"BUY_HOLD_{idx}"
@@ -3173,17 +3233,46 @@ def main() -> None:
     # data (split_tier_weights_by_stage.py) and want different weights:
     # group stage favors COVER_1 heavily, knockout favors COVER_2 instead.
     # Passing any of these flags explicitly overrides the stage-based default.
-    # VALUE_1 has no flag -- it's the fixed anchor weight (1.0) every other
-    # tier's weight is relative to. OUTLIER weight is NOT stage-conditional:
-    # it was never validated in any split (see module docstring) so there's
-    # no basis to prefer one arbitrary number over another by stage.
+    # VALUE_1 has no weight flag -- it's the fixed anchor weight (1.0) every
+    # other tier's weight is relative to (it does have a cap flag, below).
+    # tier_outlier_weight is now stage-conditional (see STAGE_TIER_DEFAULTS);
+    # previously pooled/fixed at 0.37103902262412886 because it had never been
+    # split-validated -- it has been now, via the same split as everything else.
     parser.add_argument("--tier-value-2-weight", type=float, default=None)
     parser.add_argument("--tier-cover-1-weight", type=float, default=None)
     parser.add_argument("--tier-cover-2-weight", type=float, default=None)
-    parser.add_argument("--tier-outlier-weight", type=float, default=0.37103902262412886)
+    parser.add_argument("--tier-outlier-weight", type=float, default=None)
     parser.add_argument("--tier-cover-1-cap", type=float, default=None)
     parser.add_argument("--tier-cover-2-cap", type=float, default=None)
     parser.add_argument("--tier-negative-edge-cap-multiplier", type=float, default=None)
+    parser.add_argument(
+        "--tier-value-1-cap",
+        type=float,
+        default=None,
+        help=(
+            "Surplus cap for the VALUE_1 anchor tier. Default None = uncapped (current/legacy "
+            "behavior). This cap is soft: if every tier including VALUE_1 saturates and surplus "
+            "is still left over, VALUE_1 absorbs the remainder anyway so stakes still sum to "
+            "--execution-target-stake."
+        ),
+    )
+    parser.add_argument(
+        "--tier-value-2-cap",
+        type=float,
+        default=None,
+        help="Surplus cap for the VALUE_2 tier. Default None = uncapped (current/legacy behavior).",
+    )
+    parser.add_argument(
+        "--tier-outlier-cap",
+        type=float,
+        default=None,
+        help=(
+            "Surplus cap for the OUTLIER tier. Default None preserves legacy behavior "
+            "(uncapped when raw edge is non-negative, --overpriced-cover-surplus-cap when "
+            "negative). When set, applies to both cases, multiplied by "
+            "--tier-negative-edge-cap-multiplier when raw edge is negative."
+        ),
+    )
     parser.add_argument(
         "--overpriced-cover-surplus-cap",
         type=float,
@@ -3584,6 +3673,9 @@ def main() -> None:
                 tier_cover_1_cap=args.tier_cover_1_cap,
                 tier_cover_2_cap=args.tier_cover_2_cap,
                 tier_negative_edge_cap_multiplier=args.tier_negative_edge_cap_multiplier,
+                tier_value_1_cap=args.tier_value_1_cap,
+                tier_value_2_cap=args.tier_value_2_cap,
+                tier_outlier_cap=args.tier_outlier_cap,
                 min_value_bets=args.min_value_bets,
                 min_cover_bets=args.min_cover_bets,
                 max_negative_edge_covers=args.max_negative_edge_covers,

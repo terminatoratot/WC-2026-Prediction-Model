@@ -42,10 +42,14 @@ from typing import Any, Dict, List, Optional, Tuple
 import numpy as np
 import pandas as pd
 
-import market_edge  # noqa: F401  (bundles v11/v13-v27/v28-v38/v39; populates sys.modules)
-import v11_wcq_results_model as v11
-import v29_tail_risk_scoreline_model as v29
-from v39_coverage_outlier_model import select_coverage_outlier
+import market_edge
+
+# The older model layers are bundled inside these three physical modules.
+# Import through the bundle attributes so both Python and static analyzers
+# (including Pylance in Codespaces) can resolve the dependency chain.
+v11 = market_edge.feature_layers.core_engine.v11_wcq_results_model
+v29 = market_edge.feature_layers.v29_tail_risk_scoreline_model
+select_coverage_outlier = market_edge.v39_coverage_outlier_model.select_coverage_outlier
 
 ScoreMatrix = Dict[Tuple[int, int], float]
 
@@ -474,6 +478,18 @@ def build_from_zip(
         train_matches = pd.concat([all_matches, expanded_matches, fbref_intl_matches], ignore_index=True, sort=False)
     else:
         train_matches = all_matches
+
+    # build_rolling_features() walks rows in the order given, updating the
+    # shared per-team elo/rolling-form dicts as it goes -- so this MUST be
+    # chronological. Without this sort, the concat above leaves matches as
+    # three separate date-ordered blocks (World Cup, then all of results.csv's
+    # non-WC competitions, then fbref international) rather than one merged
+    # timeline, so every World Cup match's elo/form features get computed as
+    # of "end of the World Cup block", never seeing the (chronologically
+    # earlier-and-later-interleaved) Euro/AFCON/qualifier/friendly results at
+    # all -- e.g. a team's 2024-2026 qualifying run would never reach its
+    # elo_diff for a 2026 World Cup match.
+    train_matches = train_matches.sort_values("date").reset_index(drop=True)
 
     if use_volume_normalized_weighting:
         train_matches["prestige_weight"] = v11.assign_volume_normalized_weights(

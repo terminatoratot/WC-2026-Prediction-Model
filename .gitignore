@@ -12,3 +12,4 @@ observed_eval/
 logs/
 _worldcupsai_extracted/
 data/worldcupsai.zip_extracted/
+.pytest_cache/
