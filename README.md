@@ -11,87 +11,177 @@ full history of superseded iterations that were tried along the way.
 
 ## How the model works
 
-The prediction stack is built in layers, each one correcting a specific gap
-in the layer below it rather than replacing it wholesale. From the ground up:
+The prediction stack is built in layers, each one correcting a specific,
+named gap in the layer below it rather than replacing it wholesale. From the
+ground up:
 
-**1. Base engine (`v11`).** Trains on men's World Cup history only (pulled
-from a curated match archive plus `data/results.csv`), and predicts each
-match as goal rates (lambdas) for both teams via an ensemble of models —
-gradient boosting, random forest, and Poisson regression, blended together —
-rather than a single estimator. Notable design choices baked into it:
+### 1. Base engine (`v11`) — goal rates, not a single classifier
 
-- a **two-stage result model**: a binary draw-vs-not classifier first, then a
-  conditional winner probability, rather than one 3-way softmax (draws are a
-  structurally different outcome, not just a third bucket)
-- **chronological Elo features** and **year-based exponential recency
-  weighting**, so a result from 2022 counts for more than one from 2002
-- a **Dixon-Coles correction** to fix the low-score bias that plain
-  independent-Poisson scorelines have (0-0, 1-0, 0-1, 1-1 are systematically
-  under/over-predicted by naive Poisson otherwise)
-- **temperature-smoothed result probabilities** and an explicit
-  **current-strength correction**, so a team's long-run historical rate gets
-  pulled toward its current form rather than trusted blindly
-- exact scorelines are treated as *derived* from the goal-rate model, not
-  fit directly as the primary objective
-- a Kaggle box-score layer adds predicted match stats (shots, shots on
-  target, possession, fouls, saves, cards) alongside the scoreline
-- evaluated via **chronological expanding-window backtesting** (train on
-  the past, test on the next tournament, never the reverse)
+Trains on men's World Cup history only (a curated match archive plus
+`data/results.csv`) and reduces each match to two numbers: a goal rate
+("lambda") for team A and one for team B. Everything else — win/draw/loss,
+scorelines, totals — is derived from those two numbers, not fit separately.
+A few specific mechanisms worth calling out because they're easy to miss
+just skimming the file list:
 
-**2. Scoreline correction (`v49`).** Plain independent-Poisson scorelines
-assume the two teams' goal counts are uncorrelated and that each team's own
-goal count has variance equal to its mean — both are false in practice (some
-matches are just more "chaotic" for both sides at once). `v49` replaces the
-scoreline matrix with a **bivariate Negative Binomial via shared frailty**:
-both teams' goal counts are driven by a shared random "match volatility" draw
-`Z ~ Gamma(r, 1/r)`, conditionally Poisson given `Z`. This induces
-correlation between the teams and fat tails on total goals without touching
-the underlying W/D/L probabilities.
+- **The lambdas themselves come from an ensemble**, not one model: gradient
+  boosting, random forest, and Poisson regression each produce a lambda
+  estimate, and the ensemble blends them (`--model ensemble` vs. picking one
+  directly, e.g. `--model poisson`).
+- **Win/draw/loss is two-stage, not a single 3-way softmax.** A balanced
+  logistic regression first answers "is this a draw?" (features: Elo
+  difference, host status, group-vs-knockout stage, same-confederation flag),
+  and only then is a winner decided conditional on "not a draw." Draws are
+  treated as a structurally different outcome to predict, not just a third
+  bucket of one softmax.
+- **Current-strength correction is a multiplicative Elo-diff shrink**, applied
+  *after* the raw ensemble lambda: `factor_a = exp(k * elo_diff)`,
+  `factor_b = exp(-k * elo_diff)`, with the Elo difference clipped to
+  ±3 before exponentiating. This nudges a team's long-run historical rate
+  toward its current Elo standing without letting one wildly out-of-form
+  Elo reading blow up the prediction.
+- **Dixon-Coles correction fixes the low-score bias** that independent
+  Poisson marginals have on their own. Independent Poisson systematically
+  mis-prices the four cells where the two teams' goals interact most
+  (0-0, 1-0, 0-1, 1-1); Dixon-Coles reweights exactly those four cells by a
+  `tau` factor that's a function of both lambdas and a single correlation
+  parameter (`rho = -0.08` here), then renormalizes the matrix.
+- **Temperature smoothing** (factor `1.08`) pulls the final W/D/L
+  probabilities slightly toward uniform, a conservative hedge against the
+  ensemble being overconfident on any single match.
+- Exact scorelines are *derived* from the (corrected) lambda pair via a
+  score matrix, not fit as their own direct target — the primary objective
+  the model is evaluated on is result log-loss/Brier/RPS, not top-1
+  scoreline accuracy.
+- A Kaggle box-score layer separately predicts match stats (shots, shots on
+  target, possession, fouls, saves, cards) alongside the scoreline.
+- Evaluated via **chronological expanding-window backtesting**: train on
+  everything up to tournament N, test on tournament N+1, slide forward.
+  Never trained and tested on the same window.
 
-**3. Additive outlier layers (`v29`, `v39_coverage_outlier`).** The model
-displays a Top-3 most-likely-scorelines list, which by construction misses
-any match that goes to an unusual score. Rather than let a tail event
-silently overwrite one of the Top-3 slots, `v29` (tail-risk: gated by
-favorite-win/lambda thresholds, catches blowouts) and `v39`'s coverage
-outlier (catches matches whose expected total goals sit above the
-displayed Top-3's ceiling) each contribute a **4th, additive "outlier" slot**
-on top of an untouched Top-3 — the normal prediction never gets overwritten
-to buy tail coverage.
+### 2. Scoreline correction (`v49`) — correlated, fat-tailed goals
 
-**4. Current-form layers (`v28`, `v35`, `v36`, `v38`).** Pure history isn't
-enough once a tournament is underway — `v28` folds in observed World Cup
-2026 form and FotMob signals; `v35` learns a small, shrunk transition table
-from 75th-minute game state to final score for a separate late-mutation
-outlier slot; `v36` adds a reusable FotMob xG/player/keeper form layer that
-automatically picks up new completed matches as they're scraped, with no
-code changes; `v38` applies one shrunk global multiplier to correct a
-total-goals under-bracketing bias while leaving W/D/L untouched.
+Independent Poisson marginals carry two false assumptions: that the two
+teams' goal counts are uncorrelated, and that each team's own goal count has
+variance exactly equal to its mean. Neither holds — some matches are simply
+more "chaotic" for both sides at once (end-to-end, error-prone, end up
+5-4 rather than 2-1), and that correlation is invisible to independent
+Poisson no matter how you tune the two lambdas individually.
 
-**5. Market layer (`market_edge.py`, i.e. `v42`).** Fetches live Polymarket
-odds for exact-score and moneyline markets, classifies them, and compares
-the model's fair probabilities against market-implied ones to find priced
-edges. Market data is a read-only diagnostic here — it is never blended
-into the model's own probabilities.
+`v49` replaces the scoreline matrix with a **bivariate Negative Binomial via
+shared frailty**: draw one shared "match volatility" factor
+`Z ~ Gamma(shape=r, scale=1/r)` (so `E[Z]=1`), then treat each team's goals as
+`Poisson(lambda * Z)` *conditional on the same draw of Z*. Because both
+teams see the same `Z`, a high-volatility draw pushes both team's goal counts
+up together — inducing correlation and fatter tails on total goals — while a
+low-volatility draw does the opposite. Integrating `Z` out analytically is
+what turns each team's *marginal* distribution into a Negative Binomial. The
+W/D/L probabilities from `v11` are left untouched; only the shape of the
+scoreline matrix around them changes.
 
-**6. Combination (`v51`).** Takes `v11` + `v49`'s corrected scorelines and
-adds *both* the `v29` and `v39` outlier tabs independently (so a backtest can
-show which one, if either, is actually adding hit-rate on top of a clean
-Top-3) — this is the actual prediction source used by the current pipeline.
+### 3. Additive outlier layers (`v29`, `v39` coverage) — never overwrite the Top-3
 
-**7. Buy-card generation (`v46_4_basev51`, current entry point).** Runs `v51`
-for the scoreline distribution, feeds it through `v42`'s Polymarket pipeline
-to find priced edges, then applies Kelly-based staking, tiering, and a
-break-even funding floor to produce a concrete "buy card": which exact
-scores to back and how much to stake on each, plus audit outputs (selection
-reasoning, hit-outcome tracking, a validation pass).
+The model surfaces a Top-3 most-likely-scorelines list, which by
+construction can't cover every match — some games land on a score outside
+whatever three cells were highest-probability pre-match. The naive fix
+(let a tail-risk rule *replace* the 3rd slot when it fires) trades away
+real Top-3 accuracy to buy tail coverage. Both of these layers instead add a
+**4th, additive "outlier" slot** and leave the Top-3 itself alone:
+
+- **`v29` (tail-risk)** fires only when the model already expects a
+  lopsided result: the favorite's win probability and its lambda both have
+  to clear gates at the same time (e.g. win probability ≥ 0.66 *and*
+  lambda ≥ 1.75 for the standard gate; ≥ 0.78 and ≥ 2.40 for an "extreme
+  favorite" gate), plus a cap on the draw probability and a minimum gap
+  between the two teams' lambdas. When both conditions hold, it proposes a
+  bigger-margin blowout scoreline as the 4th slot instead of trusting the
+  Top-3 to have already covered that possibility.
+- **`v39`'s coverage outlier** is triggered by a different signal: total
+  expected goals (`lambda_a + lambda_b`) exceeding the highest total already
+  represented in the Top-3, plus a margin. When that happens, it picks the
+  single highest-probability scoreline from the next total-goals band up
+  (e.g. if the Top-3 tops out at a 3-goal match, it looks in the 4-goal band)
+  as the outlier slot — a targeted fix for the specific case where the
+  Top-3 systematically under-represents high-scoring games.
+
+### 4. Current-form layers (`v28`, `v35`, `v36`, `v38`) — history isn't enough mid-tournament
+
+Pure pre-tournament history stops being sufficient once matches start being
+played — a team's actual 2026 form needs to feed back in without waiting for
+the next model version:
+
+- **`v28`** folds in observed World Cup 2026 results and FotMob signals as
+  they become available.
+- **`v35`** learns a small, deliberately shrunk transition table from
+  75th-minute game state to final score, used only for a separate
+  late-game-mutation outlier slot — it doesn't touch the base Top-3.
+- **`v36`** adds a reusable FotMob xG/player/keeper form layer that reads
+  `data/fotmob_*_clean.csv` directly at build time, so re-running the model
+  after new matches are scraped automatically folds the new signal in with
+  no code changes.
+- **`v38`** is intentionally the smallest layer: one shrunk global
+  multiplier that corrects a measured total-goals under-bracketing bias
+  (the model was found to systematically predict too few goals), while
+  leaving the W/D/L probabilities exactly as `v35` produced them.
+
+### 5. Market layer (`market_edge.py`, built from `v42`) — read-only comparison
+
+Fetches live Polymarket odds for exact-score and moneyline markets,
+classifies them, and computes an edge for each priced outcome: model fair
+probability minus the market-implied probability (de-vigged), further
+reduced by an "executable edge" that accounts for actual order-book prices
+rather than posted mid prices. A row only clears the `buy` bar when the
+edge exceeds a minimum threshold (`≥ 0.015` by default) *and* the trade is
+actually fillable at that edge, not just theoretically priced that way;
+smaller edges get downgraded to a `watch` verdict instead. Market data only
+flows one direction here — it's compared against the model's own
+probabilities, never blended into them.
+
+### 6. Combination (`v51`) — the actual prediction source
+
+Takes `v11`'s W/D/L and `v49`'s corrected scoreline matrix, then adds *both*
+the `v29` and `v39` outlier tabs independently, as two separate columns
+rather than picking one. That lets a backtest directly answer "does the
+tail-risk outlier add hits, does the coverage outlier add hits, does having
+both add more than either alone" — instead of baking in an assumption about
+which one is better. This combined output is what actually feeds the current
+pipeline.
+
+### 7. Buy-card generation (`v46_4_basev51`, current entry point)
+
+Runs `v51` for the scoreline distribution, feeds it through `v42`'s
+Polymarket pipeline to find priced edges, then converts those edges into an
+actual staking plan:
+
+- Each selected score is first funded to a **break-even floor** (the stake
+  size at which a hit exactly covers the total outlay across the card), then
+  any remaining budget ("surplus") is allocated across scores weighted by
+  three separate priorities — value edge, outlier upside, and downside
+  cover — each with its own tunable weight (`--value-surplus-weight`,
+  `--outlier-surplus-weight`, `--cover-surplus-weight`).
+- **Kelly sizing is shrunk, not applied raw.** Each row's theoretical Kelly
+  fraction is multiplied by a shrink factor derived from `v42`'s own
+  `staking_confidence` score (a composite of bucket depth, liquidity, market
+  agreement, model stability, and book consistency) rather than a flat
+  fraction — a score `v42` is less confident in gets a smaller bet, not just
+  a smaller theoretical edge.
+- Scores get classified as `VALUE`, `COVER`, or `OUTLIER_VALUE` and tiered
+  accordingly, with stakes rounded to a fixed increment for a clean, postable
+  card.
+- Ships with audit outputs alongside the card itself: per-score selection
+  reasoning, a hit-outcome tracking table, and a validation pass, so a
+  finished card can be checked rather than just trusted.
+
+### A caveat worth reading before trusting any of this
 
 An independent audit of the base models (`BASE_MODEL_AUDIT.md`) found that
-none of them — including the market layer — has demonstrated a proper-scoring
-edge over Polymarket itself; see that file for the full breakdown and honest
-caveats. Read that before assuming any of this is a source of positive
-expected value on its own.
+none of them — including the market layer — has demonstrated a
+proper-scoring edge over Polymarket itself on the sample tested so far; see
+that file for the full breakdown, methodology, and honest caveats. Read it
+before assuming any of this is a source of positive expected value on its
+own.
 
-## Model lineage & why this is 5 files, not ~25
+## Model lineage
 
 `v46_4_basev51.py`'s own imports transitively pull in 23 other named
 iterations (v11, v13, v15, v18, v20, v23, v24, v26-v42, v49) — this was
