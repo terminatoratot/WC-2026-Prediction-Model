@@ -209,11 +209,8 @@ predictions and running the full test suite against the original 25-file
 layout before switching over — see git history for the pre-bundling commit
 if you want the individual files.
 
-The evaluation harness that validates all of this
-(`backtest/audit_base_models.py` and its supporting walk-forward scripts) is
-included too — see [`BASE_MODEL_AUDIT.md`](BASE_MODEL_AUDIT.md) for a full
-write-up of how the base models compare against each other and the market,
-including known gaps.
+The walk-forward evaluation scripts used to validate the model chain
+(`backtest/`) are included too.
 
 ## Setup
 
@@ -275,13 +272,12 @@ for the full option set.
 ## Evaluate against completed matches
 
 ```bash
-python backtest/audit_base_models.py --outdir outputs/base_model_audit
+python backtest/eval_v29_v36_completed_worldcup.py --outdir outputs/eval_v29_v36
 ```
 
-Cross-model evaluation (v11, v15, v29, v36, v39_withbetterdata, v42) on a
-common, leak-controlled, walk-forward footing — proper scoring rules
-(log-loss, Brier, RPS), a Polymarket market benchmark, and bootstrap CIs. See
-`BASE_MODEL_AUDIT.md` for the results and what they mean.
+Walk-forward evaluation against completed matches, with leak controls (no
+model sees a match's own result before predicting it). `eval_v42_completed_worldcup.py`
+and `eval_v36_v39_walkforward_no_leak.py` cover the later layers the same way.
 
 ## Tests
 
