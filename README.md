@@ -372,10 +372,63 @@ three roles:
 | `COVER` | high-probability portfolio coverage without sufficient value support |
 | `OUTLIER_VALUE` | V51's designated additive outlier score |
 
+These are role labels, not the five card positions. By default V46.4 builds
+one card with at most five exact-score bets and prefers at least four when
+enough valid candidates exist. The selected bets are assigned up to five
+staking tiers:
+
+```text
+VALUE_1, VALUE_2, COVER_1, COVER_2, OUTLIER
+```
+
+The highest-EV selected VALUE bet becomes `VALUE_1`; the second becomes
+`VALUE_2`. Selected COVER bets are ordered by model rank and become `COVER_1`
+and `COVER_2`. The selected V51 outlier becomes `OUTLIER`. A role answers why a
+score is present; its tier determines how surplus stake is weighted and capped.
+
 `Any Other Score` is excluded by default. Low-score exclusions and directional
 hedges can be stage-dependent. Multiple VALUE scores are diversified across
 outcome-path clusters where possible, so the card does not fill every value
 slot with variants of the same underlying match state.
+
+### Stake profiles and tier weights
+
+The break-even base stake is calculated before these weights. The weights
+control only the remaining surplus.
+
+The default `value-heavy` profile uses role-level priorities:
+
+| Role | Surplus priority |
+|---|---:|
+| `VALUE` | `1.00 * (1 + max(expected_return, 0))` |
+| `OUTLIER_VALUE` | `0.45 * (1 + max(expected_return, 0))` |
+| `COVER` | `0.075` |
+
+The `tiered-balanced` profile uses five position-specific priorities. These
+defaults change by stage:
+
+| Tier | Group weight | Knockout weight | Group surplus cap | Knockout surplus cap |
+|---|---:|---:|---:|---:|
+| `VALUE_1` | 1.000000 | 1.000000 | 0.257480 | 0.268791 |
+| `VALUE_2` | 0.636946 | 0.516465 | 0.267442 | 0.248824 |
+| `COVER_1` | 0.340211 | 0.050000 | 0.191652 | 0.190433 |
+| `COVER_2` | 0.000000 | 0.253408 | 0.068471 | 0.275330 |
+| `OUTLIER` | 0.315766 | 0.470970 | 0.146754 | 0.083253 |
+
+Weights are relative, not percentages, and caps are surplus stake amounts in
+the same units as `--execution-target-stake`. For a negative-edge COVER or
+OUTLIER, its cap is further multiplied by `0.247409` in the group stage or
+`0.401268` in the knockout stage. `VALUE_1` has a soft cap: if every tier is
+saturated and valid surplus remains, `VALUE_1` absorbs the remainder so the
+card can still reach its target outlay.
+
+Use the five-tier profile with:
+
+```bash
+--stake-profile tiered-balanced
+```
+
+Use `--stake-profile both` to write both allocation profiles for comparison.
 
 ### Break-even floor and surplus
 
@@ -401,6 +454,15 @@ S=\max\left(0,T-\sum_i s_i^{base}\right).
 Surplus is distributed by role or stage-specific tier weights. Negative-edge
 covers have surplus caps. Stakes are then rounded to the configured increment
 while preserving the target total when a valid card exists.
+
+Ignoring caps for one allocation pass, tier `i` receives
+
+```math
+a_i=S\frac{w_i}{\sum_{j\in A}w_j},
+```
+
+where `A` is the set of tiers that have not saturated their caps. The allocator
+removes saturated tiers and redistributes remaining surplus iteratively.
 
 For stake `s_i` at price `c_i`:
 
