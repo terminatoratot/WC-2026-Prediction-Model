@@ -172,13 +172,13 @@ V49 replaces independent Poisson score counts with a shared-volatility
 bivariate Negative Binomial construction:
 
 ```math
-Z \sim \operatorname{Gamma}(r,1/r),
+Z \sim \Gamma(r,1/r),
 ```
 
 ```math
-A\mid Z \sim \operatorname{Poisson}(\lambda_A Z),
+A\mid Z \sim Pois(\lambda_A Z),
 \qquad
-B\mid Z \sim \operatorname{Poisson}(\lambda_B Z).
+B\mid Z \sim Pois(\lambda_B Z).
 ```
 
 After integrating out `Z`, the score probability is
@@ -194,9 +194,9 @@ P(A=i,B=j)=
 The default dispersion is `r=25`. This produces
 
 ```math
-\operatorname{Var}(A)=\lambda_A+\frac{\lambda_A^2}{r},
+Var(A)=\lambda_A+\frac{\lambda_A^2}{r},
 \qquad
-\operatorname{Cov}(A,B)=\frac{\lambda_A\lambda_B}{r}.
+Cov(A,B)=\frac{\lambda_A\lambda_B}{r}.
 ```
 
 Smaller `r` means fatter, more correlated tails. As `r` approaches infinity,
@@ -285,15 +285,15 @@ q_{yes}=\frac{c_{yes}}{c_{yes}+c_{no}}.
 For model fair probability `p`, V42 reports:
 
 ```math
-\text{edge}=p-q_{yes},
+e=p-q_{yes},
 ```
 
 ```math
-\text{executable edge}=p-c_{yes}-u,
+e_{exec}=p-c_{yes}-u,
 ```
 
 ```math
-\text{expected return}=\frac{p}{c_{yes}}-1,
+ER=\frac{p}{c_{yes}}-1,
 ```
 
 where `u` is the uncertainty buffer. A positive model edge is insufficient if
@@ -405,11 +405,11 @@ while preserving the target total when a valid card exists.
 For stake `s_i` at price `c_i`:
 
 ```math
-\text{gross payout if hit}=\frac{s_i}{c_i},
+G_i=\frac{s_i}{c_i},
 ```
 
 ```math
-\text{net card profit if hit}=\frac{s_i}{c_i}-T.
+N_i=\frac{s_i}{c_i}-T.
 ```
 
 The validation pass checks total stake, break-even coverage, minimum orders,
