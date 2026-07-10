@@ -41,6 +41,7 @@ made things slower, not faster, when tried locally.
 
 from __future__ import annotations
 
+import os
 import sys
 import time
 from concurrent.futures import ThreadPoolExecutor, as_completed
@@ -55,7 +56,7 @@ if str(PROJECT_DIR) not in sys.path:
 import v51_combined_scoreline_model as v51
 
 GROUP_STAGE_MATCH_COUNT = 72
-WORKERS = 4  # raise on a bigger box; see module docstring before going higher
+WORKERS = max(1, int(os.environ.get("V51_WORKERS", "4")))
 
 TMP_DIR = Path("outputs/v51_walkforward")
 TMP_DIR.mkdir(parents=True, exist_ok=True)
