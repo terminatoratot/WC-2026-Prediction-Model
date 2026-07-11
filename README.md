@@ -12,29 +12,6 @@ V46.4 is a pre-match exact-score decision pipeline. It:
 The public entry point is `v46_4_basev51.py`. Market prices are used for
 valuation and staking only. They are not blended into V51's model probability.
 
-The research question is narrower than “predict football”:
-
-> Can a pre-match model produce exact-score probabilities that remain useful
-> after executable prices, uncertainty, mutually exclusive outcomes, and
-> portfolio constraints are taken into account?
-
-The separation between V51 and V46.4 is the main experimental boundary. A
-better probability model is not automatically a better trading rule, and a
-profitable card backtest is not evidence that the probability model is
-calibrated. Prediction and execution therefore have different inputs, metrics,
-and failure conditions.
-
-## Claims a reviewer should test
-
-| Question | Repository answer |
-|---|---|
-| Can the target result enter its own features? | Rolling state is emitted before the result update; historical evidence still requires cutoff auditing. |
-| Can market prices alter model probability? | No. Prices enter V42/V46.4 after V51 has produced its distribution. |
-| Are exact-score positions treated as independent Kelly bets? | No. V46.4 solves a mutually exclusive portfolio. |
-| Can the system decline to trade? | Yes. Failed value or validation checks produce an empty card rather than a forced allocation. |
-| Is tuned historical ROI out-of-sample evidence? | No. It is parameter-selection evidence until tested with frozen rules on an untouched period. |
-| Is a decision auditable? | Yes. The run writes model artifacts, candidate-level rejection reasons, card validation, and conditional payoffs. |
-
 ## Repository layout
 
 ```text
