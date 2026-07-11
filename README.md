@@ -12,6 +12,29 @@ V46.4 is a pre-match exact-score decision pipeline. It:
 The public entry point is `v46_4_basev51.py`. Market prices are used for
 valuation and staking only. They are not blended into V51's model probability.
 
+The research question is narrower than “predict football”:
+
+> Can a pre-match model produce exact-score probabilities that remain useful
+> after executable prices, uncertainty, mutually exclusive outcomes, and
+> portfolio constraints are taken into account?
+
+The separation between V51 and V46.4 is the main experimental boundary. A
+better probability model is not automatically a better trading rule, and a
+profitable card backtest is not evidence that the probability model is
+calibrated. Prediction and execution therefore have different inputs, metrics,
+and failure conditions.
+
+## Claims a reviewer should test
+
+| Question | Repository answer |
+|---|---|
+| Can the target result enter its own features? | Rolling state is emitted before the result update; historical evidence still requires cutoff auditing. |
+| Can market prices alter model probability? | No. Prices enter V42/V46.4 after V51 has produced its distribution. |
+| Are exact-score positions treated as independent Kelly bets? | No. V46.4 solves a mutually exclusive portfolio. |
+| Can the system decline to trade? | Yes. Failed value or validation checks produce an empty card rather than a forced allocation. |
+| Is tuned historical ROI out-of-sample evidence? | No. It is parameter-selection evidence until tested with frozen rules on an untouched period. |
+| Is a decision auditable? | Yes. The run writes model artifacts, candidate-level rejection reasons, card validation, and conditional payoffs. |
+
 ## Repository layout
 
 ```text
@@ -271,6 +294,28 @@ additive.
 The resulting list contains the untouched Top 3 plus zero, one, or two unique
 coverage scores.
 
+### Parameter register and provenance
+
+Several unrelated quantities are called “weights.” They answer different
+questions and should not be conflated:
+
+| Layer | Default | Provenance and interpretation |
+|---|---:|---|
+| Elo update | `K=24`, margin multiplier | conventional modelling prior; a feature-state rule, not a stake weight |
+| Training recency | 16-year half-life, 0.10 floor | research configuration; requires ablation against simpler decay choices |
+| Competition prestige | 20/30/40/50 by tier | event-importance prior |
+| World Cup row weight | 600 | compensates for roughly 47 non-World-Cup rows per World Cup row; data-pool dependent |
+| Qualification blend | begins 2014, full in 2022 | gradual feature inclusion reflecting source coverage |
+| Shared dispersion | `r=25` | residual-calibration setting; controls joint over-dispersion, not mean goals |
+| Dixon-Coles correction | `rho=-0.08` | fixed low-score setting inherited by V49 |
+| Result blend / temperature / draw blend | 0.14 / 1.08 / 0.75 | fixed research settings exposed to specification-search risk |
+| V46.4 tier weights and caps | stage-specific | fitted on historical price-stamped cards; allocation parameters, not probability estimates |
+
+No value in this table is a universally stable constant. If the data pool or
+execution regime changes, it must be revalidated. The optional
+volume-normalized prestige scheme is an explicit ablation and is off by
+default.
+
 ## 6. Market layer: V42
 
 ### Exact-score prices
@@ -478,7 +523,9 @@ The validation pass checks total stake, break-even coverage, minimum orders,
 negative-edge cover counts, tier caps, and required role counts. A validation
 failure is a no-buy condition rather than a silently malformed card.
 
-## 8. Leakage controls
+## 8. Evaluation and leakage controls
+
+### Information controls
 
 - Rolling Elo and form features are created before the current match result is
   added to team state.
@@ -488,6 +535,62 @@ failure is a no-buy condition rather than a silently malformed card.
   are not training inputs for that fold.
 - Market prices affect valuation and staking diagnostics, not model fair
   probability.
+
+Final scores used to settle historical cards must be removed from prediction
+and selection inputs. A valid market-replay row additionally needs a price
+timestamp before kickoff; a leakage-free prediction paired with a late price is
+still an invalid backtest.
+
+### Evidence standard
+
+Prediction and execution are evaluated separately:
+
+| Requirement | Prediction evaluation | Market/card evaluation |
+|---|---|---|
+| Split | expanding tournament or kickoff walk-forward | chronological with all staking parameters frozen |
+| Primary metrics | multiclass log loss and Brier score | net return, maximum drawdown, turnover, edge calibration |
+| Secondary metrics | W/D/L accuracy, goal MAE, exact-score log loss, Top-k coverage | hit rate, break-even rate, exposure and P&L by role |
+| Comparators | market-implied W/D/L, Poisson, and simpler model ablations | equal stake, no-cover, and no-trade baselines |
+| Audit unit | one row per held-out match | one row per candidate, executable price, fill, and settlement |
+
+Top-3-plus-outlier coverage must not be described as a free accuracy gain: the
+prediction set is larger, so the additional coverage has to be judged against
+its price and capital requirement. Tournament matches are also correlated
+observations, not independent experimental regimes.
+
+### Current evidence status
+
+This README does not publish a headline accuracy or ROI. The existing
+2010-2022 aggregate is exploratory: fold cutoffs exclude future tournaments,
+but `chronological_backtest_combined` concatenates match sources without a
+global re-sort inside each fold before stateful Elo/form construction. The live
+builder has that ordering invariant; the historical fold path still needs it.
+This is not direct target leakage, but the resulting metrics do not represent
+the intended chronological model.
+
+Historical card returns have an additional limitation: the stage-specific
+allocation parameters were selected on the same small set of price-stamped
+cards used to compare them. Those results demonstrate optimization behaviour,
+not live expected return. A reportable performance claim requires a frozen
+specification, timestamped executable prices, and an untouched forward period.
+
+### Known limitations
+
+- Exact-score labels are sparse; Top-k coverage can look stable while
+  individual cell probabilities remain poorly calibrated.
+- Parameter uncertainty around `lambda_a`, `lambda_b`, and the score grid is
+  not propagated through the staking optimizer.
+- Cross-market agreement is not independent evidence because markets react to
+  shared information.
+- Market backtests are sensitive to survivorship, timestamp quality, fees,
+  spread, queue position, partial fills, and order-book depth.
+- Static snapshots cannot represent lineup or injury information not present at
+  their recorded cutoff.
+- The reduced bundled-module layout is compact but makes static analysis and
+  isolated unit testing harder than a conventional package structure.
+- Runtime assertions and audit outputs exist, but broader automated coverage is
+  still needed for temporal joins, allocation invariants, and malformed market
+  payloads.
 
 ## Data inputs
 
