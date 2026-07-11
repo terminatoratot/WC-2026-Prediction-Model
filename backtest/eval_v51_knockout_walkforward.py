@@ -16,12 +16,23 @@ Leakage control: for each target match, fbref_world_cup_matches.csv is
 filtered to only rows strictly BEFORE that match's own kickoff (so no other
 2026 result -- earlier OR later in the tournament -- leaks into that match's
 training data beyond what would genuinely be known at that point in time).
-current_team_features_2026.csv (FIFA rankings) is a static pre-tournament
-snapshot (2026-06-10) so it never needs filtering. worldcupsai.zip (<=2022),
-results.csv/fbref_international_matches.csv (both end 2026-06-10, pre-
-tournament) are already safe as-is. Note fbref_world_cup_matches.csv may lag
-fotmob_match_facts_clean.csv by a match or two -- if a target match isn't in
-fbref yet, its own result simply isn't available to leak either way.
+current_team_features_2026.csv is a static pre-tournament snapshot
+(2026-06-10), worldcupsai.zip ends in 2022, and fbref international ends on
+2026-06-10. results.csv contains later World Cup fixture rows, but V51's
+expanded-results loader explicitly excludes tournament == "FIFA World Cup".
+The per-target FBref World Cup input is date-filtered and explicitly removes
+the target matchup within one calendar day of kickoff. The explicit matchup
+removal is required because FotMob timestamps and FBref calendar dates can
+fall on adjacent dates around midnight (FBref dates late-evening US kickoffs
+one calendar day before their UTC kickoff day). Because that removal depends
+on canon_team unifying FotMob and FBref team spellings (Turkiye/Türkiye,
+Cape Verde/Cabo Verde, DR Congo/Congo DR once silently diverged and leaked
+5 matches' own results), prior_fbref_world_cup_rows also (a) raises if it
+cannot find the target's own FBref row when the FBref snapshot covers the
+kickoff date, and (b) drops any FBref row whose FotMob kickoff timestamp is
+not at least one full match duration (3h30m, covering ET+pens) before the
+target kickoff, so concurrent or still-in-progress same-evening matches
+dated the previous local day cannot slip in either.
 
 No Polymarket call anywhere -- this only exercises v51.build_from_zip() +
 .predict(), never v42's market pipeline.
@@ -70,6 +81,84 @@ def result_label(goals_a: int, goals_b: int) -> str:
     return "draw"
 
 
+def _to_naive_utc(ts: object) -> pd.Timestamp:
+    out = pd.Timestamp(ts)
+    if out.tzinfo is not None:
+        out = out.tz_convert("UTC").tz_localize(None)
+    return out
+
+
+def load_fotmob_kickoffs() -> dict[frozenset, list[pd.Timestamp]]:
+    """Canon team-pair -> kickoff timestamps, for real temporal ordering.
+
+    FBref only has calendar dates (in local time), so ordering FBref rows
+    against a kickoff needs the FotMob timestamps as ground truth.
+    """
+    df = pd.read_csv("data/fotmob_match_facts_clean.csv")
+    canon = v51.v11.canon_team
+    kickoffs: dict[frozenset, list[pd.Timestamp]] = {}
+    for _, r in df.iterrows():
+        key = frozenset((canon(r["home_team"]), canon(r["away_team"])))
+        kickoffs.setdefault(key, []).append(_to_naive_utc(r["kickoff"]))
+    return kickoffs
+
+
+def prior_fbref_world_cup_rows(
+    fbref_full: pd.DataFrame,
+    *,
+    team_a: str,
+    team_b: str,
+    kickoff: str,
+    fotmob_kickoffs: dict[frozenset, list[pd.Timestamp]],
+) -> pd.DataFrame:
+    """Return only rows knowable before kickoff, with the target forced out."""
+    frame = fbref_full.copy()
+    frame["_date"] = pd.to_datetime(frame["date"], errors="coerce")
+
+    kickoff_ts = _to_naive_utc(kickoff)
+    cutoff_day = kickoff_ts.normalize()
+
+    canon = v51.v11.canon_team
+    target_a = canon(team_a)
+    target_b = canon(team_b)
+    home = frame["home_team"].map(canon)
+    away = frame["away_team"].map(canon)
+    same_pair = ((home == target_a) & (away == target_b)) | (
+        (home == target_b) & (away == target_a)
+    )
+    near_target_day = (frame["_date"] - cutoff_day).abs() <= pd.Timedelta(days=1)
+    target_mask = same_pair & near_target_day
+
+    # The target mask only works if canon_team maps FotMob and FBref
+    # spellings to the same string. When the FBref snapshot covers the
+    # kickoff date it must contain the target row, so finding none means
+    # name-canonicalization drift -- exactly the failure mode that would
+    # let the target's own result leak (FBref dates late-evening US
+    # kickoffs the previous local day, inside the < cutoff_day window).
+    if not bool(target_mask.any()) and frame["_date"].max() >= cutoff_day:
+        raise AssertionError(
+            f"no FBref row canon-matched target {team_a} vs {team_b} at {kickoff}; "
+            "TEAM_ALIASES is missing a spelling variant and the target result would leak"
+        )
+
+    # A row dated the day before cutoff_day can still be a match that kicked
+    # off AFTER the target (staggered 01:00-04:00Z kickoffs dated the previous
+    # local day) or was still in progress at the target's kickoff, so drop
+    # rows whose FotMob kickoff isn't at least one full match duration before
+    # the target's (3h30m covers extra time and penalties). Rows with no
+    # FotMob match fall back to the date rule alone.
+    finished_by = kickoff_ts - pd.Timedelta(hours=3, minutes=30)
+    unknown_at_kickoff = []
+    for h, a, d in zip(home, away, frame["_date"]):
+        candidates = fotmob_kickoffs.get(frozenset((h, a)), [])
+        matched = [ko for ko in candidates if pd.notna(d) and abs(ko.normalize() - d) <= pd.Timedelta(days=1)]
+        unknown_at_kickoff.append(any(ko > finished_by for ko in matched))
+    unknown_at_kickoff = pd.Series(unknown_at_kickoff, index=frame.index)
+
+    safe = frame[(frame["_date"] < cutoff_day) & ~target_mask & ~unknown_at_kickoff].copy()
+    return safe.drop(columns=["_date"])
+
+
 def load_all_matches() -> list[dict]:
     df = pd.read_csv("data/fotmob_match_facts_clean.csv")
     df = df.dropna(subset=["home_score", "away_score"]).copy()
@@ -86,14 +175,25 @@ def load_all_matches() -> list[dict]:
     return matches
 
 
-def evaluate_one(team_a: str, team_b: str, final_score: str, kickoff: str, is_knockout: bool) -> dict:
+def evaluate_one(
+    team_a: str,
+    team_b: str,
+    final_score: str,
+    kickoff: str,
+    is_knockout: bool,
+    fotmob_kickoffs: dict[frozenset, list[pd.Timestamp]],
+) -> dict:
     ga, gb = (int(x) for x in final_score.split("-"))
     actual_result = result_label(ga, gb)
 
     fbref_full = pd.read_csv("data/fbref_world_cup_matches.csv")
-    fbref_full["_date"] = pd.to_datetime(fbref_full["date"])
-    cutoff = pd.Timestamp(kickoff).tz_convert(None).normalize()
-    fbref_safe = fbref_full[fbref_full["_date"] < cutoff].drop(columns=["_date"])
+    fbref_safe = prior_fbref_world_cup_rows(
+        fbref_full,
+        team_a=team_a,
+        team_b=team_b,
+        kickoff=kickoff,
+        fotmob_kickoffs=fotmob_kickoffs,
+    )
 
     safe_csv = TMP_DIR / f"fbref_wc_before_{team_a}_{team_b}_{kickoff}.csv".replace(" ", "_").replace(":", "-")
     fbref_safe.to_csv(safe_csv, index=False)
@@ -155,10 +255,16 @@ def main() -> None:
           f"({sum(not m['is_knockout'] for m in matches)} group-stage, "
           f"{sum(m['is_knockout'] for m in matches)} knockout)")
 
+    fotmob_kickoffs = load_fotmob_kickoffs()
+
     results = []
     with ThreadPoolExecutor(max_workers=WORKERS) as pool:
         futures = {
-            pool.submit(evaluate_one, m["team_a"], m["team_b"], m["final_score"], m["kickoff"], m["is_knockout"]): i
+            pool.submit(
+                evaluate_one,
+                m["team_a"], m["team_b"], m["final_score"], m["kickoff"], m["is_knockout"],
+                fotmob_kickoffs,
+            ): i
             for i, m in enumerate(matches)
         }
         for future in as_completed(futures):
